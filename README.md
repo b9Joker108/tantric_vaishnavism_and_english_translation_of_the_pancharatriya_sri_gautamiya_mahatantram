@@ -1,1 +1,1 @@
-This is a second catchment of all my diverse and my somewhat delightfully unkempt work from Medium.com on the Pancharatra and prep work for an English rendering of the Pancharatriya *Sri Gautamiya Mahatantram*. I will endeavour to manually update both sites in due course.
+This is the second catchment of all my diverse and somewhat delightfully unkempt and assortwd work from Medium.com on the Pancharatra and prep work for an English rendering of the Pancharatriya *Sri Gautamiya Mahatantram*. I will endeavour to manually update both sites in due course.
