@@ -17,3 +17,38 @@ by Beauford A. Stenberg
 **Purport:**<br>
 This item is the fourth of five volumes of a suite. The first volume of which, is my principal secondary resource. It took me circa three (3) weeks of solid work of protracted research and endeavour to realise it. It was not been cited in any work I have so far read. The first volume out of five (5), is effectively a monograph on the Pancharatra as a class. It is the first substantive monographic work on the topic in English, that I have secured. As such, I cherish it greatly as my guiding light and I am actually unwrapping it ever-so-slowly, savouring and integrating each sip of the nectarine elixir and fully digesting it, before progressing. Actually, before fully progressing my study of this work and progressing with the Gautamiya Mahatantram translation, I have somewhat been seduced into translating an emic Hindi work on Vaishnava Tantra, geared towards academically oriented to the cohort of the young adult Vaishnava, but is of course useful for those outside this cohort, as an entry into the topic, and the doctrine and sadhana proper, which it treates. I actually anticipate, that I will progress the translations incrementally in tandem. NB: Beauford, reference and file the other four (4) volumes.
 
+# L #
+
+...
+
+# M #
+
+...
+
+# N #
+
+...
+
+# O #
+
+...
+
+# P #
+
+...
+
+# Q #
+
+...
+
+
+...
+
+# V #
+
+### VEERARGAVAN, A. ###
+
+Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
+
+**Purport:**
+...
