@@ -1,3 +1,5 @@
+![Diagram of workflow](docs/workflow.png "Workflow overview")
+
 # Annotated Bibliography (3B: L - Z) of the English translation of the 'Gautamiya Samhita' or 'Gautamiya Mahatantram', a Vaishnava Tantric Pancharatra Agama, with extensive Frontmatter & Introduction #
 
 by Beauford A. Stenberg
