@@ -68,7 +68,45 @@ This item is the fourth of five volumes of a suite. The first volume of which, i
 **Purport:**<br>
 This work has the first publishing of an essay that I needsmust secure: Vaudeville, Charlotte (1975). 'The Cowherd God in Ancient India'. It has received the second publishing in another work, which has also received a second printing: Vaudeville & Dalmia (1999, 1996). As of July 2, 2025, I have secured a copy of Leshnik & Sontheimer (1975) and thereby, Vaudeville (1975).
 
+### LESLIE, JR.; D. ###
 
+* Leslie, Jr.; David M. (2010). 'Procapra picticaudata (Artiodactyla; Bovidae) \[Tibetan gazelle, goa]' (pp. 138–148) in *Mammalian Species*, Vol. 42, Issue 86, 2010. New York, N. Y., U. S. A.: American Society of Mammalogists. Source: https://archive.org/details/leslie-jr.-david-m.-2010.-procapra-picticaudata-artiodactyla-bovidae-tibetan-gazelle-goa (accessed: Thursday, June 27, 2024)
+
+**Purport:**<br>
+This article is the synthesis and digest of a vast number of sources, which it cites.
+
+### LESTER, R. ###
+
+* Lester, Robert C. (1994). 'The Sattada Sri-Vaishnavas' (pp. 39–53) in the *Journal of the American Oriental Society*, Vol. 114, №1, Jan. - Mar., 1994. Ann Arbor, Michigan, U. S. A.: American Oriental Society. Source: https://archive.org/details/lester-robert-c.-1994.-the-sattada-sri-vaishnavas (accessed: Friday, September 13, 2024)
+
+**Purport:**<br>
+As soon as I saw "sāttāda", my intuition told me it was a Romanised Tamilization with diacritics, of the Sanskrit "sātvata" or "sāttvata". On reading the article, Lester surrenders this point, but only in passing.
+
+### LIDKE, J. ***
+
+Lidke, Jeffrey (2014). 'Transcendental Devotion (anuttara-bhakti): The Recognition of Deity as Self in the Nondual Tantra of Abhinavagupta'. Paper to be read at the 12th Annual DANAM Conference, November 22, 2014, San Diego, California. Unpublished draft. Source: xxx
+
+**Purport:**<br>
+...
+
+Lidke, Jeffrey S. (2016). 'A Thousand Years of Abhinavagupta' in *Sutra Jounal [online]*, January, 2016. Source: http://www.sutrajournal.com/a-thousand-years-of-abhinavagupta-by-jeffrey-lidke (accessed: Friday, July 12, 2024). Source: https://archive.org/details/lidke-jeffrey-s.-2016.-a-thousand-years-of-abhinavagupta (accessed: Friday, July 12, 2024)
+
+**Purport:**<br>
+...
+
+### Li, M. ###
+
+* Li, Mengyan (2018). 'Origination, Transmission, and Reception of the Phur-pa Cycle: A Study of the rDo-rje-phur-pa Cycle of Tantric Teachings in Tibet with Special Reference to Sog-bzlog-pa Blo-gros-rgyal-mtshan's (1552–1624) Phur pa'i lo rgyus'. Dissertation for the Doctor of Philosophy in Tibetology at the Faculty of Humanities (South Asian Studies). Hamburg, Germany: University of Hamburg. Source: https://archive.org/details/li-mengyan-2018.-origination-transmission-and-reception-of-the-phur-pa-cycle-a-s (accessed: Monday, June 17, 2024)
+
+**Purport:**<br>
+This work is definitely informed by the vast amount of work and citations, I uploaded and published in English Wikipedia, from a number of articles, but particularly the now renamed and defunct English Wikipedia article that I inaugurated, populated and cited, and named 'Kīlā (Sanskrit)', later changed by others to 'Buddhism', which I disagreed with. Even Boord personally contributed to the article, amongst other Tibetologists and Sanskritists. This dissertation even utilises some of my specific terms of phrase, unattributed. My writing and referencing style is idiosyncratic and distinctive. Especially, when my writing is decidedly polished, through much toil. I consider myself a jeweller. I write, often spontaneously. Then, slowly, meticulously, painstakingly and methodologically: facet, filigree, and fashion cabochons and cameos of concept and language. I find it annoying and disconcerting, that some scholars, such as Li, feel they do not need to cite Wikipedia, when their work has drawn and benefited extensively from it. I feel, and it is my concerted opinion, that the time has long since passed when Academia and the bastions of scholarship, could deprecate and disparage the contribution of the suite of Wikimedia projects, and all those (mostly) anonymous, selfless, contributions, of mostly non-academically trained, non-professionals, to iterate and inform global discourse, knowledge and information dissemination, and the subsequent leavening of the global scholarship of Academia and institutional pedagogy and traditions of scholarship. The Wikimedia projects and their synthesis and showcase of human knowledges and discourse confluence, has profoundly altered the 'Human Condition' and 'The Spirit of the Age', since its inception. Well, this position, I tender, proffer and defend.
+
+### LINDER, S. ###
+
+* Linder, Silvia Schwarz (2012). 'The Philosophical and Theological Teachings of the Padma-Samhita'. Ph.D. dissertation. Vienna, Austria: 'University of Vienna' \[German: Universitat Wien]'. Source: https://archive.org/details/linder-silvia-schwarz-2012.-the-philosophical-and-theological-teachings-of-the-padma-samhita (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+"This dissertation deals with the Pādmasamhitā (PādS), a Sanskrit work of South Indian origin, belonging to the Pāñcarātra, composed between the XII and XIII century A. D.. Information about the period and features of composition of the work, its structure and contents is given in the Introduction of the dissertation; methodological issues and the chief results of the research are also therein discussed. The first part is devoted to philosophical and theological teachings of the PādS. The chapter on the doctrine of God deals with the concept of the threefold manifestation (i.e. the Highest Vāsudeva, puruşa and prakŗti) of the Supreme Being, which is influenced by Yādavaprakāśa's idea of the unfolding of brahman in its three manifestations (aņśa); the relational aspect of the godhead, concretized in the presence of God in meditation and ritual worship, is elucidated. The chapter on the individual soul deals with the origination of the jīva-s, their involvement in saņsāra and their striving after emancipation. The chapter on the doctrine of liberation illustrates both the concept of mukti as union between individual souls and Supreme Soul, and the idea of a fourfold liberation. The second part is devoted to yoga. The first two chapters discuss problems concerning the text and structure of the yogapāda and reassess the idea of the "limbs" of yoga. In the third and fourth chapter some elements of subtle physiology, together with certain psycho-physical practices of the yogin are illustrated. The last chapter, devoted to the religious dimension of yoga, discusses the following: the function of the yogic disciplines in the yoga-permeated ritual system of the PādS; the importance of yogic meditation (dhyāna) in religious life and spiritual experiences of the devotee; the ritual practice of yogic suicide as a means of hastening final emancipation."
 
 # M #
 
