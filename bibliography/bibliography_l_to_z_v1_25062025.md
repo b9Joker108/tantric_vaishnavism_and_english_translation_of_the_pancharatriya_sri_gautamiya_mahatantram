@@ -127,6 +127,18 @@ This is a premier monograph on the *Sri Padma Samhita* of the Pancharatra tradit
 **Purport:**<br>
 ...
 
+### LoBUE, E. ###
+
+* LoBue, Erberto (1981). 'Himalayan Sculpture in the 20th Century: A Study of the Religious Statuary in Metal and Clay of the Nepal Valley and Ladakh'. Thesis. London, England, U. K.: School of Oriental and African Studies (SOAS) (University of London). Source: https://archive.org/details/lo-bue-erberto-1981.-himalayan-sculpture...-20th-century-...-religious-statuary. (accessed: Thursday, July 25, 2024)
+
+**Purport:**<br>
+...
+
+* LoBue, Erberto (1997). 'The Role of Newar Scholars in Transmitting the Indian Buddhist Heritage to Tibet' (pp. 629–658) in Karmay, Samten G. & Sagant, Philippe (eds.) (1997). *Les habitants du toit du monde: etudes recueillies en hommage a Alexander W. Macdonald*. Recherches sur la Haute Asie Vol. 12. Text in French and English. Nanterre: Société d'ethnologie. ISBN 9782901161493.
+
+**Purport:**<br>
+It has been digitised and is a part of the HathiTrust Digital Library as of 2010.
+
 # M #
 
 ...
