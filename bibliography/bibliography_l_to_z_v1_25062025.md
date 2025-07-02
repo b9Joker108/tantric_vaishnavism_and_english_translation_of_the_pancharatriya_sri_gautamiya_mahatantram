@@ -55,7 +55,9 @@ This item is the fourth of five volumes of a suite. The first volume of which, i
 
 # W #
 
-* Wong, Lucian Sardella & Sardella, Ferdinando (auths.) (2020). 'Vaishnavism in Colonial Bengal: Beyond the Hindu Renaissance' (pp. 1 - 15) in Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+### WONG, L.; *et al.* ###
+
+* Wong, Lucian & Sardella, Ferdinando (auths.) (2020). 'Vaishnavism in Colonial Bengal: Beyond the Hindu Renaissance' (pp. 1 - 15) in Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
 **Purport:**
 ...
