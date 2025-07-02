@@ -1,3 +1,6 @@
+<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+<div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ सरस्वत्यै नमः ༽ ༻</div>
+
 ![Diagram of workflow](docs/workflow.png "Workflow overview")
 
 # Annotated Bibliography (3B: L - Z) of the English translation of the 'Gautamiya Samhita' or 'Gautamiya Mahatantram', a Vaishnava Tantric Pancharatra Agama, with extensive Frontmatter & Introduction #
