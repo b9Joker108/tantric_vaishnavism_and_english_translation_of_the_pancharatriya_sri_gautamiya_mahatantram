@@ -16,7 +16,7 @@
 
 ### BHATIA, V. ###
 
-Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+* Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
 **Purport:**
 
@@ -48,7 +48,7 @@ Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp.
 
 ### HENRION-DOURCY, I. ###
 
-Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
+* Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
 
 **Purport:**
 ...
