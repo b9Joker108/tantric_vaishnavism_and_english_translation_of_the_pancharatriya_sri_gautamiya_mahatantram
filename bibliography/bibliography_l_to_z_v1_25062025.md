@@ -84,12 +84,12 @@ As soon as I saw "sāttāda", my intuition told me it was a Romanised Tamilizati
 
 ### LIDKE, J. ***
 
-Lidke, Jeffrey (2014). 'Transcendental Devotion (anuttara-bhakti): The Recognition of Deity as Self in the Nondual Tantra of Abhinavagupta'. Paper to be read at the 12th Annual DANAM Conference, November 22, 2014, San Diego, California. Unpublished draft. Source: xxx
+* Lidke, Jeffrey (2014). 'Transcendental Devotion (anuttara-bhakti): The Recognition of Deity as Self in the Nondual Tantra of Abhinavagupta'. Paper to be read at the 12th Annual DANAM Conference, November 22, 2014, San Diego, California. Unpublished draft. Source: xxx
 
 **Purport:**<br>
 ...
 
-Lidke, Jeffrey S. (2016). 'A Thousand Years of Abhinavagupta' in *Sutra Jounal [online]*, January, 2016. Source: http://www.sutrajournal.com/a-thousand-years-of-abhinavagupta-by-jeffrey-lidke (accessed: Friday, July 12, 2024). Source: https://archive.org/details/lidke-jeffrey-s.-2016.-a-thousand-years-of-abhinavagupta (accessed: Friday, July 12, 2024)
+* Lidke, Jeffrey S. (2016). 'A Thousand Years of Abhinavagupta' in *Sutra Jounal [online]*, January, 2016. Source: http://www.sutrajournal.com/a-thousand-years-of-abhinavagupta-by-jeffrey-lidke (accessed: Friday, July 12, 2024). Source: https://archive.org/details/lidke-jeffrey-s.-2016.-a-thousand-years-of-abhinavagupta (accessed: Friday, July 12, 2024)
 
 **Purport:**<br>
 ...
@@ -137,7 +137,28 @@ This is a premier monograph on the *Sri Padma Samhita* of the Pancharatra tradit
 * LoBue, Erberto (1997). 'The Role of Newar Scholars in Transmitting the Indian Buddhist Heritage to Tibet' (pp. 629–658) in Karmay, Samten G. & Sagant, Philippe (eds.) (1997). *Les habitants du toit du monde: etudes recueillies en hommage a Alexander W. Macdonald*. Recherches sur la Haute Asie Vol. 12. Text in French and English. Nanterre: Société d'ethnologie. ISBN 9782901161493.
 
 **Purport:**<br>
-It has been digitised and is a part of the HathiTrust Digital Library as of 2010.
+It has been digitised and is a part of the HathiTrust Digital Library as of 2010. I have not yet been able to secure a copy of this article.
+
+### LOCHTEFELD, J. ###
+
+* Lochtefeld, James G. (2002). 'The Illustrated Encyclopedia of Hinduism'. First edition. (Note: Two volumes in one.). New York, N. Y., U. S. A.: The Rosen Publishing Group, Inc. ISBN 0823922871 (set). Source: https://archive.org/details/lochtefeld-james-g.-2002.-the-illustrated-encyclopedia-of-hinduism (accessed: Monday, September 02, 2024)
+
+**Purport:**<br>
+...
+
+### LOKESWARANANDA ###
+
+* Lokeswarananda, Swami (ed.) (1989). 'Studies on the Tantras'. Gol Park, Calcutta, West Bengal, India: The Ramakrishna Mission Institute of Culture. Source: https://archive.org/details/RamakrishnaMissionStudiesOnTheTantras (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
+This is an excellent volume of quality material.
+
+### LONG, J.; *et al.* ###
+
+* Long, Jeffery D.; Sherma, Rita D.; Jain, Pankaj & Khanna, Madhu (eds.) (2022). 'Hinduism and Tribal Religions'. Encyclopedia of Indian Religions series. Dordrecht,The Netherlands: Springer. ISBN 9789402411881 (ebook). Source: xxx
+
+**Purport:**<br>
+...
 
 # M #
 
