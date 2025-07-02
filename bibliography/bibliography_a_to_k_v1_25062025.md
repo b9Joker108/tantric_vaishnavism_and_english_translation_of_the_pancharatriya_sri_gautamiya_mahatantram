@@ -46,6 +46,13 @@ Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp.
 
 # H #
 
+### HENRION-DOURCY, I. ###
+
+Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
+
+**Purport:**
+...
+
 ### HOPKINS, S. ###
 
 * Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
