@@ -35,9 +35,26 @@ by Beauford A. Stenberg
 **Purport:**<br>
 This item is the fourth of five volumes of a suite. The first volume of which, is my principal secondary resource. It took me circa three (3) weeks of solid work of protracted research and endeavour to realise it. It was not been cited in any work I have so far read. The first volume out of five (5), is effectively a monograph on the Pancharatra as a class. It is the first substantive monographic work on the topic in English, that I have secured. As such, I cherish it greatly as my guiding light and I am actually unwrapping it ever-so-slowly, savouring and integrating each sip of the nectarine elixir and fully digesting it, before progressing. Actually, before fully progressing my study of this work and progressing with the Gautamiya Mahatantram translation, I have somewhat been seduced into translating an emic Hindi work on Vaishnava Tantra, geared towards academically oriented to the cohort of the young adult Vaishnava, but is of course useful for those outside this cohort, as an entry into the topic, and the doctrine and sadhana proper, which it treates. I actually anticipate, that I will progress the translations incrementally in tandem. NB: Beauford, reference and file the other four (4) volumes.
 
+### LARSON, G.; *et al.* ###
 
+* Larson, Gerald James & Bhattacharya, Ram Shankar (eds.) (1987). 'Samkhya: A Dualist Tradition in Indian Philosophy'. Encyclopedia of Indian Philosophies Vol. 4. Jawahar Nagar, Delhi, India: Motilal Banarsidass. ISBN 8120803116 (Vol. 4)
 
-...
+**Purport:**<br>
+…
+
+### LAWRENCE, D. ###
+
+Lawrence, David Peter (1992). 'Argument and the Recognition of Shiva: The Philosophical Theology of Utpaladeva and Abhinavagupta'. Dissertation. The Faculty of the Divinity School. Chicago, Illinois, U. S. A.: The University of Chicago. Source: https://archive.org/details/argumentrecognitionofsivaphilosophicaltheologyofutpaladevaandabhinavaguptadavidpeterlawrencethe_540_H (accessed: Friday, July 12, 2024)
+
+**Purport:**<br>
+…
+
+### LEACH, R. ### 
+
+Leach, Robert (2012). 'Textual Traditions and Religious Identities in the Pancharatra'. Edinburgh, Scotland, U. K.: The University of Edinburgh. Source: xxx
+
+**Purport:**<br>
+…
 
 # M #
 
