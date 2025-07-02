@@ -6,6 +6,14 @@
 
 # B #
 
+### BHATIA, V. ###
+
+Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+
+**Purport:**
+
+...
+
 ...
 
 # C #
