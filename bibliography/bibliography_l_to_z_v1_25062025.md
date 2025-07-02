@@ -49,14 +49,14 @@ This item is the fourth of five volumes of a suite. The first volume of which, i
 
 ### SARDELLA, F.; *et al.* ###
 
-Sardella, Ferdinando & Wong, Lucian (eds.) (2020). 'The Legacy of Vaishnavism in Colonial Bengal'. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+* Sardella, Ferdinando & Wong, Lucian (eds.) (2020). 'The Legacy of Vaishnavism in Colonial Bengal'. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
 **Purport:**
 ...
 
 ### SEN, A.; *et al.* ###
 
-Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33 - 56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+* Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33 - 56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
 **Purport:**
 ...
