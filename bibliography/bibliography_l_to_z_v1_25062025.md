@@ -161,12 +161,7 @@ It has been digitised and is a part of the HathiTrust Digital Library as of 2010
 
 # R #
 
-### ROSCOE, B. ###
 
-* Roscoe, Brett Trevor (2014). 'Sagacious Liminality: The Boundaries of Wisdom in Old English and Old Norse-Icelandic Literature'. Dissertation. PhD (Philosophy). Graduate Program in English Language and Literature. Kingston, Ontario, Canada: Queen’s University.  
-
-**Purport:**
-...
 
 ...
 
