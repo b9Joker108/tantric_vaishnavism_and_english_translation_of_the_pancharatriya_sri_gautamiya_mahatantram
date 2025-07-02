@@ -66,7 +66,7 @@ This item is the fourth of five volumes of a suite. The first volume of which, i
 * Leshnik, Lawrence Saadia & Sontheimer, Günther-Dietz (eds.) (1975). 'Pastoralists and Nomads in South Asia'. Weisbaden, Hesse, Germany: Otto Harrassowitz. ISBN 9783447015523.
 
 **Purport:**<br>
-This work has the first publishing of an essay that I needsmust secure: Vaudeville, Charlotte (1975). 'The Cowherd God in Ancient India'. It has received the second publishing in another work, which has also received a second printing: Vaudeville & Dalmia (1999, 1996).
+This work has the first publishing of an essay that I needsmust secure: Vaudeville, Charlotte (1975). 'The Cowherd God in Ancient India'. It has received the second publishing in another work, which has also received a second printing: Vaudeville & Dalmia (1999, 1996). As of July 2, 2025, I have secured a copy of Leshnik & Sontheimer (1975) and thereby, Vaudeville (1975).
 
 
 
