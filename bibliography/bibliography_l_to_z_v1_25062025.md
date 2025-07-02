@@ -11,7 +11,7 @@ Four-armed Shrimati Sarasvati (c. 10th - 11th century), image by The Walters Art
 
 # Annotated Bibliography (3B: L - Z) of the English translation of the 'Gautamiya Samhita' or 'Gautamiya Mahatantram', a Vaishnava Tantric Pancharatra Agama, with extensive Frontmatter & Introduction #
 
-by Beauford A. Stenberg
+by Sri Nagahari-dasa a.k.a. Beauford A. Stenberg
 
 **Note:** The (1A & 1B): Frontmatter and extensive Introduction and Survey-of-the- Field the (2A & 2B): Sanskrit original and Hindi commentary, along with annotations, English translation, analysis and commentary, will be complemented by (3A: A - K & 3B: L -Z): this Annotated Bibliography. All three (3) will be progressively and incrementally published in Medium separately, as complimentary living documents, due to publication number-of-word restrictions per published page, according to Medium (online) Webmaster's site policy and the electronic medium, proper. I may also institute (4): An Index of sorts, to collectively house a Table-of-Contents (TOC), and hypertext linkages, to assist ease of electronic navigation and wayfinding, for my audience. I have resolved not to place this work behind a paywall. That said, I reserve the right to review that determination in future, once the work has been well-progressed and well onway to realisation.
 
@@ -107,6 +107,25 @@ This work is definitely informed by the vast amount of work and citations, I upl
 
 **Purport:**<br>
 "This dissertation deals with the Pādmasamhitā (PādS), a Sanskrit work of South Indian origin, belonging to the Pāñcarātra, composed between the XII and XIII century A. D.. Information about the period and features of composition of the work, its structure and contents is given in the Introduction of the dissertation; methodological issues and the chief results of the research are also therein discussed. The first part is devoted to philosophical and theological teachings of the PādS. The chapter on the doctrine of God deals with the concept of the threefold manifestation (i.e. the Highest Vāsudeva, puruşa and prakŗti) of the Supreme Being, which is influenced by Yādavaprakāśa's idea of the unfolding of brahman in its three manifestations (aņśa); the relational aspect of the godhead, concretized in the presence of God in meditation and ritual worship, is elucidated. The chapter on the individual soul deals with the origination of the jīva-s, their involvement in saņsāra and their striving after emancipation. The chapter on the doctrine of liberation illustrates both the concept of mukti as union between individual souls and Supreme Soul, and the idea of a fourfold liberation. The second part is devoted to yoga. The first two chapters discuss problems concerning the text and structure of the yogapāda and reassess the idea of the "limbs" of yoga. In the third and fourth chapter some elements of subtle physiology, together with certain psycho-physical practices of the yogin are illustrated. The last chapter, devoted to the religious dimension of yoga, discusses the following: the function of the yogic disciplines in the yoga-permeated ritual system of the PādS; the importance of yogic meditation (dhyāna) in religious life and spiritual experiences of the devotee; the ritual practice of yogic suicide as a means of hastening final emancipation."
+
+* Linder, Silvia Schwarz (2014). 'The Philosophical and Theological Teachings of the Padmasamhita'. (In English, but all bibliographic details are in German.). 'Austrian Academy of Sciences, Philosophical-Historical Class, Proceedings, Volume 853 \[German: Österreichische Akademie der Wissenschaften Philosophisch-Historische Klasse sitzungsberichte, 853.]'. 'Contributions to the Cultural and Intellectual History of Asia, №82 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens Nr. 82.]'. Vienna \[German: Wien], Austria: 'Austrian Academy of Sciences Press \[German: Österreichische Akademie der Wissenschaften]'. ISBN 9783700175520. Source: https://archive.org/details/linder-silvia-schwarz-2014.-the-philosophical-and-theological-teachings-of-the-padmasamhita (accessed: Saturday, July 27, 2024)
+
+**Purport:**<br>
+This is a premier monograph on the *Sri Padma Samhita* of the Pancharatra tradition. It has undergone anonymous international peer review.
+
+### LINGPA, J.; *et al* ###
+
+* Lingpa, Jigme (auth.) & Gyatso, Janet (trans.) (1998). 'Apparitions of the Self: The Secret Autobiographies of a Tibetan Visionary; A Translation and Study of Jigme Lingpa's Dancing Moon in the Water \[Tibetan: གསང་བ་ཆེན་པོ་ཉམས་སྣང་གི་རྟོགས་བརྗོད་ཆུ་ཟླའི་གར་མཁན་; Wylie: gsang ba chen po nyams snang gi rtogs brjod chu zla'i gar mkhan] and Dakki's Grand Secret Talk \[Tibetan: ཀློང་ཆེན་སྙིང་ཐིག་ལེའི་རྟོགས་པ་བརྗོད་པ་དཀའ་འཁྲུལ་གསང་བཏམ་ཆེན་མོ་; Wylie: klong chen snying thig le'i rtogs pa brjod pa dAkki'i gsang gtam chen mo]'. Princeton, New Jersey, U. S. A.: Princeton University Press. ISBN 0691011109 (cloth: alk. paper). Source: xxx
+
+**Purport:**<br>
+...
+
+### LITVINSKY, B. ###
+
+* Litvinsky, B. A.; Guang-da, Zhang & Samghabadi, R. Shabani (eds.) (1996). 'The History of Civilizations of Central Asia Vol. 3 - The Crossroads of Civilization: A.D. 250–750'. Multiple History Series. With s Preface by Federico Mayor. Paris, France: UNESCO Publishing (United Nations Educational, Scientific & Cultural Organization). ISBN 9231032119. Source: https://archive.org/details/HistoryOfCivilizationsOfCentralAsia (accessed: Monday, September 09, 2024)
+
+**Purport:**<br>
+...
 
 # M #
 
