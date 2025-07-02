@@ -56,6 +56,11 @@ Leach, Robert (2012). 'Textual Traditions and Religious Identities in the Pancha
 **Purport:**<br>
 …
 
+Leach, Robert (2019). 'Renegotiating Ritual Identities: Blurred Boundaries Between Pancharatra Ritual Communities in South India' (pp. 107–135) in Mirnig, Nina; Rastelli, Marion & Eltschinger, Vincent (eds.) (2019). *Tantric Communities in Context*. 'Austrian Academy of Sciences \[German: Österreichische Akademie der Wissenschaften]'. 'Philosophical-Historical Class, Proceedings, Vol. 899 \[German: Philosophisch-Historische Klasse Sitzungsberichte, 899]'. 'Contributions to the Cultural and Intellectual History of Asia, №99 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens, Nr. 99]'. 'Edited by the Institute for Cultural and Intellectual History of Asia under the direction of Birgit Kellner \[German: Herausgegeben vom Institut für Kultur- und Geistesgeschichte Asiens unter der Leitung von Birgit Kellner]'. Vienna, Austria: Austrian Academy of Sciences Press \[German: Osterreichische Akademie der Wissenschaften]. (Note: In English, though bibliographic details are in German.). ISBN 9783700183785. Source: https://archive.org/details/mirnig-nina-rastelli-marion-eltschinger-vincent-eds.-2019.-tantric-communities-in-context (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+…
+
 # M #
 
 ...
