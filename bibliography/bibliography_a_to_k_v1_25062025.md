@@ -1,4 +1,4 @@
-![Diagram of workflow](docs/workflow.png "Workflow overview")
+![Diagram of workflow](assets/images/b69_rajam_ful.jpg "Workflow overview")
 
 
 # A #
