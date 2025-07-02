@@ -1,3 +1,6 @@
+<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+<div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ सरस्वत्यै नमः ༽ ༻</div>
+
 <figure>
   <img src="../assets/images/b69_rajam_ful.jpg" alt="Dancing Four-Armed Sri Sarasvati" />
   <figcaption>
