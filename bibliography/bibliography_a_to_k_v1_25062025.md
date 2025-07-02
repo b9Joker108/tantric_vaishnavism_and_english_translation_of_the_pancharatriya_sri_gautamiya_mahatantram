@@ -1,4 +1,4 @@
-
+![Diagram of workflow](docs/workflow.png "Workflow overview")
 
 
 # A #
