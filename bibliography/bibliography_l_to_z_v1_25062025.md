@@ -181,6 +181,13 @@ It has been digitised and is a part of the HathiTrust Digital Library as of 2010
 **Purport:**
 ...
 
+### STUTLEY, M. ###
+
+Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
+
+**Purport:**
+...
+
 # T #
 
 ...
