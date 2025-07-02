@@ -28,7 +28,7 @@ by Beauford A. Stenberg
 **Purport:**<br>
 …
 
-### Lakshmithathachar, M.; *et al.* ###
+### LAKSHMITHATHACHAR, M.; *et al.* ###
 
 * Lakshmithathachar, M. A. (ed. & trans.) & Varadachari, V. (rev.) (2009). 'Ishvarasamhita: Critically Edited and Translated in Five Volumes - Vol. IV, (Chapters XIX - XXIII)'. Sanskrit set in Devanagari with English translation. Set of five (5) volumes. Janpanth, New Delhi, India: Indira Gandhi National Centre for the Arts in association with Jagawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 9788120832169 (Set). ISBN 9788120832006 (Vol. IV). Source: https://archive.org/details/isvarasamhita04sanskritengtranslbyvvaradachariandgtripathi (accessed: Tuesday, June 25, 2024)<br>
 
