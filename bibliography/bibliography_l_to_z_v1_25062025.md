@@ -44,22 +44,31 @@ This item is the fourth of five volumes of a suite. The first volume of which, i
 
 ### LAWRENCE, D. ###
 
-Lawrence, David Peter (1992). 'Argument and the Recognition of Shiva: The Philosophical Theology of Utpaladeva and Abhinavagupta'. Dissertation. The Faculty of the Divinity School. Chicago, Illinois, U. S. A.: The University of Chicago. Source: https://archive.org/details/argumentrecognitionofsivaphilosophicaltheologyofutpaladevaandabhinavaguptadavidpeterlawrencethe_540_H (accessed: Friday, July 12, 2024)
+* Lawrence, David Peter (1992). 'Argument and the Recognition of Shiva: The Philosophical Theology of Utpaladeva and Abhinavagupta'. Dissertation. The Faculty of the Divinity School. Chicago, Illinois, U. S. A.: The University of Chicago. Source: https://archive.org/details/argumentrecognitionofsivaphilosophicaltheologyofutpaladevaandabhinavaguptadavidpeterlawrencethe_540_H (accessed: Friday, July 12, 2024)
 
 **Purport:**<br>
 …
 
 ### LEACH, R. ### 
 
-Leach, Robert (2012). 'Textual Traditions and Religious Identities in the Pancharatra'. Edinburgh, Scotland, U. K.: The University of Edinburgh. Source: xxx
+* Leach, Robert (2012). 'Textual Traditions and Religious Identities in the Pancharatra'. Edinburgh, Scotland, U. K.: The University of Edinburgh. Source: xxx
 
 **Purport:**<br>
 …
 
-Leach, Robert (2019). 'Renegotiating Ritual Identities: Blurred Boundaries Between Pancharatra Ritual Communities in South India' (pp. 107–135) in Mirnig, Nina; Rastelli, Marion & Eltschinger, Vincent (eds.) (2019). *Tantric Communities in Context*. 'Austrian Academy of Sciences \[German: Österreichische Akademie der Wissenschaften]'. 'Philosophical-Historical Class, Proceedings, Vol. 899 \[German: Philosophisch-Historische Klasse Sitzungsberichte, 899]'. 'Contributions to the Cultural and Intellectual History of Asia, №99 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens, Nr. 99]'. 'Edited by the Institute for Cultural and Intellectual History of Asia under the direction of Birgit Kellner \[German: Herausgegeben vom Institut für Kultur- und Geistesgeschichte Asiens unter der Leitung von Birgit Kellner]'. Vienna, Austria: Austrian Academy of Sciences Press \[German: Osterreichische Akademie der Wissenschaften]. (Note: In English, though bibliographic details are in German.). ISBN 9783700183785. Source: https://archive.org/details/mirnig-nina-rastelli-marion-eltschinger-vincent-eds.-2019.-tantric-communities-in-context (accessed: Friday, August 23, 2024)
+* Leach, Robert (2019). 'Renegotiating Ritual Identities: Blurred Boundaries Between Pancharatra Ritual Communities in South India' (pp. 107–135) in Mirnig, Nina; Rastelli, Marion & Eltschinger, Vincent (eds.) (2019). *Tantric Communities in Context*. 'Austrian Academy of Sciences \[German: Österreichische Akademie der Wissenschaften]'. 'Philosophical-Historical Class, Proceedings, Vol. 899 \[German: Philosophisch-Historische Klasse Sitzungsberichte, 899]'. 'Contributions to the Cultural and Intellectual History of Asia, №99 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens, Nr. 99]'. 'Edited by the Institute for Cultural and Intellectual History of Asia under the direction of Birgit Kellner \[German: Herausgegeben vom Institut für Kultur- und Geistesgeschichte Asiens unter der Leitung von Birgit Kellner]'. Vienna, Austria: Austrian Academy of Sciences Press \[German: Osterreichische Akademie der Wissenschaften]. (Note: In English, though bibliographic details are in German.). ISBN 9783700183785. Source: https://archive.org/details/mirnig-nina-rastelli-marion-eltschinger-vincent-eds.-2019.-tantric-communities-in-context (accessed: Friday, August 23, 2024)
 
 **Purport:**<br>
 …
+
+### LESHNIK, L.; *et al.* ###
+
+* Leshnik, Lawrence Saadia & Sontheimer, Günther-Dietz (eds.) (1975). 'Pastoralists and Nomads in South Asia'. Weisbaden, Hesse, Germany: Otto Harrassowitz. ISBN 9783447015523.
+
+**Purport:**<br>
+This work has the first publishing of an essay that I needsmust secure: Vaudeville, Charlotte (1975). 'The Cowherd God in Ancient India'. It has received the second publishing in another work, which has also received a second printing: Vaudeville & Dalmia (1999, 1996).
+
+
 
 # M #
 
