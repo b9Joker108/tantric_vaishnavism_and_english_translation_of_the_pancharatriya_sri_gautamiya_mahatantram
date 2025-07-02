@@ -19,6 +19,8 @@ by Beauford A. Stenberg
 
 ## Annotated Bibliography ##
 
+# L #
+
 * Lai, Whalen & Lancaster, Lewis R. (eds.) (1983). 'Early Ch'an in China and Tibet'. Berkeley Buddhist Studies Series №5. Berkeley, California, U. S. A.: Asian Humanities Press. Source: https://terebess.hu/zen//mesterek/WhalenLai.pdf (accessed: Friday, June 28, 2024)<br>
 
 **Purport:**<br>
@@ -28,7 +30,7 @@ by Beauford A. Stenberg
 **Purport:**<br>
 This item is the fourth of five volumes of a suite. The first volume of which, is my principal secondary resource. It took me circa three (3) weeks of solid work of protracted research and endeavour to realise it. It was not been cited in any work I have so far read. The first volume out of five (5), is effectively a monograph on the Pancharatra as a class. It is the first substantive monographic work on the topic in English, that I have secured. As such, I cherish it greatly as my guiding light and I am actually unwrapping it ever-so-slowly, savouring and integrating each sip of the nectarine elixir and fully digesting it, before progressing. Actually, before fully progressing my study of this work and progressing with the Gautamiya Mahatantram translation, I have somewhat been seduced into translating an emic Hindi work on Vaishnava Tantra, geared towards academically oriented to the cohort of the young adult Vaishnava, but is of course useful for those outside this cohort, as an entry into the topic, and the doctrine and sadhana proper, which it treates. I actually anticipate, that I will progress the translations incrementally in tandem. NB: Beauford, reference and file the other four (4) volumes.
 
-# L #
+
 
 ...
 
