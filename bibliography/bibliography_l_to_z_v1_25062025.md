@@ -205,17 +205,59 @@ I have only been able to source a potential electronic edition of this work thro
 
 ### MAJUMDAR, R. ###
 
-Majumdar, Ramesh Chandra (1956). 'Evolution of Religio-Philosophic Culture in India' (pp. 31–62) in Bhattacharyya, Haridas (ed.) (1956). *The Cultural Heritage of India: Vol. 4, The Religions*. With a Publisher's Note by Swami Nityaswarupananda. With a Preface by Suniti Kumar Chatterji. With an Introduction by Bharataratna Bhagavan Das. (Note: First edition of 3 volumes published in 1937. Second edition of 5 volumes, revised and enlarged.). Calcutta, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
+* Majumdar, Ramesh Chandra (1956). 'Evolution of Religio-Philosophic Culture in India' (pp. 31–62) in Bhattacharyya, Haridas (ed.) (1956). *The Cultural Heritage of India: Vol. 4, The Religions*. With a Publisher's Note by Swami Nityaswarupananda. With a Preface by Suniti Kumar Chatterji. With an Introduction by Bharataratna Bhagavan Das. (Note: First edition of 3 volumes published in 1937. Second edition of 5 volumes, revised and enlarged.). Calcutta, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
 
 **Purport:**<br>
 This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
 
 ### MALAVIYA, S. ###
 
-Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2007). 'Ahirbudhnya-Samhita of the Pancharatra-Agama: With the Sarala Hindi Translation \[Hindi: अहिर्बुध्न्यसंहिता ( श्रीपाञ्चरात्रागमान्तर्गता) 'सरला' हिन्दीटीकोपेता ; IAST: Ahirbudhnya-Saṁhitā (Śrī-Pāñcarātrāgamāntargatā) 'Saralā' Hindī-Ṭīkā-Upetā]'. 'Vrajajivan Prachyabharati Granthamala Vol. 120 Hindi: व्रजजीवन प्राच्यभारती ग्रन्थमाला 120 ; IAST: Vrajajīvana Prācyabhāratī Granthamālā 120'. First edition. (Note: Sanskrit text and Hindi translation based on the Adyar edition.). Jawaharnagar, Delhi, India: Chaukhamba Sanskrit Pratishthan \[Hindi: चौखम्बा संस्कृत प्रतिष्ठान ; IAST: Caukhambā Saṁskṛta Pratiṣṭhāna]. Source: https://archive.org/details/malaviya-dr.-sudhakar-2007.-ahirbudhnya-samhita-of-the-pancharatra-agama-with-th (accessed: Saturday, September 14, 2024)
+* Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2007). 'Ahirbudhnya-Samhita of the Pancharatra-Agama: With the Sarala Hindi Translation \[Hindi: अहिर्बुध्न्यसंहिता ( श्रीपाञ्चरात्रागमान्तर्गता) 'सरला' हिन्दीटीकोपेता ; IAST: Ahirbudhnya-Saṁhitā (Śrī-Pāñcarātrāgamāntargatā) 'Saralā' Hindī-Ṭīkā-Upetā]'. 'Vrajajivan Prachyabharati Granthamala Vol. 120 Hindi: व्रजजीवन प्राच्यभारती ग्रन्थमाला 120 ; IAST: Vrajajīvana Prācyabhāratī Granthamālā 120'. First edition. (Note: Sanskrit text and Hindi translation based on the Adyar edition.). Jawaharnagar, Delhi, India: Chaukhamba Sanskrit Pratishthan \[Hindi: चौखम्बा संस्कृत प्रतिष्ठान ; IAST: Caukhambā Saṁskṛta Pratiṣṭhāna]. Source: https://archive.org/details/malaviya-dr.-sudhakar-2007.-ahirbudhnya-samhita-of-the-pancharatra-agama-with-th (accessed: Saturday, September 14, 2024)
 
 **Purport:**<br>
 Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
+
+* Malaviya, Dr. Sudhakar \[Hindi: डॉ० सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (trans. & ed.) (2007). 'Satvata-Samhita \[Sanskrit: सात्वतसंहिता ; IAST: Sātvata-saṃhitā] (A Pancharatra Agama): With Sanskrit Commentary by Alashinga Bhatta \[Sanskrit: अलशिङ्गभट्ट ; IAST: Alaśiṅga-Bhaṭṭa] & Sudha \[Hindi: सुधा ; IAST: Sudhā] - Hindi Commentary'. First edition. Chowkhamba Sanskrit Series №125. Maidagin, Varanasi, India: Chowkhamba Sanskrit Office Series \[Hindi: चौखम्बा संस्कृत सीरीज आफिस ; IAST: Caukhambā Saṃskṛta Sīrīja Āphisa]. ISBN 978817080244X. Source: https://archive.org/details/hindisanskritsatvatasamhitadr.sudhakarmalaviyasattvata_202001 (accessed: Sunday, August 11, 2024)
+
+**Purport:**<br>
+Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
+
+### MAHESHANANDA; *et al.* ###
+
+* Maheshananda, Swami & Sharma, B. R., *et al.* (eds.) (2003, 1984). 'Vashishtha Samhita (Yoga Kanda) \[Sansrit: श्री वशिष्ठसंहिता (योग-काण्ड); IAST: Śrī-Vaśiṣṭhasaṃhitā (Yoga-Kāṇḍa)]'. Revised edition. Lonavla, Pune, Maharashtra, India: Kaivalyadhama S.M.Y.M. Samiti. ISBN 8189485377.
+
+**Purport:**<br>
+With the play of scripts and dialectical variation, as well as different transliteration conventions and concommitant carelessness or non-standardisation in romanisation, I have noticed the name of the Rishi Vashishta transliterated and spelt in Latin characters variously. Maheshananda & Sharma, *et al.* (2003) uses ....
+
+### MAJEED, G. ###
+
+* Majeed, Gulshan (2011). 'No Naga Presence in Ancient Kashmir' in Khawaja, G. M. & Majeed, Gulshan (eds.) (2011). *Approaches to Kashmir Studies*. Srinagar, Kashmir, India: Gulshan Books. ISBN 9788183390132. ISBN 8183390137. ISBN 9788180000000.
+
+**Purport:**<br>
+This article and the volume within which it is inset, would be most useful for our purposes. Unfortunately, as yet, I have been unable to secure either. Useful direct quotations from it, along with its arguments and position are given voice in Ahmad (2017).
+
+### MASON, DARIELLE ###
+
+* Mason, Darielle (1993). 'Catalogue' (pp. 139–272) in Desai, Vishakha N. & Mason, Darielle (eds.) (1993). *Gods, Guardians, and Lovers: Temple Sculptures from North India A.D. 700–1200*. New York, N.Y., U.S.A: The Asia Galleries (in association with Mapin Publishing Pvt. Ltd., Ahmedabad). ISBN 0878480757 (TASG). Source: https://archive.org/details/desai-vishakha-n.-mason-darielle-eds.-1993.-gods-guardians-lovers-temple-sculptu (accessed: Monday, September 30, 2024)
+
+**Purport:**<br>
+...
+
+### MASON, DAVID ###
+
+* Mason, David V. (2009). 'Theatre and Religion on Krishna's Stage: Performing in Vrindavan'. Pelgrave Studies in Theatre and Performance History. Softcover 2009 reprint of the hardcover first edition of 2009. (Note: First edition published by Palgrave Macmillan, New York, 2009.). Houndmills, Basingstoke, Hampshire, England, U. K.: Palgrave Macmillan (a division of Macmillan Publishers Ltd.). ISBN 9780230615298 (alk. paper). Source: https://archive.org/details/mason-david-v.-2009.-theatre-religion-on-krishnas-stage-performing-in-vrindavan (accessed: Wednesday, August 28, 2024)
+
+**Purport:**<br>
+...
+
+### MATCHETT, F. ###
+
+* Matchett, Freda (2008, 2001). 'Krishna: Lord or Avarara? The Relationship Between Krishna and Vishnu - In the Context of the Avatara Myth as Presented by the Harivamsha, the Vishnu-Purana and the Bhagavata-Purana'. First digital edition. (Note: First edition published by Routledge, Oxon, 2001. First digital edition in 2008.). Routledge Studies in Asian Religion series. Milton Park, Abingdon, Oxon, England, U. K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 070071281X (ebook). Source: https://archive.org/details/matchett-freda-2008-2001.-krishna-lord-or-avarara-the-relationship-between-krishna-vishnu... (accessed: Thursday, August 29, 2024)
+
+**Purport:**<br>
+...
+
+
 
 # N #
 
