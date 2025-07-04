@@ -160,7 +160,22 @@ This is an excellent volume of quality material.
 **Purport:**<br>
 ...
 
+### LUBOTSKY, A. ###
+
+* Lubotsky, Alexander (2007, 2001, 1999). 'The Indo-Iranian Substratum' (pp. 301–317) in Carpelan, Christian; Parpola, Asko & Koskikallio, Petteri (eds.) (2007, 2001). 'Early Contacts between Uralic and Indo-European: Linguistic and Archaeological Considerations - Papers Presented at an International Symposium Held at the Tvärminne Research Station of the University of Helsinki, January 8–10, 1999'. 'Publications of the Finno-Ugrian Society [Finnish: Suomalais-Ugrilaisen Seuran Toimituksia]'. 'Memoirs of the Finno-Ugrian Society Vol. 242 [French: Mémoires de la Société Finno-Ougrienne 242]. Second edition. (Note: First edition published in 2001, Vammala). Helsinki, Finland: Suomalais-Ugrilainen Seura. ISBN 9525150593. Source: https://archive.org/details/carpelan-c.-parpola-a.-koskikallio-p.-eds.-2007-2001.-early-contacts-between-ura (accessed: Saturday, August 31, 2024)
+
+**Purport:**<br>
+...
+
 # M #
+
+### MADHAVA, V. ###
+* Madhava, Vidyaranya (auth.); K. V., Subbaratnam (trans. & notes) & K. R., Venkataranan (intr.) (1972). 'Shrimad Shankara Digvijaya' (Sanskrit: श्रीमच्छङ्करदिग्विजयः ; IAST: Śrīmacchaṅkaradigvijayaḥ). With an Introduction in English by K. R. Venkataraman. A Translator's Note in English by K. V. Subbaratnam. With Sanskrit original in Devanagari and English translation. Publisher: Akhil Bharat Shankara Seva Samiti (Sanskrit: अखिलभारतशङ्कर सेवासमितिः; IAST: Akhilabhārataśaṅkara Sevāsamitiḥ; English: All India Shankara Service Committee). Source: https://archive.org/details/dli.ernet.383653 (accessed: Friday, July 04, 2025)
+
+**Purport:**<br>
+...
+
+
 
 ...
 
