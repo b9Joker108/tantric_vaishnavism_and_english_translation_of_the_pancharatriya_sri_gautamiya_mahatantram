@@ -189,6 +189,33 @@ Unfortunately, though this bilingual edition has the original Sanskrit and an En
 **Purport:**<br>
 'Pandit Alladi Mahadeva Shastri' (Sanskrit: पण्डित अल्लादि महादेव शास्त्री ; IAST: Paṇḍita Allādi Mahādeva Śāstrī) was the Director of the Oriental Section of the Adyar Library from 1916 until his death in 1926. No information is provided about editor, publisher, locality or date of this recent independently and self-published edition of the work of Mahadeva that was initially published as a serialised translation, with dates as stated. So, I have attributed a rather curious circa date to the edition as a retrospective, given that for a desktop published affair, it demonstrates technological proficiency and academic precision and has been well-edited and adepty proofed. The technical name for this commentary by Srikantha following Duquette (2021: p. 2), is the 'Sri Brahma-Mimamsa-Bhashya' (Sanskrit: श्रीब्रह्ममीमांसाभाष्य ; IAST: Śrībrahmamīmāṃsābhāṣya). The commentator Srikantha (Sanskrit: श्रीकण्ठ शिवाचार्य ; IAST: Śrīkaṇṭha Śivācārya, alternately Sanskrit: नीलकण्ठ शिवाचार्य ; Nīlakaṇṭha Śivācārya) upholds the Shaiva Vishishtadvaita Siddhanta. As per Ramesan (1972: p. 67), we do not know whether Srikantha flourished before or after Ramanuja. Subramuniyaswami (2004, 1998: p. 843) gives the uncited date of circa 1050 CE for Srikantha and that would make him contemporaneous with Ramanuja and then states that the Shaiva Vishishtadvaita was "Patterned after the Vaishṇavite Viśishṭādvaita of Ramanuja, this philosophy was later amplified by Appaya Dikshitar.". Duquette (2021: p. 2), after providing details of a number of scholarly works that treat Srikantha and his dates, compositions and commentaries, states that he flourished circa 14th - 15th centuries, so well post-Ramanuja.
 
+### MAHANTI, J. ###
+
+Mahanti, J. C. (2014). 'The Saga of Jagannatha and Badadeula at Puri (Story of Lord Jagannatha and His Temple)'. First edition. VIJ Books (India) Pty. Ltd. ISBN 9789382652311. Source: xxx
+
+**Purport:**<br>
+I have only been able to source a potential electronic edition of this work through a Kindle edition via Amazon.com or via payed membership to Perlego. As yet, I have persued neither option.
+
+### MAIRS, R. ###
+
+* Mairs, Rachel (ed.) (2021). 'The Graeco-Bactrian and Indo-Greek World'. Routledge Worlds series. Milton Park, Abingdon, Oxon, England, U. K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781315108513 (ebook). Source: https://archive.org/details/mairs-rachel-ed.-2021.-the-graeco-bactrian-and-indo-greek-world (accessed: Saturday, September 14, 2024)
+
+**Purport:**<br>
+...
+
+### MAJUMDAR, R. ###
+
+Majumdar, Ramesh Chandra (1956). 'Evolution of Religio-Philosophic Culture in India' (pp. 31–62) in Bhattacharyya, Haridas (ed.) (1956). *The Cultural Heritage of India: Vol. 4, The Religions*. With a Publisher's Note by Swami Nityaswarupananda. With a Preface by Suniti Kumar Chatterji. With an Introduction by Bharataratna Bhagavan Das. (Note: First edition of 3 volumes published in 1937. Second edition of 5 volumes, revised and enlarged.). Calcutta, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
+
+**Purport:**<br>
+This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
+
+### MALAVIYA, S. ###
+
+Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2007). 'Ahirbudhnya-Samhita of the Pancharatra-Agama: With the Sarala Hindi Translation \[Hindi: अहिर्बुध्न्यसंहिता ( श्रीपाञ्चरात्रागमान्तर्गता) 'सरला' हिन्दीटीकोपेता ; IAST: Ahirbudhnya-Saṁhitā (Śrī-Pāñcarātrāgamāntargatā) 'Saralā' Hindī-Ṭīkā-Upetā]'. 'Vrajajivan Prachyabharati Granthamala Vol. 120 Hindi: व्रजजीवन प्राच्यभारती ग्रन्थमाला 120 ; IAST: Vrajajīvana Prācyabhāratī Granthamālā 120'. First edition. (Note: Sanskrit text and Hindi translation based on the Adyar edition.). Jawaharnagar, Delhi, India: Chaukhamba Sanskrit Pratishthan \[Hindi: चौखम्बा संस्कृत प्रतिष्ठान ; IAST: Caukhambā Saṁskṛta Pratiṣṭhāna]. Source: https://archive.org/details/malaviya-dr.-sudhakar-2007.-ahirbudhnya-samhita-of-the-pancharatra-agama-with-th (accessed: Saturday, September 14, 2024)
+
+**Purport:**<br>
+Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 
 # N #
 
