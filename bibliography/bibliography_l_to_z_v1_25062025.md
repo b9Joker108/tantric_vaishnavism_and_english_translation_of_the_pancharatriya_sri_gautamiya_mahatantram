@@ -158,7 +158,7 @@ This is an excellent volume of quality material.
 * Long, Jeffery D.; Sherma, Rita D.; Jain, Pankaj & Khanna, Madhu (eds.) (2022). 'Hinduism and Tribal Religions'. Encyclopedia of Indian Religions series. Dordrecht,The Netherlands: Springer. ISBN 9789402411881 (ebook). Source: xxx
 
 **Purport:**<br>
-...
+This is an excellent volume to inform the Lexicon.
 
 ### LUBOTSKY, A. ###
 
@@ -173,11 +173,22 @@ This is an excellent volume of quality material.
 * Madhava, Vidyaranya (auth.); K. V., Subbaratnam (trans. & notes) & K. R., Venkataranan (intr.) (1972). 'Shrimad Shankara Digvijaya' (Sanskrit: श्रीमच्छङ्करदिग्विजयः ; IAST: Śrīmacchaṅkaradigvijayaḥ). With an Introduction in English by K. R. Venkataraman. A Translator's Note in English by K. V. Subbaratnam. With Sanskrit original in Devanagari and English translation. Publisher: Akhil Bharat Shankara Seva Samiti (Sanskrit: अखिलभारतशङ्कर सेवासमितिः; IAST: Akhilabhārataśaṅkara Sevāsamitiḥ; English: All India Shankara Service Committee). Source: https://archive.org/details/dli.ernet.383653 (accessed: Friday, July 04, 2025)
 
 **Purport:**<br>
+Unfortunately, though this bilingual edition has the original Sanskrit and an English rendering, they are not juxtaposed and usefully interspersed for probity, which is unfortunate.
+
+### MADHAVANANDA ###
+
+* Madhavananda, Swami (1989). 'The Tantric Mode of Worship' (pp. 1–5) in Lokeswarananda, Swami (ed.) (1989). *Studies on the Tantras*. Gol Park, Calcutta, West Bengal, India; The Ramakrishna Mission Institute of Culture. Source: https://archive.org/details/RamakrishnaMissionStudiesOnTheTantras (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
 ...
 
+### MAHADEVA, A. ###
 
+* Mahadeva, A. \[Sanskrit: ए. महादेव शास्त्री ; IAST: E. Mahādeva Śāstrī.] (trans.) (c1907). 'The Vedanta-Sutras with Srikantha Bhashya'. \[Note: As originally appeared in 'The Light of Truth: The Siddhanta Deepika and Agamic Review', Vols. 1–7, June 1897 - March 1907.] Source: https://archive.org/details/TheVedantaSutrasWithSriKanthaBhashya_201712 (accessed: Friday, August 02, 2024)
 
-...
+**Purport:**<br>
+'Pandit Alladi Mahadeva Shastri' (Sanskrit: पण्डित अल्लादि महादेव शास्त्री ; IAST: Paṇḍita Allādi Mahādeva Śāstrī) was the Director of the Oriental Section of the Adyar Library from 1916 until his death in 1926. No information is provided about editor, publisher, locality or date of this recent independently and self-published edition of the work of Mahadeva that was initially published as a serialised translation, with dates as stated. So, I have attributed a rather curious circa date to the edition as a retrospective, given that for a desktop published affair, it demonstrates technological proficiency and academic precision and has been well-edited and adepty proofed. The technical name for this commentary by Srikantha following Duquette (2021: p. 2), is the 'Sri Brahma-Mimamsa-Bhashya' (Sanskrit: श्रीब्रह्ममीमांसाभाष्य ; IAST: Śrībrahmamīmāṃsābhāṣya). The commentator Srikantha (Sanskrit: श्रीकण्ठ शिवाचार्य ; IAST: Śrīkaṇṭha Śivācārya, alternately Sanskrit: नीलकण्ठ शिवाचार्य ; Nīlakaṇṭha Śivācārya) upholds the Shaiva Vishishtadvaita Siddhanta. As per Ramesan (1972: p. 67), we do not know whether Srikantha flourished before or after Ramanuja. Subramuniyaswami (2004, 1998: p. 843) gives the uncited date of circa 1050 CE for Srikantha and that would make him contemporaneous with Ramanuja and then states that the Shaiva Vishishtadvaita was "Patterned after the Vaishṇavite Viśishṭādvaita of Ramanuja, this philosophy was later amplified by Appaya Dikshitar.". Duquette (2021: p. 2), after providing details of a number of scholarly works that treat Srikantha and his dates, compositions and commentaries, states that he flourished circa 14th - 15th centuries, so well post-Ramanuja.
+
 
 # N #
 
