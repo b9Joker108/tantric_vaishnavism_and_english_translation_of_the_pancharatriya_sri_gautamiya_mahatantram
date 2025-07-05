@@ -257,7 +257,24 @@ This article and the volume within which it is inset, would be most useful for o
 **Purport:**<br>
 ...
 
+### MAXWELL, T. ###
 
+* Maxwell, T. S. (1990). 'The Vishvarupa (Visvarupa) Iconographic Tradition: North Indian Images of Vishvarupa Vishnu 5th - 13th Centuries CE, Archaeological Report'. A scientific collaboration between the Cultural Informatics Laboratory (CIL), IGNCA, New Delhi, India and the Development of Oriental History (SOK), University of Bonn, Germany. The project was sponsored by the Deutsche Forschungsgemeinschaft (DFG; English: 'German Research Council') and the United Nations Educational, Scientific and Cultural Organisation (UNESCO). Bonn, Germany: University of Bonn (Department of Oriental Art History). Source: https://archive.org/details/maxwell-t.-s.-1990.-vishvarupa-visvarupa-iconographic-tradition-north-indian-ima (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvarupa form of Sri Krishna in the Srimad Bhagavata Gita, which is a textual artefact of the Vāsudeva-Krishna Bhagavata Vrishi clan of the Yadu Dynasty.
+
+### McDANIEL, J. ###
+
+* McDaniel, June (1989). 'The Madness of the Saints: Ecstatic Religion in Bengal'. Chicago, Illinois, U. S. A.: The University of Chicago Press. ISBN 0226557227. Source: …
+
+**Purport:**<br>
+...
+
+* Malaviya, Dr. Ramaji (ed.) (1992). 'Gautamiyamahatantram of Maharshi Gautama'. With a Foreward in Sanskrit by Dr. Vidyaniwas Misra. Yogatantra-Granthamala Vol.14. First edition. Varanasi, India: Dr. Harish Chandra Mani Tripathi, Sampurnanand Sanskrit University. Source: https://archive.org/details/wqyJ_gautamiya-maha-tantram-of-maharsi-gautama-with-dr.-vidyaniwasas-mishra-by-dr.-ra (accessed: Thursday, June 20, 2024)
+
+**Purport:**<br>
+This is the edition that first gave the Pancharatriya Agamaic Samhita, that I am giving extended attention and treatment to, the appelation Mahatantram. Hari Aum Tat Sat
 
 # N #
 
@@ -299,7 +316,7 @@ This article and the volume within which it is inset, would be most useful for o
 
 ### STUTLEY, M. ###
 
-Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
+* Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
 
 **Purport:**
 ...
