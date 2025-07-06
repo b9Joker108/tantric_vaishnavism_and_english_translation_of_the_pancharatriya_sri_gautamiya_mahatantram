@@ -21,6 +21,13 @@
 **Purport:**
 Usefully, this article also outlines the phenomenon and duties of a Matha or Mutt, their historicity and principal locations, amongst other things.
 
+### BELL, C. ###
+
+* Bell, Christopher (2020). 'Tibetan Demonology: Elements in Religion and Violence'. Cambridge Elements: Elements in Religion and Violence series: edited by Lewis, James R. & Kitts, Margo. University Printing House, Cambridge, England, U.K.: Cambridge University Press (a part of the University of Cambridge). DOI: 10.1017/9781108670715. ISBN 9781108712675 (pbk).
+
+**Purport:**
+This is a valuable work for our purposes and it has been well produced.
+
 ### BHATIA, V. ###
 
 * Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
