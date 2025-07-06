@@ -162,7 +162,7 @@ This is an excellent volume to inform the Lexicon.
 
 ### LUBOTSKY, A. ###
 
-* Lubotsky, Alexander (2007, 2001, 1999). 'The Indo-Iranian Substratum' (pp. 301–317) in Carpelan, Christian; Parpola, Asko & Koskikallio, Petteri (eds.) (2007, 2001). 'Early Contacts between Uralic and Indo-European: Linguistic and Archaeological Considerations - Papers Presented at an International Symposium Held at the Tvärminne Research Station of the University of Helsinki, January 8–10, 1999'. 'Publications of the Finno-Ugrian Society [Finnish: Suomalais-Ugrilaisen Seuran Toimituksia]'. 'Memoirs of the Finno-Ugrian Society Vol. 242 [French: Mémoires de la Société Finno-Ougrienne 242]. Second edition. (Note: First edition published in 2001, Vammala). Helsinki, Finland: Suomalais-Ugrilainen Seura. ISBN 9525150593. Source: https://archive.org/details/carpelan-c.-parpola-a.-koskikallio-p.-eds.-2007-2001.-early-contacts-between-ura (accessed: Saturday, August 31, 2024)
+* Lubotsky, Alexander (2007, 2001, 1999). 'The Indo-Iranian Substratum' (pp. 301–317) in Carpelan, Christian; Parpola, Asko & Koskikallio, Petteri (eds.) (2007, 2001). 'Early Contacts between Uralic and Indo-European: Linguistic and Archaeological Considerations - Papers Presented at an International Symposium Held at the Tvärminne Research Station of the University of Helsinki, January 8–10, 1999'. 'Publications of the Finno-Ugrian Society \[Finnish: Suomalais-Ugrilaisen Seuran Toimituksia]'. 'Memoirs of the Finno-Ugrian Society Vol. 242 \[French: Mémoires de la Société Finno-Ougrienne 242]. Second edition. (Note: First edition published in 2001, Vammala). Helsinki, Finland: Suomalais-Ugrilainen Seura. ISBN 9525150593. Source: https://archive.org/details/carpelan-c.-parpola-a.-koskikallio-p.-eds.-2007-2001.-early-contacts-between-ura (accessed: Saturday, August 31, 2024)
 
 **Purport:**<br>
 ...
@@ -191,7 +191,7 @@ Unfortunately, though this bilingual edition has the original Sanskrit and an En
 
 ### MAHANTI, J. ###
 
-Mahanti, J. C. (2014). 'The Saga of Jagannatha and Badadeula at Puri (Story of Lord Jagannatha and His Temple)'. First edition. VIJ Books (India) Pty. Ltd. ISBN 9789382652311. Source: xxx
+* Mahanti, J. C. (2014). 'The Saga of Jagannatha and Badadeula at Puri (Story of Lord Jagannatha and His Temple)'. First edition. VIJ Books (India) Pty. Ltd. ISBN 9789382652311. Source: xxx
 
 **Purport:**<br>
 I have only been able to source a potential electronic edition of this work through a Kindle edition via Amazon.com or via payed membership to Perlego. As yet, I have persued neither option.
