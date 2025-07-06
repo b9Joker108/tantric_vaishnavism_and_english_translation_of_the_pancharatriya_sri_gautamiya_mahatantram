@@ -276,11 +276,42 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 * Malaviya, Dr. Ramaji (ed.) (1992). 'Gautamiyamahatantram of Maharshi Gautama'. With a Foreward in Sanskrit by Dr. Vidyaniwas Misra. Yogatantra-Granthamala Vol.14. First edition. Varanasi, India: Dr. Harish Chandra Mani Tripathi, Sampurnanand Sanskrit University. Source: https://archive.org/details/wqyJ_gautamiya-maha-tantram-of-maharsi-gautama-with-dr.-vidyaniwasas-mishra-by-dr.-ra (accessed: Thursday, June 20, 2024)
 
 **Purport:**<br>
-This is the edition that first gave the Pancharatriya agamaic samhita, that I am giving extended attention and treatment to, the appelation "Mahatantram". Hari Aum Tat Sat
+This is the edition that first gave the Pancharatriya agamaic Sri Gautamiya Samhita, that I am giving extended attention and treatment to, the appelation "Mahatantram". I sourced and secured this edited text of the principal root scripture of this endeavour as per date accessed, as abovecited. The work does not expressly state it is critically edited, only edited. Given its provenance, that is enough to make this volume, my principal primary resource, for this endeavour. That this work is edited by scholars of an ancient city in Mahabharata Varsha, by Shastri Malaviya, Doctor, Professor and Head of the Samhya-Yoga-Tantra-Agama-Departent, of the Sampurnanand Sanskrit University, Kashi (Varanasi), and ornamented with a generous Foreward in Sanskrit by Dr. Vidyaniwas Misra, Vice-Chancellor, of Sampurnanand Sanskrit University, it is almost unnecessary for it to be expressly stated, but I feel it obligatory, to convey, as follows, in emphasis. The urbanity of Kashi is demonstrably ancient and an esteemed seat of dedicated learning since at least the early mediæval era, as known to Western scholarship. But, it may be properly, technically, an ancient, dedicated and uninterruped seat of learning in Great Mother India, since time immemorial. Much, is not recorded in English, nor indeed, in any Western or European language. Their collective private treasury of published and unpublished manuscripts and volumes, including rarities and the rarefied, would be immeasurable, as would their traditional cum modernised mentoring and initiatory systems and reticlum of secret societies and established networks. In addition to what has been aforestated, their interior treasury of secret and reserved volumes and manuscripts, mostly unpublished and many uncatalogued, at least for the Western gaze, must be vast. I tender, many Indic manuscripts held to be no longer extant in Western or European academic scholarship, are indeed in sacred and secreted reserve, in fortified invitation-only libraries in Kashi, amongst other preserves in India. As too, they are in Old Europe, though not as venerable. I feel it to be of particular import, that I have secured this volume, on this particular date. I will confer with a Vedic Astrological almanac, as to the significance of today's date, in my provincial locale. May all be auspicious! ༼ 卐 Aum ࿈ Svasti! 卍 ༽
 
+### MALAVIYA, S. ###
 
+* Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2003). 'Lakshmi-Tantram: A Pancharatra Agama - With Sudha Hindi Commentary \[Hindi: लक्ष्मीतन्त्रम् - पाञ्चरात्रागमान्तर्गतं - 'सुधा'-हिन्दीव्याख्योपेतम् ; IAST: Lakṣmī-Tantram - Pāñcarātrāgamāntargataṁ - 'Sudhā'-Hindī-Vyākhyā-Upetam]'. 'Chowkhamba Sanskrit Series Vol. 113 \[Hindi: चौखम्बा संस्कृत सीरीज ११३ ; IAST: Caukhambā Saṁskṛt Sīrīj 113]'. First edition. Maidagin, Varanasi, India: Chowkhamba Sanskrit Office Series \[Hindi: चौखम्बा संस्कृत सीरीज़ आफिस ; IAST: Caukhambā Saṁskṛt Sīrīz Āphis]. ISBN 8170801192. Source: https://archive.org/details/malaviya-dr.-sudhakar-ed.-trans.-comm.-2003.-lakshmi-tantram-a-pancharatra-agama (accessed: Sunday, September 15, 2024)
+
+**Purport:**<br>
+...
+
+* Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2007). 'Ahirbudhnya-Samhita of the Pancharatra-Agama: With the Sarala Hindi Translation \[Hindi: अहिर्बुध्न्यसंहिता ( श्रीपाञ्चरात्रागमान्तर्गता) 'सरला' हिन्दीटीकोपेता ; IAST: Ahirbudhnya-Saṁhitā (Śrī-Pāñcarātrāgamāntargatā) 'Saralā' Hindī-Ṭīkā-Upetā]'. 'Vrajajivan Prachyabharati Granthamala Vol. 120 Hindi: व्रजजीवन प्राच्यभारती ग्रन्थमाला 120 ; IAST: Vrajajīvana Prācyabhāratī Granthamālā 120'. First edition. (Note: Sanskrit text and Hindi commentary based on the Adyar edition.). Jawaharnagar, Delhi, India: Chaukhamba Sanskrit Pratishthan \[Hindi: चौखम्बा संस्कृत प्रतिष्ठान ; IAST: Caukhambā Saṁskṛta Pratiṣṭhāna]. Source: https://archive.org/details/malaviya-dr.-sudhakar-2007.-ahirbudhnya-samhita-of-the-pancharatra-agama-with-th (accessed: Saturday, September 14, 2024)
+
+**Purport:**<br>
+...
+
+* Malaviya, Dr. Sudhakar \[Hindi: डॉ० सुधाकर मालवीयः ; IAST: Ḍo. Sudhākara Mālavīyaḥ] (trans. & ed.) (2007). 'Satvata-Samhita \[Sanskrit: सात्वतसंहिता ; IAST: Sātvata-saṃhitā] (A Pancharatra Agama): With Sanskrit Commentary by Alashinga Bhatta \[Sanskrit: अलशिङ्गभट्ट ; IAST: Alaśiṅga-Bhaṭṭa] & Sudha [Hindi: सुधा ; IAST: Sudhā] - Hindi Commentary'. First edition. Chowkhamba Sanskrit Series №125. Maidagin, Varanasi, India: Chowkhamba Sanskrit Office Series \[Hindi: चौखम्बा संस्कृत सीरीज आफिस ; IAST: Caukhambā Saṃskṛt Sīrīj Āphis]. ISBN 978817080244X. Source: https://archive.org/details/hindisanskritsatvatasamhitadr.sudhakarmalaviyasattvata_202001 (accessed: Sunday, August 11, 2024)
+
+**Purport:**<br>
+...
+
+### MALIK, S. ###
+
+* Malik, Subhash Chandra (ed.) (1978). 'Indian Movements: Some Aspects of Dissent, Protest and Reform'. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
+
+**Purport:**<br>
+This work has an article/chapter which I would really like to secure: Narayanan, M. G. S. & Veluthat, Kesavan (1978). 'Bhakti Movement in South India'. Volume secured.
 
 # N #
+
+### NARAYANAN, M.; *et al* ###
+
+* Narayanan, M.G.S. & Kesavan, Veluthat (1978). 'Bhakti Movement in South India' (pp. 33 - 66) in Malik, Subhash Chandra (ed.) (1978). *Indian Movements: Some Aspects of Dissent, Protest and Reform*. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
+
+**Purport:**<br>
+The bibliography of this article, for its time, is a sublimation of scholarship. The article title is misleading as it also surveys North India.
+
+
 
 ...
 
@@ -321,6 +352,13 @@ This is the edition that first gave the Pancharatriya agamaic samhita, that I am
 ### STUTLEY, M. ###
 
 * Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
+
+**Purport:**
+...
+
+### SURI, P. ###
+
+* Suri, Pushpa (1978). 'Arya Samaj Movement' (pp. 191 - 214) in Malik, Subhash Chandra (ed.) (1978). *Indian Movements: Some Aspects of Dissent, Protest and Reform*. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
 
 **Purport:**
 ...
