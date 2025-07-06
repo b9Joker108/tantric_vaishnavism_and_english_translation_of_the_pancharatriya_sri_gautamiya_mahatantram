@@ -271,10 +271,14 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 **Purport:**<br>
 ...
 
+### MALAVIYA, R. ###
+
 * Malaviya, Dr. Ramaji (ed.) (1992). 'Gautamiyamahatantram of Maharshi Gautama'. With a Foreward in Sanskrit by Dr. Vidyaniwas Misra. Yogatantra-Granthamala Vol.14. First edition. Varanasi, India: Dr. Harish Chandra Mani Tripathi, Sampurnanand Sanskrit University. Source: https://archive.org/details/wqyJ_gautamiya-maha-tantram-of-maharsi-gautama-with-dr.-vidyaniwasas-mishra-by-dr.-ra (accessed: Thursday, June 20, 2024)
 
 **Purport:**<br>
-This is the edition that first gave the Pancharatriya Agamaic Samhita, that I am giving extended attention and treatment to, the appelation Mahatantram. Hari Aum Tat Sat
+This is the edition that first gave the Pancharatriya agamaic samhita, that I am giving extended attention and treatment to, the appelation "Mahatantram". Hari Aum Tat Sat
+
+
 
 # N #
 
