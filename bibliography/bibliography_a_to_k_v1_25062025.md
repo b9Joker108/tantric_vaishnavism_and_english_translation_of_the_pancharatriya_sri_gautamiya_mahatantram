@@ -14,10 +14,12 @@
 
 # B #
 
-Behera, Simanchal (2018). 'Mathas in Odisha with Special Reference to Ganjam District: A Study' (pp. 1 - 18) in *JETIR (Journal of Emerging Technologies and Innovative Research)*, August 2018, Vol. 5, Issue 8. Source: https://www.jetir.org/papers/JETIR1808161.pdf (accessed: Sunday, July 06, 2025)
+### BEHERA, S. ###
+
+* Behera, Simanchal (2018). 'Mathas in Odisha with Special Reference to Ganjam District: A Study' (pp. 1 - 18) in *JETIR (Journal of Emerging Technologies and Innovative Research)*, August 2018, Vol. 5, Issue 8. Source: https://www.jetir.org/papers/JETIR1808161.pdf (accessed: Sunday, July 06, 2025)
 
 **Purport:**
-Usefully, this article also outlines the phenomenon and duties of a Matha or Mutt, amongst ither things.
+Usefully, this article also outlines the phenomenon and duties of a Matha or Mutt, their historicity and principal locations, amongst other things.
 
 ### BHATIA, V. ###
 
