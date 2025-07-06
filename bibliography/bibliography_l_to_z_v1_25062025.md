@@ -224,6 +224,13 @@ This article and the volume within which it is inset, would be most useful for o
 **Purport:**<br>
 This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
 
+### MAJUMDAR, R.; *et al.* ###
+
+* Majumar, R. C. & Dasgupta, K. K. (eds.) (1982). 'A Comprehensive History of India: Vol. 3, Part 2 (A. D. 300–985)'. With a Foreword by Satish Chandra. New Delhi, India: People's Publishing House (published under the auspices of The Indian History Congress). Source: https://archive.org/details/in.ernet.dli.2015.98115 (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
+
 ### MALAVIYA, R. ###
 
 * Malaviya, Dr. Ramaji (ed.) (1992). 'Gautamiyamahatantram of Maharshi Gautama'. With a Foreward in Sanskrit by Dr. Vidyaniwas Misra. Yogatantra-Granthamala Vol.14. First edition. Varanasi, India: Dr. Harish Chandra Mani Tripathi, Sampurnanand Sanskrit University. Source: https://archive.org/details/wqyJ_gautamiya-maha-tantram-of-maharsi-gautama-with-dr.-vidyaniwasas-mishra-by-dr.-ra (accessed: Thursday, June 20, 2024)
@@ -236,7 +243,7 @@ This is the edition that first gave the Pancharatriya agamaic Sri Gautamiya Samh
 * Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2003). 'Lakshmi-Tantram: A Pancharatra Agama - With Sudha Hindi Commentary \[Hindi: लक्ष्मीतन्त्रम् - पाञ्चरात्रागमान्तर्गतं - 'सुधा'-हिन्दीव्याख्योपेतम् ; IAST: Lakṣmī-Tantram - Pāñcarātrāgamāntargataṁ - 'Sudhā'-Hindī-Vyākhyā-Upetam]'. 'Chowkhamba Sanskrit Series Vol. 113 \[Hindi: चौखम्बा संस्कृत सीरीज ११३ ; IAST: Caukhambā Saṁskṛt Sīrīj 113]'. First edition. Maidagin, Varanasi, India: Chowkhamba Sanskrit Office Series \[Hindi: चौखम्बा संस्कृत सीरीज़ आफिस ; IAST: Caukhambā Saṁskṛt Sīrīz Āphis]. ISBN 8170801192. Source: https://archive.org/details/malaviya-dr.-sudhakar-ed.-trans.-comm.-2003.-lakshmi-tantram-a-pancharatra-agama (accessed: Sunday, September 15, 2024)
 
 **Purport:**<br>
-...
+Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 
 * Malaviya, Dr. Sudhakar \[Hindi: डॉ. सुधाकर मालवीयः ; IAST: Ḍō. Sudhākara Mālavīyaḥ] (ed., trans. & comm.) (2007). 'Ahirbudhnya-Samhita of the Pancharatra-Agama: With the Sarala Hindi Translation \[Hindi: अहिर्बुध्न्यसंहिता ( श्रीपाञ्चरात्रागमान्तर्गता) 'सरला' हिन्दीटीकोपेता ; IAST: Ahirbudhnya-Saṁhitā (Śrī-Pāñcarātrāgamāntargatā) 'Saralā' Hindī-Ṭīkā-Upetā]'. 'Vrajajivan Prachyabharati Granthamala Vol. 120 Hindi: व्रजजीवन प्राच्यभारती ग्रन्थमाला 120 ; IAST: Vrajajīvana Prācyabhāratī Granthamālā 120'. First edition. (Note: Sanskrit text and Hindi translation based on the Adyar edition.). Jawaharnagar, Delhi, India: Chaukhamba Sanskrit Pratishthan \[Hindi: चौखम्बा संस्कृत प्रतिष्ठान ; IAST: Caukhambā Saṁskṛta Pratiṣṭhāna]. Source: https://archive.org/details/malaviya-dr.-sudhakar-2007.-ahirbudhnya-samhita-of-the-pancharatra-agama-with-th (accessed: Saturday, September 14, 2024)
 
@@ -254,6 +261,70 @@ Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 
 **Purport:**<br>
 This work has an article/chapter which I would really like to secure: Narayanan, M. G. S. & Veluthat, Kesavan (1978). 'Bhakti Movement in South India'. Volume secured.
+
+### MALLINSON, J. ###
+
+* Mallinson, James (2012). 'Yoga & Yogis' (Note: Photographs by Mallinson.) (pp. 2–27) in Moses, Meenakashi & Stern, Eddie (eds.) (2012). *Namarupa: Categories of Indian Thought*, Vol. 3, Issue 15, 2012. Dublin, New Hampshire, U. S. A.:Mallinson, James (2012). 'Yoga & Yogis'Namarupa, LLC (Robert Moses & Eddie Stern). Source: https://archive.org/details/mallinson-james-2012.-yoga-yogis (accessed: Monday, August 26, 2024)
+
+**Purport:**<br>
+This work is most useful and valuable for its images.
+
+### MALLINSON, J.; *et al.* ###
+
+* Mallinson, James & Singleton, Mark (trans. & eds.) (2017). 'Roots of Yoga'. London, U. K.: Penguin (Random House). ISBN 9780141978246. Source: https://archive.org/details/mallinson-james-singleton-mark-trans.-eds.-2017.-roots-of-yoga (accessed: Sunday, June 09, 2024)
+
+**Purport:**<br>
+...
+
+### MANI, V. ###
+
+* Mani, Vettam (1975). 'Puranic Encyclopaedia: A Comprehensive Dictionary with Special Reference to the Epic and Puranic Literature'. With a Foreword by P. R. Menon. First English edition. (Note: Translated from the fourth edition in the Malayalam language published in 1974. First edition published in the Malayalam language in 1964, Kottayam.). Jawahar Nagar, Delhi, India: Motilal Banarsidass. ISBN 084260822. Source: https://archive.org/details/puranicencyclopa00maniuoft (accessed: Sunday, September 15, 2024)
+
+**Purport:**<br>
+...
+
+### MANN, J.; *et al.* ###
+
+* Mann, J. S. & Sodhi, S. S. (eds. & comps.) (c. 2013). 'Concepts in Sikhism: Cognitive Psychology - Mind Map Approach to Understanding Sikhism for the Second Generation Sikh Children'. Halifax, Nova Scotia Canada: Independently/Self-published. (Note: There is a published edition available by Sapatrishi Publications, 2022, except it is credited with an additional editor and compiler, not evident in the undated PDF precursor, I have secured, who is named M. P. Singh. All three editors/compilers bear the title 'Doctor', which is worth noting. ISBN 9789394769083. I date the PDF as circa 2013, as an identical undated PDF to the one I secured, was uploaded to Scribd in that year.). Source: https://archive.org/details/mann-j.-s.-sodhi-s.-s.-eds.-comps.c-2013.-concepts-in-sikhism-cognitive-psycholo (accessed: Monday, July 15, 2024)
+
+**Purport:**<br>
+...
+
+### MARSHALL, P. ###
+
+* Marshall, Peter James (1968). 'Problems of Empire: Britain and India 1757–1813'. Historical Problems: Studies and Documents series Vol. 3. First edition. London, England, U. K.: George Allen and Unwin Ltd. Source: https://archive.org/details/marshall-peter-james-1968.-problems-of-empire-britain-india-1757-1813 (accessed: Wednesday, July 24, 2024)
+
+**Purport:**<br>
+...
+
+* Marshall, Peter James (ed.) (1970). 'The British Discovery of Hinduism in the Eighteenth Century'. The European Understanding of India series. London, England, U. K.: Cambridge University Press. ISBN 521077370. Source: https://archive.org/details/marshall-peter-james-ed.-1970.-the-british-discovery-of-hinduism-in-the-eighteenth-century (accessed: Wednesday, July 24, 2024)
+
+**Purport:**<br>
+...
+
+* Marshall, Peter James (1976). 'East Indian Fortunes: The British in Bengal in the Eighteenth Century'. First edition. London, England, U. K. Oxford University Press. ISBN 0198215665. Source: https://archive.org/details/marshall-peter-james-1976.-east-indian-fortunes-the-british-in-bengal-in-the-eighteenth-century (accessed: Wednesday, July 24, 2024)
+
+**Purport:**<br>
+...
+
+* Marshall, Peter James (2005). 'The Making and Unmaking of Empires: Britain, India, and America c. 1750–1783'. First edition. Oxford, England, U. K.: Oxford University Press. ISBN 0199278954. Source: https://archive.org/details/makingunmakingofempiresbritainindiaamerica17501783marshallp.j.oup_281_d (accessed: Wednesday, July 24, 2024)
+
+**Purport:**<br>
+...
+
+### MARSHALL, P.; *et al* ###
+
+* Marshall, Peter James & Low, Alaine (eds.) (2001, 1998). 'The Eighteenth Century'. The Oxford History of the British Empire Vol. 2. With a Foreward by Wm. Roger Louis. Oxford, England, U. K.: Oxford University Press. ISBN 0199246777 (V. 2). Source: https://archive.org/details/marshall-peter-j.-low-alaine-eds.-2001-1998.-the-eighteenth-century.-the-oxford- (accessed: Wednesday, July 24, 2024)
+
+**Purport:**<br>
+...
+
+### MARTINEZ-SEVE, L. ###
+
+* Martinez-Seve, Laurianne (2015). 'Ai Khanoum and Greek Domination in Central Asia' (pp. 17–46) in *Electrum*, Vol. 22, 2015. Krakow, Poland: Jagiellonian University Press (Jagiellonian University). Source: https://archive.org/details/martinez-seve-laurianne-2015.-ai-khanoum-and-greek-domination-in-central-asia (accessed: Monday, September 16, 2024)
+
+**Purport:**<br>
+...
 
 ### MASON, DARIELLE ###
 
@@ -276,6 +347,13 @@ This work has an article/chapter which I would really like to secure: Narayanan,
 **Purport:**<br>
 ...
 
+### MATILAL, B.; *et al* ###
+
+* Matilal, Bimal Krishna (auth.) & Ganeri, Jonardon (ed.) (2005, 1971). 'Epistemology, Logic, and Grammar in Indian Philosophical Analysis'. New Edition (First published in 1971 by Mouton). New Delhi, India: Oxford University Press. ISBN 019566658 Source: https://archive.org/details/epistemologylogicandgrammarinindianphilosophicalanalysisbimalakrishnamatilal2005_202003_324_Y (accessed: Wednesday, June 12, 2024)
+
+**Purport:**<br>
+The Dharmic Traditions are a complex and they are complex. All the Dharmic Traditions, if not directly formed and founded by traditional debate, were significantly altered by it. They altered each other with and by it. Dharmic debate is traditional within the Dharmic Traditions. These Dharmic debates, were often great affairs and spectacles, with many spectators, and were sometimes conducted with royal patronage and assent. The debates had clear rules that were culturally sanctioned and agreed to by all parties. The debates were visceral; oration, oratory and orality were primary, yet the physicality and actions of the debators conveyed much meaning, and qualified and emphasised what was stated. Much is misunderstood about the Dharmic Traditions, when the primacy and foundational nature of Dharmic debate is not appreciated, understood or misunderstood. This is an interesting work as it looks at aspects of the system as a complex. I recommend having a grounding in Nyāya, before engaging with this work.
+
 ### MAXWELL, T. ###
 
 * Maxwell, T. S. (1990). 'The Vishvarupa (Visvarupa) Iconographic Tradition: North Indian Images of Vishvarupa Vishnu 5th - 13th Centuries CE, Archaeological Report'. A scientific collaboration between the Cultural Informatics Laboratory (CIL), IGNCA, New Delhi, India and the Development of Oriental History (SOK), University of Bonn, Germany. The project was sponsored by the Deutsche Forschungsgemeinschaft (DFG; English: 'German Research Council') and the United Nations Educational, Scientific and Cultural Organisation (UNESCO). Bonn, Germany: University of Bonn (Department of Oriental Art History). Source: https://archive.org/details/maxwell-t.-s.-1990.-vishvarupa-visvarupa-iconographic-tradition-north-indian-ima (accessed: Tuesday, August 20, 2024)
@@ -289,6 +367,13 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 
 **Purport:**<br>
 ...
+
+* McDaniel, June (2000). 'The Tantric Radha: Some Controversies about the Nature of Radha in Bengali Vaishnavism and the Radha Tantra' (pp. 131–146) in the *Journal of Vaishnava Studies*, Vol. 8, Issue 2, 2000. Source: https://archive.org/details/mc-daniel-june-2000.-tantric-radha-some-controversies-about-nature-of-radha-in-b (accessed: Saturday, August 17, 2024)
+
+**Purport:**<br>
+...
+
+
 
 
 
