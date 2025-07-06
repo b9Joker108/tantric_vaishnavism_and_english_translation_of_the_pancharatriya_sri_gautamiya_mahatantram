@@ -398,12 +398,157 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 **Purport:**<br>
 I first encountered this work in circa 2004, in hardcopy, whilst deep-grazing and serendipitously communing in an inspired and intuitive spontaneity, as was my practice and fashion, a form of sadhana, within a library call-stack of books, stacked and categorised in isles and shelves, in the Dewey decimal system. This sadhana, has defined and informed my life. I first heard the term "call-stack" from the lips of a librarian more than thirty-five (35) years ago, long before its redefinition and inclusion as a denotation and technical term in Computer Science and other academic disciplines, knowledge areas and ontological domains. Anyway, I was profoundly drawn to this work, and borrowed it, and couldn't bring myself to part with it. I paid the library a pretty-penny for its replacement. I cannot commend, nor recommend, this great work enough. I hold McEvilley, in particular esteem, and embrace him as Guru, for this *magnum opus*.
 
+### McGRATH, W. ###
 
+* McGrath, William A. (2017). 'Buddhism and Medicine in Tibet: Origins, Ethics, and Tradition'. Dissertation. Department of Religious Studies. Herndon, Virginia: University of Virginia. Source: xxx
 
+**Purport:**<br>
+...
 
+### McLAUGHLIN, M. ###
 
+* McLaughlin, Mark Joseph (2014). 'Lord in the Temple, Lord in the Tomb: The Hindu Temple and Its Relationship to the Samadhi Shrine Tradition of Jnaneshwar Maharaj'. Ph.D. dissertation in Religious Studies. Santa Barbara, California, U. S. A.: University of California. Source: https://archive.org/details/mc-laughlin-mark-j.-2014.-lord-in-temple-lord-in-tomb-hindu-temple-relationship- (accessed: Saturday, August 31, 2024)
 
+**Purport:**<br>
+This work makes reference to the "Pāñcarātra".
 
+### MEAD, M.; *et al* ###
+
+* Mead, Margaret (comp.) & Anshen, Ruth N. (ed.), *et al.* (1972). 'Twentieth Century Faith: Hope and Survival'. Religious Perspectives Vol. 25. First edition. New York, N. Y.: U. S. A.: Harper & Row, Publishers. ISBN 060655496. Source: …
+
+**Purport:**<br>
+...
+
+### MEHRA, B. ###
+
+* Mehra, Baldev Singh (1994). 'Shrauta Sacrifice in the Artharva-Veda'. With a Foreward by Dr. Yajav Veer Dahiya. Delhi, India: Sanjay Prakashan. First edition. ISBN 8174530002. Source: https://archive.org/details/mehra-baldev-singh-1994.-shrauta-sacrifice-in-the-artharva-veda (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+Work important for its treatment of the 'Katyayana Shrauta Sutra', which is reputedly, mentioned in the 'Ishwara Samhita' , as the sutra of the Pancharatrins.
+
+### MEHTA, R. ###
+
+* Mehta, Rohit (1970). 'The Call of the Upanishads'. Chowpatty, Bombay, India: Bharatiya Vidya Bhavan. Source: https://archive.org/details/callofupanishads0000meht (accessed: Saturday, June 22, 2024)
+
+**Purport:**<br>
+...
+
+### MEHTA, R.; *et al.* ###
+
+* Mehta, R. N. & Thakkar, A. M. (1978). 'M. S. University Copper Plates of the Time of Toramana'. Maharaja Sayajirao University Archaeology Series №14. Vadodara, India: Department of Archaeology & Ancient History, Faculty of Arts, M. S. University of Baroda. (Note: OCLC Number / Unique Identifier: 976472390). ASIN B0006E10LS
+
+**Purport:**<br>
+This volume treats the three (3) [Sañjeli copperplate charters and their inscriptions](https://en.wikipedia.org/wiki/Sanjeli_inscriptions), discovered in [Sañjeli](https://en.wikipedia.org/wiki/Sanjeli), Gujarat. They are of import for our purposes, as they contain a reference to a specific installed form of the deity Sri Vishnu "Jayasvāmin", which is the same deity that is held to be the first form of Sri Vishnu, installed in Kashmir and consecrated by [Pravarasena II](https://en.wikipedia.org/wiki/Sri_Pravarasena), in the [Rajatarangiti](https://en.wikipedia.org/wiki/Rajatarangini), refer: Roy (1955: pp. 188–189). I have not yet been able to secure a copy of this volume and cannot identify its ISBN.
+
+### MENA, C. ###
+
+* Mena, Carlos Ney (2009). ‘The Hermeneutics of the Tirumantiram’. Dissertation. South Asian Studies. Berkeley, California, U. S A.: University of California.
+
+**Purport:**<br>
+Amongst other things, this dissertation charts the influence of Kashmir Shaivism upon Tamil Shaivism. Following from this, it may be interesting to see how the lines of transmission are established and consider its relationship to Kashmiri Pancharatra's transmission to Pancharatra in Tamil Nadu.
+
+### MENZIES, R. ###
+
+* Menzies, Robert A. (1991). ‘The Vishnu Purana as Shruti’. M.A. Thesis. Department of Religion. Manitoba, Winnipeg, Ottowa, Canada: University of Manitoba. ISBN 031576886X. Source: https://archive.org/details/menzies-robert-a.-1991.-the-vishnu-purana-as-shruti (accessed: Thursday, August 22, 2024)
+
+**Purport:**<br>
+...
+
+### MILLER, B. ###
+
+* Miller, Barbara Stoler (1975). ‘Radha: the Consort of Krishna’s Vernal Passion’ in the *Journal of the American Oriental Society (JAOS)*, Vol. 95, Issue 4, pp. 655 - 671, Ann Arbor, Michigan, U.S.A.: University of Michigan. Source: xxx
+
+**Purport:**<br>
+In due course, I need to secure Miller's theses and dissertations.
+
+* Miller, Barbara Stoler (ed. & trans.) (2007, 1977). ‘The Gitagovinda of Jayadeva: Love Song of the Dark Lord’. Translations From The Oriental Classics. UNESCO Collection of Representative Works, Indian Series of the Translation s Collection. (First Indian edition reprint, of First edition, Delhi, 1984. First edition by Columbia University Press, 1977.) Jawahar Nagar, Delhi, India: Naredra Prakash Jain for Motilal Banarsidass Publishers Private Limited. ISBN 8120803671 (cloth). Source: xxx
+
+**Purport:**<br>
+...
+
+### MILLS, M.; *et al* ###
+
+* Mills, Margaret A.; Claus, Peter J. & Diamond, Sarah (eds.) (2003). ‘South Asian Folklore: An Encyclopedia — Afghanistan, Bangladesh, India, Nepal, Pakistan, Sri Lanka’. Milton Park, Abingdon, Oxon, England, U. K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415866927 (paperback). Source: xxx
+
+**Purport:**<br>
+...
+
+### MIRNIG, N.; *et al* ###
+
+Mirnig, Nina; Rastelli, Marion & Eltschinger, Vincent (eds.) (2019). ‘Tantric Communities in Context’. ‘Austrian Academy of Sciences \[German: Österreichische Akademie der Wissenschaften]’. ‘Philosophical-Historical Class, Proceedings, Vol. 899 \[German: Philosophisch-Historische Klasse Sitzungsberichte, 899]’. ‘Contributions to the Cultural and Intellectual History of Asia, №99 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens, Nr. 99]’. ‘Edited by the Institute for Cultural and Intellectual History of Asia under the direction of Birgit Kellner \[German: Herausgegeben vom Institut für Kultur- und Geistesgeschichte Asiens unter der Leitung von Birgit Kellner]’. Vienna, Austria: Austrian Academy of Sciences Press \[German: Osterreichische Akademie der Wissenschaften]. (Note: In English, though bibliographic details are in German.). ISBN 9783700183785. Source: https://archive.org/details/mirnig-nina-rastelli-marion-eltschinger-vincent-eds.-2019.-tantric-communities-in-context (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
+
+### MISAWA, Y. ###
+
+Misawa, Yuji \[Japanese: 三澤祐嗣 ; Hepburn: Misawa Yūji] (2018). ‘Creation Theory and Gunas (Qualities) in the Lakshmi Tantra \[Japanese:『ラクシュミー・タントラ』における創造説とグナ（性質) ; Hepburn: Rakushumī Tantora ni okeru sōzōsetsu to guna (seishitsu)]’ (Note: In Japanese.) (pp. 1–13) in the *International Journal of Philosophy Studies \[Japanese: 国際哲学研究 ; Hepburn: Kokusai Tetsugaku Kenkyū]*. Bunkyo, Tokyo, Japan: Toyo University International Philosophy Research Centre \[Japanese: 東洋大学国際哲学研究センター ; Hepburn: Tōyō Daigaku Kokusai Tetsugaku Kenkyū Sentā]. Source: https://archive.org/details/misawa-yuji-2018.-creation-theory-and-gunas-qualities-in-the-lakshmi-tantra (accessed: Saturday, August 10, 2024)
+
+**Purport:**<br>
+...
+
+### MISHRA, M. ###
+
+* Mishra, Pt. Mahavir Prasad \[Hindi: पं० महावीर प्रसाद मिश्र ; IAST: Paṅ. Mahāvīra Prasāda Miśra] (ed. & trans.) (1985). ‘Agastya-Samhita: Up to Chapter 11 \[Sanskrit: अगस्त्य-संहिता (११ अध्यायपर्यन्त ) ; IAST: Agastya-Saṁhitā (11 Adhyāyaparyanta)]. (Note: Published in Samvat — 2042. Only 11 chapters of this book could be published from the money received as a grant for the publication of this work, whereas the entire manuscript consists of 32 chapters.). Hindi set in devanagari script. Chowk Bazaar, ‘Kankhal (Haridwar) \[Hindi: कनखल (हरिद्वार); IAST: Kanakhala (Haridvāra)]’, Uttarakhand, India: ‘Vidyavaridhi-Granthamala-Prakashan \[Hindi: विद्यावारिधि-ग्रन्थमाला-प्रकाशन ; IAST: Vidyāvāridhi-Granthamālā-Prakāśana]’. Source: https://archive.org/details/mishra-pt.-mahavir-prasad-ed.-trans.-1985.-agastya-samhita-up-to-chapter-11 (accessed: Saturday, September 07, 2024)
+
+**Purport:**<br>
+This is the best digitization of the volume I have been able to find. It had a makeshift cover that detracted from the edition. So, I extracted the cover and prepended the true and correct cover I sourced by the grace of goddess Shrimati Serendipity on the weblog of Sri Vishnudut1926. Vishnudut1926 was manifestly delighted with aspects and tracts of the work. I have as yet been unable to determine if this edition is canonical Pancharatra. On a cursory appraisal of its register, it bears no branding, iconography nor otherwise overt information nor salience, attesting to its veracity as Pancharatra. My intuition informs me, in a positive assessment, it is neo-Pancharatra or a faux and derivative work, modelled somewhat on canonical Pancharatra and other agamic and tantric scriptures of comparable nature and concerns. This is not to be considered a determination. If value is found in the work, the work is of value, regardless of what academia, specialists and/or the tradition(s) attest.
+
+### MISHRA, S. ###
+
+* Mishra, Sampadananda (2016). ‘The Greatness of the Rishi Tradition of India’ in *Shraddha*, Vol. 8, №2, November, 2016. Academia.com Source: https://archive.org/details/mishra-sampadananda-2016.-the-greatness-of-the-rishi-tradition-of-india (accessed: Saturday, August 17, 2024)
+
+**Purport:**<br>
+...
+
+### MITCHELL, G. ###
+
+* Michell, George (2003, 1995). ‘Architecture and Art of Southern India: Vijayanagara and the Successor States’. Reprint. (First published in 1995.). The New Cambridge History of India: Part 1, The Mughals and their Contemporaries, Vol. 6. Cambridge, England, U. K.: Cambridge University Press. ISBN 0521441102 (hardback). Source: https://archive.org/details/michell-george-2003-1995.-architecture-and-art-of-southern-india-vijayanagara-an (accessed: Saturday, August 10, 2024)
+
+**Purport:**<br>
+...
+
+### MITTAL, S.; *et al* ###
+
+* Mittal, Sushil & Thursby, Gene R. (eds.) (2005, 2004). ‘The Hindu World’. New York, N. Y., U. S. A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 0203644700 (ebook). Source: xxx
+
+**Purport:**<br>
+...
+
+### MOHAPATRA, R.; *et al* ###
+
+* Mohapatra, Ramesh Prasad (auth.) & Donaldson, Thomas (ed.) (1998). ‘Ornaments of Orissa’. Ashok Vihar, Delhi, India: B. R. Publishing Corporation \[a division of BRPC (India) Ltd.]. ISBN 8176460311. Source: xxx
+
+**Purport:**<br>
+...
+
+### MONIER-WILLIAMS, M. ###
+
+* Monier-Williams, Monier (1875). ‘Indian Wisdom — Or Examples of the Religious, Philosophical, and Ethical Doctrines of the Hindus: With a Brief History of the Chief Departments of Sanskrit Literature and some Account of the Past and Present Condition of India, Moral and Intellectual’. With a Preface to the Second Edition dated October, 1875 and a Preface to the First Edition dated May, 1975. (Note: Monier-Williams states that: “\[t]he volume is founded on my official lectures.”). Second edition. London, England, U. K.: W. H. Allen & Co. Source: https://archive.org/details/indianwisdom00moni (accessed: Wednesday, September 04, 2024)
+
+**Purport:**<br>
+...
+
+### MONIER-WILLIAMS, M.; *et al.* ###
+
+* Monier-Williams, M.; *et al.* (ed.) (1951, 1899). ‘A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages’. New edition, greatly enlarged and improved. London, U. K.: Oxford University Press (at the Clarendon Press). Source: xxx
+
+**Purport:**<br>
+...
+
+### MOOKERJEA, A. ###
+
+* Mookerjea, Ajit (1966, 1952). ‘From Prehistoric to Modern Times — The Arts of India (Revised & Enlarged)’. (First published in 1952). Second edition. Rutland, Vermont, U. S. A.: Charles E. Tuttle Company, Inc. ISBN 9780109123091. Source: https://archive.org/details/mookerjea-ajit-1966-1952.-from-prehistoric-to-modern-times-the-arts-of-india-revised-enlarged (accessed: Thursday, July 04, 2024)
+
+**Purport:**<br>
+...
+
+### MOOKERJI, B. ###
+
+* Mookerji, Bhudeb 'Kaviraj' (trans. & comp.) (1926). ‘Rasa-Jala-Nidhi or Ocean of Indian Chemistry & Alchemy: Vol. 1’. Bilingual edition: Sanskrit compilation/composition and English translation by Mookerji. Calcutta, India: K. C. Neogi. Source: https://archive.org/details/dli.bengal.10689.415 (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+Reviewed by H., E. J. (1928).
 
 # N #
 
