@@ -226,7 +226,7 @@ This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vai
 
 ### MAJUMDAR, R.; *et al.* ###
 
-* Majumar, R. C. & Dasgupta, K. K. (eds.) (1982). 'A Comprehensive History of India: Vol. 3, Part 2 (A. D. 300–985)'. With a Foreword by Satish Chandra. New Delhi, India: People's Publishing House (published under the auspices of The Indian History Congress). Source: https://archive.org/details/in.ernet.dli.2015.98115 (accessed: Friday, August 30, 2024)
+* Majumdar, R. C. & Dasgupta, K. K. (eds.) (1982). 'A Comprehensive History of India: Vol. 3, Part 2 (A. D. 300–985)'. With a Foreword by Satish Chandra. New Delhi, India: People's Publishing House (published under the auspices of The Indian History Congress). Source: https://archive.org/details/in.ernet.dli.2015.98115 (accessed: Friday, August 30, 2024)
 
 **Purport:**<br>
 This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
@@ -354,6 +354,24 @@ This work is most useful and valuable for its images.
 **Purport:**<br>
 The Dharmic Traditions are a complex and they are complex. All the Dharmic Traditions, if not directly formed and founded by traditional debate, were significantly altered by it. They altered each other with and by it. Dharmic debate is traditional within the Dharmic Traditions. These Dharmic debates, were often great affairs and spectacles, with many spectators, and were sometimes conducted with royal patronage and assent. The debates had clear rules that were culturally sanctioned and agreed to by all parties. The debates were visceral; oration, oratory and orality were primary, yet the physicality and actions of the debators conveyed much meaning, and qualified and emphasised what was stated. Much is misunderstood about the Dharmic Traditions, when the primacy and foundational nature of Dharmic debate is not appreciated, understood or misunderstood. This is an interesting work as it looks at aspects of the system as a complex. I recommend having a grounding in Nyāya, before engaging with this work.
 
+### MATSUBARA, M. ###
+
+* Matsubara, Mitsunori \[Japanese: 松原 光法 ; ALA-LC: Matsubara Mitsunori] (1990). 'The Vyuha Theory of the Early Pancharatra: Mahabharata, Book 12, Chapter Narayaniya \[Japanese: パンチャラートラ初期のヴューハ説 - Mahabharata 第12巻 Narayaniya 章; ALA-LC: Pancharāṭra shoki no vyūha setsu - Mahābhārata dai 12 kan Narayaniya shō]' (article in Japanese) in 'The Mikkyo Bunka: The Journal of Esoteric Buddhism \[Japanese: 密教文化 ; ALA-LC: Mikkyō Bunka]', Vol. 172, 1990. Source: https://doi.org/10.11168/jeb1947.1990.172_L108 (accessed: Thursday, August 08, 2024). Source: https://archive.org/details/matsubara-mitsunori-1990.-the-vyuha-theory-of-the-early-pancharatra-mahabharata- (accessed: Thursday, August 08, 2024)
+
+**Purport:**<br>
+...
+
+* Matsubara, Mitsunori (1994). 'Pancharatra Samhitas and Early Vaishnava Theology: With a Translation and Critical Notes from Chapters on Theology in the Ahirbudhnya Samhita'. First edition. Jawahar Nagar, Delhi, India: Motial Banarsiass.ISBN 8120812217. Source: https://archive.org/details/pancaratra-samhitas-and-early-vaisnava-theology-by-mitsunori-matsubara-motilal-banasirdass-1994 (accessed: Saturday, June 22, 2024)
+
+**Purport:**<br>
+...
+
+* Matsubara, Mitsunori (TBD). 'Chapters on Pancharatra Theology in the Ahirbudhnya Samhita №1: Translation with Critical Notes' (pp. 120–89; NB: pagination runs backwards) in TBD. Source: https://archive.org/details/matsubara-mitsunori-tbd.-chapters-on-pancharatra-theology-in-ahirbudhnya-samhita (accessed: Friday, September 13, 2024)
+
+**Purport:**<br>
+This article by Matsubara which I happened upon by the grace of goddess Shrimati Serendipity, is likely from a Japanese journal, and it appears to be the first in a series. So, the aspects of the monograph of Matsubara (1994), appears to have been initially or subsequently serialised in a Japanese journal, the specifics of which are yet to be determined. In his monograph, Matsubara cites a suite of his articles, but not any of this series, which is perplexing and a cause of vexation, but may point to the journal serialisation being published subsequent to the monograph.
+
+
 ### MAXWELL, T. ###
 
 * Maxwell, T. S. (1990). 'The Vishvarupa (Visvarupa) Iconographic Tradition: North Indian Images of Vishvarupa Vishnu 5th - 13th Centuries CE, Archaeological Report'. A scientific collaboration between the Cultural Informatics Laboratory (CIL), IGNCA, New Delhi, India and the Development of Oriental History (SOK), University of Bonn, Germany. The project was sponsored by the Deutsche Forschungsgemeinschaft (DFG; English: 'German Research Council') and the United Nations Educational, Scientific and Cultural Organisation (UNESCO). Bonn, Germany: University of Bonn (Department of Oriental Art History). Source: https://archive.org/details/maxwell-t.-s.-1990.-vishvarupa-visvarupa-iconographic-tradition-north-indian-ima (accessed: Tuesday, August 20, 2024)
@@ -373,8 +391,12 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 **Purport:**<br>
 ...
 
+### McEVILLEY, T. ###
 
+* McEvilley, Thomas (2002). 'The Shape of Ancient Thought: Comparative Studies in Greek and Indian Philosophies'. New York, N. Y., U. S. A.: Allworth Press. ISBN 9781581152036. Source: https://archive.org/details/thomas-c.-mcevilley-the-shape-of-ancient-thought-comparative-studies-in-greek-an (accessed: Thursday, June 06, 2024)
 
+**Purport:**<br>
+I first encountered this work in circa 2004, in hardcopy, whilst deep-grazing and serendipitously communing in an inspired and intuitive spontaneity, as was my practice and fashion, a form of sadhana, within a library call-stack of books, stacked and categorised in isles and shelves, in the Dewey decimal system. This sadhana, has defined and informed my life. I first heard the term "call-stack" from the lips of a librarian more than thirty-five (35) years ago, long before its redefinition and inclusion as a denotation and technical term in Computer Science and other academic disciplines, knowledge areas and ontological domains. Anyway, I was profoundly drawn to this work, and borrowed it, and couldn't bring myself to part with it. I paid the library a pretty-penny for its replacement. I cannot commend, nor recommend, this great work enough. I hold McEvilley, in particular esteem, and embrace him as Guru, for this *magnum opus*.
 
 
 
