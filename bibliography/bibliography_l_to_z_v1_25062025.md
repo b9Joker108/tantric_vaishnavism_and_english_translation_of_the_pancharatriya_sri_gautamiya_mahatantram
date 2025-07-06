@@ -194,7 +194,7 @@ Unfortunately, though this bilingual edition has the original Sanskrit and an En
 * Mahanti, J. C. (2014). 'The Saga of Jagannatha and Badadeula at Puri (Story of Lord Jagannatha and His Temple)'. First edition. VIJ Books (India) Pty. Ltd. ISBN 9789382652311. Source: xxx
 
 **Purport:**<br>
-I have only been able to source a potential electronic edition of this work through a Kindle edition via Amazon.com or via payed membership to Perlego. As yet, I have persued neither option.
+I have only been able to source a potential electronic edition of this work through a Kindle edition via Amazon.com or via payed membership to Perlego. As yet, I have pursued neither option.
 
 ### MAHESHANANDA; *et al.* ###
 
