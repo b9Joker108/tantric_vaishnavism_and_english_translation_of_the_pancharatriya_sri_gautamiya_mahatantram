@@ -680,6 +680,13 @@ The bibliography of this article, for its time, is a sublimation of scholarship.
 # U #
 ...
 
+### URGYEN, T.; *et al* ###
+
+* Urgyen, Tulku (auth. & orrat.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
+
+**Purport:**
+This stands as an exceptionally valuable resource for the serious practitioner of Dzogchen within the Nyingma tradition. The text offers direct, pragmatic, experiential guidance distilled from oral instructions and written notes by senior disciples, presenting the essence of Dzogchen contemplation, conduct and view in a manner that is accessible without sacrificing the profundity of the Rinpoche's original teachings. The translators, compilers and editors, all established figures in the field of Himalayan Bauddhadharma sacred literature, bring a wealth of experiential knowledge and linguistic competence, ensuring that the transmission remains faithful to the living tradition. That said, the publication does not aspire to the standards of academic sophistication nor critical philological rigor of their orher work. The source material is acknowledged as composite and, at times, extemporaneous, with the translation prioritizing clarity and immediate applicability over textual criticism or historical contextualization. The editorial apparatus is minimal, lacking extensive footnotes, critical apparatus, or the inclusion of the original Tibetan script or transcription for probity and the book is presented in a standard paperback format typical of practitioner-oriented works from Rangjung Yeshe Publications during this period. Whilst 'Vajra Speech' is indispensable for those seeking practical engagement with Dzogchen pith instructions, it does not constitute a scholarly edition nor a comprehensive critical presentation of the material. Its strength lies in its capacity to communicate the experiential core of the teachings to a contemporary English-literate audience, rather than in a refined academic register.
+
 # V #
 
 ### VEERARGAVAN, A. ###
