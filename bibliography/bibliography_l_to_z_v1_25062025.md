@@ -599,6 +599,13 @@ The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical
 **Purport:**<br>
 ...
 
+### MÜLLER-EBELING, C.; *et al* ###
+
+* Müller-Ebeling, Claudia (auth.); Rätsch, Christian; Shahi (auth.); Surendra Bahadur (auth.) & Lee, Annabel (2002). ‘Shamanism and Tantra in the Himalayas’. London, U. K.: Thames & Hudson Ltd. ISBN 050051108X Source: https://archive.org/details/muller-ebeling-c.-auth.-ratsch-c.-auth.-shahi-s.-b.-auth.-lee-a.-trans.-2002.-sh (accessed: Saturday, June 08, 2024)
+
+**Purport:**<br>
+A watershed work in the literature. I leaned on it heavily to inform my ritual practice with the Kila and in writing and citing of the English Wikipedia 'Vajrakila' article, which has subsequently been split into 'Vajrakilaya' as a ritual tool and 'Dorje Purbha' as the deity of the ritual tool. My intention was to maintain its Sanskrit provenance and subsume subsequent traditions.
+
 ### MUMME, P. ###
 
 * Mumme, Patricia Y. (1988). ‘The Sri Vaishnava Theological Dispute: Manavalamamuni and Vedanta Deshika’. Madras, India: New Era Publications. Source: https://archive.org/details/svtd_pm (accessed: Sunday, June 16, 2024)
@@ -610,6 +617,14 @@ The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical
 
 **Purport:**<br>
 ...
+
+### MURTHY, P.; *et al* ###
+
+* Murthy, Panmaga K. & Kumar, S. K. Kiran (2007). ‘Concept *Triguna*: A Critical Analysis and Synthesis’ (18 pages, unpaginated) in *Psychological Studies*, Vol. 52, №2, 2007. Source: https://archive.org/details/murthy-panmaga-k.-kumar-s.-k.-kiran-2007.-concept-triguna-a-critical-analysis-and-synthesis (accessed: Friday, June 14, 2024)
+
+**Purport:**<br>
+I envisaged the necessity of this work. I am overjoyed it has been conducted. Thankfully, I found it. It is a premier example of academic discourse analysis and the literature review of a complex theological, phenomenological and soteriological concept, that traverses multiple ontological domains in the Indic Dharmic and Ayurvedic Traditions, amongst others.
+
 
 
 # N #
