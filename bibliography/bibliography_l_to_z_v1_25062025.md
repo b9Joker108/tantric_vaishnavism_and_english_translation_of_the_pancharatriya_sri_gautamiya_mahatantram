@@ -531,7 +531,7 @@ This is the best digitization of the volume I have been able to find. It had a m
 
 ### MONIER-WILLIAMS, M.; *et al.* ###
 
-* Monier-Williams, M.; *et al.* (ed.) (1951, 1899). ‘A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages’. New edition, greatly enlarged and improved. London, U. K.: Oxford University Press (at the Clarendon Press). Source: xxx
+* Monier-Williams, Monier; *et al.* (ed.) (1951, 1899). ‘A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages’. New edition, greatly enlarged and improved. London, U. K.: Oxford University Press (at the Clarendon Press). Source: xxx
 
 **Purport:**<br>
 ...
@@ -592,6 +592,24 @@ The Chitrasutra is extracted from the 'Vishnudharmottara Purana'. This article i
 **Purport:**<br>
 The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical song-poem wisdom-verses in a hybrid complex of languages, often referred to simply as Old Bengali, in the Old Bengali script. Recent scholarship, has defined the language complex further. It contains the earliest known, open discourse and extant Sahajīya text, or literary example of what is known as the Twilight Language. This work draws principally upon the Charyagiti in its historical analysis and survey of the language and the text.
 
+### MUKHOPADHYAY, D. ###
+
+* Mukhopadhyay, Dyutiman (2021, 2022 revised). ‘Dancing with Nine Colours: The Nine Emotional States of Indian Rasa Theory’. Source: …
+
+**Purport:**<br>
+...
+
+### MUMME, P. ###
+
+* Mumme, Patricia Y. (1988). ‘The Sri Vaishnava Theological Dispute: Manavalamamuni and Vedanta Deshika’. Madras, India: New Era Publications. Source: https://archive.org/details/svtd_pm (accessed: Sunday, June 16, 2024)
+
+**Purport:**<br>
+...
+
+* Mumme, Patricia Y. (1992). ‘Haunted by Shankara’s Ghost: The Sri-Vaishnava Interpretation of Bhagavad Gita 18:66' (pp. 69–84) in Timm, Jeffrey R. (ed.) (1992). *Text in Context: Traditional Hermeneutics in South Asia*. State University Plaza, Albany, N. Y., U. S. A.: State University of New York Press. ISBN 0791407950 (alk. paper). Source: https://archive.org/details/timm-jeffrey-r.-ed.-1992.-text-in-context-traditional-hermeneutics-in-south-asia (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
 
 
 # N #
