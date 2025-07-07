@@ -778,7 +778,38 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### OKI, M. ###
 
+* Oki, Mai (c2022). ‘The Enumeration of Vishnu’s Manifestations in Sanskrit Literature’. Department of Indological Studies. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/oki-mai-c-2022.-the-enumeration-of-vishnus-manifestations-in-sanskrit-literature (accessed: Saturday, August 31, 2024)
+
+**Purport:**<br>
+...
+
+### OKITA, K; *et al.* ###
+
+* Okita, Kiyokazu & Lutjeharms, Rembert (eds.) (2024). ‘The Building of Vrindavana: Architecture, Theology, and Practice in an Early Modern Pilgrimage Town’. Brill’s Indological Library Vol. 57. Leiden, The Netherlands: Koninklijke Brill NV (incorporates the imprints Brill, Brill Nijhoff, Brill Schoningh, Brill Fink, Brill Mentis, Brill Wageningen Academic, Vandenhoeck & Ruprecht, Bohlau and V&R Unipress). ISBN 9789004686779 (ebook). Source: https://archive.org/details/okita-kiyokazu-lutjeharms-rembert-eds.-2024.-building-of-vrindavana-architecture (accessed: Wednesday, August 07, 2024)
+
+**Purport:**<br>
+...
+
+### OLIVELLE. P. ###
+
+* Olivelle, Patrick (ed.) (2006). ‘Between the Empires: Society in India 300 BCE to 400 CE’. Abingdon, Oxford, England, U.K.: Oxford University Press (Oxford Scholarship Online). ISBN 9780195305326. Source: https://archive.org/details/olivelle-patrick-ed.-2006.-between-the-empires-society-in-india-300-bce-to-400-ce (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
+...
+
+### ORR, L. ###
+
+* Orr, Leslie C. (1995). ‘The Vaishnava Community at Sri-Rangam: The Testimony of the Early Medieval Inscriptions’ (pp. 109–136) in Rosen, Steven J. (ed.), *et al.* (1995). *Journal of Vaishnava Studies*, Vol. 3, №3, Summer, 1995. Brooklyn, N.Y., U.S.A.: FOLK Books. Source: https://archive.org/details/orr-leslie-c.-1995.-vaishnava-community-at-sri-rangam-testimony-of-early-medieval-inscriptions (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
+
+* Orr, Leslie C. (2019). ‘Biographies of South Indian Temple Inscriptions’ (pp. 193–205) in *South Asian Studies*, Vol. 35, №2, 2019. Milton Park, Abingdon, Oxon, England, U. K.: Routledge (an imprint of the Talor & Francis Group). Source: https://archive.org/details/orr-leslie-c.-2019.-biographies-of-south-indian-temple-inscriptions (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
 
   
 ...
@@ -786,6 +817,35 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 # P #
 
 ...
+
+### P.I., A. ###
+
+### PADMAJA, T. ###
+
+* Padmaja, T. (2002). ‘Temples of Krishna in South India: History, Art and Traditions in Tamilnadu’. Hauz Khas, New Delhi, India: Abhinav Publications. ISBN 8170173981. Source: https://archive.org/details/padmaja-t.-2002.-temples-of-krishna-in-south-india-history-art-and-traditions-in-tamilnadu (accessed: Tuesday, July 30, 2024)
+
+**Purport:**<br>
+...
+
+### PADOUX, A. ###
+
+* Padoux, Andre (1986a). ‘Introduction’ (pp. 1–10) in Padoux, Andre (ed.) (1986). *Mantras et Diagrammes Rituels dans L’Hindouisme*. Centre National de la Recherche Scientifique: Equipe de Recherche №249, “L’Hindouisme — Texts, Doctrines, Pratiques”. Table Ronde: Mantras et Diagrammes Rituels dans L’Hindouisme, Paris, 22–22 Juin, 1984. Paris, France: Editions du Centre National de la Recherche Scientifique. ISBN 2222038499. Source: https://archive.org/details/MantraEtDiagrammesRituelsDansLHindouismeTableRonde (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+...
+
+* P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
+
+**Purport:**<br>
+...
+
+P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2018). ‘Tantric Rituals of Kerala Temples’. Tantra in Contemporary Researches №6. First edition. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely donote his family name.). Sudarshan Park, New Delhi, India: D. K. Printworld Pvt. Ltd. ISBN 9788124608999.
+
+**Purport:**<br>
+...
+
+
+
 
 # Q #
 
