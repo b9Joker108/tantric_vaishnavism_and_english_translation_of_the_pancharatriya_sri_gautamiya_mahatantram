@@ -543,12 +543,56 @@ This is the best digitization of the volume I have been able to find. It had a m
 **Purport:**<br>
 ...
 
+### MOOKERJEE, A. ###
+
+* Mookerjee, Asutosh (president) (1923). ‘Proceedings and Transactions of the Second Oriental Converence: Calcutta, January 28th to February 1st, 1922’. Calcutta, India: Calcutta University (and printed by The Babtist Mission Press). Source: https://archive.org/details/dli.ernet.277183 (accessed: Saturday, August 24, 2024)
+
+**Purport:**<br>
+...
+
 ### MOOKERJI, B. ###
 
 * Mookerji, Bhudeb 'Kaviraj' (trans. & comp.) (1926). ‘Rasa-Jala-Nidhi or Ocean of Indian Chemistry & Alchemy: Vol. 1’. Bilingual edition: Sanskrit compilation/composition and English translation by Mookerji. Calcutta, India: K. C. Neogi. Source: https://archive.org/details/dli.bengal.10689.415 (accessed: Wednesday, August 14, 2024)
 
 **Purport:**<br>
 Reviewed by H., E. J. (1928).
+
+### MOSTOWLANSKY, T.; *et al.* ###
+
+* Mostowlansky, Till & Rota, Andrea (2023, 2020). ‘Emic and Etic’ (pp. 1–27) in Stein, Felix (ed.) (2024). *The Open Encyclopedia of Anthropology* (Note: This online encyclopedia article is a facsimile of the first edition published in ‘The Cambridge Encyclopedia of Anthropology’ in 2020, which is how ‘The Open Encyclopedia of Anthropology \[online]’, was formerly known.). DOI: http://doi.org/10.29164/20emicetic Source: https://www.anthroencyclopedia.com/entry/emic-and-etic (accessed: Tuesday, September 03, 2024). Source: https://archive.org/details/mostowlansky-till-rota-andrea-2023-2020.-emic-and-etic (accessed: Tuesday, September 03, 2024)
+
+**Purport:**<br>
+...
+
+### MUKHERJEA, S. ###
+
+* Mukherjea, Sushil (1989). ‘Historicity of Lord Jagannatha’. Centre For Humanist Studies. First edition. Calcutta, India: Minerva Associates (Publications) Pvt. Ltd. ISBN 818519517X. Source: xxx
+
+**Purport:**<br>
+...
+
+### MUKHERJEE, G. ###
+
+* Mukherjee, Govinda Gopal (1989). ‘The Spiritual Heritage of India: The Tantras’ (pp. 39–56) in Lokeswarananda, Swami (ed.) (1989). *Studies on the Tantras*. Gol Park, Calcutta, West Bengal, India; The Ramakrishna Mission Institute of Culture. Source: https://archive.org/details/RamakrishnaMissionStudiesOnTheTantras (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
+...
+
+### MUKHERJI, P. ###
+
+* Mukherji, Parul Dave (c2022). ‘Mad Metaphors and Slippery Similarities in the Chitrasutra: The Case of Anukriti in Comparative Aesthetics’. School of Arts and Aesthetics. New Delhi, India: Jawaharlal Nehru University. (NB: The article bears no date. I interrogated the document's meta-information and it stated that the electronic document was created in 2022. So, I tentatively attributed that date to the bibliographic entry.)
+
+**Purport:**<br>
+The Chitrasutra is extracted from the 'Vishnudharmottara Purana'. This article is tangential to our concern on the Pancharatra, but the redactor of the 'Vishnudharmottara Purana' was a Pancharatrin. I gather Mukherji is an artist, as well as an aesthetician, and is interrogating the document through this practitioner-theoretical critical lense, with aspects of a contemporary critical apparatus and non-Indic purview, even though their name bears Indic ancestry. The article emphasises aspects of the text that I would not perceive without it. For this, at minimum, it is useful. It is interesting as the article has made me realise that as a fundamental aspect of the Pancharatrins is deity-work, if not its defining characteristic, they are primarily artisans, if not in the practical sense of material fabrication, but in the sense of theory and philosophy of art to inform that material fabrication, and their concerns subsume iconometry, iconography and iconology, etc. Note, refer: Dave-Mukherji, Parul.
+
+### MUKHERJI, T. ###
+
+* Mukherji, Tarapada (1963). ‘The Old Bengali Language and Text’. Calcutta, India: University of Calcutta. Source: https://archive.org/details/oldbengalilanguageandtext/mode/2up (accessed: Friday, June 07, 2024)
+
+**Purport:**<br>
+The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical song-poem wisdom-verses in a hybrid complex of languages, often referred to simply as Old Bengali, in the Old Bengali script. Recent scholarship, has defined the language complex further. It contains the earliest known, open discourse and extant Sahajīya text, or literary example of what is known as the Twilight Language. This work draws principally upon the Charyagiti in its historical analysis and survey of the language and the text.
+
+
 
 # N #
 
