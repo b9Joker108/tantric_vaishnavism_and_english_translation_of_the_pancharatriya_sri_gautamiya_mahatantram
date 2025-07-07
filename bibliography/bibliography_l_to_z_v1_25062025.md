@@ -818,8 +818,6 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 
 ...
 
-### P.I., A. ###
-
 ### PADMAJA, T. ###
 
 * Padmaja, T. (2002). ‘Temples of Krishna in South India: History, Art and Traditions in Tamilnadu’. Hauz Khas, New Delhi, India: Abhinav Publications. ISBN 8170173981. Source: https://archive.org/details/padmaja-t.-2002.-temples-of-krishna-in-south-india-history-art-and-traditions-in-tamilnadu (accessed: Tuesday, July 30, 2024)
@@ -833,6 +831,8 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 
 **Purport:**<br>
 ...
+
+### P.I., A. ###
 
 * P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
 
