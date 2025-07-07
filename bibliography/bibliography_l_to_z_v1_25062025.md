@@ -629,6 +629,49 @@ I envisaged the necessity of this work. I am overjoyed it has been conducted. Th
 
 # N #
 
+### NABHA, B.; *et al.* ###
+
+* Nabha, B. Kahn S. (comp.) & Singh, Maj. Gurmukh (trans.), *et al.* (2006, 1930). ‘Encyclopaedia of the Sikh Literature: Vol. 1 (ੳ-ਸ)’. \[Original title in Gurmukhi: ਗੁਰੁਸ਼ਬਦਰਤਨਾਕਰ ਮਹਾਨ ਕੋਸ਼, popularly referred to with the contraction: ‘Mahan Kosh’ (Gurmukhi: ਮਹਾਨ ਕੋਸ਼) published in 1930]. Patiala, Punjab, India: Publication Bureau Punjabi University. ISBN 8130200759. Source: https://archive.org/details/MahanKosh-VolumeOne (accessed: Sunday, July 21, 2024)
+
+**Purport:**<br>
+...
+
+* Nabha, B. Kahn S. (comp.) & Kapoor, Kuljeet (trans.), *et al.* (2008, 1930). ‘Encyclopaedia of the Sikh Literature: Vol. 2 (ਹ-ਜ)’. \[Original title in Gurmukhi: ਗੁਰੁਸ਼ਬਦਰਤਨਾਕਰ ਮਹਾਨ ਕੋਸ਼, popularly referred to with the contraction: ‘Mahan Kosh’ (Gurmukhi: ਮਹਾਨ ਕੋਸ਼) published in 1930]. Patiala, Punjab, India: Publication Bureau Punjabi University. ISBN 8130201631. Source: https://archive.org/details/MahanKosh-VolumeTwo (accessed: Sunday, July 21, 2024)
+
+**Purport:**<br>
+...
+
+* Nabha, B. Kahn S. (comp.) & Hasiza, Madan L. (trans.), *et al.* (2011, 1930). ‘Encyclopaedia of the Sikh Literature: Vol. 3 (ਝ-ਢ)’. \[Original title in Gurmukhi: ਗੁਰੁਸ਼ਬਦਰਤਨਾਕਰ ਮਹਾਨ ਕੋਸ਼, popularly referred to with the contraction: ‘Mahan Kosh’ (Gurmukhi: ਮਹਾਨ ਕੋਸ਼) published in 1930]. Patiala, Punjab, India: Publication Bureau Punjabi University. ISBN 9788130200811. Source: https://archive.org/details/MahanKosh-VolumeThree (accessed: Sunday, July 21, 2024)
+
+**Purport:**<br>
+...
+
+### NAGASWAMY, R. ###
+
+* Nagaswamy, R. (1982). ‘Tantric Cult of South India’. First edition. Ashok Vihar, Delhi, India: Agam Kala Prakashan. Source: https://archive.org/details/nagaswamy-r.-1982.-tantric-cult-of-south-india (accessed: Monday, July 15, 2024)
+
+**Purport:**<br>
+I got so excited when I first read of this work, as I know from elsewhere that Nagaswamy worked on the Pancharatra inscriptions in South India, in the 1960s. But, I have not been able to yet secure this work. I just note, as of Monday, July 7, 2025, that I have secured a copy of the work. Emaho!
+
+### NARASIMHACHARY, M. ###
+
+* Narasimhachary, Mudumby N. \[Hindi: मुदुम्बी एन्॰ नरसिंहाचार्य ; IAST: Mudumbī En. Narasiṃhācārya] (1998, 1971). ‘Contribution of Yamuna-Acharya to Vishishta-Advaita’. With a Foreward by V. Raghavan. With an unattributed Publishers Note dated 1998. Second edition. (Note: First edition was published in 1971.). Addagutta, Kukatpally, Hyderabad, Andhra Pradesh, India: Sri Jayalakshmi Publications. Source: https://archive.org/details/narasimhachary-mudumby-n.-1998-1971.-contribution-of-yamuna-acharya-to-vishishta-advaita (accessed: Thursday, August 29, 2024)
+
+**Purport:**<br>
+...
+
+* Narasimhachary, Prof. Dr. Mudumby N. \[Hindi: प्रोफ़॰ डॉ॰ मुदुम्बी एन्॰ नरसिंहाचार्य ; IAST: Prof. Dō. Mudumbī En. Narasiṃhācārya] (ed.) (1976). ‘Agama-Pramanya of Srimad-Yamuna-Archarya \[Sanskrit: श्रीमद्यामुनमुनिप्रणीतम् आगमप्रामाण्यम् ; IAST: Śrīmad-Yāmuna-Muni-Praṇītam — Āgama-Prāmāṇyam; English: ‘Agama-Pramanya Authored by the Venerable Sage Yamuna’]’. Gaekwad’s Orietal Series №160. With a Foreward in English by B. J. Sandesara dated 1975. With a Preface and Introductory Study in English. Edited text in Sanskrit set in Devanagari. First edition. (Note: Published with the financial aid of the University Grants Commission, Government of Gujarat and the M. S. University of Baroda.). Baroda, Gujarat, India: Oriental Institute (published under the authority of the Maharaja Sayajirao University of Baroda, Baroda). Source: https://archive.org/details/narasimhachary-mudumby-n.-ed.-1976.-agama-pramanya-of-yamuna-archarya (accessed: Thursday, August 29, 2024)
+
+**Purport:**<br>
+...
+
+### NARAYANAN, K. ###
+
+* Narayanan, K.K.C.S. Badhri (1999). ‘Iconography as Revealed from the Vaikhanasa Agama’. Dissertation. Post Graduate & Research Department of Sanskrit, Presidency College (Autonomous), Chennai. Triplicane, Chennai, Tamil Nadu, India: The University of Madras. Source: http://hdl.handle.net/10603/295758 (accessed: Saturday, June 29, 2024). Source: https://archive.org/details/narayanan-k.-k.-c.-s.-badhri-1999.-iconography-as-revealed-from-the-vaikhanasa-agama.-dissertation (accessed: Saturday, June 29, 2024)
+
+**Purport:**<br>
+I sourced this dissertation in a number of individual pieces as per the site in the linkage abovecited and stitched them together. I have tendered this dissertation to archives for probity, ease of discovery and access.
+
 ### NARAYANAN, M.; *et al* ###
 
 * Narayanan, M.G.S. & Kesavan, Veluthat (1978). 'Bhakti Movement in South India' (pp. 33 - 66) in Malik, Subhash Chandra (ed.) (1978). *Indian Movements: Some Aspects of Dissent, Protest and Reform*. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
@@ -636,12 +679,108 @@ I envisaged the necessity of this work. I am overjoyed it has been conducted. Th
 **Purport:**<br>
 The bibliography of this article, for its time, is a sublimation of scholarship. The article title is misleading as it also surveys North India.
 
+### NATH, S. ###
+
+* Nath, Samir (2002). ‘Dictionary of Vedanta’. First edition. Delhi, India: Ivy Publishing House. ISBN 8178900564. Source: https://archive.org/details/dictionaryofvedantasamirnath_366_n (accessed: Sunday, July 21, 2024)
+
+**Purport:**<br>
+...
+
+### NAYAR, K. ###
+
+* Nayar, Kamala Elizabeth (2004). ‘Hayagriva in South India: Complexity and Selectivity of a Pan-Hindu Deity’. Leiden, The Netherlands: Koninklijke Brill NV. ISBN 9004137300. Source: https://archive.org/details/nayar-kamala-elizabeth-2004.-hayagriva-in-south-india-complexity-and-selectivity (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+### NAYAR, N. ###
+
+* Nayar, Nancy Ann (1992). ‘Poetry as Theology: The Śrīvaiṣṇava Stotra in the Age of Rāmānuja’. Wiesbaden, Germany: Otto Harrassowitz. ISBN 9783447032551. (Note: This is a reworking of her 1990 dissertation accepted by Montreal University as advised on the copyright page of her book on Google Books.).
+
+**Purport:**<br>
+I wrote to the Montreal University Library on Friday, September 27, 2024, for assistance locating title and an electronic copy. As of Tuesday, July 8, 2025, I remember getting a curt response from MU. **TODO:** I still wish to secure a copy of this work. I have secured Nayar's dissertation that informed this monograph and tendered it to Archives for probity. **TODO:** Bibliographically file said dissertation in due course.
+
+### NEELIS, J. ###
+
+* Neelis, Jason (2011). ‘Early Buddhist Transmission and Trade Networks: Mobility and Exchange Within and Beyond the Northwestern Borderlands of South Asia’. Dynamics in the History of Religion Vol. 2. With a Foreward by Volkhard Krech. Leiden, The Netherlands: Brill. ISBN 9789004181595 (hardback: alk. paper). Source: https://archive.org/details/neelis-jason-2011.-early-buddhist-transmission-trade-networks-mobility-exchange- (accessed: Monday, September 09, 2024)
+
+**Purport:**<br>
+...
+
+### NEKI, J. ###
+
+* Neki, Jaswant Singh (c. 2013). ‘Sahaj’ in Mann, J. S. & Sodhi, S. S. (eds. & comps.) (c. 2013). *Concepts in Sikhism: Cognitive Psychology — Mind Map Approach to Understanding Sikhism for the Second Generation Sikh Children*. Halifax, Nova Scotia Canada: Independently/Self-published. (Note: There is a published edition available by Sapatrishi Publications, 2022, except it is credited with an additional editor and compiler, not evident in the undated PDF precursor, I have secured, who is named M. P. Singh. All three editor/compilers bear the title ‘Doctor’, which is worth noting. ISBN 9789394769083. I date the PDF as circa 2013, as an identical undated PDF to the one I secured, was uploaded to Scribd in that year.). Source: https://archive.org/details/mann-j.-s.-sodhi-s.-s.-eds.-comps.c-2013.-concepts-in-sikhism-cognitive-psycholo (accessed: Monday, July 15, 2024)
+
+**Purport:**<br>
+...
+
+### NELSON, L. ###
+
+* Nelson, Lance Edward (1986). ‘Bhakti in Advaita Vedanta: A Translation and Study of Madhusudana Sarasvati’s Bhaktirasayana’. Ph.D. thesis. School of Graduate Studies. Hamilton, Ontario, Canada: McMaster University. Source: https://archive.org/details/nelson-lance-e.-1986.-bhakti-in-advaita-vedanta-a-translation-study-of-madhusuda (accessed: Tuesday, September 17, 2024)
+
+**Purport:**<br>
+...
+
+### NEMEC, J. ###
+
+* Nemec, John (2020). ‘Innovation and Change in the Vale of Kashmir, circa 900–150 C. E.’ (pp. 283–320) in Goodall, Dominic; Hatley, Shaman; Isaacson, Harunaga & Raman, Srilata (eds.) (2020). *Shaivism and the Tantric Traditions: Essays in Honour of Alexis G.J.S. Sanderson*. Gonda Indological Studes Vol. 22. Leiden, The Netherlands: Koninklijke Brill. ISBN 9789004432802 (ebook). Source: https://archive.org/details/goodall-d.-hatley-s.-isaacson-h.-raman-s.-eds.-2020.-shaivism-and-the-tantric-tr (accessed: Friday, October 04, 2024)
+
+**Purport:**<br>
+By memory, Nemec is faculty at U. of Virg. **TODO:** Harvest his work.
+
+### NILAKANTA, K. ###
+
+* Nilakanta, Kallidaikurichi Aiyah (1956). ‘An Historical Sketch of Shaivism’ (pp. 63–78) in Bhattacharyya, Haridas (ed.) (1956). *The Cultural Heritage of India: Vol. 4, The Religions*. With a Publisher’s Note by Swami Nityaswarupananda. With a Preface by Suniti Kumar Chatterji. With an Introduction by Bharataratna Bhagavan Das. (Note: First edition of 3 volumes published in 1937. Second edition of 5 volumes, revised and enlarged.). Calcutta, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
+
+**Purport:**<br>
+...
+
 
 
 ...
 
 # O #
 
+### OBERHAMMER, G. ###
+
+* Oberhammer, Gerhard (1977). ‘An Unknown Source in Shankara’s Refutation of the Pancharatra’ (pp. 221–233) in the *Annals of the Bhandarkar Oriental Research Institute: Diamond Jubilee Volume*, Vol. 58/59, 1977–1978. Pune, Maharashtra, India: Bhandarkar Oriental Research Institute (BORI). Source: https://archive.org/details/oberhammer-gerhard-1977.-an-unknown-source-in-shankaras-refutation-of-the-pancharatra (accessed: Friday, September 06, 2024)
+
+**Purport:**<br>
+...
+
+* Oberhammer, Gerhard (1994). ‘Revelation History as Text: Religious Hermeneutic Remarks on the Phenomenon in Hindu Tradition \[German: Offenbarungsgeschichte als Text: Religionshermeneutische Bemerkungen zum Phänomen in Hinduistischer Tradition]’. Publications of the De Nobili Research Library. Occasional Papers Vol. 5. (In German.). Vienna, Austria: Gerold & Co (Institut für Indologie der Universität Wien, Sammlung De Nobili). ISBN 3900271240, ISBN 9783900271244.
+
+**Purport:**<br>
+I could not locate either an ebook or a scanned PDF of this work and as it significantly treats the Pancharatra, I purchased a secondhand edition on Wednesday August 21, 2024. I am not literate in the German, but I needsmust make my way through the literary endeavour with comportment.
+
+* Oberhammer, Gerhard (ed.). (1998a). ‘Studies in Hinduism II (2): Miscellanea to the Phenomenon of Tantras’. Austrian Academy of Sciences, Philosophical-Historical Class 662. Contributions to the Cultural and Intellectual History of Asia №28. ‘Vienna, Austria: Austrian Academy of Sciences Press \[German: Wien: Osterreichischen Akademie der Wissenschaften]. ISBN 9783700127543. Source: https://archive.org/details/studiesinhindusimmiscellaneatothephenomenonoftantrasgerhardoberhammerarticles_876_v (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+* Oberhammer, Gerhard (1998b). ‘Observations on the “History of Revelation” of the Parama-Samhita \[German: Beobachtungen zur “Offenbarungsgeschichte” der Parama-Samhita]’ (pp. 21–41) (in German) in Oberhammer, Gerhard (ed.). (1998a). *Studies in Hinduism II (2): Miscellanea to the Phenomenon of Tantras*. Austrian Academy of Sciences, Philosophical-Historical Class 662. Contributions to the Cultural and Intellectual History of Asia №28. ‘Vienna, Austria: Austrian Academy of Sciences Press \[German: Wien: Osterreichischen Akademie der Wissenschaften]. ISBN 9783700127543. Source: https://archive.org/details/studiesinhindusimmiscellaneatothephenomenonoftantrasgerhardoberhammerarticles_876_v (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+### OBERHAMMER, G.; *et al.* ###
+
+* Oberhammer, Gerhard & Mesquita, Roque (eds.) (1993). ‘Proceedings of the 8th World Sanskrit Conference, Vienna, 1990’. Wiener Zeitschrift für die Kunde Südasiens und Archiv für Indische Philosophie: Vol. Band 36, 1992. ‘Publishing House of the Austrian Academy of Sciences \[German: Verlag der Österreichischen Akademie der Wissenschaften]: Vienna \[German: Wien], Austria. ISBN 3700120869. Source: https://archive.org/details/oberhammer-g.-mesquita-r.-eds.-1993.-proceedings-of-8th-world-sanskrit-conference-vienna-1990 (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
+...
+
+
+### O'BRIEN, B. ###
+
+* O’Brien, Barbara (2018). ‘An Explanation of Upaya in Buddhism’ in *Learn Religions [online]*, March 20, 2018 (updated). Source: https://www.learnreligions.com/upaya-skillful-or-expedient-means-450018 (accessed: Monday, July 22, 2024). Source: https://archive.org/details/o-brien-barbara-2018.-an-explanation-of-upaya-in-buddhism (accessed: Monday, July 22, 2024)
+
+**Purport:**<br>
+...
+
+
+
+  
 ...
 
 # P #
@@ -673,6 +812,13 @@ The bibliography of this article, for its time, is a sublimation of scholarship.
 
 **Purport:**
 ...
+
+### STAINTON. H.; *et al.* ###
+
+* Stainton, Hamsa (auth.) & Nemec, John (ed.) (2019). 'Poetry as Prayer in the Sanskrit Hymns of Kashmir'. American Academy of Religion: Religion in Translation series. A Publication Series of The American Academy of Religion and Oxford University Press. New York. N.Y., U.S.A.: Oxford University Press. ISBN 9780190889821 (updf).
+
+**Purport:**
+**TODO:** There are many other works of note in this Series outlined in the Frontmatter. They are to be secured and filed in due course. B9HH Tuesday, July 8, 2025.
 
 ### STUTLEY, M. ###
 
