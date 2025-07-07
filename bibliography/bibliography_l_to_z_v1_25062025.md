@@ -599,12 +599,12 @@ The ‘Charyagiti’ (xxx) or ‘Charyapada’ (xxx), is a compendium of lyrical
 **Purport:**<br>
 ...
 
-### MÜLLER-EBELING, C.; *et al* ###
+### MÜLLER-EBELING, C.; *et al.* ###
 
 * Müller-Ebeling, Claudia (auth.); Rätsch, Christian; Shahi (auth.); Surendra Bahadur (auth.) & Lee, Annabel (2002). ‘Shamanism and Tantra in the Himalayas’. London, U. K.: Thames & Hudson Ltd. ISBN 050051108X Source: https://archive.org/details/muller-ebeling-c.-auth.-ratsch-c.-auth.-shahi-s.-b.-auth.-lee-a.-trans.-2002.-sh (accessed: Saturday, June 08, 2024)
 
 **Purport:**<br>
-A watershed work in the literature. I leaned on it heavily to inform my ritual practice with the Kila and in writing and citing of the English Wikipedia 'Vajrakila' article, which has subsequently been split into 'Vajrakilaya' as a ritual tool and 'Dorje Purbha' as the deity of the ritual tool. My intention was to maintain its Sanskrit provenance and subsume subsequent traditions.
+A watershed work in the literature. I leaned on it heavily to inform my ritual practice with the Kila post-initiation and empowerment and in writing and citing the historical English Wikipedia 'Vajrakila' article, thhe substantive content of which has subsequently been split into 'Vajrakilaya' as a ritual tool and 'Dorje Purbha' as the deity of the ritual tool. To me, they are non-different and other editors, most of which are noot practitioners, do not appreciate this finesse. Moreover, my overriding intention, was to maintain the Sanskrit and Indic provenance of the nomenclature and subsume subsequent traditions.
 
 ### MUMME, P. ###
 
