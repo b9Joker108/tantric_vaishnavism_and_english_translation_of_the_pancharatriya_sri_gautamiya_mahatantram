@@ -82,6 +82,13 @@ This article is the synthesis and digest of a vast number of sources, which it c
 **Purport:**<br>
 As soon as I saw "sāttāda", my intuition told me it was a Romanised Tamilization with diacritics, of the Sanskrit "sātvata" or "sāttvata". On reading the article, Lester surrenders this point, but only in passing.
 
+### LEWIS, B. ###
+
+* Lewis, Brenda Ralph (2001). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
+
+**Purport:**
+This work is strong and there is such silence around it.
+
 ### LIDKE, J. ***
 
 * Lidke, Jeffrey (2014). 'Transcendental Devotion (anuttara-bhakti): The Recognition of Deity as Self in the Nondual Tantra of Abhinavagupta'. Paper to be read at the 12th Annual DANAM Conference, November 22, 2014, San Diego, California. Unpublished draft. Source: xxx
