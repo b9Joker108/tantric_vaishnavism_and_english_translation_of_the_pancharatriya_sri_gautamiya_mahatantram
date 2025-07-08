@@ -919,6 +919,13 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 
 # W #
 
+### WILKE, A.; *et al.* ###
+
+* Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
+
+**Purport:**
+This volume is wealth.
+
 ### WONG, L.; *et al.* ###
 
 * Wong, Lucian & Sardella, Ferdinando (auths.) (2020). 'Vaishnavism in Colonial Bengal: Beyond the Hindu Renaissance' (pp. 1 - 15) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
