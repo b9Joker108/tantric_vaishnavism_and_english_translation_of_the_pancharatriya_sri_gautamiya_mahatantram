@@ -84,10 +84,30 @@ As soon as I saw "sāttāda", my intuition told me it was a Romanised Tamilizati
 
 ### LEWIS, B. ###
 
-* Lewis, Brenda Ralph (2001). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
+* Lewis, Brenda Ralph (2001a). 'Ritual Sacrifice: A Concise History (An Illustrated History)'. Phoenix Mill, Thrupp, Stroud, Gloucestershire, England, U.K.: Sutton Publishing. ISBN 1750927070.
 
 **Purport:**
 This work is strong and there is such silence around it.
+
+* Lewis, Brenda Ralph (2001b). 'The Nature of Sacrifice: An Overview' (pp. 1-11) in Lewis, Brenda Ralph (2001a). *Ritual Sacrifice: A Concise History (An Illustrated History)*. Phoenix Mill, Thrupp, Stroud, Gloucestershire, England, U.K.: Sutton Publishing. ISBN 1750927070.
+
+**Purport:**
+...
+
+* Lewis, Brenda Ralph (2001c). 'Twilight of the Gods' (pp. 65-79) in Lewis, Brenda Ralph (2001a). *Ritual Sacrifice: A Concise History (An Illustrated History)*. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
+
+**Purport:**
+...
+
+Lewis, Brenda Ralph (2001d). 'A Sacred Profusion: The Indian Subcontinent' (pp. 113-126) in Lewis, Brenda Ralph (2001a). *Ritual Sacrifice: A Concise History (An Illustrated History)*. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
+
+**Purport:**
+...
+
+Lewis, Brenda Ralph (2001e). 'Steppes to Salvation: Central Asia and China' (pp. 127-144) in Lewis, Brenda Ralph (2001a). *Ritual Sacrifice: A Concise History (An Illustrated History)*. Phoenix Mill, Thrupp, Stroud, Gloucestershirev England, U.K.: Sutton Publishing. ISBN 1750927070.
+
+**Purport:**
+...
 
 ### LIDKE, J. ***
 
