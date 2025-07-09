@@ -886,6 +886,27 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### PANDEY, S. ###
+
+* Pandey, Dr. Shitala Prasad \[Hindi: डॉ० शीतलाप्रसाद पाण्डेय ; IAST: Ḍo. Śītalāprasāda Pāṇḍeya] (2011). 'A Study of Vaikhanasa Agama \[Hindi: वैखानस आगम : एक अध्ययन ; IAST: Vaikhānasa Āgama: Eka Adhyayana]. (Note: The work is in Hindi set in Devanagari.). First edition. Varanasi, India: 'Art Publishing \[Hindi: कला प्रकाशन ; IAST: Kalā Prakāśana]. ISBN 9789380467597. Source: https://archive.org/details/wg803 (accessed: Sunday, July 28, 2024)
+
+**Purport:**<br>
+...
+
+### PARAMASIVAN, V. ###
+
+* Paramasivan, Vasudha (2010). 'Between Text and Sect: Early Nineteenth Century Shifts in the Theology of Ram'. Ph.D. dissertation in South and Southeast Asian Studies. Berkeley, California, U.S.A.: University of California. Source: http://escholarship.org/uc/item/1k81z14s accessed: (accessed: Saturday, March 15, 2025)
+
+**Purport:**<br>
+...
+
+### PARAMPURUSHDAS, S.; *et al.* ###
+
+* Parampurushdas, Sadhu & Shrutiprakashdas, Sadhu (eds.) (2002). 'A Catalogue of Pancharatra Samhita \[Sanskrit: पञ्श्चरात्रसंहितासूचिः ; IAST: Pañcarātrasaṁhitāsūciḥ]'. Presented by AARSH, Akshardham, Gandhinagar, India. With a Blessing both in fascimile of the handwritten correspondence in both the Gujarati language and script, as well as in print in English, by Sri Pramukh Swami Maharaj. With a Publisher's Note in English by Swaminarayan Aksharpith, though not formally attributed. An Introduction in Sanskrit, set in Devanagari, and an Introduction in English. The body of the Catalogue is bilingual, at times, multilingual. \[Note: The Catalogue was released at the 'National Seminar on Pancharatra Agama', organised at Tirupati, under the joint auspices of AARSH (Akshardham Centre for Applied Research in Social Harmony), Gandhinagar, and Rashtriya Sanskrit Vidyapeetha, Tirupati, on November 27, 2002.]. Shahibaug, Amdavad, India: Swaminarayan Aksharpith. ISBN 8175262060. Source: https://archive.org/details/catalogueofpancaratrasamhitaswaminarayanaaksharpithgujarat2002 (accessed: Friday, August 09, 2024)
+
+**Purport:**<br>
+...
+
 ### P.I., A. ###
 
 * P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
