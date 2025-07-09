@@ -859,6 +859,33 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+* Padoux, Andre (ed.) (1986b). 'Mantras et Diagrammes Rituels dans L'Hindouisme'. Centre National de la Recherche Scientifique: Equipe de Recherche №249, "L'Hindouisme - Texts, Doctrines, Pratiques". Table Ronde: Mantras et Diagrammes Rituels dans L'Hindouisme, Paris, 22–22 Juin, 1984. Paris, France: Editions du Centre National de la Recherche Scientifique. ISBN 2222038499. Source: https://archive.org/details/MantraEtDiagrammesRituelsDansLHindouismeTableRonde (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+...
+
+* Padoux, Andre (1998). 'Concerning Tantric Traditions' (pp. 9–20) in Oberhammer, Gerhard (ed.). (1998a). *Studies in Hinduism II (2): Miscellanea to the Phenomenon of Tantras*. Austrian Academy of Sciences, Philosophical-Historical Class 662. Contributions to the Cultural and Intellectual History of Asia №28. 'Vienna, Austria: Austrian Academy of Sciences Press \[German: Wien: Osterreichischen Akademie der Wissenschaften]. ISBN 9783700127543. Source: https://archive.org/details/studiesinhindusimmiscellaneatothephenomenonoftantrasgerhardoberhammerarticles_876_v (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+* Padoux, Andre (2011). 'Tantric Mantras: Studies on Mantrashastra'. Routledge Studies in Tantric Traditions series. With a Foreward by Gavin Flood. First edition. Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203814499 (ebook). Source: https://archive.org/details/padoux-andre-2011.-tantric-mantras-studies-on-mantrashastra_202408 (accessed: Thursday, July 18, 2024)
+
+**Purport:**<br>
+...
+
+### PAL, P. ###
+
+* Pal, Pratapaditya (1986). 'Indian Sculpture: Vol. 1; c.500 B.C.-A.D. 700'. With a Foreword by Earl A. Powell III. (Note: This is a catalogue of the Los Angeles County Museum of Art Collection.). Los Angeles, California, U.S.A.: Los Angeles County Museum of Art (Berkeley, California, U.S.A.: University of California Press). ISBN 0875871291 (Vol. 1, paperback). Source: https://archive.org/details/indiansculpturec01palp (accessed: Saturday, July 20, 2024)
+
+**Purport:**<br>
+...
+
+* Pal, Pratapaditya (1988). 'Indian Sculpture: Vol. 2; 700–1800'. With a Foreword by Earl A. Powell III. (Note: This is a catalogue of the Los Angeles County Museum of Art Collection.). Los Angeles, California, U.S.A.: Los Angeles County Museum of Art (Berkeley, California, U.S.A.: University of California Press). ISBN 08758714818 (Vol. 2, paperback). Source: https://archive.org/details/indiansculpturec02palp (accessed: Saturday, July 20, 2024)
+
+**Purport:**<br>
+...
+
 ### P.I., A. ###
 
 * P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
