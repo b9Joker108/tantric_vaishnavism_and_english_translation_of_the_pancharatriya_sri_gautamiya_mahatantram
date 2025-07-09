@@ -99,3 +99,14 @@ This is a valuable work for our purposes and it has been well produced.
 # K #
 
 ...
+
+### KLUTZ, T.; *et al.* ###
+
+* Klutz, Todd (ed.) & Porter, Stanley E. (exec. ed.), *et al*. (2003). 'Magic in the Biblical World: From the Rod of Aaron to the Ring of Solomon'. Journal for the Study of the New, Testament Supplement Series No. 245. London, England, U.K.: T&T Clark International (a Continuum imprint). ISBN 0826466842 (hbk).
+
+**Purport:**<br>
+Why? The discourse of Tantra was mediated into the English and the languages of Europe through the medium of **their** context. This is only a part of that context.
+
+
+
+
