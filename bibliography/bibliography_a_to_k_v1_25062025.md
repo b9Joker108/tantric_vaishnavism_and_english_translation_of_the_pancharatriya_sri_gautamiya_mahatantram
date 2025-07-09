@@ -28,6 +28,13 @@ Usefully, this article also outlines the phenomenon and duties of a Matha or Mut
 **Purport:**
 This is a valuable work for our purposes and it has been well produced.
 
+### BENN, J. ###
+
+* Benn, James A. (2007, 2004). 'REVIEW: Chinese Magical Medicine. By Michel Strickmann. Edited by Bernard Faure. Stanford, Calif.: Stanford University Press, 2002. xii, 418 pp. $24.95 (paper)' (pp. 1113-1114) in *The Journal of Asian Studies*, Vol. 63, Issue 4, November, 2004. DOI: 10.1017/S0021911804002657. Source: https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/chinese-magical-medicine-by-strickmann-michel-edited-by-faure-bernard-stanford-calif-stanford-university-press-2002-xii-418-pp-2495-paper/8789D06CEC10EC2146744FCC3FAAFC43# (accessed: Wednesday, July 09, 2025)
+
+**Purport:**
+...
+
 ### BHATIA, V. ###
 
 * Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
