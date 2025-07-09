@@ -890,42 +890,49 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 * Sardella, Ferdinando & Wong, Lucian (eds.) (2020). 'The Legacy of Vaishnavism in Colonial Bengal'. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### SEN, A.; *et al.* ###
 
 * Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33 - 56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### STAINTON. H.; *et al.* ###
 
 * Stainton, Hamsa (auth.) & Nemec, John (ed.) (2019). 'Poetry as Prayer in the Sanskrit Hymns of Kashmir'. American Academy of Religion: Religion in Translation series. A Publication Series of The American Academy of Religion and Oxford University Press. New York. N.Y., U.S.A.: Oxford University Press. ISBN 9780190889821 (updf).
 
-**Purport:**
+**Purport:**<br>
 **TODO:** There are many other works of note in this Series outlined in the Frontmatter. They are to be secured and filed in due course. B9HH Tuesday, July 8, 2025.
+
+### STRICKMANN, M. ###
+
+* Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
+
+**Purport:**<br>
+This is a watershed and landmark study in the literature and is invaluable for our purposes.
 
 ### STUTLEY, M. ###
 
 * Stutley, Margaret (2019, 1985). 'The Illustrated Dictionary of Hindu Iconography'. Routledge Library Editions: Hinduism - Vol. 6. (NB: First published in 1985 by Routledge & Kegan Paul PLC, London, England, U.K.). Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429053849 (Vol. 6) (ebk).
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### SURI, P. ###
 
 * Suri, Pushpa (1978). 'Arya Samaj Movement' (pp. 191 - 214) in Malik, Subhash Chandra (ed.) (1978). *Indian Movements: Some Aspects of Dissent, Protest and Reform*. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # T #
 
 ...
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # U #
@@ -935,19 +942,19 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 * Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' (pp. 209-248) in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, Chicago, Illinois, U.S.A.: The University of Chicago Press.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Urban, Hugh B. (2023). 'Tantra in South Asia' (pp. 1-21) in the *Oxford Research Encyclopedia of Asian History \[Online]*, April 19, 2023. Source: https://doi.org/10.1093/acrefore/9780190277727.013.726 (accessed: Wednesday, July 09, 2025). Source: https://www.academia.edu/100590752/Tantra_in_South_Asia (accessed: Wednesday, July 09, 2025)
 
-**Purport:**
+**Purport:**<br>
 This is quite useful as it is relatively recent and amongst other things, ventures a brief survey of the way English scholarship has endeavoured to progressively define 'tantra' and what it signifies and points to.
 
 ### URGYEN, T.; *et al* ###
 
 * Urgyen, Tulku (auth. & orrat.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
 
-**Purport:**
+**Purport:**<br>
 This stands as an exceptionally valuable resource for the serious practitioner of Dzogchen within the Nyingma tradition. The text offers direct, pragmatic and experiential guidance distilled from oral instructions and written notes by senior disciples of the Rinpoche, presenting the essence of Dzogchen contemplation, conduct and view in a manner that is accessible without sacrificing the profundity of the Rinpoche's original teachings. The translators, compilers and editors, all established figures in the field of Himalayan Bauddhadharma sacred literature, bring a wealth of experiential knowledge and linguistic competence, ensuring that the transmission remains faithful to the living tradition. That said, the publication does not aspire to the standards of academic sophistication nor critical philological rigor of their other work. The source material is acknowledged as composite and, at times, extemporaneous, with the translation prioritizing clarity and immediate applicability over textual criticism or historical contextualization. The editorial apparatus is minimal, lacking extensive footnotes, critical apparatus, or the inclusion of the original Tibetan script or transcription for probity and the book is presented in a standard paperback format typical of practitioner-oriented works from Rangjung Yeshe Publications during this period. Whilst 'Vajra Speech' is indispensable for those seeking practical engagement with Dzogchen pith instructions, it does not constitute a scholarly edition nor a comprehensive critical presentation of the material. Its strength lies in its capacity to communicate the experiential core of the teachings to a contemporary English-literate audience, rather than in that of a refined academic register.
 
 # V #
@@ -956,7 +963,7 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 
 * Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihakendra-saṃhīta: sudarśana-mantra-śāstra ; Devanagari: xxx ; IAST: xxx ]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # W #
@@ -965,14 +972,14 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
 
-**Purport:**
+**Purport:**<br>
 This volume is wealth.
 
 ### WONG, L.; *et al.* ###
 
 * Wong, Lucian & Sardella, Ferdinando (auths.) (2020). 'Vaishnavism in Colonial Bengal: Beyond the Hindu Renaissance' (pp. 1 - 15) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # X # 
