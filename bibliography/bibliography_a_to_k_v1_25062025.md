@@ -67,6 +67,13 @@ This is a valuable work for our purposes and it has been well produced.
 
 # H #
 
+### HADA, M.; *et al.* ###
+
+* Hada, Madhav & Trikha, Pradeep (2025). 'Lal Ded: A Living Tradition of Bhakti Poetry in Kashmir' (pp. 177-188) in *Indian Literature*, Jan.-Feb., Vol. 69, No. 1, 345, 2005. Sahitya Akademi. Source: https://www.jstor.org/stable/10.2307/27361730 (accessed: Wednesday, July 09, 2025)  
+
+**Purport:**<br>
+...
+
 ### HENRION-DOURCY, I. ###
 
 * Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
