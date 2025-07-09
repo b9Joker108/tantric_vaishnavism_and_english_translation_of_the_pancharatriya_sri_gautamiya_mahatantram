@@ -921,6 +921,13 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 **Purport:**<br>
 ...
 
+### PAYNE, R.; *et al.* ###
+
+* Payne, Richard K. & Hayes, Glen A. (eds.) (2024). 'Oxford Handbook of Tantric Studies'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub) 
+
+**Purport:**<br>
+Not one dedicated article on either the Pancharatra or Vaikhanasa, one on Vaishnava Sahajiya and one on the Bhutashuddhi (BS) gives some treatment to the Pancharatra and has a valuable bibliography. This article on the BS and the one by Flood, plus the dedicated primary resource on BS, should be enough to support a well-rounded presentation.
+
 ### P.I., A. ###
 
 * P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
