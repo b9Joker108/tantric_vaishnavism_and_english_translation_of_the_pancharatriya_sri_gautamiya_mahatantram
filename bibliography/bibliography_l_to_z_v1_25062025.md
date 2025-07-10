@@ -826,6 +826,13 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### ONDRAČKA, L. ###
+
+* Ondračka, Lubomir (2024). 'Chapter 10: Transforming the Body by Mastering the Elements, Some Tantric Sources' (pp. 225-248) in Payne, Richard K. & Hayes, Glen A. (eds.) (2024). *Oxford Handbook of Tantric Studies*. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub). DOI: https://doi.org/10.1093/oxfordhb/9780197549889.013.9. Source: https://www.academia.edu/128554767/Transforming_the_Body_by_Mastering_the_Elements_Some_Tantric_Sources (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+...
+
 ### ORR, L. ###
 
 * Orr, Leslie C. (1995). ‘The Vaishnava Community at Sri-Rangam: The Testimony of the Early Medieval Inscriptions’ (pp. 109–136) in Rosen, Steven J. (ed.), *et al.* (1995). *Journal of Vaishnava Studies*, Vol. 3, №3, Summer, 1995. Brooklyn, N.Y., U.S.A.: FOLK Books. Source: https://archive.org/details/orr-leslie-c.-1995.-vaishnava-community-at-sri-rangam-testimony-of-early-medieval-inscriptions (accessed: Friday, August 23, 2024)
