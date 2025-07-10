@@ -35,6 +35,13 @@ by Sri Nagahari-dasa a.k.a. Beauford A. Stenberg
 **Purport:**<br>
 This item is the fourth of five volumes of a suite. The first volume of which, is my principal secondary resource. It took me circa three (3) weeks of solid work of protracted research and endeavour to realise it. It was not been cited in any work I have so far read. The first volume out of five (5), is effectively a monograph on the Pancharatra as a class. It is the first substantive monographic work on the topic in English, that I have secured. As such, I cherish it greatly as my guiding light and I am actually unwrapping it ever-so-slowly, savouring and integrating each sip of the nectarine elixir and fully digesting it, before progressing. Actually, before fully progressing my study of this work and progressing with the Gautamiya Mahatantram translation, I have somewhat been seduced into translating an emic Hindi work on Vaishnava Tantra, geared towards academically oriented to the cohort of the young adult Vaishnava, but is of course useful for those outside this cohort, as an entry into the topic, and the doctrine and sadhana proper, which it treates. I actually anticipate, that I will progress the translations incrementally in tandem. NB: Beauford, reference and file the other four (4) volumes.
 
+### LAMB, R.; *et al.* ###
+
+Lamb, Ramdas (auth.) & Doniger, Wendy (ed.) (2002). 'Rapt in the Name: The Ramnamis, Ramnam, and Untouchable Religion in Central India'. SUNY Series in Hindu Studies. Albany, N.Y., U.S.A.: State University of New York \[SUNY] Press. ISBN 0791453855 (alk. paper).
+
+**Purport:**<br>
+I need to invest time in this work and the '[Sri Adhyatma Ramayana](https://en.wikipedia.org/wiki/Adhyatma_Ramayana)' (Devanāgarī: अध्यात्म रामायण, IAST: Adhyātma Rāmāyaṇa, lit. 'Spiritual Ramayana') and through them and the Valmiki Ramayana, into the Bhagavan Sri Rama Pancharatriya and the stand-alone Ramaic Tantric literature, song and bhajan traditions.
+
 ### LARSON, G.; *et al.* ###
 
 * Larson, Gerald James & Bhattacharya, Ram Shankar (eds.) (1987). 'Samkhya: A Dualist Tradition in Indian Philosophy'. Encyclopedia of Indian Philosophies Vol. 4. Jawahar Nagar, Delhi, India: Motilal Banarsidass. ISBN 8120803116 (Vol. 4)
