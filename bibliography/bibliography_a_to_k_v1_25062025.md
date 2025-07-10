@@ -108,6 +108,14 @@ This is a valuable work for our purposes and it has been well produced.
 
 ...
 
+
+### KISS, C. ###
+
+* Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
+
+**Purport:**<br>
+...
+
 ### KLUTZ, T.; *et al.* ###
 
 * Klutz, Todd (ed.) & Porter, Stanley E. (exec. ed.), *et al*. (2003). 'Magic in the Biblical World: From the Rod of Aaron to the Ring of Solomon'. Journal for the Study of the New, Testament Supplement Series No. 245. London, England, U.K.: T&T Clark International (a Continuum imprint). ISBN 0826466842 (hbk).
