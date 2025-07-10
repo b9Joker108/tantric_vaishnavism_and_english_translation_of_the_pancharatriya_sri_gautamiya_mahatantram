@@ -49,6 +49,14 @@ This is a valuable work for our purposes and it has been well produced.
 
 ...
 
+
+### CHAPPELLE, P. ###
+
+* Chappelle, Pamela Ann (2021). 'Sacred Sound: The Thread of Sound, Language and Reality in Hinduism'. Graduate Program in Liberal Studies. Graduate School-Camden. Camden, New Jersey, U.S.A.: Rutgers, The State University of New Jersey. Source: https://mals.camden.rutgers.edu/files/Chappelle-Capstone.pdf (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+...
+
 # D #
 
 ...
