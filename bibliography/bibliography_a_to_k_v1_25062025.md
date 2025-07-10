@@ -61,6 +61,13 @@ This is a valuable work for our purposes and it has been well produced.
 
 ...
 
+### DUNN, B. ###
+
+* Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
+
+**Purport:**<br>
+...
+
 # E #
 
 ...
