@@ -1007,6 +1007,14 @@ This is a watershed and landmark study in the literature and is invaluable for o
 # U #
 ...
 
+### ULLREY, A. ###
+
+* Ullrey, Aaron Michael (2016). 'Grim Grimoires: Pragmatic Ritual in the Magic Tantras'. Ph.D. dissertation. Santa Barbara, California, U.S.A.: University of Califormia. Source:  
+https://escholarship.org/uc/item/4vt6f325 (accessed: Thursday, July 10, 2025)
+
+**Purport:**<br>
+Ullrey was under direct supervision of three (3) persons whose work I greatly admire. Therefore, this should be worthwhile. 
+
 ### URBAN, H. ###
 
 * Urban, Hugh B. (1998). 'The Torment of Secrecy: Ethical and Epistemological Problems in the Study of Esoteric Traditions' (pp. 209-248) in the *History of Religions*, Vol. 37, No. 3, Feb., 1998, Chicago, Illinois, U.S.A.: The University of Chicago Press.
