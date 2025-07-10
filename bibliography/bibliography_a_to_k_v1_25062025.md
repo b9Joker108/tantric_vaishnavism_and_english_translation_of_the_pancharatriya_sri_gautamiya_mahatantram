@@ -76,6 +76,13 @@ This is a valuable work for our purposes and it has been well produced.
 
 ...
 
+### FLOOD, G. ###
+
+* Flood, Gavin (2002). 'The Purification of the Body in Tantric Ritual Representation' (pp. 25-43) in the *Indo-Iranian Journal*, Vol. 45, No. 1, March, 2002. Dordrecht, Netherlands: Kluwer Academic Publishers (a division of Wolters Kluwer).
+
+**Purport:**<br>
+...
+
 # G #
 
 ...
