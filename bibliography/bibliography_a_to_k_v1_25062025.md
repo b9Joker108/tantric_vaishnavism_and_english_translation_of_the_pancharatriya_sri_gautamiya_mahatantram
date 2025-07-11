@@ -118,6 +118,13 @@ This is a valuable work for our purposes and it has been well produced.
 
 ...
 
+### JACOBSEN, K.; *et al* ###
+
+* Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). 'Brill’s Encyclopedia of Hinduism: Vol. II [2] - Sacred Texts, Ritual Traditions, Arts, Concepts'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939.
+
+**Purport:**
+...
+
 # K #
 
 ...
