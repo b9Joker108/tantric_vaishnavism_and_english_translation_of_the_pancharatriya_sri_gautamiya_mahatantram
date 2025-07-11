@@ -68,7 +68,7 @@ Citations:
 
 
 
-I feel a key important area in understanding Chaitana Sahajiyaism and the subsequent diverse sahjiya and tantric traditions influenced by Chaitanya and His associates, that are termed heterodox or apasampradaya, and all the Vaishnava Sahajiya poets, songsmiths and kirtaniyas, is the important Anthropological disvourse of re-visionary constructed morality in the cultural climate that gave rise to Tantra and its first 'Sexual Revolution', which was also seen in the Counter Cultural Sexual Revolution of the 1960s and 1970s, which is the context in which Srila Prabhupada brought Gaudiya Vaishnavismv as a newly proseletyzing  religion, to the English speaking world and establishing temples throughout the world, which fundamentally altered the religio-theological climate.
+I feel a key important area in understanding Chaitanya Sahajiyaism and the subsequent diverse sahajiya and tantric traditions influenced by Chaitanya and His associates, that are termed heterodox or apasampradaya, and all the Vaishnava Sahajiya poets, songsmiths and kirtaniyas, is the important Anthropological disvourse of re-visionary constructed morality in the cultural climate that gave rise to Tantra and its first 'Sexual Revolution', which was also seen in the Counter Cultural Sexual Revolution of the 1960s and 1970s, which is the context in which Srila Prabhupada brought Gaudiya Vaishnavismv as a newly proseletyzing  religion, to the English speaking world and establishing temples throughout the world, which fundamentally altered the religio-theological climate.
 
 You have identified a crucial and often underexplored dimension in the study of **Chaitanya Sahajiyaism** and its related Vaishnava Tantric and Sahajiya traditions: the **anthropological discourse of morality and sexuality** that shaped, and was shaped by, these movements. This context is essential for understanding both the historical emergence of Sahajiya currents and their reception—especially in relation to later global developments such as the 1960s–70s sexual revolution and the internationalization of Gaudiya Vaishnavism.
 
@@ -173,6 +173,49 @@ Citations:
 [8] Lord Caitanya's Order to “Become Guru” - ISKCON Revival Movement https://iskconirm.com/docs/webpages/btp39_LordCaitanyasOrderBecomeGuru.html
 [9] Lord Caitanya Takes Sannyasa – Back to Godhead https://back2godhead.com/glories-lord-caitanya-part-8/
 [10] Gurudasa Sannyasa Initiation -- San Francisco, July 21, 1975 https://prabhupadabooks.com/classes/initiations/gurudasa_sannyasa_initiation/san_francisco/july/21/1975
+
+
+I was of the understanding, that though tradition states that Vishnu Swami started the Rudra Sampradaya, but that Sridhara, amongst others, that there were Vaishnava nondualist devotional mendicants or shramana prior to Ramanuja, as evidenced by the Vaishnava, Sanyassin and Avadhuta Upanishads.
+
+Your understanding is well supported by both textual evidence and historical scholarship. The **Rudra Sampradaya**, traditionally attributed to Vishnuswami, is recognized as one of the four principal Vaishnava sampradayas. However, the **history of Vaishnava non-dualist devotional mendicants and shramana prior to Ramanuja** is more complex and nuanced than the later, more systematized narratives suggest.
+
+### Vishnuswami, Sridhara Swami, and the Rudra Sampradaya
+
+- **Vishnuswami** is traditionally credited as the founder of the Rudra Sampradaya, but historical details about his life and teachings are scarce. The tradition persists primarily through later figures, especially Sridhara Swami and Vallabha.
+- **Sridhara Swami** is often associated with the Vishnuswami lineage and the Rudra Sampradaya[1][8]. His commentary on the Bhagavata Purana (*Bhāvārtha-dīpikā*) is regarded as the earliest complete extant Vaishnava commentary on the text and was profoundly influential on later Vaishnava traditions, including Gaudiya Vaishnavism[1][2][5][7]. While some modern sources note Advaitic elements in his work, both Gaudiya and Vallabha traditions emphasize his Vaishnava credentials, and he is often described as "frankly dualistic" in his interpretations[1][8].
+- **Sridhara’s approach** blended Advaita and Vaishnava bhakti, sometimes using nondualist language to attract Advaitins but ultimately championing the personal deity and devotional theism[1][2][3][5].
+
+### Pre-Ramanuja Vaishnava Mendicants and Shramana Traditions
+
+- **Vaishnava Sannyasa and Avadhuta Upanishads:** The existence of Upanishads such as the *Vaishnava*, *Sannyasin*, and *Avadhuta* Upanishads, which discuss renunciation, non-dual realization, and devotion to Vishnu, demonstrates that Vaishnava mendicant and non-dualist traditions predate Ramanuja. These texts reveal a milieu in which Vaishnava sannyasins, often with shramanic (mendicant) characteristics, practiced forms of devotion and non-dual contemplation that were not strictly aligned with later doctrinal boundaries.
+- **Non-dualist Devotionalism:** There were indeed Vaishnava non-dualist devotional practitioners and teachers before Ramanuja, as evidenced by these Upanishads and by the broader presence of bhakti-oriented ascetics in early medieval India.
+
+### Sridhara Swami’s Role
+
+- **Bridge Figure:** Sridhara Swami, writing in the 14th–15th centuries, stands as a bridge between earlier, more fluid Vaishnava devotional and renunciant traditions and the later, more sharply defined sampradayas. He synthesized elements from Advaita, Vaishnava bhakti, and the Rudra Sampradaya, reflecting the complex religious landscape before the full systematization by Ramanuja, Madhva, Vallabha, and others[2][5][8].
+- **Influence on Later Traditions:** His work was foundational not only for Gaudiya Vaishnavism but also for the broader development of Vaishnava commentarial and devotional traditions[2][5][7].
+
+### Summary
+
+- **Yes, there were Vaishnava non-dualist devotional mendicants and shramana prior to Ramanuja**, as attested by the Upanishads and the early history of the Rudra Sampradaya.
+- **Sridhara Swami** exemplifies this synthesis, being both a Vaishnava and a commentator who navigated between Advaita and bhakti, and is linked to the Vishnuswami/Rudra tradition[1][2][5][8].
+- The later codification of the four principal Vaishnava sampradayas, and the doctrinal clarity they brought, was built upon a much older and more diverse landscape of Vaishnava renunciation and non-dualist devotionalism.
+
+Your understanding is thus historically and textually accurate: the roots of Vaishnava non-dualist devotionalism and mendicancy are indeed older and more widespread than the later, formalized sampradaya narratives suggest.
+
+Citations:
+[1] The Glories of Sridhara Swami: A Quick Comment on a Crafty ... https://btg.krishna.com/the-glories-of-sridhara-swami-a-quick-comment-on-a-crafty-commentator/
+[2] Why Śrīdhara Svāmī? The Makings of a Successful Sanskrit ... https://www.wisdomlib.org/religion/journal/religions-journal-mdpi/d/doc1689417.html
+[3] Srila Prabhupada and the Vaisnava Tradition of Scriptural ... https://www.dandavats.com/?p=20578
+[4] Was Sridhara Swami an Advaitan or a Vaishnava? https://hinduism.stackexchange.com/questions/30369/was-sridhara-swami-an-advaitan-or-a-vaishnava
+[5] Shridhara Svami, Śrīdhara Svāmī, Sridhara Svami, Shridharasvami ... https://www.wisdomlib.org/definition/shridhara-svami
+[6] Why Śrīdhara Svāmī? The Makings of a Successful Sanskrit ... - MDPI https://www.mdpi.com/2077-1444/11/9/436
+[7] Gaudiya Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Gaudiya_Vaishnavism
+[8] [Advaita-l] Is Sri Dhara Suddhadvaitavadi not Advaitavadi? https://www.advaita-vedanta.org/archives/advaita-l/2024-February/061530.html
+[9] Memories of His Holiness Sridhar Swami Maharaja - Blog https://iskcondesiretree.com/profiles/blogs/memories-of-his-holiness-sridhar-swami-maharaja
+[10] Sridhara_Swami_Life_Times_and_Impact_Bri.pdf https://www.scribd.com/document/468441281/Sridhara-Swami-Life-Times-and-Impact-Bri-pdf
+
+
 
 So, we really should have mentioned that the earliest of the extant, principal Vaishnava Sampradayas, that which was amplified by Ballabha, was too, really influenced by Sridhara Swami, and established the context thatbwss later differentiated by the other principal Vaishnava Sampradayas.
 
