@@ -9,6 +9,8 @@
 </figure>
 
 
+# Annotated Bibliography (3A: A-K) of the English translation of the 'Gautamiya Samhita' or 'Gautamiya Mahatantram', a Vaishnava Tantric Pancharatra Agama, with extensive Frontmatter & Introduction #
+
 # A #
 ...
 
