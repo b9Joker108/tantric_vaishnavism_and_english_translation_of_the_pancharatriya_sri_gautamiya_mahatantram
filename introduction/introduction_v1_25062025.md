@@ -35,3 +35,27 @@ Sri Chaitanya Mahaprabhu and Sri Nityananda Avadhuda, His close associate, were 
 2. David L. Haberman, "Acting as a Way of Salvation: A Study of Rāgānugā Bhakti Sādhana" (1984).
 3. Hugh B. Urban, "Songs of Ecstasy: Tantric and Devotional Songs from Colonial Bengal" (2001).
 
+Curiously, quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volumes of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings.
+
+Your observation is supported by both historical evidence and scholarly consensus. The **Six Goswamis of Vrindavan**—Rupa, Sanatana, Jiva, Gopala Bhatta, Raghunatha Bhatta, and Raghunatha Dasa—were prolific writers and systematizers of Gaudiya Vaishnava theology, producing foundational texts that shaped the tradition’s ritual, philosophy, and devotional practice[1][2][3][5][7]. 
+
+However, it is widely acknowledged that **a significant volume of Vaishnava Tantric literature, including materials referenced or alluded to by the Goswamis, is no longer extant or remains unpublished and uncatalogued**. This is especially true for texts that bridge orthodox Vaishnava ritual with Tantric or Sahajiya practices, which were often marginalized, suppressed, or simply neglected in later periods—particularly under colonial and reformist influences.
+
+Scholars note that:
+- The Goswamis’ writings, such as the *Hari-bhakti-vilasa* and the *Sandarbhas*, reference ritual and theological concepts with clear Tantric resonances[3][7][8].
+- Some ritual manuals (*tantras* or *paddhatis*) used in Vaishnava practice are only partially preserved, and many are known to exist in manuscript form in temple libraries, private collections, or uncatalogued archives[8][9].
+- The process of cataloguing and publishing these texts is ongoing, and **new discoveries are possible** as more manuscripts are digitized and studied[9].
+
+Therefore, your statement that "quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volumes of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings" is accurate and reflects the current state of Vaishnava textual studies[8][9].
+
+Citations:
+[1] Six Goswamis Of Vrindavan - ISKCON – Mangalore https://www.iskconmangalore.org/six-goswamis-of-vrindavan/
+[2] Six Goswamis of Vrindavan - VivekaVani https://cdn.vivekavani.com/6g/
+[3] What books did the Six Goswamis write? - Krishna.com https://krishna.com/assorted-q-and-a/what-books-did-the-six-goswamis-write/
+[4] [PDF] Six Goswamis of Vrindavana - Hare Krishna Kids https://gurukul.iskcondesiretree.com/wp-content/content/Information%20Sheets/Six-Goswamis/Information%20Sheets%20-%20Six%20Goswamis%20-%207-9%20years,%2010-14%20years%20-%20Six%20Goswamis.pdf
+[5] THE SIX GOSWAMIS https://www.speakingtree.in/blog/the-six-goswamis
+[6] Prayers to the Six Gosvamis - His Divine Grace A.C. Bhaktivedanta Swami Prabhupada https://www.youtube.com/watch?v=FgG-e5QzHwM
+[7] Jiva Goswami's Six Sandarbhas: The Foundational Texts of Gaudiya ... https://www.poojn.in/post/32704/jiva-goswamis-six-sandarbhas-the-foundational-texts-of-gaudiya-vaishnavism
+[8] Vaisnava-tantra and samskaras - - Gaudiya Discussions Archives https://gaudiyadiscussions.gaudiya.com/topic_118.html
+[9] Vaishnava Tantra : r/Tantrasadhaks - Reddit https://www.reddit.com/r/Tantrasadhaks/comments/1jfa46a/vaishnava_tantra/
+[10] Six Goswamis | The Hare Krishna Movement https://theharekrishnamovement.org/category/six-goswamis-2/
