@@ -73,12 +73,92 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 
 ### ACRI, A. ###
 
-Acri, Andrea (2016). 'Esoteric Buddhism in Mediaeval Maritime Asia: Networks of Masters, Texts, Icons'. Nalanda-Sriwijaya Series. 119614, Singapore: ISEAS Publishing (ISEAS: Yusof Ishak Institute). ISBN 9789814695091 (ebook). Source: xxx
+* Acri, Andrea (2016). 'Esoteric Buddhism in Mediaeval Maritime Asia: Networks of Masters, Texts, Icons'. Nalanda-Sriwijaya Series. 119614, Singapore: ISEAS Publishing (ISEAS: Yusof Ishak Institute). ISBN 9789814695091 (ebook). Source: xxx
 
 **Purport:**<br>
 ...
 
+* Acri, Andrea (2020). 'REVIEW: Nina Mirnig, Marion Rastelli & Vincent Eltschinger (eds.) (2019). Tantric Communities in Context, Vienne, Austrian Academy of Sciences Press' (pp. 504–510) in the *Bulletin de l'Ecole francaise d'Extreme-Orient* (BEFEO), Vol. 106, 2020. Paris, France: Ecole francaise d'Extreme-Orient. Source: https://archive.org/details/acri-andrea-2020.-review-nina-mirnig-marion-rastelli-vincent-eltschinger-eds.-20 (accessed: Thursday, August 29, 2024)
+
+**Purport:**<br>
 ...
+
+### ADHIKARI, A. ###
+
+* Adhikari, Anindita (2019). 'Lord Hayagriva in Sanskrit Literature'. Thesis. Department of Sanskrit. Suryamaninagar, Tripura, India: Tripura University (A Central University). Source: https://archive.org/details/adhikari-anindita-2019.-lord-hayagriva-in-sanskrit-literature (accessed: Thursday, August 08, 2024)
+
+**Purport:**<br>
+...
+
+### Adluri, S. ###
+
+* Adluri, Sucharita (2014). 'Shabda Pramana as a Theological Category in Vedanta Desika's Tattvamuktakalapa' (pp. 54–69) in the *Journal of Hindu Studies*, Vol. 7, Issue 1. Oxford, England, U.K.: Oxford Academic (Oxford University Press and The Oxford Centre for Hindu Studies). Source: https://archive.org/details/adluri-sucharita-2014.-shabda-pramana-as-a-theological-category-in-vedanta-desikas-tattvamuktakalapa (accessed: Thursday, August 22, 2024)
+
+**Purport:**<br>
+...
+
+* Adluri, Sucharita (2015). 'Textual Authority in Classical Indian Thought: Ramanuja and the Vishnu Purana'. Routledge Hindu Study Series. Milton Park, Abingdon, Oxon, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781315754826 (ebook). Source: https://archive.org/details/adluri-sucharita-2015.-textual-authority-in-classical-indian-thought-ramanuja-and-the-vishnu-purana (accessed: Thursday, August 22, 2024)
+
+**Purport:**<br>
+This is an important work. Sri Ramanujacharya is the first attested unambigously theistic Vaishnava Vedantic theologian, known to posterity from the vicissitudes, fickleness and selectivity, of history. It is best to remember that history is a construction, that we can only ever endeavour to approach truth, never reveal or attain it. Since, I became aware that Ramanuja didn't quote from the Shrimad Bhagavatham Mahapuranam, and aware that He authored a commentary on the Sri Vishnu Purana, and that this scripture contains an interior and intimate devotional perspective on the lilas of Sri Govinda and the blessed Gopis, I have become intrigued to find a dedicated work that gives academic treatment on this aspect of Ramanuja and the historicity of the Vedanta. Did Ramanuja have access to the Bhagavatham or not? Was Ramanuja aware of the Bhagavatham? Did Ramanuja just favour the Vishnu Purana over the Bhagavatham, and if so why? Was it something specific to the Vishnu Purana that inflamed and incited Ramanuja's devotional and theistic theology? If so, what?
+
+### AGRAWALA, V. ###
+
+* Agrawala, Vasudeva Sharan (1953). 'India as known to Panini: A Study of the Cultural Material in the Ashtadhyayi'. Radha Kamud Mookerji Endowment Lectures for 1952 at the University of Lucknow. Lucknow, India: University of Lucknow. Source: https://archive.org/details/in.gov.ignca.4695 (accessed: Tuesday, August 27, 2024)
+
+**Purport:**<br>
+...
+
+### AHMAD, K. ###
+
+* Ahmad, Khalid Bashir (2017). 'Kashmir: Exposing the Myth Behind the Narrative'. New Delhi, India: SAGE Publications India Pvt. Ltd. ISBN 9789386062802 (paperback). Source: https://archive.org/details/khalid-bashir-book-dr-ashraf (accessed: Tuesday, September 10, 2024)
+
+**Purport:**<br>
+This work is useful for our purposes, but its aspiration to a scholarly and academic register suffers from being the product of a non-native English speaker and has not been edited by a native English speaker, privy to an appropriate academic and scholarly register and the conventions of academic publishing in English. I also note an inherent and insidious bias in the presentation and framing of matters related to Hindu culture and religion.
+
+**Purport:**<br>
+...
+
+### AIYANGAR, M.; *et al.* ###
+
+Aiyangar, M. Duraiswami & Venugopalacharya, T. (eds.) (1942). 'Sri Pancharatra Raksha of Sri Vedanta Deshika: Ctitically Edited with Notes and Variant Readings'. With an Introduction in English by G. Srinivasa Murti. The Adyar Library Series №36. Adyar, Madras, India: The Adyar Library. Source: https://archive.org/details/in.ernet.dli.2015.495252 (accessed: Thursday, July 18, 2024). Source: https://archive.org/details/aiyangar-m.-duraiswami-venugopalacharya-t.-eds.-1942.-sri-pancharatra-raksha-of- (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
+
+### AIYANGAR, N. ###
+
+* Aiyangar, N. Kurattalvar (trans.) (1927). 'A Free Translation of the Tiruvaymoli of Sathakopa (Fourth Hundred)'. Trichinopoly (Tiruchirappalli), Tamil Nadu, India: The Jananukoola Branch Press. Source: https://archive.org/details/aiyangar-n.-kurattalvar-1927.-a-free-translation-of-the-tiruvaymoli-of-sathakopa-fourth-hundred (accessed: Friday, October 04, 2024)
+
+**Purport:**<br>
+...
+
+### AIYANGAR, S. ###
+
+* Aiyangar, S. Krishnaswami (1920). 'Early History of Vaishnavism in South India'. Madras University Special Lectures on Indian History & Archaeology: Fouth Series. London, England, U.K.: The Oxford University Press. Source: xxx
+
+**Purport:**<br>
+...
+
+* Aiyangar, S. Krishnaswami (1923, 1922). 'An Interesting Folk Movement and the Light it Throws on Indian Culture - The Satvatas' (pp. 351–364) in Mookerjee, Asutosh (president) (1923). *Proceedings and Transactions of the Second Oriental Converence: Calcutta, January 28th to February 1st, 1922*. Calcutta, India: Calcutta University (and printed by The Babtist Mission Press). Source: https://archive.org/details/dli.ernet.277183 (accessed: Saturday, August 24, 2024)
+
+**Purport:**<br>
+...
+
+* Aiyangar, S. Krishnaswami (1923). 'Some Contributions of South India to Indian Culture'. Calcutta, Bengal, India: The University of Calcutta. Source: https://archive.org/details/in.ernet.dli.2015.502326 (accessed: Monday, September 02, 2024)
+
+**Purport:**<br>
+...
+
+* Aiyangar, S. Krishnaswami (ed.) (1933). 'Journal of Indian History', Vol. XI, Parts I to III. Madras, Tamil Nadu, India: G. S. Press Lino Printers, 1933. Source: https://archive.org/details/in.ernet.dli.2015.382545 (accessed: Tuesday, August 13, 2024)
+
+**Purport:**<br>
+In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jayakhya Samhita', edited by Krishnamachariar, in the Gaikawad's Series, edited by Bhattacharya, of the Oriental Institute, Baroda. So, there may be more of value on the Pancharatra, secreted in other issues of the Journal.
+
+
+
+
+
 
 # B #
 
