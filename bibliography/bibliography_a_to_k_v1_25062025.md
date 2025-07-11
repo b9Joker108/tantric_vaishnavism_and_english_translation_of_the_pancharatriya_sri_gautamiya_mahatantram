@@ -11,7 +11,54 @@
 
 # Annotated Bibliography (3A: A-K) of the English translation of the 'Gautamiya Samhita' or 'Gautamiya Mahatantram', a Vaishnava Tantric Pancharatra Agama, with extensive Frontmatter & Introduction #
 
+by Sri Nagahari-dasa Goswamin Avadhutaka
+(a.k.a. Beauford A. Stenberg)
+
+**Note:** The (1A & 1B): Frontmatter and extensive Introduction and Survey-of-the-Field the (2A & 2B): Sanskrit original and Hindi commentary, along with annotations, English translation, analysis and commentary, will be complemented by (3A: A - K & 3B: L -Z): this Annotated Bibliography. All three (3) will be progressively and incrementally published in Medium separately, as complimentary living documents, due to publication number-of-word restrictions per published page, according to Medium (online) Webmaster's site policy and the electronic medium, proper. I may also institute (4): An Index of sorts, to collectively house a Table-of-Contents (TOC), and hypertext linkages, to assist ease of electronic navigation and wayfinding, for my audience. I have resolved not to place this work behind a paywall. That said, I reserve the right to review that determination in future, once the work has been well-progressed and well onway to realisation.
+
+**Hari Aum Tat Sat**
+
+## Annotated Bibliography ##
+
+**A first note:** I have taken liberties with the bibliographic details in this work. I have standardised titles of works, authorship, publication details and other saliences, into the somewhat prevalent forms and current standardised conventions of the Anglocentric Romanisation of Indic and Sanskritic languages, amongst others, in English, in order to standardise and normalise for the general reader and to ease and facilitate my electronic filing and discovery of sources. As I have aimed to include as much bibliographic information as possible, which will also function as a literature review of the salient extended discourse in the field; with the aid of the Internet, the true and correct details, should be easily discoverable, for those who require such specifics.
+
+**A second note:** An understanding of the complexities and finesse of a language, is only as good as the dictionary and authoritative sources one has access to, and the direct experience of the language one has received. Of course, English speaking persons who are bilingual in Sanskrit as a second language, tend to use English-Sanskrit bilingual dictionaries, such as Monier-Williams (xxx) and Apte (xxx), amongst others. In my personal methodology, on occasion, I will resort to two (2) voluminous 19th century domestic Indic Sanskritic dictionaries: the 'Vacaspatyam' and the 'Sabdakalpadruma', which stand apart from other such works for their modern style and technique. Both the volumes are replete with quotes from the contemporary literature, in explication of terms, and to attest to their analysis and its veracity. In this respect, they takes proverbial 'leaves out of the book' of 'The Oxford English Dictionary', which in contradistinction, uses direct quotations from historical sources to establish contextualised meaning in the occurrence, and often first attestations of different usages or accretions, around the initial core of the term and it's etymology. Thus charting lexical and semantic polysemy and multivalence. These two voluminous indigenous or domestic Sanskrit dictionaries, may be understood as "a bridge between the dictionary and the encyclopedia", according to 'Sanskrit EBooks \[online]'. Monier and 'Sanskrit Worterbuch' of Oto Bohtlingk and the 'Sanskrit-English Dictionary' by Vamana Sivarama Apte, are the works of excellence in this tradition.
+
+** 'Sabda Kalpadruma': A Comprehensive Sanskrit Dictionary in 5 volumes.**
+
+'Sabda Kalpadruma' is a well known Sanskrit lexicon compiled by a few Bengali scholars at the instance of Raja Radhakanta Deb of Bengal. In this compendium, the words have been analyzed into their base-forms and suffixes, their genders determined and their Sanskrit synonyms noted.
+
+Download Sabda Kalpadrumam
+
+Volume 1 Volume 2 Volume 3 Volume 4 Volume 5
+
+**'Vacaspatyam': A Comprehensive Sanskrit Dictionaryin 6 volumes.**
+
+'Vacaspatyam' is a Sanskrit Lexicon, of 5442 pages, by Pandit Taranatha Tarkavacaspati, Calcutta. It is very full up to the end of the letter Pa (page 4550), whilst the rest of the alphabet is squeezed into 900 pages! It is said that the Bengali Government, which largely subsidized the undertaking, ordered the protracted endeavour to be curtailed. If that is so, it did a very unwise thing. (Col. GA Jacob in "A Handful Of Popular Maxims Current In Sanskrit Literature")
+
 # A #
+
+### ABHINAVAGUPTA; *et al.* ###
+
+* Abhinavagupta (orat.); Singh, Satya Prakash & Maheshvarananda, Swami (trans.) (2015). 'Abhinavagupta's Sri Tantraloka and Other Works: Vol. 1'. Bilingual edition with Sanskrit original: श्रीतन्त्रालोक; IAST: Śrī-Tantrāloka and English translation. With a Foreward by Dr. Karan Singh. First edition. Daryaganj, New Delhi, India: Standard Publishers (India). ISBN 9788187471868 (Set). ISBN 9788187471776 (Vol. 1). Source: xxx
+
+**Purport:**
+...
+
+### ACHARD, J. ###
+
+* Achard, Jean-Luc (2012). 'The Instructions of the Primordial A: The Fifteen Sessions of Practice, Guru-yoga, Instructions without Characteristic, and Phowa Teachings'. A Khrid Studies, Vol. 1. Kathmandu, Nepal: Vajra Publications. ISBN 9789937506755. Source: xxx
+
+**Purport:**
+...
+
+### ACHARYA, D. ###
+
+* Acharya, Diwakar (2010). 'Early Vaishnava Texts From Nepal'. Talk given at the Oxford Centre for Hindu Studies on January 18, 2010. (Format: .mp3). Source: https://ochs.org.uk/lecture/early-vaisnava-texts-from-nepal/ (accessed: Tuesday, August 20, 2024)
+
+**Purport:**
+...
+
 ...
 
 # B #
