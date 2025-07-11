@@ -64,6 +64,11 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 ...
 
+* Colas, Gérard (2011). 'Vaikhanasa \[IAST: Vaikhānasa] (pp. 589-605) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2011). *Brill’s Encyclopedia of Hinduism: Vol. III \[3] - Society, Religious Specialists, Religious Traditions, Philosophy*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178946. Source: https://www.academia.edu/33497289/Vaikhānasa (accessed: Friday, July 11, 2025)
+
+**Purport:**<br>
+...
+
 # D #
 
 ...
