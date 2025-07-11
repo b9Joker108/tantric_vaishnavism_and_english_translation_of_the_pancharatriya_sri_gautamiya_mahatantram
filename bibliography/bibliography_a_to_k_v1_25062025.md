@@ -42,21 +42,40 @@ Volume 1 Volume 2 Volume 3 Volume 4 Volume 5
 
 * Abhinavagupta (orat.); Singh, Satya Prakash & Maheshvarananda, Swami (trans.) (2015). 'Abhinavagupta's Sri Tantraloka and Other Works: Vol. 1'. Bilingual edition with Sanskrit original: श्रीतन्त्रालोक; IAST: Śrī-Tantrāloka and English translation. With a Foreward by Dr. Karan Singh. First edition. Daryaganj, New Delhi, India: Standard Publishers (India). ISBN 9788187471868 (Set). ISBN 9788187471776 (Vol. 1). Source: xxx
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### ACHARD, J. ###
 
 * Achard, Jean-Luc (2012). 'The Instructions of the Primordial A: The Fifteen Sessions of Practice, Guru-yoga, Instructions without Characteristic, and Phowa Teachings'. A Khrid Studies, Vol. 1. Kathmandu, Nepal: Vajra Publications. ISBN 9789937506755. Source: xxx
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### ACHARYA, D. ###
 
 * Acharya, Diwakar (2010). 'Early Vaishnava Texts From Nepal'. Talk given at the Oxford Centre for Hindu Studies on January 18, 2010. (Format: .mp3). Source: https://ochs.org.uk/lecture/early-vaisnava-texts-from-nepal/ (accessed: Tuesday, August 20, 2024)
 
-**Purport:**
+**Purport:**<br>
+"Exploring early palm-leaf manuscripts from the NGMPP collection, I came across some rare Vaiṣṇava Tantras which were hardly known from any other source. In this lecture, I will talk about four of such texts: the Svāyambhuvapañcarātra, Devāmṛta-pañcarātra, Jayottaratantra, and the Vāsudevakalpa of the Mahālakṣmṃhitā, which are preserved in palm-leaf manuscripts of the 11–14th centuries.
+
+The first three texts are earlier than the texts which are regarded until now as the earliest Pāñcarātra texts. The fourth text, the Vāsudevakalpa, is exclusively concerned with the composite form of Lakṣmī and Vāsudeva, and is comparable to early Śāktatantras in certain aspects in its structure and contents. These texts together provide a broader picture of Vaiṣṇava Tantricism, and suggest that what was happening in the Śaiva fold was very similar to what was happening in the Vaiṣṇava fold."
+
+* Acharya, Diwakar (2015). 'Early Tantric Vaishnavism: Three Newly Discovered Works of the Pancharatra - The Svayambhuvapancharatra, Devamritapancharatra and Ashtadashavidhana'. (NB: Critically edited from their 11th- and 12th-century Nepalese palm-leaf manuscripts with an Introduction and Notes.). Collection Indologie Vol. 129. Early Tantra Series №2. Pondicherry, India: Institut Francais de Pondicherry (Ecole Francaise d'Extreme-Orient & Asien-Afrika-Institut, Universat Hamburg). Source: https://archive.org/details/achariya-diwakar-2015.-early-tantric-vaishnavism-three-newly-discovered-works-of (accessed: Friday, July 19, 2024)
+
+**Purport:**<br>
+...
+
+* Acharya, Diwakar (2017). 'On the Meaning and Function of Adesha in the Early Upanishads' (pp. 539–567) in the *Journal of Indian Philosophy*, Vol. 45, №3, July, 2017. Source: xxx
+
+**Purport:**<br>
+Ostensibly, this article has nothing to do with tantra. That said, it has both an interesting use of honey and bee metaphorical symbolism in the Vedas and also usefully frames the metaphorical flash of thunderous-lightening in the Brahman-Consciousness. This is useful groundwork to integrate into the traditional usage of the the honey-bee yogin motif of the consummate yogin or avadhuta, especially in the employ of the motif in relation to Sri Dattatreya. The flash of thunderous-lightening and Brahman-Consciousness, is useful for discussions on the Vajra and its employ in the Vajrayana. It is useful to note that the traditional Sanskritic title of Vajracharya, denoted a tantric teacher-adept, not delimited by the specificity of the tantric and esoteric Buddhadharma tradition. This is just a personal note, for later development and integration.
+
+### ACRI, A. ###
+
+Acri, Andrea (2016). 'Esoteric Buddhism in Mediaeval Maritime Asia: Networks of Masters, Texts, Icons'. Nalanda-Sriwijaya Series. 119614, Singapore: ISEAS Publishing (ISEAS: Yusof Ishak Institute). ISBN 9789814695091 (ebook). Source: xxx
+
+**Purport:**<br>
 ...
 
 ...
@@ -67,28 +86,28 @@ Volume 1 Volume 2 Volume 3 Volume 4 Volume 5
 
 * Behera, Simanchal (2018). 'Mathas in Odisha with Special Reference to Ganjam District: A Study' (pp. 1 - 18) in *JETIR (Journal of Emerging Technologies and Innovative Research)*, August 2018, Vol. 5, Issue 8. Source: https://www.jetir.org/papers/JETIR1808161.pdf (accessed: Sunday, July 06, 2025)
 
-**Purport:**
+**Purport:**<br>
 Usefully, this article also outlines the phenomenon and duties of a Matha or Mutt, their historicity and principal locations, amongst other things.
 
 ### BELL, C. ###
 
 * Bell, Christopher (2020). 'Tibetan Demonology: Elements in Religion and Violence'. Cambridge Elements: Elements in Religion and Violence series: edited by Lewis, James R. & Kitts, Margo. University Printing House, Cambridge, England, U.K.: Cambridge University Press (a part of the University of Cambridge). DOI: 10.1017/9781108670715. ISBN 9781108712675 (pbk).
 
-**Purport:**
+**Purport:**<br>
 This is a valuable work for our purposes and it has been well produced.
 
 ### BENN, J. ###
 
 * Benn, James A. (2007, 2004). 'REVIEW: Chinese Magical Medicine. By Michel Strickmann. Edited by Bernard Faure. Stanford, Calif.: Stanford University Press, 2002. xii, 418 pp. $24.95 (paper)' (pp. 1113-1114) in *The Journal of Asian Studies*, Vol. 63, Issue 4, November, 2004. DOI: 10.1017/S0021911804002657. Source: https://www.cambridge.org/core/journals/journal-of-asian-studies/article/abs/chinese-magical-medicine-by-strickmann-michel-edited-by-faure-bernard-stanford-calif-stanford-university-press-2002-xii-418-pp-2495-paper/8789D06CEC10EC2146744FCC3FAAFC43# (accessed: Wednesday, July 09, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### BHATIA, V. ###
 
 * Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### BLOCH, T. ###
