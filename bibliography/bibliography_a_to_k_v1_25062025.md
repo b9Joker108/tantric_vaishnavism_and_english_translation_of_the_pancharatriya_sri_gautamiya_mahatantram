@@ -40,8 +40,15 @@ This is a valuable work for our purposes and it has been well produced.
 * Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
 
 **Purport:**
-
 ...
+
+### BLOCH, T. ###
+
+* Bloch, Dr. E. Theodor (1896). 'Über das Gṛhya- und Dharmasūtra der Vaikhānasa [German; English: On the Grihya- and Dharmasutra of the Vaikhanasa'. Leipzig, Saxony, Germany: Otto Harrassowitz. (NB: A complete copy is freely available on the 'Google Play Books' Android application.).
+
+**Purport:**<br>
+I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical discourse of the Vaikhanasa Tradition into the German and the European languages and I proffer as most educated European people in this period, were also literate in French and English, as well as Latin and Ancient Greek, it may be considered to open the discourse into the English language and theological discourse as well.
+
 
 ...
 
