@@ -175,7 +175,7 @@ Citations:
 [10] Gurudasa Sannyasa Initiation -- San Francisco, July 21, 1975 https://prabhupadabooks.com/classes/initiations/gurudasa_sannyasa_initiation/san_francisco/july/21/1975
 
 
-Many experience is that Gaudiya Vaishnavism, like Sanatana Dharma inngeneral, privilige the Puranas over the Upanishads, but they all honour that the Upanishads are the Vedanta and that the summun bonum of the Vaishnava hermeneutical and theological tradition, is the commentarial teadition of the Bhahmasutas, which aim to reconcile the experiential diversity, enshrined in the Upanishads.
+My experience is that Gaudiya Vaishnavism, like the greater Sanatana Dharma populist tradition¸ in general, privilege the Puranas over the Upanishads, but they all honour that the Upanishads are the Vedanta, the culmination of the Vedic Tradition proper and that the *summun bonum* of the Vaishnava hermeneutical and theological tradition, is the commentarial tradition and institution of the Bhahmasutas, which aim to reconcile the apparent experiential diversity of the Rishis, enshrined in the Upanishads.
 
 Your observation is well founded and reflects a nuanced understanding of both **Gaudiya Vaishnavism** and the broader **Vaishnava hermeneutical tradition**.
 
@@ -208,6 +208,54 @@ Citations:
 [9] Hindu leadership https://www.newworldencyclopedia.org/entry/Hindu_leadership
 [10] Gaudiya Vaishnavism: Significance and symbolism https://www.wisdomlib.org/concept/gaudiya-vaishnavism
 
+But what do we call (both etic and emic) the shramana nascient Vaishnavas of the Upanishadic Age?
+
+The **shramana nascent Vaishnavas of the Upanishadic Age** are not referred to by a single, universally agreed-upon name, either *etically* (from the outside, scholarly perspective) or *emically* (from within the tradition). However, we can characterize and contextualize them using both scholarly and traditional terminology:
+
+### Etic (Scholarly/Academic) Terms
+
+- **Vaishnava Shramanas / Vaishnava Ascetics:**  
+  Scholars often refer to early, non-sectarian, theistic ascetics as “Vaishnava shramanas” or “Vaishnava mendicants,” especially when discussing figures or groups who practiced devotion to Vishnu or Narayana in the Upanishadic and early post-Vedic periods[4][6][10].
+
+- **Proto-Vaishnavas:**  
+  Some academic literature uses terms like “proto-Vaishnavas” or “nascent Vaishnavas” to denote those who expressed devotion to Vishnu/Narayana before the formalization of later Vaishnava sampradayas[3][7].
+
+- **Theistic Shramanas:**  
+  Given that the term “shramana” is more commonly associated with heterodox ascetic movements (Buddhists, Jains, Ajivikas), but also included Vedic and non-Vedic theistic ascetics, the phrase “theistic shramanas” is sometimes used to distinguish those with a devotional orientation toward Vishnu[10].
+
+### Emic (Traditional/Internal) Terms
+
+- **Vaishnava Sannyasins / Avadhutas:**  
+  Within later Vaishnava tradition, the Upanishads that discuss renunciation and devotion to Vishnu (such as the *Vaishnava Upanishads*, *Sannyasa Upanishads*, and *Avadhuta Upanishads*) refer to such practitioners as **Vaishnava sannyasins** or **avadhutas**[6]. These terms denote renunciants or ascetic mendicants devoted to Vishnu, Narayana, or his avatars.
+
+- **Bhagavatas:**  
+  The term “Bhagavata” is also attested in early sources for those who worshipped Bhagavan (the Lord, i.e., Vishnu/Krishna) and is used in the *Bhagavata Purana* and other texts to describe early devotees.
+
+### Contextual Notes
+
+- The **early Upanishads** (e.g., *Chandogya*, *Brhadaranyaka*) rarely use “shramana” for Vaishnava ascetics, focusing more on “brahmana” as the agent of spiritual practice[4]. However, later Upanishads (Vaishnava, Sannyasa, Avadhuta Upanishads) do explicitly describe Vaishnava renunciants, indicating the emergence of a Vaishnava ascetic ideal[6].
+- The **Vaishnava Upanishads** (composed between the early centuries CE and the medieval period) explicitly articulate the theology and practices of Vishnu-centered ascetics, using terms like *sannyasin*, *avadhuta*, and *bhakta* for such practitioners[6].
+
+### Summary Table
+
+| Perspective | Common Terms Used                                            |
+|-------------|-------------------------------------------------------------|
+| Etic        | Vaishnava shramanas, proto-Vaishnavas, theistic shramanas   |
+| Emic        | Vaishnava sannyasins, avadhutas, bhagavatas                 |
+
+In sum, while no single term is universally applied, **“Vaishnava shramanas”** or **“Vaishnava sannyasins/avadhutas”** are the most precise designations for these early, Upanishadic-era Vishnu-devoted ascetics, both in scholarly and traditional discourse[4][6][10].
+
+Citations:
+[1] Upanishads https://en.wikipedia.org/wiki/Upanishads
+[2] How Old are the Upanishads? https://www.hinduwebsite.com/upanishads/wisdom/upanishads-day02.asp
+[3] Vaishnavism https://en.wikipedia.org/wiki/Vaishnavism
+[4] Early Upanishads: Significance and symbolism https://www.wisdomlib.org/concept/early-upanishads
+[5] Part 6 - About the Age of the Upanishads https://www.wisdomlib.org/hinduism/essay/yoga-upanishads-study/d/doc1598780.html
+[6] Vaishnava Upanishads - Wikipedia https://en.wikipedia.org/wiki/Vaishnava_Upanishads
+[7] Initiation of Religions in Ancient India https://brewminate.com/initiation-of-religions-in-ancient-india/
+[8] Upanishads, Vedas, Brahman - Hinduism https://www.britannica.com/topic/Hinduism/The-Upanishads
+[9] Upanishads https://vedicheritage.gov.in/upanishads/
+[10] The Shramanas and Shramanic Traditions https://www.hinduwebsite.com/hinduism/concepts/shramana.asp
 
 
 I was of the understanding, that though tradition states that Vishnu Swami started the Rudra Sampradaya, but that Sridhara, amongst others, that there were Vaishnava nondualist devotional mendicants or shramana prior to Ramanuja, as evidenced by the Vaishnava, Sanyassin and Avadhuta Upanishads.
