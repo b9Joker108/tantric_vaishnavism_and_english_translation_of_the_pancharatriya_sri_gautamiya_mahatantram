@@ -833,6 +833,13 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### OLSON, C. ###
+
+* Olson, Carl (1997). 'The Indian Renouncer and Postmodern Poison: A Cross-Cultural Encounter'. New Perspectives in Philosophical Scholarship: Texts and Issues. New York, N.Y., U.S.A.: Peter Lang. ISBN 9780820430225.
+
+**Purport:**<br>
+This is an important and useful work that I am yet to secure.
+
 ### ONDRAČKA, L. ###
 
 * Ondračka, Lubomir (2024). 'Chapter 10: Transforming the Body by Mastering the Elements, Some Tantric Sources' (pp. 225-248) in Payne, Richard K. & Hayes, Glen A. (eds.) (2024). *Oxford Handbook of Tantric Studies*. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub). DOI: https://doi.org/10.1093/oxfordhb/9780197549889.013.9. Source: https://www.academia.edu/128554767/Transforming_the_Body_by_Mastering_the_Elements_Some_Tantric_Sources (accessed: Thursday, July 10, 2025)
