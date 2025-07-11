@@ -33,3 +33,11 @@ Citations:
 [6] Agamas/ Tantras - Hinduism Made Simple - Wara KarmaYoga https://texts.wara.in/agamas/
 [7] Vaikhanasas https://www.salagram.net/vaikhanasa-vaishnavas.html
 [8] The Agamas https://www.dlshq.org/religions/the-agamas/
+
+
+
+
+### REFERENCES ###
+
+* Colas, Gérard (2010). 'Vaishnava Samhitas \[IAST: Vaiṣṇava Saṃhitās]' (pp. 153-167) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). *Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939. Source: https://www.academia.edu/33497294/Vaiṣṇava_Saṃhitās (accessed: Friday, July 11, 2025)
+
