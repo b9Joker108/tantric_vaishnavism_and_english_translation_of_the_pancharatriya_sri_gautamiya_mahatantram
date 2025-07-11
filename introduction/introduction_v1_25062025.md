@@ -2,6 +2,9 @@
 
 To read this work, it is my considererd opinion, that mandatory minimal prior reading are the entire five (5) volume *magnum opus* of [Sri Surendranath Dasgupta](https://en.wikipedia.org/wiki/Surendranath_Dasgupta) (xxx), and the capstone of that work, which is the *magnum opus* of his student and disciple, [Sri Shashibhusan Dasgupta](https://en.wikipedia.org/wiki/Shashibhusan_Dasgupta) (), a work which Surendranath, charged Shashibhushan do, as he lamented not giving the Sahajiya Traditions due treatment in his *magnum opus*. I cannot help but muse how the English language presentation and appreciation of the Sahajiya Traditions, would have been profoundly different, if Surendranath had treated them directly in his *magnum opus*. I posit this work in that scholar-practitioner, translator and commentarial lineage, but soo too, that of my empowered Maharajji Gurudeva, *Nitya Lila*, H.D.G. Sri Shrila A. C Bhaktivedanta Swami Prabhupada and my Dharmarajji Gurudeva, H.E. Choegyal Namkha'i Norbu Ronpoche, *Professor Emeritus*, Tulku, Tertön, Adi-yogin and Dancer.
 
+As the left-hand cleanses the right,
+So too, does the right-hand, cleanse the left.
+
 # Introduction #
 
 
