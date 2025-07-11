@@ -1,3 +1,7 @@
+# Caveat Lector #
+
+To read this work, it is my considererd opinion, that mandatory minimal prior reading are the entire five (5) volume *magnum opus* of [Sri Surendranath Dasgupta](https://en.wikipedia.org/wiki/Surendranath_Dasgupta) (xxx), and the capstone of that work, which is the *magnum opus* of his student and disciple, [Sri Shashibhusan Dasgupta](https://en.wikipedia.org/wiki/Shashibhusan_Dasgupta) (), a work which Surendranath, charged Shashibhushan do, as he lamented not giving the Sahajiya Traditions due treatment in his *magnum opus*. I cannot help but muse how the English language presentation and appreciation of the Sahajiya Traditions, would have been profoundly different, if Surendranath had treated them directly in his *magnum opus*. 
+
 # Introduction #
 
 
@@ -167,3 +171,5 @@ Citations:
 [8] Lord Caitanya's Order to “Become Guru” - ISKCON Revival Movement https://iskconirm.com/docs/webpages/btp39_LordCaitanyasOrderBecomeGuru.html
 [9] Lord Caitanya Takes Sannyasa – Back to Godhead https://back2godhead.com/glories-lord-caitanya-part-8/
 [10] Gurudasa Sannyasa Initiation -- San Francisco, July 21, 1975 https://prabhupadabooks.com/classes/initiations/gurudasa_sannyasa_initiation/san_francisco/july/21/1975
+
+
