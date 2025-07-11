@@ -57,6 +57,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 ...
 
+### COLAS, G. ###
+
+* Colas, Gérard (2010). 'Vaishnava Samhitas \[IAST: Vaiṣṇava Saṃhitās]' (pp. 153-167) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). *Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939. Source: https://www.academia.edu/33497294/Vaiṣṇava_Saṃhitās (accessed: Friday, July 11, 2025)
+
+**Purport:**<br>
+...
+
 # D #
 
 ...
