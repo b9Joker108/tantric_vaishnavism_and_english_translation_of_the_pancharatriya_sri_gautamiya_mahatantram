@@ -89,6 +89,13 @@ Citations:
 
 ### REFERENCES ###
 
+### BHATTACHARYA, R. ###
+
+* Bhattacharya, Raghupati \[Telegu: రఘుపతిభట్టాచార్య ; IAST: raghupati bhaṭṭācārya] (auth.) & 'Shrinivasacharya \[Telegu: శ్రీనివాసాచార్య : IAST: śrīnivāsācārya]' of Gonepuru (ed.); & 'Shrinivasadikshita \[Telegu: శ్రీనివాసదీక్షిత ; IAST: s̀rīnivāsadīksita]' (comp.)(1948). 'Mokshopaya Pradeepika: The Revered Garland of Conclusions on the Vaikhanasa Doctrine \[Telegu: మోక్షోపాయప్రదీపికా ; IAST: mokṣopāya pradīpikā]'. 'Nellore \[English; Telegu: నల్లూరు ], Andhra Pradesh, India: Sri Mabhushagraja Vejkatha-Nrisimha-Acharya \[Telegu: శ్రీమాభీషగ్రాజదేవ వేంకటనృసింహాచార్య ; IAST: śrī mābhīṣagrajadeva Veṅkaṭanṛsiṃhācārya) & 'Praja Press \[Telegu: ప్రజా ప్రెస్ ; IAST: prajā pres]. Source: https://dn790001.ca.archive.org/0/items/mokshopayapradee015043mbp/mokshopayapradee015043mbp.pdf (accessed: Saturday, July 12, 2025) 
+
+**Purport:**<br>
+This work is particularly rare and unusual in the Vaikhanasa canon, as it is not principally a work of ritual, but one of theology. This makes it of particular importance.
+
 * Bloch, Dr. E. Theodor (1896). 'Über das Gṛhya- und Dharmasūtra der Vaikhānasa \[German; English: On the Grihya- and Dharmasutra of the Vaikhanasa'. Leipzig, Saxony, Germany: Otto Harrassowitz. (NB: A complete copy is freely available on the 'Google Play Books' Android application.).
 
 * Colas, Gérard (2010). 'Vaishnava Samhitas \[IAST: Vaiṣṇava Saṃhitās]' (pp. 153-167) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). *Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939. Source: https://www.academia.edu/33497294/Vaiṣṇava_Saṃhitās (accessed: Friday, July 11, 2025)
