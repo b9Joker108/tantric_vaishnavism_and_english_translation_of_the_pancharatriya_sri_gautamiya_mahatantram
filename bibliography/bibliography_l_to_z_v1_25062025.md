@@ -997,6 +997,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### STAAL, F. ###
+
+* Staal, Frits (1987).  'The Ineffable Nirguna Brahman' (pp. 41-46) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
 ### STAINTON. H.; *et al.* ###
 
 * Stainton, Hamsa (auth.) & Nemec, John (ed.) (2019). 'Poetry as Prayer in the Sanskrit Hymns of Kashmir'. American Academy of Religion: Religion in Translation series. A Publication Series of The American Academy of Religion and Oxford University Press. New York. N.Y., U.S.A.: Oxford University Press. ISBN 9780190889821 (updf).
