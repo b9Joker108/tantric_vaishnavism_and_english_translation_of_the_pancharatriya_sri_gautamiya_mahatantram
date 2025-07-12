@@ -812,6 +812,13 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### O'FLAHERTY, W. ###
+
+* O'Flaherty, Wendy Doniger (1987). 'The Interaction of Saguna and Nirguna Images of Deity' (pp. 47-52) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
 ### OKI, M. ###
 
 * Oki, Mai (c2022). ‘The Enumeration of Vishnu’s Manifestations in Sanskrit Literature’. Department of Indological Studies. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/oki-mai-c-2022.-the-enumeration-of-vishnus-manifestations-in-sanskrit-literature (accessed: Saturday, August 31, 2024)
