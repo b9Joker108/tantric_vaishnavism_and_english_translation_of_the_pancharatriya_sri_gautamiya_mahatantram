@@ -1004,7 +1004,12 @@ A very useful article and evidentiary for the iconographical development of Sri 
 
 ### SCHOMER, K. ###
 
-* Schomer, Karine & McLeod, W. H. (eds.) (1987). 'The Sants: Studies in a Devotional Tradition of India'. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+* Schomer, Karine & McLeod, W. H. (eds.) (1987a). 'The Sants: Studies in a Devotional Tradition of India'. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
+* Schomer, Karine (1987b). 'The Doha as a Vehicle of Sant Teachings' (pp. 61-90) in Schomer, Karine & McLeod, W. H. (eds.) (1987a). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
 
 **Purport:**<br>
 ...
