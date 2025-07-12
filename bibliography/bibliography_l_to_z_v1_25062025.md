@@ -983,6 +983,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### SCHMID, C. ###
+
+* Schmid, Charlotte (1997). 'Les Vaikuntha gupta de Mathura: Vishnu ou Krishna? \[French; English: The Vaikuntha Gupta of Mathura: Vishnu or Krishna?]' (pp. 60-88) in *Arts asiatiques \[French; English: Asiatic Arts]*, 'Tome 52 \[French; English: Vol. 52], 1997. (NB: In French with excellent images.). DOI: https://doi.org/10.3406/arasi.1997.1401. Source: https://www.persee.fr/doc/arasi_0004-3958_1997_num_52_1_1401 (accessed: Saturday, July 12, 2025)
+
+**Purport:**<br>
+A very useful article and evidentiary for the iconographical development of Sri Krishna in the archaeological record.
+
 ### SCHOMER, K. ###
 
 * Schomer, Karine & McLeod, W. H. (eds.) (1987). 'The Sants: Studies in a Devotional Tradition of India'. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
