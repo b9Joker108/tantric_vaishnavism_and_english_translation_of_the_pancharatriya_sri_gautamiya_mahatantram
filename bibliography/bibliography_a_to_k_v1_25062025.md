@@ -296,6 +296,13 @@ A respendent piece of work.
 **Purport:**
 ...
 
+### HESS, L. ###
+
+* Hess, Linda (1980). 'Studies in Kabir: Texts, Traditions, Styles and Skills'. Ph.D. dissertation in Comparative Literature. Berkeley, California, U.S.A.: University of California.
+
+**Purport:**
+As yet, I have not been able to secure a copy.
+
 ### HOPKINS, S. ###
 
 * Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
