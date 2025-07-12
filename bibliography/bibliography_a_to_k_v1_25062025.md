@@ -228,6 +228,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 
 ...
 
+### DASGUPTA, S. ###
+
+* Dasgupta, Surendranath (1949). 'A History of Indian Philosophy: Vol. IV (4) - Indian Pluralism'. First edition. London, England, U.K.: Cambridge at the University Press. Source: https://archive.org/details/in.ernet.dli.2015.135147 (accessed: Saturday, July 12, 2025)
+
+**Purport:**<br>
+...
+
 ### DUNN, B. ###
 
 * Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
