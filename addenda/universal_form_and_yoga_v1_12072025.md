@@ -400,3 +400,90 @@ Citations:
 [8] Pancharatra - Vaishnava System Of Worship - Vedadhara https://www.vedadhara.com/pancharatra
 [9] Satapatha Brahmana Part V (SBE44): Contents https://sacred-texts.com/hin/sbr/sbe44/sbe44001.htm
 [10] Satapatha Brahmana Part 1 (SBE12): Introduction | Sacred Texts Archive https://sacred-texts.com/hin/sbr/sbe12/sbe1202.htm
+
+
+
+puruşo ha nārāyaņo'kāmayata atitisțheyam sarvāni bhūtānyahamevedam sarvam syāmiti sa etam puruşamedham
+
+pañcarātram yajñakratumapaśyattamāharattenāyajata teneşțvātyatişțhatsarvāņi bhūtānīdam sarvamabhavadatitişțhati sarvāņi bhūtānīdam sarvam bhavati ya evam vidvānpuruşamedhena yajate yo vaitadevam veda    This is the verse. Render it in Devanagari and IAST and explain with great care.
+
+Certainly! Here is your requested verse from the **Śatapatha Brāhmaṇa** (13.6.1.1) in **Devanagari**, **IAST**, and a careful, scholarly explanation.
+
+## **Devanagari**
+
+पुरुषो ह नारायणोऽकामयत। अतीतिष्ठेयम् सर्वाणि भूतानि। अहमेवेदं सर्वं स्यामिति। स एतं पुरुषमेधम् पञ्चरात्रं यज्ञक्रतुमपश्यत्तमाहरत्तेनायजत। तेनिष्ट्वात्यतिष्ठत् सर्वाणि भूतानि इदं सर्वमभवत्। अतीतिष्ठति सर्वाणि भूतानि इदं सर्वं भवति य एवम् विद्वान् पुरुषमेधेन यजते यो वैतदेवं वेद।
+
+## **IAST Transliteration**
+
+puruṣo ha nārāyaṇo'kāmayata. atitiṣṭheyam sarvāṇi bhūtāni. ahamevedaṃ sarvaṃ syāmiti. sa etaṃ puruṣamedham pañcarātraṃ yajñakratum apaśyat tam āharat tenāyajata. teneṣṭvātyatiṣṭhat sarvāṇi bhūtāni idaṃ sarvam abhavad. atitiṣṭhati sarvāṇi bhūtāni idaṃ sarvaṃ bhavati ya evam vidvān puruṣamedhena yajate yo vaitadevaṃ veda.
+
+## **Careful Explanation**
+
+### **Context**
+This passage describes the cosmic aspiration and ritual of Nārāyaṇa (a primordial form of Vishnu), who, desiring to transcend all beings and become the entirety of existence, performs a special sacrifice. This is the earliest textual reference to the term **pañcarātra** (five nights), here denoting a Vedic sacrificial rite, not yet the later theological system.
+
+### **Line-by-Line Analysis**
+
+**1. पुरुषो ह नारायणोऽकामयत।**  
+*puruṣo ha nārāyaṇo'kāmayata.*  
+"The Person (Puruṣa), Nārāyaṇa, desired."
+
+- **puruṣa**: the cosmic person, here identified with Nārāyaṇa.
+- **akāmayata**: desired, wished.
+
+**2. अतीतिष्ठेयम् सर्वाणि भूतानि।**  
+*atitiṣṭheyam sarvāṇi bhūtāni.*  
+"May I surpass (transcend) all beings."
+
+- **atitiṣṭheyam**: may I stand above, surpass.
+- **sarvāṇi bhūtāni**: all beings/creatures.
+
+**3. अहमेवेदं सर्वं स्यामिति।**  
+*ahamevedaṃ sarvaṃ syāmiti.*  
+"May I alone become all this."
+
+- **aham eva idam sarvam syām iti**: "May I, indeed, become all this (universe)."
+
+**4. स एतं पुरुषमेधम् पञ्चरात्रं यज्ञक्रतुमपश्यत्तमाहरत्तेनायजत।**  
+*sa etaṃ puruṣamedham pañcarātraṃ yajñakratum apaśyat tam āharat tenāyajata.*  
+"He saw this Puruṣamedha (human-sacrifice) of five nights as the sacrificial rite; he procured it and sacrificed with it."
+
+- **puruṣamedha**: a Vedic ritual, here not literal human sacrifice but a symbolic cosmic offering.
+- **pañcarātraṃ**: lasting five nights.
+- **yajñakratu**: sacrificial rite.
+- **apaśyat**: saw, discovered.
+- **tam āharat**: he procured it.
+- **tena ayajata**: he sacrificed with it.
+
+**5. तेनिष्ट्वात्यतिष्ठत् सर्वाणि भूतानि इदं सर्वमभवत्।**  
+*teneṣṭvātyatiṣṭhat sarvāṇi bhūtāni idaṃ sarvam abhavat.*  
+"Having sacrificed with it, he surpassed all beings; he became all this."
+
+- **tene iṣṭvā**: having sacrificed with it.
+- **atyatiṣṭhat**: he surpassed, transcended.
+- **sarvāṇi bhūtāni**: all beings.
+- **idaṃ sarvam abhavat**: he became all this (universe).
+
+**6. अतीतिष्ठति सर्वाणि भूतानि इदं सर्वं भवति य एवम् विद्वान् पुरुषमेधेन यजते यो वैतदेवं वेद।**  
+*atitiṣṭhati sarvāṇi bhūtāni idaṃ sarvaṃ bhavati ya evam vidvān puruṣamedhena yajate yo vaitadevaṃ veda.*  
+"He who, knowing thus, sacrifices with the Puruṣamedha, transcends all beings, becomes all this; whoever knows this, indeed."
+
+- **ya evam vidvān**: he who knows thus.
+- **puruṣamedhena yajate**: sacrifices with the Puruṣamedha.
+- **atitiṣṭhati sarvāṇi bhūtāni**: transcends all beings.
+- **idaṃ sarvaṃ bhavati**: becomes all this (universe).
+- **yo vaitad evam veda**: whoever knows this thus.
+
+## **Interpretive Summary**
+
+This passage mythologically encodes a profound cosmological and soteriological idea:
+
+- **Nārāyaṇa**, the cosmic person, aspires not just to dominate but to *become* all that exists.
+- He discovers and performs the **Puruṣamedha**, a five-night sacrifice (**pañcarātra**), symbolizing the offering of the self for the sake of becoming the totality.
+- Through this act, he transcends all beings and *becomes* the universe itself—an early articulation of the **Viśvarūpa** (Cosmic Theophany) concept.
+- The text universalizes this: **anyone who knows and performs this sacrifice with knowledge likewise transcends limitation and becomes one with all existence**.
+
+This is a pivotal Vedic statement of the unity of ritual, knowledge, and cosmic identity, and the **earliest attestation of both the Pañcarātra and the Viśvarūpa doctrine** in seed form.
+
+**If you would like a more literal translation, or a comparison with traditional commentaries, please let me know!**
+
