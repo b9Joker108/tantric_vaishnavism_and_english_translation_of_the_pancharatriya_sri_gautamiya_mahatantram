@@ -162,6 +162,18 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BARTHWAL, P. ###
+
+* Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1936). 'The Nirguna School of Hindi Poetry: An Exposition of Medieval Indian Santa Mysticism'. (NB: Being a thesis approved in the Benares Hindu University for the degree of Doctor of Letters.). Benares, India: Indian Book Shop.
+
+**Purport:**<br>
+As yet, I have not secured a copy of this work. Though, without cetainty, I am quite sure Bathwal (1978) is a reissue of Barthwal (1936) under a different title and publisher, considering Barthwal has been deceased for over thirty (30) years prior to the date of the 1978 publication. So, too, both Barthwal (1936) and Barthwal (1978), and subsequent impressions, are expressly stated to be publications of his thesis. I searched for the thesis, too, to no avail. Fortuitously, I have secured a Hindi translation: https://archive.org/details/in.ernet.dli.2015.483851 (accessed: Saturday, July 12, 2025)
+
+* Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1978). 'Traditions of Indian Mysticism Based upon Nirguna School of Hindi Poetry'. With a Foreword by Syam Sunder Das. (NB: Originally presented as the author's thesis, Benaras Hindu University.). New Delhi, India: Heritage. ISBN 0836402170, ISBN 9780836402179.
+
+**Purport:**<br>
+As yet, I have not secured a copy of this work. Refer purport to Barthwal (1936).
+
 ### BEHERA, S. ###
 
 * Behera, Simanchal (2018). 'Mathas in Odisha with Special Reference to Ganjam District: A Study' (pp. 1 - 18) in *JETIR (Journal of Emerging Technologies and Innovative Research)*, August 2018, Vol. 5, Issue 8. Source: https://www.jetir.org/papers/JETIR1808161.pdf (accessed: Sunday, July 06, 2025)
