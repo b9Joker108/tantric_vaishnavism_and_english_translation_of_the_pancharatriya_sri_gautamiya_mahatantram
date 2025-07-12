@@ -306,3 +306,97 @@ Would you like assistance drafting a formal explanation or introduction using th
 
 
 
+By memory, I feel it is the Sri Sathpatha Brahmana 'Vajaneyi' that relates an episode where Narayana performs a Sacrifice and becomes all things. To me, this is a nascent form or origination of the Vishvarupa. It is also the first attested usage of the term Pancharatra.
+
+Your recollection is impressively accurate and taps into a crucial moment in the development of Vaishnava theology and the concept of **Viśvarūpa**.
+
+## **Śatapatha Brāhmaṇa, Narayana, and the Sacrifice**
+
+The **Śatapatha Brāhmaṇa** (particularly associated with the Vājasaneyi or "Vajasaneyi" recension of the Yajur Veda) indeed contains a profound myth in which **Nārāyaṇa** performs a cosmic sacrifice (*yajña*) and, through this act, becomes all things. This narrative is found in **Śatapatha Brāhmaṇa 13.6.1** and related passages. Here, Nārāyaṇa is depicted as the primordial being, performing sacrifice for himself, and thereby expanding to encompass all existence.
+
+### **Key Elements:**
+- **Nārāyaṇa** is said to be the "Self of all" (*sarvātmā*), and through sacrifice, he becomes the universe itself.
+- The text states: *"Nārāyaṇa desired, 'May I become greater than this, may I become everything.' He performed penance. By that penance, he became everything that exists here."* (paraphrased from ŚB 13.6.1)
+- This is a **nascent Viśvarūpa** motif: the deity not only creates but also *becomes* the totality of the cosmos.
+
+### **Relation to Viśvarūpa:**
+- The episode prefigures the later, more explicit **Viśvarūpa** theophanies found in the Mahābhārata, Bhagavad Gita, and Purāṇic literature, where the deity reveals himself as the all-encompassing reality.
+- The notion of the deity as both the sacrificer and the sacrificed, and as the sum of all things, is a **precursor to the Viśvarūpa doctrine**.
+
+## **First Attestation of Pancharatra**
+
+You are also correct that the **Śatapatha Brāhmaṇa** contains what is widely regarded as the **earliest attested use of the term "Pañcarātra"**.
+
+### **Reference:**
+- The term appears in **Śatapatha Brāhmaṇa 13.6.1.1** (Vājasaneyi Saṃhitā), where it refers to a "five-night" sacrificial rite (*pañca-rātra* = "five nights").
+- In this context, it is a technical term for a specific Vedic ritual, but later, "Pañcarātra" becomes the name of a major Vaishnava theological tradition and scriptural corpus, centered on the worship of Nārāyaṇa/Vishnu and the doctrine of emanations (*vyūhas*).
+
+## **Summary Table**
+
+| Textual Source                | Episode/Concept                                   | Significance                                      |
+|-------------------------------|--------------------------------------------------|---------------------------------------------------|
+| Śatapatha Brāhmaṇa 13.6.1     | Nārāyaṇa performs sacrifice, becomes all things  | Proto-Viśvarūpa, deity as cosmic totality         |
+| Śatapatha Brāhmaṇa 13.6.1.1   | First use of "Pañcarātra" (five-night ritual)    | Earliest attestation, precursor to later theology |
+
+## **Scholarly Commentary**
+
+- **Jan Gonda** (in *Viṣṇuism and Śivaism*) and **Friedhelm Hardy** (in *Viraha-Bhakti*) both note that the Śatapatha Brāhmaṇa’s portrayal of Nārāyaṇa as the cosmic self and the motif of becoming all things through sacrifice are foundational for later Vaishnava theology and the Viśvarūpa concept.
+- **J.A.B. van Buitenen** and others have traced the evolution of the Viśvarūpa motif from these Vedic roots into the epic and Purāṇic traditions.
+
+## **Conclusion**
+
+Your intuition is correct:  
+- The **Śatapatha Brāhmaṇa’s Nārāyaṇa episode** is a critical precursor to the Viśvarūpa doctrine, representing one of the earliest articulations of the deity as the all-encompassing reality.
+- The **first attestation of "Pañcarātra"** as a ritual term in this text later becomes the name for a major Vaishnava tradition, indicating a deep continuity from Vedic ritual to classical theistic theology.
+
+If you would like, I can provide the exact Sanskrit passage and a translation, or further trace the evolution of these concepts into the Mahābhārata and Purāṇas.
+
+
+
+I would like you to investigate the Pancharatra in detail in the Sathpatha Brahmana.
+
+The **Pancharatra** in the **Śatapatha Brāhmaṇa** is a significant Vedic reference, marking both a ritual innovation and the conceptual seed for later Vaishnava theology.
+
+### **Textual Occurrence and Context**
+
+- The term **Pañcarātra** (literally "five nights") appears in the Śatapatha Brāhmaṇa of the Śukla Yajurveda, specifically in **Book 13, Chapter 6, Brāhmaṇa 1** (ŚB 13.6.1.1)[4][8].
+- In this context, it refers to a **five-night sacrificial rite** performed by Nārāyaṇa. The passage describes how Nārāyaṇa undertakes this sacrifice, surpasses all other beings, and becomes supreme[4][8].
+- The ritual is not only a technical Vedic yajña but is mythologized as the act by which Nārāyaṇa becomes the cosmic Self, a proto-Viśvarūpa event[4][8].
+
+### **Ritual and Theological Significance**
+
+- The **Pañcarātra sacrifice** is described as the means by which Nārāyaṇa transcends the gods and creation, establishing himself as the highest principle (Paramātma)[8].
+- The Śatapatha Brāhmaṇa thus provides the **earliest textual attestation** of both the term Pañcarātra and the idea of a cosmic, all-encompassing deity realized through ritual[4][8].
+- This episode is foundational for later **Pancharatra theology**, which develops into a major Vaishnava tradition focused on Nārāyaṇa/Vishnu, his emanations (vyūhas), and a distinct system of worship and philosophy.
+
+### **Later Interpretations and Etymologies**
+
+- Later Pancharatra texts reinterpret the term in various ways, sometimes mythically (e.g., doctrine revealed over five nights, or to five sages), but the **Śatapatha Brāhmaṇa’s meaning is strictly ritual: a five-night yajña**[4].
+- The Mahābhārata and later Pāñcarātra Samhitās expand this into cosmological and theological doctrines, but the Vedic root is always the sacrificial act and its transformative power.
+
+### **Scholarly Notes**
+
+- The **Śatapatha Brāhmaṇa’s account** is cited by scholars as the **origin point** for the Pancharatra tradition, both in ritual and in the concept of the deity as cosmic totality[6][4][8].
+- The passage is often referenced in studies of the transition from Vedic ritualism to classical Vaishnavism and the emergence of the Viśvarūpa motif[1][3][6].
+
+### **Summary Table**
+
+| Reference (Śatapatha Brāhmaṇa) | Content                                 | Significance                              |
+|-------------------------------|-----------------------------------------|-------------------------------------------|
+| 13.6.1.1 (Vājasaneyi)         | Nārāyaṇa performs five-night sacrifice  | First use of "Pañcarātra," proto-Viśvarūpa, basis for later Vaishnava theology |
+
+### **Conclusion**
+
+The **Pancharatra** in the Śatapatha Brāhmaṇa is a **five-night sacrificial rite** performed by Nārāyaṇa, through which he becomes the cosmic Self. This is the **earliest textual use of the term** and the ritual-theological foundation for the later Pancharatra tradition, which would become central to Vaishnavism and the doctrine of the Viśvarūpa[4][8][6].
+
+Citations:
+[1] Shatapatha Brahmana - Dharmapedia Wiki https://en.dharmapedia.net/wiki/Shatapatha_Brahmana
+[2] Satapatha-brahmana Verse 3.1.2.21 [Sanskrit text] https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-sanskrit/d/doc1052421.html
+[3] Shatapatha Brahmana - Wikipedia https://en.wikipedia.org/wiki/Shatapatha_Brahmana
+[4] 3. Regarding the name Pancharatra https://www.wisdomlib.org/hinduism/essay/diksha-initiation-in-pancharatra/d/doc1458632.html
+[5] Where do the Vedas mention sacrificing vegetable seeds rather than ... https://hinduism.stackexchange.com/questions/4067/where-do-the-vedas-mention-sacrificing-vegetable-seeds-rather-than-goats
+[6] The Name "Pañcarātra" - jstor https://www.jstor.org/stable/1062057
+[7] Shatapatha Brahmana | Religion Wiki - Fandom https://religion.fandom.com/wiki/Shatapatha_Brahmana
+[8] Pancharatra - Vaishnava System Of Worship - Vedadhara https://www.vedadhara.com/pancharatra
+[9] Satapatha Brahmana Part V (SBE44): Contents https://sacred-texts.com/hin/sbr/sbe44/sbe44001.htm
+[10] Satapatha Brahmana Part 1 (SBE12): Introduction | Sacred Texts Archive https://sacred-texts.com/hin/sbr/sbe12/sbe1202.htm
