@@ -977,7 +977,12 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 # R #
 
+### RAWLINSON, A. ###
 
+* Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
 
 ...
 
