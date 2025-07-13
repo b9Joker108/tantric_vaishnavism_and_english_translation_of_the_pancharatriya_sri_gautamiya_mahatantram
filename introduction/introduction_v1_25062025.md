@@ -20,7 +20,7 @@ Your assessment is well supported by both primary sources and contemporary schol
 ### Key Points
 
 - **Mahasiddhas’ Social and Religious Context:**  
-  The Mahasiddhas (c. 8th–12th centuries CE) emerged in eastern India (Bengal, Assam, Odisha, Nepal), a region marked by both Buddhist and Brahmanical institutional dominance. They were not a homogeneous “Buddhist” class but a diverse group drawing from Buddhist, Shaiva, Shakta, and folk traditions. Their teachings and lives reflect this syncretism, often blurring or outright rejecting sectarian boundaries.
+  The Mahasiddhas (c. 8th–12th centuries CE) emerged in eastern India (Bengal, Assam, Odisha, Nepal), a region marked by both Buddhist and Brahmanical institutional dominance. They were not a homogeneous “Buddhist” class but a diverse group drawing from Buddhist, Shaiva, Shakta, Vaishnava and folk traditions. Their teachings and lives reflect this syncretism, often blurring or outright rejecting sectarian boundaries.
 - **Reaction Against Institutionalization:**  
   - **Brahmanical Orthodoxy:** The Mahasiddhas critiqued caste, ritual purity, priestly authority, and the exclusivity of Sanskritic learning.
   - **Buddhist Monasticism:** They were equally critical of the scholasticism, hierarchy, and ritualism of the great Buddhist monastic universities, which had become centers of elite, urban, and often state-supported religiosity.
