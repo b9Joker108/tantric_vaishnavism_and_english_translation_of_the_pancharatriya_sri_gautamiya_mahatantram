@@ -11,6 +11,38 @@ So too, does the right-hand, cleanse the left.<br>
 
 [Sri Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu), properly Sri Krishna-Chaitanya Bharati (even though Chaitanya never used His titular Dasanami nomenclature "Bharati", post-initiation by Sri Keshava Bharati, breaking with the [Dasanami Tradition](https://en.wikipedia.org/wiki/Da%C5%9Ban%C4%81mi_Sampradaya) of bearing one of the ten lineal names held by their initiating guru) and [Sri Nityananda-Rama](https://en.wikipedia.org/wiki/Nityananda) the Avadhuda, His close associate, were Sahajiyas. Scholars generally state that the Indic Sahajiyas commenced with Saraha and closed with the revisionist Gaudiya Vaishnava polemic against heterodox Tantric Vaishnava schools, particularly what has confusingly come to be called the "Vaishnava Sahajiyas" in English discourse, bolstered and amplified by the ascendant socio-political melieu of Colonialism and its Victorian Christian morality. The polemic and titillation against the heterodox 'Vaishnava Sahajiyas', has coloured the historical truth, that Chaitanya and Nityananda, were Sahajiyas as were all the major and minor mediaeval Vaishnava Bhakti poets, songsmiths and dramatists. Ruganuga Bhakti of Chaitanya and Nityananda, is a Sahaja Sadhana and therefore, fundamentally and inalienably, Tantric in proclivity and actuality. There was a subsequent theological structuring conducted by the [Six Goswamis of Vrindavana](https://en.wikipedia.org/wiki/Six_Goswamis_of_Vrindavan), who were demonstrably and directly privy to a volume of Tantric Vaishnava literature of different traditions, and used this as material to frame and inform Gaudiya Vaishnava theology, practice and worldview; and particularly of acharyas subsequent to the Six Goswamis, that foregrounded Rupanuga Bhakti, following the process of [Sri Rupa Goswami](https://en.wikipedia.org/wiki/Rupa_Goswami) and his disciple and theological, doxological and hermeneutical prodigy, [Sri Jiva Goswami](https://en.wikipedia.org/wiki/Jiva_Goswami), who was too young to have associated directly with Chaitanya, in foregrounding a more rules-based and graduated path in subsequent Gaudiya Vaishnavism, but this is understood as provisional, as the goal is the devotional service in spontaneous love, a lawless or loreless love and ecstatic devotion or Ruganuga Bhakti, which is a Chaitanya Bhakti-Sahaja fusion. Curiously, quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volume of manuscripts and collections of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings.
 
+# The Initial and Early Sahajiyas and Their Context #
+
+The Sahajiya movement at its inception with the Mahasiddha, who  are erroneously labelled 'Buddhist' as they evince, as class, a complex of diverse religio-cultural influences, were reactionary to all of the then institutionalizations of religiosity, such as Brahmanas, the huge Bauddhadharma 'universities' and Sanskritic urbanity. etc.
+
+Your assessment is well supported by both primary sources and contemporary scholarship: **the Mahasiddhas at the inception of the Sahajiya movement were fundamentally reactionary to all prevailing forms of institutionalized religiosity**—not just to the Brahmanical order, but also to the highly organized, Sanskritic, and scholastic Buddhist monastic “universities” (such as Nalanda, Vikramashila, Odantapuri), and the broader culture of urban, elite religious authority.
+
+### Key Points
+
+- **Mahasiddhas’ Social and Religious Context:**  
+  The Mahasiddhas (c. 8th–12th centuries CE) emerged in eastern India (Bengal, Assam, Odisha, Nepal), a region marked by both Buddhist and Brahmanical institutional dominance. They were not a homogeneous “Buddhist” class but a diverse group drawing from Buddhist, Shaiva, Shakta, and folk traditions. Their teachings and lives reflect this syncretism, often blurring or outright rejecting sectarian boundaries.
+- **Reaction Against Institutionalization:**  
+  - **Brahmanical Orthodoxy:** The Mahasiddhas critiqued caste, ritual purity, priestly authority, and the exclusivity of Sanskritic learning.
+  - **Buddhist Monasticism:** They were equally critical of the scholasticism, hierarchy, and ritualism of the great Buddhist monastic universities, which had become centers of elite, urban, and often state-supported religiosity.
+  - **Sanskritic Urbanity:** Their preference for vernacular languages, rural settings, and “crazy wisdom” performances was a direct challenge to the urban, Sanskrit-using, and text-centric religious establishment.
+- **Sahaja as a Counter-Principle:**  
+  The Mahasiddhas’ doctrine of *sahaja* (innate, spontaneous realization) was a radical alternative to both the ascetic renunciation of the Brahmanas and the scholastic, ritualized path of the Buddhist monasteries. They valorized the body, everyday life, and direct experience, often through antinomian and transgressive practices.
+- **Diverse Influences:**  
+  As a class, the Mahasiddhas drew from a complex matrix of folk, tribal, tantric, and non-institutional currents. Their poetry (e.g., the *Charyapada*) and hagiographies depict them as wandering mendicants, artisans, women, outcastes, and others outside or opposed to the dominant religious orders.
+
+### Scholarly Attestation
+
+- Shashibhushan Dasgupta (in his work on the Sahajiya tradition) and other modern scholars have emphasized that the Mahasiddhas were not narrowly “Buddhist” but rather exemplars of a broader, cross-sectarian, anti-institutional spirituality.
+- The *Charyapada* and Mahasiddha dohas are replete with critiques of both Brahmanical and Buddhist orthodoxy, and with imagery drawn from rural, artisanal, and marginalized life.
+
+### In Summary
+
+**The Mahasiddhas and the early Sahajiya movement were a reactionary, radically anti-institutional force, challenging the authority of both Brahmanical and Buddhist religious elites, rejecting Sanskritic urbanity, and pioneering a syncretic, vernacular, and body-affirming spirituality that would shape the course of Sahajiya and related movements for centuries.**
+
+If you need citations or further scholarly references (such as from Shashibhushan Dasgupta or Surendranath Dasgupta), please specify.
+
+
+
 # Spacio-temporal Waves of the Sahajiya 'Movement' #
 
 Good, but you didn't keep apples with apples, you have two North Indian loci of the same spatio-temporality split. Also, you should have known dates or flourishing dates for all mentioned and ground them in territories and locales. Also, you need to include the Nyingma as the Sahajiya wave was integrated with the Mantrayana and went into the Himalaya, eg. Samye and the Klu Temple.
