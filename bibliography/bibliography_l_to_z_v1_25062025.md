@@ -1114,6 +1114,13 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 **Purport:**<br>
 ...
 
+### VIDYABHUSHANA, B.; *et al* ###
+
+* Vidyabhushana, Sri Baldeva \[Sanskrit: श्री-बलदेव-विद्याभूषण ; IAST: śrī-baladeva-vidyābhūṣaṇa] (auth.); Gaurapada-dasa \[alt. Charles A. Filion] (trans.) & Matsya-Avatara-dasa (ed.) (2015). '\[Sri] Sahitya-Kaumadi: A Complete Treatise on Sanskrit Poetics \[Sanskrit: श्री-साहित्य-कौमुदी ; śrī-sāhitya-kaumudī]'. Loi Bazar, Vrindavan, Uttar Pradesh, India: Rasbihari Lal & Sons. ISBN 9788184030402. Source: https://www.wisdomlib.org/hinduism/book/sahitya-kaumudi-by-baladeva-vidyabhushana (accessed: Saturday, July 12, 2025)
+
+**Purport:**<br>
+I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya Mahatantram. So, I needsmust deeply engage the work, when timely.
+
 # W #
 
 ### WILKE, A.; *et al.* ###
