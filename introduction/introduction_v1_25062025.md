@@ -13,7 +13,7 @@ So too, does the right-hand, cleanse the left.<br>
 
 # The Initial and Early Sahajiyas and Their Context #
 
-The Sahajiya movement at its inception with the Mahasiddha, who  are erroneously labelled 'Buddhist' as they evince, as class, a complex of diverse religio-cultural influences, were reactionary to all of the then institutionalizations of religiosity, such as Brahmanas, the huge Bauddhadharma 'universities' and Sanskritic urbanity. etc.
+The Sahajiya movement at its inception with the Mahasiddha, who  are erroneously oft-labelled 'Buddhist' in English d*scourse, as they evince, as class, a complex of diverse religio-cultural influences, were reactionary to all of the then institutionalizations and institutionalized forms of religiosity, such as Brahmanas (even though Brahmanas were amongst their numbers), the huge Bauddhadharma 'universities' and Sanskritic urbanity. etc.
 
 Your assessment is well supported by both primary sources and contemporary scholarship: **the Mahasiddhas at the inception of the Sahajiya movement were fundamentally reactionary to all prevailing forms of institutionalized religiosity**—not just to the Brahmanical order, but also to the highly organized, Sanskritic, and scholastic Buddhist monastic “universities” (such as Nalanda, Vikramashila, Odantapuri), and the broader culture of urban, elite religious authority.
 
@@ -37,13 +37,57 @@ Your assessment is well supported by both primary sources and contemporary schol
 
 ### In Summary
 
-**The Mahasiddhas and the early Sahajiya movement were a reactionary, radically anti-institutional force, challenging the authority of both Brahmanical and Buddhist religious elites, rejecting Sanskritic urbanity, and pioneering a syncretic, vernacular, and body-affirming spirituality that would shape the course of Sahajiya and related movements for centuries.**
+**The Mahasiddhas and the early Sahajiya movement were a reactionary, radically anti-institutional force, challenging the authority of all religious elites, such as the then powerful yet waining dominance of the Brahmanical, Shaiva, Shakta and Buddhist religious elites, rejecting Sanskritic urbanity, and pioneering a syncretic, vernacular, and body-affirming spirituality that would shape the course of Sahajiya and related movements for centuries.**
 
-If you need citations or further scholarly references (such as from Shashibhushan Dasgupta or Surendranath Dasgupta), please specify.
+Why do you persist in not mentioning the plethora of different Vaishnava sects and cults that the Sahajiya needsmust have interacted with DIRECTLY, given their proxemics?
 
+Your point is well taken: the Sahajiya movement, especially in its formative and mature phases, was in **direct, proxemic contact with a wide array of Vaishnava sects and cults**—not just as a later synthesis, but as a lived, overlapping reality in the villages, towns, and ritual spaces of Bengal, Odisha, Assam, and Bihar from the 10th century onward.
 
+### Direct Proxemic Interactions with Vaishnava Sects
 
-# Spacio-temporal Waves of the Sahajiya 'Movement' #
+- **Geographical Overlap:** The Sahajiya Mahasiddhas and their inheritors operated in the same regions—eastern India’s riverine plains, pilgrimage towns, and rural settlements—where multiple Vaishnava sects were active[1][5][6].
+- **Ritual and Social Spaces:** Shared shrines, festivals, and village gatherings brought Sahajiya practitioners into direct contact with Vaishnava devotees, including those of:
+  - **Pancaratra Vaishnavism:** Centered on Vishnu/Narayana, with temple and ritual networks in Bengal and Odisha.
+  - **Bhagavata and Krishnaite Sects:** Early Krishna/Radha worship, especially in folk and proto-bhakti forms, which later crystallized into Gaudiya Vaishnavism[1][5].
+  - **Alvar and Jayadeva Traditions:** The poetry and emotional theology of the South Indian Alvars and Jayadeva’s *Gita Govinda* were well known and influential in Bengal, shaping both Vaishnava and Sahajiya sensibilities[6][8].
+  - **Gaudiya Vaishnavism (Chaitanya, Nityananda):** From the 16th century, the ecstatic bhakti of Chaitanya and his circle became a dominant force, and Sahajiya practitioners directly engaged with their followers in ritual, song, and debate[1][2][5].
+  - **Local and Folk Vaishnava Cults:** Village-level Krishna, Radha, and Gopala cults, often with syncretic, tantric, or erotic elements, formed the living matrix in which Sahajiya and Vaishnava practices intermingled[1][5].
+
+### Mutual Influences and Borrowings
+
+- **Bhakti and Rasa:** Sahajiyas adopted the Vaishnava language of *bhava* (devotional feeling) and *rasa* (aesthetic flavor), and the Radha-Krishna romance as a metaphor for mystical union[1][5][6].
+- **Tantric Rituals:** Vaishnava Sahajiyas incorporated tantric sexuality (*karmamudra*), deity yoga, and the theory of emptiness (*shunyata*) from Vajrayana, but grounded these in the devotional and emotional world of Vaishnava bhakti[1][5].
+- **Poetic and Vernacular Transmission:** Many Sahajiya poets wrote under the name Chandidas, blending Vaishnava and Sahajiya themes in Bengali vernacular, and their works circulated widely among different Vaishnava communities[1][5][6].
+
+### Historical Evidence of Direct Contact
+
+- **Medieval Bengali Literature:** Shows constant dialogue, rivalry, and synthesis between Sahajiya and diverse Vaishnava sects, especially in the 13th–17th centuries[2][4][10].
+- **Oral Tradition:** Remembers Sahajiya practitioners as both critics and participants in Vaishnava festivals, kirtans, and temple life[1][2][5].
+- **Syncretistic Cults:** The emergence of hybrid groups—such as the Bauls and Satya Par’s followers—demonstrates ongoing, face-to-face interaction and mutual adaptation between Sahajiya and Vaishnava sects[2][5].
+
+### Why This Matters
+
+The **proxemics of the Sahajiya movement**—its grounding in shared social, ritual, and geographic spaces—made direct interaction with Vaishnava sects inevitable and formative. **Sahajiya was never an isolated or purely Buddhist phenomenon; it was always in active, daily contact with the full spectrum of Vaishnava devotion, from folk cults to temple-based and literary traditions.** This dynamic exchange shaped both the evolution of Sahajiya and the broader religious culture of eastern India.
+
+**References:**  
+[1][5][6] (Vaishnava Sahajiya, Wikipedia; Wikiwand)  
+[2][4][10] (Academic and JSTOR sources on Sahajiya-Vaishnava traditions)  
+[8] (Foundations of Medieval Indian Literature)  
+[3] (Gaudiya Discussions forum on Sahajiya and Vaishnavism)
+
+Citations:
+[1] Vaishnava Sahajiya - Wikipedia https://en.wikipedia.org/wiki/Vaishnava_Sahajiya
+[2] The Vaisnava Sahajiya Traditions of Medieval Bengal - Academia.edu https://www.academia.edu/12565300/The_Vaisnava_Sahajiya_Traditions_of_Medieval_Bengal
+[3] Sahajiya - a religious cult https://gaudiyadiscussions.gaudiya.com/topic_1804.html
+[4] overlooked, especially the Vaisnava Sahajiya traditions of Bengal ... https://www.jstor.org/stable/1206508
+[5] Vaishnava Sahajiya - Wikiwand https://www.wikiwand.com/en/articles/Vaishnava_Sahajiya
+[6] Vaishnava Sahajiya - Wikipedia https://en.wikipedia.org/wiki/Vaishnava-Sahajiya
+[7] giving rise to such syncretistic cults as 8aiva Sahajiya synthesis took ... https://www.jstor.org/stable/597848
+[8] Foundations of Medieval Indian Literature: 600 CE to 1700 CE https://www.literatureandcriticism.com/medieval-indian-literature/
+[9] [Solved] The Sahajiya Cult, which can be traced back to 10th and 11th https://testbook.com/question-answer/the-sahajiya-cult-which-can-be-traced-back-to-10t--650453820c6a77bce21f0e9c
+[10] The Vaisnava Sahajiya Traditions of Medi https://www.scribd.com/document/363446309/The-Vaisnava-Sahajiya-Traditions-of-Medi
+
+# Spacio-temporal Waves and Proxemics of the Sahajiya 'Movement' #
 
 Good, but you didn't keep apples with apples, you have two North Indian loci of the same spatio-temporality split. Also, you should have known dates or flourishing dates for all mentioned and ground them in territories and locales. Also, you need to include the Nyingma as the Sahajiya wave was integrated with the Mantrayana and went into the Himalaya, eg. Samye and the Klu Temple.
 
