@@ -289,6 +289,13 @@ Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 **Purport:**<br>
 Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 
+### MALHOTRA, A. ###
+
+* Malhotra, Anshu (2012). 'Bhakti and the Gendered Self: A Courtesan and a Consort in Mid Nineteenth Century Punjab' (pp. 1506-1539) in *Modern Asian Studies*, Vol. 46, No. 6, 2012. Cambridge, Cambridgeshire, England, U.K.: Cambridge University Press.
+
+**Purport:**<br>
+...
+
 ### MALIK, S. ###
 
 * Malik, Subhash Chandra (ed.) (1978). 'Indian Movements: Some Aspects of Dissent, Protest and Reform'. Studies in Indian and Asian civilizations series. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. ISBN 9780940500679. Digitised on March 11, 2009, and the original was from Indiana University. Two ebooks are available: (1) D.K. Printworld, 2022 (ISBN 9788124611234; OCLC # 1363839434) & (2) Indian Institute of Advanced Study, Simla, (OCLC # 1978609777659). Source: https://ia601401.us.archive.org/23/items/in.ernet.dli.2015.108256/2015.108256.Indian-Movements_text.pdf (accessed: Sunday, July 06, 2025)
