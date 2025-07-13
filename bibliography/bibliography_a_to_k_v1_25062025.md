@@ -362,6 +362,12 @@ As yet, I have not been able to secure a copy.
 **Purport:**<br>
 Why? The discourse of Tantra was mediated into the English and the languages of Europe through the medium of **their** context. This is only a part of that context.
 
+### KRISHNA, D.; *et al.*
+
+* Krishna, Daya; Lath, Mukund & Krishna, Francine E. (eds.) (2000). 'Bhakti: A Contemporary Discussion - Philosophocal Explorations in the Bhakti Tradition'. Indian Council of Philosophical Research. Tughlabad Institutional Area, Vayusenabad, New Delhi, N.C.T., India: Indian Council of Philosophical Research. ISBN 8185636443. 
+
+**Purport:**<br>
+This is a watershed work. I must dedicate time to it.
 
 
 
