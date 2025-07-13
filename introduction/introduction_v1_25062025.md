@@ -11,6 +11,118 @@ So too, does the right-hand, cleanse the left.<br>
 
 [Sri Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu), properly Sri Krishna-Chaitanya Bharati (even though Chaitanya never used His titular Dasanami nomenclature "Bharati", post-initiation by Sri Keshava Bharati, breaking with the [Dasanami Tradition](https://en.wikipedia.org/wiki/Da%C5%9Ban%C4%81mi_Sampradaya) of bearing one of the ten lineal names held by their initiating guru) and [Sri Nityananda-Rama](https://en.wikipedia.org/wiki/Nityananda) the Avadhuda, His close associate, were Sahajiyas. Scholars generally state that the Indic Sahajiyas commenced with Saraha and closed with the revisionist Gaudiya Vaishnava polemic against heterodox Tantric Vaishnava schools, particularly what has confusingly come to be called the "Vaishnava Sahajiyas" in English discourse, bolstered and amplified by the ascendant socio-political melieu of Colonialism and its Victorian Christian morality. The polemic and titillation against the heterodox 'Vaishnava Sahajiyas', has coloured the historical truth, that Chaitanya and Nityananda, were Sahajiyas as were all the major and minor mediaeval Vaishnava Bhakti poets, songsmiths and dramatists. Ruganuga Bhakti of Chaitanya and Nityananda, is a Sahaja Sadhana and therefore, fundamentally and inalienably, Tantric in proclivity and actuality. There was a subsequent theological structuring conducted by the [Six Goswamis of Vrindavana](https://en.wikipedia.org/wiki/Six_Goswamis_of_Vrindavan), who were demonstrably and directly privy to a volume of Tantric Vaishnava literature of different traditions, and used this as material to frame and inform Gaudiya Vaishnava theology, practice and worldview; and particularly of acharyas subsequent to the Six Goswamis, that foregrounded Rupanuga Bhakti, following the process of [Sri Rupa Goswami](https://en.wikipedia.org/wiki/Rupa_Goswami) and his disciple and theological, doxological and hermeneutical prodigy, [Sri Jiva Goswami](https://en.wikipedia.org/wiki/Jiva_Goswami), who was too young to have associated directly with Chaitanya, in foregrounding a more rules-based and graduated path in subsequent Gaudiya Vaishnavism, but this is understood as provisional, as the goal is the devotional service in spontaneous love, a lawless or loreless love and ecstatic devotion or Ruganuga Bhakti, which is a Chaitanya Bhakti-Sahaja fusion. Curiously, quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volume of manuscripts and collections of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings.
 
+# Spacio-temporal Waves of the Sahajiya 'Movement' #
+
+Good, but you didn't keep apples with apples, you have two North Indian loci of the same spatio-temporality split. Also, you should have known dates or flourishing dates for all mentioned and ground them in territories and locales. Also, you need to include the Nyingma as the Sahajiya wave was integrated with the Mantrayana and went into the Himalaya, eg. Samye and the Klu Temple.
+
+Certainly. Here is a **spatio-temporally rigorous chronology** of the Sahajiya movement, showing its origins, major waves, dates, key figures, and how it was integrated into the Nyingma school and the greater Himalayan region. This account keeps “apples with apples,” grounding each phase in its proper time, place, and social context.
+
+## 1. **Early Sahaja: Buddhist Sahajayana in Bengal and East India (8th–12th Century CE)**
+
+- **Time & Place:** Bengal, Odisha, Assam; c. 8th–12th centuries CE.
+- **Key Figures:** Saraha (fl. c. 8th c.), Luipa, Kanha, Shabaripa, Kukkuripa, and other Mahasiddhas.
+- **Context:** Under the Pala dynasty, Buddhist Tantric practice flourished. The *Charyapada* (c. 10th–12th c.), the earliest extant vernacular poetry of Bengal, is Sahajiya in spirit and content.
+- **Salient Features:**  
+  - *Sahaja* (innate, spontaneous realization) as the highest spiritual state.
+  - Use of coded, rustic, and vernacular language.
+  - Emphasis on direct, embodied realization, often outside monastic institutions.
+- **Territorial Focus:** Bengal, with influence spreading into Odisha and Assam.
+
+## 2. **Integration with Himalayan Mantrayana: Nyingma and the First Diffusion (8th–11th Century CE)**
+
+- **Time & Place:** Central Tibet, Samye Monastery (founded c. 779–787 CE); Himalayan regions (Bhutan, Sikkim, Nepal, Ladakh).
+- **Key Figures:** Padmasambhava (fl. late 8th c.), Śāntarakṣita (725–788), Yeshe Tsogyal, Vimalamitra, Vairotsana.
+- **Context:**  
+  - The Nyingma (རྙིང་མ་, Wyl. *rnying ma*) school, or “Ancient Ones,” is the earliest Tibetan Buddhist tradition, rooted in the “early translations” of Indian Tantric texts[1][4][5][6][7].
+  - Samye Monastery becomes the center for the integration of Indian Sahaja and Mantrayana (Vajrayana) teachings.
+  - Dzogchen (“Great Perfection”) emerges as the pinnacle of Nyingma doctrine, sharing core Sahaja themes: innate, spontaneous realization and the immanence of enlightenment[1][3][6].
+- **Salient Features:**  
+  - Transmission of Sahaja/Ati Yoga (Dzogchen) from Indian Mahasiddhas to Tibet.
+  - Ritual and yogic practices emphasizing direct, natural awareness.
+- **Territorial Focus:** Central Tibet (Samye), spreading to the wider Himalaya (Bhutan, Nepal, Sikkim, Ladakh)[5][6][7].
+
+## 3. **Medieval Vernacular Flourishing: Nath, Shaiva, and Early Vaishnava Sahajiya (12th–16th Century CE)**
+
+- **Time & Place:** Bengal, Nepal, North India; c. 12th–16th centuries CE.
+- **Key Figures:** Gorakhnath (fl. c. 12th c.), Chandidas (fl. c. 14th–15th c.), Vidyapati (c. 1352–1448), early Bengali Vaishnavas.
+- **Context:**  
+  - As Buddhism declines in Bengal, Sahajiya themes are absorbed by Shaiva and Nath yogic traditions, and by vernacular Vaishnava poets.
+  - The *sahaja* ideal is expressed in both yogic and devotional (bhakti) forms.
+- **Salient Features:**  
+  - Rustic, anti-scholastic, and anti-ritual ethos.
+  - Spread among rural artisans, folk singers, and marginalized communities.
+- **Territorial Focus:** Bengal, Nepal, eastern Gangetic plain.
+
+## 4. **Bhakti-Sahajiya Synthesis: Gaudiya Vaishnavism, Bauls, and the Sant Tradition (15th–18th Century CE)**
+
+- **Time & Place:** Bengal, Braj (Uttar Pradesh), Assam, Punjab, Rajasthan, Maharashtra; c. 15th–18th centuries CE.
+- **Key Figures:** Chaitanya Mahaprabhu (1486–1533), Nityananda (fl. early 16th c.), Kabir (c. 1440–1518), Guru Nanak (1469–1539), Baul poets, Dadu, Ravidas, Namdev.
+- **Context:**  
+  - Chaitanya and Nityananda’s ecstatic bhakti in Bengal is deeply influenced by Sahajiya and Tantric currents.
+  - The Bauls embody Sahajiya values: body-centered spirituality, anti-ritualism, and vernacular song.
+  - The Sant tradition (Kabir, Nanak, Dadu, etc.) spreads *sahaj* ideals across North India, with emphasis on direct experience and the unity of sacred and secular.
+- **Salient Features:**  
+  - Rural, anti-institutional, and anti-caste.
+  - Use of vernacular poetry and song as primary vehicles.
+- **Territorial Focus:** Bengal, eastern and northern India, Punjab, Maharashtra.
+
+## 5. **Marginalization and Reformist Reaction (19th–early 20th Century CE)**
+
+- **Time & Place:** Bengal, North India, Nepal; c. 19th–early 20th centuries CE.
+- **Key Figures:** Bhaktisiddhanta Sarasvati (1874–1937), colonial ethnographers and reformers.
+- **Context:**  
+  - Colonial modernity and Hindu reform movements stigmatize Sahajiya and Baul practices as “heterodox” or “licentious.”
+  - Orthodox Vaishnavism and urban elites distance themselves from Sahajiya roots.
+- **Salient Features:**  
+  - Marginalization to folk and rural culture.
+  - Survival in oral traditions, music, and poetry.
+- **Territorial Focus:** Bengal, North India, Himalayan foothills.
+
+## 6. **Contemporary Resonance and Diaspora (20th–21st Century CE)**
+
+- **Time & Place:** Bengal, Bangladesh, Nepal, Himalayan regions, global diaspora; c. 20th–21st centuries CE.
+- **Key Figures:** Modern Bauls, Himalayan yogis, academic scholars.
+- **Context:**  
+  - Revival of interest in Sahajiya poetry, music, and philosophy.
+  - Nyingma and Dzogchen teachings gain global audience, with Sahaja themes highlighted in contemporary Buddhist and yogic circles[1][2][5][6].
+- **Salient Features:**  
+  - Cultural festivals, academic studies, and global spiritual movements.
+  - Ongoing marginalization in mainstream religious discourse, but renewed appreciation in folk and academic contexts.
+- **Territorial Focus:** Bengal, Himalayas, worldwide.
+
+### **Table: Spatio-Temporal Waves of the Sahajiya Tradition**
+
+| Period                | Region(s) / Locales           | Key Figures/Groups                | Flourishing Dates     | Features & Circumstances                    |
+|-----------------------|------------------------------|-----------------------------------|----------------------|---------------------------------------------|
+| 8th–12th c.           | Bengal, Odisha, Assam        | Saraha, Mahasiddhas               | c. 750–1200 CE       | Buddhist Sahajayana, Charyapada, rustic     |
+| 8th–11th c.           | Central Tibet, Samye, Himalaya | Padmasambhava, Śāntarakṣita, Nyingma | c. 779–1050 CE       | Nyingma, Dzogchen, Mantrayana integration   |
+| 12th–16th c.          | Bengal, Nepal, N. India      | Nath yogis, Chandidas, Vidyapati  | c. 1100–1550 CE      | Shaiva, Nath, early Vaishnava Sahajiya      |
+| 15th–18th c.          | Bengal, Braj, Punjab, Maharashtra | Chaitanya, Nityananda, Kabir, Nanak, Bauls, Sants | c. 1450–1800 CE      | Bhakti-Sahajiya, Baul, Sant, rural spread   |
+| 19th–early 20th c.    | Bengal, N. India, Himalaya   | Reformers, Bauls                  | c. 1800–1930 CE      | Marginalization, polemic, folk survival     |
+| 20th–21st c.          | Bengal, Himalaya, diaspora   | Bauls, yogis, scholars            | c. 1900–present      | Cultural revival, global, academic interest |
+
+### **Key Integration with Nyingma and the Himalaya**
+
+- **Samye Monastery (c. 779–787 CE, Central Tibet):** The first monastery in Tibet, built by Padmasambhava and Śāntarakṣita, became the locus for integrating Indian Sahaja/Mantrayana teachings into the Tibetan context[4][5][6][7].
+- **Dzogchen (Ati Yoga):** The “Great Perfection” teachings of the Nyingma school are philosophically and practically aligned with Sahaja ideals—innate, spontaneous realization, and the immanence of enlightenment[1][3][6].
+- **Spread to Himalayan Regions:** Nyingma and Sahajiya-inflected practices spread to Bhutan, Sikkim, Nepal, Ladakh, and beyond, creating a pan-Himalayan network of “rustic” Tantric and Sahaja lineages[5][6][7][9].
+
+**In summary:**  
+The Sahajiya movement’s waves are grounded in specific times, places, and social contexts—from Saraha’s Bengal, through the Himalayan transmission at Samye and the Nyingma school, to the vernacular poets and rural mystics of North India, and finally to the folk, academic, and global revivals of today. The integration with the Nyingma tradition and its spread into the Himalayas (Samye, Klu temples, etc.) are essential to understanding the full spatio-temporal flow of Sahajiya spirituality[1][4][5][6][7].
+
+Citations:
+[1] The Four Schools of Tibetan Buddhism https://www.namchak.org/community/blog/four-schools-of-tibetan-buddhism/
+[2] Getting to Know the Four Schools of Tibetan Buddhism https://fpmt.org/mandala/archives/mandala-issues-for-2007/october/getting-to-know-the-four-schools-of-tibetan-buddhism/
+[3] The Teachings of the Nyingma Tradition https://treasuryoflives.org/bo/foundations/view/8
+[4] Tibetan Buddhism https://en.wikipedia.org/wiki/Tibetan_Buddhism
+[5] Nyingma https://www.rigpawiki.org/index.php?title=Nyingma
+[6] Nyingma - Wikipedia https://en.wikipedia.org/wiki/Nyingma
+[7] Poll: Religious Group (v6) https://open.library.ubc.ca/media/stream/pdf/52387/1.0438204/2
+[8] Nyingma http://oaks.nvg.org/nyingma.html
+[9] Religions | Project Himalayan Art https://rubinmuseum.org/projecthimalayanart/themes/religions/
+[10] Himalaya: Significance and symbolism https://www.wisdomlib.org/concept/himalaya
+
+
 ## Sahajiya, Tantric, and Raganuga Bhakti in the Chaitanya Tradition
 
 ### Historical Context: Sahajiya, Tantra, and Early Vaishnavism
