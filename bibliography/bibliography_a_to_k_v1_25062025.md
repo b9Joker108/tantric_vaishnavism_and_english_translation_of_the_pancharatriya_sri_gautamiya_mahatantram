@@ -216,6 +216,12 @@ This work is particularly rare and unusual in the Vaikhanasa canon, as it is not
 **Purport:**<br>
 I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical discourse of the Vaikhanasa Tradition into the German and the European languages and I proffer as most educated European people in this period, were also literate in French and English, as well as Latin and Ancient Greek, it may be considered to open the discourse into the English language and theological discourse as well.
 
+### BURTON, A. ###
+
+* Burton, Adrian P. (2000). 'Temples, Texts, and Taxes: the Bhagavad-Gita and the Politico-Religious Identity of the Chaitanya Sect - an Archival and Textual Investigation into the Text and Times of the Sarartha-Varshini Commentary on the Bhagavad-Gita by Vishvanatha Chakravarti'. Ph.D. dissertation. Canberra, A.C.T., Australia: The Australian National University (ANU). 
+
+**Purport:**<br>
+...
 
 ...
 
