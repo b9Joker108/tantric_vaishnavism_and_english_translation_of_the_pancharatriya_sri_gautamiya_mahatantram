@@ -260,6 +260,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 **Purport:**<br>
 ...
 
+### DEHEJIA, V. 
+
+* Dehejia, Vidya  (1988). 'Slaves of the Lord: The Path of the Tamil Saints'. First edition. New Delhi, India: Munshirm Manoharlal. ISBN 978812500449.
+
+**Purport:**<br>
+I am contemplatishing purchasing a hardcopy of this volume, as I have not been able to secure a digital copy. Dehejia is an exceptional scholar. **TODO:** Purchase: ?
+
 ### DUNN, B. ###
 
 * Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
