@@ -996,6 +996,14 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### ROY, A. ###
+
+* Roy, Asim (1970). 'Islam in the Environment of Medieval Bengal: With Special Reference to the Bengali Sources'. Ph.D. thesis. Canberra, A.C.T., Australia: The Australian National University (ANU).
+
+**Purport:**<br>
+...
+
+
 ...
 
 # S #
