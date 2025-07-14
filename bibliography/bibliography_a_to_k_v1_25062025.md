@@ -331,6 +331,13 @@ As yet, I have not been able to secure a copy.
 
 ...
 
+### JACKSON, R. ###
+
+* Jackson, Roger R. (trans. & comm.) (2004). 'Tantric Treasures: Three Collections of Mystical Verse from Buddhist India'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 019516640X.
+
+**Purport:**
+...
+
 ### JACOBSEN, K.; *et al* ###
 
 * Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). 'Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939.
