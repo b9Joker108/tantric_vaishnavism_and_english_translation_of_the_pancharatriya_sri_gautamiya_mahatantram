@@ -70,6 +70,27 @@ Citations:
 [11] TRANSFORMATION OF VEDIC BRAHMANISM INTO PURANIC HINDUISM https://www.academia.edu/76907655/TRANSFORMATION_OF_VEDIC_BRAHMANISM_INTO_PURANIC_HINDUISM
 [12] Bhagavata Purana - Wikiwand https://www.wikiwand.com/en/articles/Bhagavat_Purana
 
+So, prior to the Ahima Jaina doctrinal development that was drawn from the Shramana substratum, thay was reactionary to the outer sacrifices, particularly animal sacriifices of the Vedic Tradition, the Jaina substratum demonstrates a warrior sensibility and sovereign concerns?
+
+Prior to the formal doctrinal development of **Ahimsa (non-violence)** in Jainism—often characterized as a response to the Vedic tradition’s animal sacrifices—the **Jaina substratum** was deeply embedded within the broader **Śramaṇa movement**. This ascetic movement, beginning around 800–600 BCE, **rejected the Brahmanical ritual authority** and practices, emphasizing spiritual liberation through austerity and self-discipline rather than ritual or animal sacrifice[2][4][5][6][7].
+
+While the historic Jain doctrine is fundamentally identified with *ahimsa* and spiritual independence, the underlying **Śramaṇa substratum** encompassed diverse sensibilities, including those of royalty and warriors. The early Śramaṇa environment was not purely reactionary or pacifist; it grew in a landscape where **sovereign, martial, and kshatriya (warrior) concerns** were present alongside evolving ascetic values. This is reflected in Jain narratives and cosmology, which often feature warrior-hero figures (such as the Baladevas and Vasudevas) who pursue sovereignty and worldly power but ultimately renounce violence and kingship for higher spiritual goals. Such tales suggest a **warrior sensibility** embedded in early Jain and broader Śramaṇa heritage, later subsumed and morally redirected into the doctrine of radical non-violence and renunciation as Jainism developed its distinct identity[2][3][6].
+
+Thus, before Jainism’s explicit turn to ahimsa as its central tenet, its substratum indeed **demonstrates engagement with sovereignty, warrior ideals, and political life**, even as these were reframed over time into models of renunciation and non-violence within the evolving Jain tradition[2][3][6].
+
+Citations:
+[1] History of Jainism - Wikipedia https://en.wikipedia.org/wiki/History_of_Jainism
+[2] Jainism | Early World Civilizations - Lumen Learning https://courses.lumenlearning.com/atd-herkimer-worldcivilization/chapter/jainism/
+[3] Śramaṇa - Wikipedia https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a
+[4] The Sramana Movement | World Civilization - Lumen Learning https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-sramana-movement/
+[5] 6.3: Jainism https://human.libretexts.org/Bookshelves/History/World_History/Early_World_Civilizations_(Lumen)/06:_Early_Civilizations_in_the_Indian_Subcontinent/6.03:_Jainism
+[6] Jainism https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/jainism/
+[7] Jainism – Early World Civilizations https://library.achievingthedream.org/herkimerworldcivilization/chapter/jainism/
+[8] 6.3: Religion in the Indian Subcontinent - Humanities LibreTexts https://human.libretexts.org/Under_Construction/History-Boundless-1581241200.epub/06:_Early_Civilizations_in_the_Indian_Subcontinent/6.03:_Religion_in_the_Indian_Subcontinent
+[9] [PDF] Forgotten Legacies of Sramana: A Glance Through The Local ... https://www.ijhssi.org/papers/vol13(12)/13122127.pdf
+[10] The Shramanas and Shramanic Traditions - Hinduwebsite.com https://www.hinduwebsite.com/hinduism/concepts/shramana.asp
+
+
 
 "Its earliest forms centered on the worship of Vāsudeva-Krishna in the Mathura region, marking a departure from the ritual-centric, elitist practices of Vedic religion and Brahmanism[2][9][11]."  This is incorrect. The Jaina and Vaishnava tradition, in particular, have deep and shared deity substratum: Balaram, etc.
 
