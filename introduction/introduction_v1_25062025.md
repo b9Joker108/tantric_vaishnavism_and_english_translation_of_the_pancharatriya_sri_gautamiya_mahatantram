@@ -12,7 +12,167 @@ So too, does the right-hand, cleanse the left.<br>
 [Sri Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu), properly Sri Krishna-Chaitanya Bharati (even though Chaitanya never used His titular Dasanami nomenclature "Bharati", post-initiation by Sri Keshava Bharati, breaking with the [Dasanami Tradition](https://en.wikipedia.org/wiki/Da%C5%9Ban%C4%81mi_Sampradaya) of bearing one of the ten lineal names held by their initiating guru) and [Sri Nityananda-Rama](https://en.wikipedia.org/wiki/Nityananda) the Avadhuda, His close associate, were Sahajiyas. Scholars generally state that the Indic Sahajiyas commenced with Saraha and closed with the revisionist Gaudiya Vaishnava polemic against heterodox Tantric Vaishnava schools, particularly what has confusingly come to be called the "Vaishnava Sahajiyas" in English discourse, bolstered and amplified by the ascendant socio-political melieu of Colonialism and its Victorian Christian morality. The polemic and titillation against the heterodox 'Vaishnava Sahajiyas', has coloured the historical truth, that Chaitanya and Nityananda, were Sahajiyas as were all the major and minor mediaeval Vaishnava Bhakti poets, songsmiths and dramatists. Ruganuga Bhakti of Chaitanya and Nityananda, is a Sahaja Sadhana and therefore, fundamentally and inalienably, Tantric in proclivity and actuality. There was a subsequent theological structuring conducted by the [Six Goswamis of Vrindavana](https://en.wikipedia.org/wiki/Six_Goswamis_of_Vrindavan), who were demonstrably and directly privy to a volume of Tantric Vaishnava literature of different traditions, and used this as material to frame and inform Gaudiya Vaishnava theology, practice and worldview; and particularly of acharyas subsequent to the Six Goswamis, that foregrounded Rupanuga Bhakti, following the process of [Sri Rupa Goswami](https://en.wikipedia.org/wiki/Rupa_Goswami) and his disciple and theological, doxological and hermeneutical prodigy, [Sri Jiva Goswami](https://en.wikipedia.org/wiki/Jiva_Goswami), who was too young to have associated directly with Chaitanya, in foregrounding a more rules-based and graduated path in subsequent Gaudiya Vaishnavism, but this is understood as provisional, as the goal is the devotional service in spontaneous love, a lawless or loreless love and ecstatic devotion or Ruganuga Bhakti, which is a Chaitanya Bhakti-Sahaja fusion. Curiously, quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volume of manuscripts and collections of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings.
 
 
-Is the demonstrably ancient pan-Indic reticula of localised village Goddess worship in forms that demonstrate an aniconic-iconic continuum, along with nascent lingam, yantra geometry in fire sacrifice constriction, yaksha/yakshi and naga/nagini worship, all helped coalesced and mtually and iterated and informed with the Zeitgeist of the Late Vedic Age, that  was a development of the bhaga seed in the Vedas, that developed into the pre-sectarian Bhagavata matric that initiated ajd developed the iconographic and anthropomorphic forms of deity from the theriomorphic, which in toobwas developed from the numinous Animistic and pre- and post-Vedic Nature Religion and its vernal concerns.
+The Rig Veda is fundamentally constituted by recorded narratival hymns of numinous hierophanies experienced by hierophantic sages, the Saptarishi and auxillary additional Maharshis. Please divide up the Rig Veda and the extended Vedic Tradition proper into its Rishi and Gotra-lineages of traditions.
+
+The **Rig Veda** and the extended **Vedic Tradition** are structured around hymns revealed to hierophantic sages (**rishis**), whose lineages became the core of the gotra system that underpins much of traditional Hindu society. These rishis, particularly the **Saptarishi** (Seven Sages) along with other Maharshis, are at the heart of the oral and textual transmission, and their names mark the genealogical and ritual affiliations of succeeding generations.
+
+Below is a breakdown of the **primary Rishi lineages (gotras)** according to the Rig Veda and orthodox Vedic tradition:
+
+## **Saptarishi and Core Gotras**
+
+The **Seven Sages (Saptarishi)** are:
+
+1. **Atri**
+2. **Bharadvaja**
+3. **Gautama**
+4. **Jamadagni**
+5. **Kashyapa**
+6. **Vasishta**
+7. **Vishvamitra**
+
+Some traditions add **Agastya** as an eighth[1][4][9].
+
+## **Mandala Structure and Rishi Attribution in the Rig Veda**
+
+- **Mandala 1, 8, 9, 10 (Family/Clan-multiple):**  
+  Composite authorship—contains hymns by various rishis, both Saptarishi and auxiliary Maharshis, as well as women seers.[6]
+
+- **Mandala 2: Grtsamada Family (descended from Angirasa)**
+- **Mandala 3: Vishvamitra Lineage (Koushika gotra)**
+- **Mandala 4: Vamadeva Gautama (Gautama gotra)**
+- **Mandala 5: Atri Family (Atreya gotra)**
+- **Mandala 6: Bharadvaja Family (Bharadvaja gotra)**
+- **Mandala 7: Vasishta Family (Vasishta gotra)**
+
+These family mandalas (2–7) are named for the **principal families/gotra lineages** of rishis[6][7][8].
+
+## **Extended Gotra Lineages and Sub-Lineages (Pravaras)**
+
+Each major Rishi gotra can be subdivided into further lines called **pravaras**, indicating sub-lineage or notable descendants.  
+For example:
+- **Kashyapa Gotra:** Sub-lineages include Avatsara, Naidhruvi, among others[5].
+- **Atri Gotra:** Sub-lineages include Atreya, Gavisthira[4][7][8].
+- **Agastya Gotra:** Has complex sub-lineages like Maahendra, Maayobhuva, and others[3][8].
+
+**Gotra Lineages and Their Chief Rishis (with examples):**
+
+| Gotra     | Principal Rishi/Clan Head | Notable Sub-lineages (Pravaras)              |
+|-----------|--------------------------|-----------------------------------------------|
+| Atri      | Atri                     | Atreya, Gavisthira, Gaya, Soma, Datta, Durvasa|
+| Bharadvaja| Bharadvaja               | Angirasa-Bharadvaja, Vedamitra                |
+| Gautama   | Gautama                  | Rahugana, Nodhas                              |
+| Jamadagni | Jamadagni (Bhrigu)       | Richika, Shunahshepa, Parashurama             |
+| Kashyapa  | Kashyapa                 | Avatsara, Naidhruvi, Asita, Kaashyapi         |
+| Vasishta  | Vasishta                 | Shakti, Parashara, Vyasa                      |
+| Vishvamitra| Vishvamitra (Koushika)  | Madhuchhanda, Devarata                        |
+| Angirasa  | Angirasa                 | Grtsamada, Bhrigu, Kanva, Mandhatri, Samvarta |
+
+**Other influential rishis (used in further gotras/pravaras):**
+- Agastya
+- Bhrigu
+- Kanva
+- Sandilya
+- Pulaha
+
+All these are recognized **gotrakarins** (progenitor rishis)[4][5].
+
+## **Female Rishis (Rishikas) and Additional Lineages**
+
+The Rig Veda also credits around 30 female sages, such as **Lopamudra, Ghosha, Apala, Vishvavara**, and **Urvashi**, each associated with specific hymns and occasionally certain gotras[6].
+
+## **Summary Table: Rigvedic Mandala–Rishi Lineage Structure**
+
+| Mandala   | Principal Rishi (Gotra)    | Lineage Type      |
+|-----------|----------------------------|-------------------|
+| 1, 8, 9, 10 | Multiple (Composite)       | Mixed/Many        |
+| 2         | Grtsamada/Angirasa         | Angirasa/Grtsamadan|
+| 3         | Vishvamitra (Koushika)     | Vishvamitra       |
+| 4         | Vamadeva Gautama           | Gautama           |
+| 5         | Atri (Atreya)              | Atri              |
+| 6         | Bharadvaja                 | Bharadvaja        |
+| 7         | Vasishta                   | Vasishta          |
+
+### **The 18 Gotra Clans (Gaṇas)**
+All Rishi gotras are ultimately classified into 18 gaṇas under seven chief Brahmarshis:[5]
+
+- Bhrigu: Jamadagni, Vitahavya, Grutsamada, Vadhrashwa, Vainya
+- Angirasa: Gautama, Bharadvaja, Kapi, Kanva, Mudgala, Virupa, Harita, Vishnuvruddha
+- Kashyapa, Atri, Vasishta, Agastya, Vishvamitra: Each heads one gaṇa.
+
+**References:**  
+[1][2][4][5][6]
+
+If you would like a more granular mapping of specific hymns to rishis or details on a particular gotra/sub-lineage, let me know.
+
+Citations:
+[1] Gotra https://en.wikipedia.org/wiki/Gotra
+[2] THE VEDIC GOTRA SYSTEM - sbdsi.saikat - WordPress.com https://sbdsisaikat.wordpress.com/2013/06/25/the-vedic-gotra-system/
+[3] List of Rishis, Their known Gotra lineage - The Gothra root ... https://ia802805.us.archive.org/25/items/15_453/3207.pdf
+[4] In Hindu culture, the term gotra (Sanskrit https://gotras.com/what-are-gotras/
+[5] Gotras and Pravaras https://www.indiafacts.org.in/gotras-and-pravaras/
+[6] Rishis of the Rig Veda and oral traditions of the Vedas https://sreenivasaraos.com/2012/09/04/rishis-of-the-rig-veda-and-oral-traditions-of-the-vedas/
+[7] Gotra Rishis – Brief Note Part I – Srivaishnavam Practices https://trsiyengar.com/gotra-rishis-brief-note-part-i/
+[8] Rishis and Gothra | PDF | Vedas | Hindu Mythology https://www.scribd.com/document/90055520/Rishis-and-Gothra
+[9] Gotra | History, Origin, & Significance https://www.britannica.com/topic/gotra
+[10] Rishis and Gothra: Exploring Vedic Composers and Lineages https://studylib.net/doc/26092240/rishis-and-gothra
+
+
+Can you now survey Maharshi Gautama please
+
+**Maharshi Gautama** is one of the most distinguished Vedic sages and features centrally within the Saptarishi constellation—the mythic Seven Great Sages of the Vedic and Puranic tradition. Here is a focused survey of his life, lineage, contributions, and legacy:
+
+### **Lineage and Identity**
+
+- **Gotra and Family:** Gautama was born into the Angirasa lineage, as son of Rahugana or, in some accounts, Dirghatamas. Through his spiritual and biological lineage, Gautama became the progenitor of the **Gautama gotra**, one of the foundational lineages in Brahmanical society[1][3][6][8][10].
+- **Consort and Descendants:** His wife is the celebrated Ahalya, a figure tied to numerous mythic narratives. His principal sons, Vamadeva and Nodhas, were also respected as mantra-seers in the Rig Veda[1][3][5][6][10].
+
+### **Vedic Contributions**
+
+- **Rig Veda:** Gautama is credited as a **mantra-drashta** (“seer of hymns”) with several suktas of the Rig Veda directly attributed to him and his descendants[1][3][5][6][7][9]. His family’s hymns typically appear in Mandala 4, but Gautama-lineage seers are associated with other hymns as well.
+- **Sama Veda and Beyond:** He is associated with hymns in other Vedic collections and, according to the Brahmanda Purana, initiated a sub-branch within the Raanaayani school of the Sama Veda[3][7].
+
+### **Dharma Shastra and Social Thought**
+
+- **Gautama Dharma-sutra:** Recognized as the author of the **oldest extant Dharma-sutra**, a foundational law code with 28 chapters and about 1,000 aphorisms. His text outlines comprehensive regulations for ritual, social conduct, the varna system, rites of passage (samskaras), laws of inheritance, penance, and royal duties—establishing principles that profoundly influenced subsequent dharma literature[9].
+
+### **Mythic and Spiritual Legacy**
+
+- **Ascetic and Teacher:** Gautama achieved fame for his lengthy austerities—ritual penances and tapasya reputed to last thousands of years. His ashram, typically located on the slopes of Pariyatra or Brahmavarta in some accounts, was a renowned center of learning and ascetic practice[2][8].
+- **Legend of the Cow and Godavari:** According to the Devi Bhagavatam, the sacred river **Godavari** is named for its association with Gautama. Legends describe how, following a test of hospitality and penance, Gautama’s prayers brought the river Ganga (as Godavari) to purify a perceived sin[1][7].
+- **Ahalya and Indra:** The story of **Ahalya’s curse** and redemption is among the most famous mythic episodes involving Gautama. Upon discovering Ahalya’s infidelity with Indra (who approached her in disguise), Gautama cursed both: Indra to be marked with a thousand yonis, later mitigated to eyes, and Ahalya to become a stone until restored by Rama’s touch. This narrative is found in the Ramayana and later Puranic expansion; it carries themes of dharma, atonement, and divine grace[4][5][6][9].
+
+### **Disciples and Influence**
+
+- **Prominent Disciples:** His pupils are said to include significant figures such as Shaandilya, Gārgya, and Bharadvaja, spreading his wisdom further into key Vedic and Upanishadic schools[3][7].
+- **Across Traditions:** Maharshi Gautama is referenced not only in Hinduism, but also in **Buddhist and Jain** traditions, marking his stature across the Indic religious spectrum[4].
+
+### **Legacy in the Gotra System**
+
+- Gautama’s gotra remains one of the principal brahminical gotras of India, with a presence in ritual recitations, family lineages, and social structure.
+
+**References:**  
+[1][2][3][4][5]
+
+If you would like a list of specific Rig Vedic hymns attributed to Gautama and his lineage, or a focused look at his influence in Buddhist or Jain traditions, please let me know.
+
+Citations:
+[1] Gautama https://hinduonline.co/HinduReligion/Saints/Gautama.html
+[2] Sage Gautama https://hinduscriptures.com/sage-gautama/
+[3] Maharishi ​Gautam https://hamroswabhiman.com/maharishi-gautam
+[4] Gautama Maharishi https://en.wikipedia.org/wiki/Gautama_Maharishi
+[5] Gautama https://www.hinduonline.co/HinduReligion/Saints/Gautama.html
+[6] Rishi Gautama https://www.speakingtree.in/blog/rishi-gautama
+[7] Maharishi Gautama - Life and His Contributions https://vedicfeed.com/maharishi-gautama/
+[8] Full text of "Maharshi Gautam" https://archive.org/stream/MaharshiGautamBio/Maharshi%20Gautam%20bio_djvu.txt
+[9] Gautama Rishi - Radha name https://www.radha.name/news/general-news/gautama-rishi
+[10] Gautam - Simple English Wikipedia, the free encyclopedia https://simple.wikipedia.org/wiki/Gautam
+
+
+
+
+
+
+Is the demonstrably ancient pan-Indic reticula of localised village Goddess worship in forms that demonstrate an aniconic-iconic continuum, along with nascent lingam, yantra geometry in fire sacrifice construction, yaksha/yakshi and naga/nagini worship, all helped coalesce and mutally iterated and informed with the Zeitgeist of the Late Vedic Age, that  was a development of the bhaga seed in the Vedas, that developed into the pre-sectarian Bhagavata matric that initiated ajd developed the iconographic and anthropomorphic forms of deity from the theriomorphic, which in toobwas developed from the numinous Animistic and pre- and post-Vedic Nature Religion and its vernal concerns.
 
 Yes, the **ancient pan-Indic networks of village Goddess worship**, expressed through both **aniconic (e.g., stones, trees, rocks) and iconic (anthropomorphic images)** forms, as well as the related worship of **lingams**, **yantric geometries**, **yaksha/yakshi** (nature spirits), and **naga/nagini** (serpent deities), contributed significantly to the evolving religious atmosphere—the *Zeitgeist*—of the **Late Vedic Age**. This development was not linear, but rather an iterative and mutually informing process involving local, tribal, and Vedic traditions.
 
