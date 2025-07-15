@@ -1041,6 +1041,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SRINIVASAN, D. ###
+
+* Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
+
+**Purport:**<br>
+...
+
 ### STAAL, F. ###
 
 * Staal, Frits (1987).  'The Ineffable Nirguna Brahman' (pp. 41-46) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
