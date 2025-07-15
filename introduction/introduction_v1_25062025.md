@@ -437,6 +437,36 @@ What we have, then, is an **evolving continuum**—rooted in **non-Vedic animism
 Let me know if you'd like a collapsible or simplified version of this synthesis.
 
 
+Relate scholars who attest tovthe Vaikhanasa being more venerable than the Pancharatra.
+
+Several scholars and authoritative sources have attested to the **greater antiquity and “Vedic” character of the Vaikhanasa tradition as compared to the Pancharatra**, citing its origins, ritual conservatism, and strict adherence to Vedic norms:
+
+- **A.W. Entwistle** (*Vaishnavism: An Introduction*, 1981), **T. Goudriaan** (*Vaikhanasa Daily Worship*, 1969), and others note that the **Vaikhanasas are Vedic in origin**, performing all rituals strictly in Sanskrit and preserving archaic liturgical forms. By contrast, the Pancharatra tradition, whilst ancient, is seen as incorporating more non-Vedic and Tantric elements, and is somewhat more flexible and adaptive in ritual and language[1].
+
+- **Britannica** states that the **Pancharatra Samhitas eventually supplanted the Vaikhanasa Samhitas in most of Vaishnavism after the 12th century**, but *the Vaikhanasa Samhitas are documented as the older and more conservative tradition*, rooted in priestly families and hereditary temple service, and are "strictly Vedic in character”[9][10].
+
+- Academic discussions highlight that **Vaikhanasa Agama priests stress their Vedic heritage and often claim a higher ritual purity and precedence** by virtue of being “garbha-vaishnavas”—those born into ritual service and initiated from the womb, as opposed to Pancharatra, where initiation is open to all with proper deeksha[6][7].
+
+- Some summaries also underscore that **in Vaikhanasa worship, more Vedic mantras are recited**, and ritual actions are fewer and simpler than in Pancharatra; **the Vaikhanasa see their worship as more directly continuous with Vedic yajna**, while Pancharatra worship is sometimes viewed as later and more devotional or theologically inclusive[7][10].
+
+- **P. Kumar** (*Religious Institutions: Ritual and Power Dynamics in India*, 1993) notes that while both traditions focus on Vishnu worship, “the Vaikhanasas emphasize their Vedic roots and ritual orthodoxy,” which is reflected in temple administration, hereditary priesthood, and reliance on Vedic liturgy[1][10].
+
+**In summary:**  
+Scholars including Entwistle, Goudriaan, Kumar, and those referenced in *Britannica* and specialized academic blogs agree that the **Vaikhanasa tradition is regarded, both by its practitioners and by historians, as more venerable, Vedic, and conservative** than Pancharatra. However, Pancharatra eventually became dominant in major South Indian temples due to historical reforms, notably those of Ramanuja[9][1][10].
+
+Let me know if you’d like direct excerpts from these academic works or further bibliography.
+
+Citations:
+[1] Pancharatra and Vaikhanasa: Are they really significantly different? https://goldcoasthindu.wordpress.com/2020/04/05/pancharatra-and-vaikhanasa-are-they-really-significantly-different/
+[2] Vaikhanasa shastra | sreenivasarao's blogs https://sreenivasaraos.com/tag/vaikhanasa-shastra/
+[3] Pancharatra - Wikipedia https://en.wikipedia.org/wiki/Pancharatra
+[4] VAIKANASA & PANCHARATRA - Ponniyin Selvan Varalaatru Peravai https://ponniyinselvan.in/forum/discussion/11923/vaikanasa-pancharatra/p1
+[5] pAncharAtra and vaikhAnasa (Ramanuja.org/Bhakti List Archives) https://ramanuja.org/sri/BhaktiListArchives/Article?p=oct2002%2F0196.html
+[6] intro_to_pancaratra.pdf https://www.scribd.com/document/194823464/intro-to-pancaratra-pdf
+[7] Comparing Vaikhanasa Agama and Pancharatra https://www.hindu-blog.com/2023/07/comparing-vaikhanasa-agama-and.html?m=1
+[8] Why Sri Ramanuja preferred Paancharaatra over Vaikaanasa? https://www.indiadivine.org/content/topic/1539413-why-sri-ramanuja-preferred-paancharaatra-over-vaikaanasa/
+[9] Vaikhanasa Dharma, Vedic Rituals, Agamic Practices - Britannica https://www.britannica.com/topic/Vaikhanasa
+[10] [PDF] A Comprehensive Analysis of Shaiva, Vaishnava, and Shakta ... https://papers.ssrn.com/sol3/Delivery.cfm/5165893.pdf?abstractid=5165893&mirid=1
 
 
 
