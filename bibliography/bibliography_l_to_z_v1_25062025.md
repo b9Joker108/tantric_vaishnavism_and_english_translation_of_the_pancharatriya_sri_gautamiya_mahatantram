@@ -1138,6 +1138,13 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 
 # W #
 
+### WEDEMEYER, C. ###
+
+* Wedemeyer, Christian K. (2012, 2008). 'Locating Tantric Antinomianism: An Essay Toward an Intellectual History of the ‘Practices/Practice Observance’ (Caryā/Caryāvrata)' (NB: ‘Terms of Art’ in Indian Esoteric Buddhism Contributions to a Panel at the XVth (15th) Congress of the International Association of Buddhist Studies, Atlanta, 23-28 June, 2008.). (pp. 349-420) in Kellner, Birgit & Krasser, Helmut (eds.); *et al.* (2012). *JIABS: Journal of the International Association of Buddhist Studies*, Vol. 34, No. 1-2, 2011 (2012). Madison, Wisconsin, U.S.A.: International Association of Buddhist Studies. Source: https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/10607 (accessed: Tuesday, July 15, 2025) 
+
+**Purport:**<br>
+...
+
 ### WILKE, A.; *et al.* ###
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
