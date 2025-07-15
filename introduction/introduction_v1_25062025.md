@@ -11,6 +11,66 @@ So too, does the right-hand, cleanse the left.<br>
 
 [Sri Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu), properly Sri Krishna-Chaitanya Bharati (even though Chaitanya never used His titular Dasanami nomenclature "Bharati", post-initiation by Sri Keshava Bharati, breaking with the [Dasanami Tradition](https://en.wikipedia.org/wiki/Da%C5%9Ban%C4%81mi_Sampradaya) of bearing one of the ten lineal names held by their initiating guru) and [Sri Nityananda-Rama](https://en.wikipedia.org/wiki/Nityananda) the Avadhuda, His close associate, were Sahajiyas. Scholars generally state that the Indic Sahajiyas commenced with Saraha and closed with the revisionist Gaudiya Vaishnava polemic against heterodox Tantric Vaishnava schools, particularly what has confusingly come to be called the "Vaishnava Sahajiyas" in English discourse, bolstered and amplified by the ascendant socio-political melieu of Colonialism and its Victorian Christian morality. The polemic and titillation against the heterodox 'Vaishnava Sahajiyas', has coloured the historical truth, that Chaitanya and Nityananda, were Sahajiyas as were all the major and minor mediaeval Vaishnava Bhakti poets, songsmiths and dramatists. Ruganuga Bhakti of Chaitanya and Nityananda, is a Sahaja Sadhana and therefore, fundamentally and inalienably, Tantric in proclivity and actuality. There was a subsequent theological structuring conducted by the [Six Goswamis of Vrindavana](https://en.wikipedia.org/wiki/Six_Goswamis_of_Vrindavan), who were demonstrably and directly privy to a volume of Tantric Vaishnava literature of different traditions, and used this as material to frame and inform Gaudiya Vaishnava theology, practice and worldview; and particularly of acharyas subsequent to the Six Goswamis, that foregrounded Rupanuga Bhakti, following the process of [Sri Rupa Goswami](https://en.wikipedia.org/wiki/Rupa_Goswami) and his disciple and theological, doxological and hermeneutical prodigy, [Sri Jiva Goswami](https://en.wikipedia.org/wiki/Jiva_Goswami), who was too young to have associated directly with Chaitanya, in foregrounding a more rules-based and graduated path in subsequent Gaudiya Vaishnavism, but this is understood as provisional, as the goal is the devotional service in spontaneous love, a lawless or loreless love and ecstatic devotion or Ruganuga Bhakti, which is a Chaitanya Bhakti-Sahaja fusion. Curiously, quite a volume of Vaishnava tantric materials, to which the Six Goswamis were demonstrably privy, as evident from their discourse, are no longer extant, but may yet emerge in the vast volume of manuscripts and collections of uncatalogued, unpublished Vaishnava Tantric and Sahajiya literatures in public and private holdings.
 
+By pre-sectarian Bhagavata Tradition, I denote the matrix that developed into Jaina Bhagavatism, Vaishnava Bhagavatism, Shaiva Bhagavatism, Shakta Bhagavatism, Bauddha Bhagavatism. Posit timelines and locus of origination of each.
+
+Your framing of a **pre-sectarian Bhagavata Tradition** as a matrix underlying the later emergence of Jaina, Vaishnava, Shaiva, Shakta, and Bauddha Bhagavatism is supported by scholarship that recognizes a shared substratum of devotional, theistic, and aniconic/iconic practices in the late Vedic and early post-Vedic periods. Below is a timeline and locus of origination for each tradition as they developed from this matrix:
+
+| Tradition               | Timeline (Approx.)          | Locus of Origination                | Notes on Development from the Matrix                                                         |
+|-------------------------|-----------------------------|-------------------------------------|---------------------------------------------------------------------------------------------|
+| **Jaina Bhagavatism**   | 7th–5th century BCE         | Eastern India (Magadha, Bihar)      | Jainism arose from the Shramana movement, sharing the matrix’s ascetic, aniconic tendencies and the concept of the Tirthankara as a perfected being, with devotional elements later developing around Mahavira and other Tirthankaras. |
+| **Vaishnava Bhagavatism** | 5th century BCE onward     | Mathura region, Western/North India | Early Bhagavata worship centered on Vāsudeva-Krishna, evolving into Vaishnavism with the integration of Narayana and Vishnu, and later the full development of avatar doctrine and bhakti (devotion) as central practice[8][9]. |
+| **Shaiva Bhagavatism**  | 4th–2nd century BCE onward  | Northwestern India, Kashmir, Tamil Nadu | Shaivism absorbed aspects of the pre-sectarian matrix, developing its own theistic and devotional forms, with early sects like Pashupata and later sophisticated philosophies in Kashmir and Tamil Nadu[2][4]. |
+| **Shakta Bhagavatism**  | 2nd century BCE–2nd century CE | Eastern India (Bengal, Assam), South India | Shaktism’s roots lie in indigenous goddess worship and the matrix’s emphasis on divine power (shakti), later formalized in texts and temples, with both aniconic (yantra) and iconic (murti) forms[5][7]. |
+| **Bauddha Bhagavatism** | 5th–3rd century BCE onward  | Northeastern India (Bihar, Nepal)   | Buddhism arose from the Shramana milieu, sharing the matrix’s aniconic roots (early stupas, relic worship), later developing Mahayana devotionalism (bhakti to Buddhas and Bodhisattvas), especially in Central and East Asia. |
+
+**Key Points:**
+- The **matrix** you describe is best located in the *Gangetic Plain* and *western India* during the late Vedic and early post-Vedic periods (c. 800–400 BCE), where indigenous, Vedic, and Shramanic influences converged.
+- The **sectarian traditions** crystallized in the centuries before and after the Common Era, each drawing differently from the matrix’s blend of aniconic worship, local deities (Yaksha, Yakshini), and emerging theistic devotion.
+- The **Bhagavata tradition** as a pre-sectarian matrix is evidenced by overlapping motifs of devotion, personal godhood, and evolving forms of worship (from fire and symbols to anthropomorphic images), which each later sect adapted to its own theology and practice[5][9].
+
+This framework aligns with your use of "pre-sectarian Bhagavata Tradition" as a shared substrate preceding and informing the major Indic religious sects.
+
+Citations:
+[1] Hinduism's Four Denominations https://www.hinduismtoday.com/hindu-basics/hinduisms-four-denominations/
+[2] Shaivism https://en.wikipedia.org/wiki/Shaivism
+[3] What is the difference between vaishnavism and Shaivism ... https://www.reddit.com/r/shaivism/comments/16hzz18/what_is_the_difference_between_vaishnavism_and/
+[4] Hindu denominations https://en.wikipedia.org/wiki/Hindu_denominations
+[5] Hindu Basics: Four Denominations, Four Facts, Nine Beliefs https://www.himalayanacademy.com/media/books/hindu-basics/web/hin_ch07.html
+[6] The Four Denominations of Hinduism https://www.linkedin.com/pulse/four-denominations-hinduism-muraleedharan-nair
+[7] The Four Denominations of Hinduism - Kauai's Hindu Monastery https://www.himalayanacademy.com/the-four-denominations-of-hinduism/
+[8] (Vaishnavism/Shaivism/Shaktism)- Dr Veenus jain https://www.youtube.com/watch?v=JDTyMT_xU7k
+[9] Hinduism - Vaishnavism, Shaivism https://www.britannica.com/topic/Hinduism/Vaishnavism-and-Shaivism
+[10] Hinduism as a federation of various sects – Shaiva, Vaishnava ... https://karnataka.pscnotes.com/art-and-culture/hindu-sects-hinduism-federation-various-sects-shaiva-vaishnava-shakta/
+
+
+The Bhagavata tradition, in its most non-sectarian substratum, is a post-Vedic, or more properly Late Vedic and pre-Shramana Traditions, meta-framework, that marks a development of the early aniconic representations of deity in the Vedic period and developing the aniconic and iconic representations of Yaksha and Yakshini, which influenced, informed and framed the Shramana Traditions and sectarian Bhagavata Traditions (proto-Vaishnava, proto-Shaiva, proto-Shakta, etc.)?
+
+The **Bhagavata tradition** emerged as a distinct religious movement in *post-Vedic* or *Late Vedic* times, specifically in the centuries leading up to and overlapping with the rise of the Shramana traditions (such as Buddhism and Jainism). Its earliest forms centered on the worship of **Vāsudeva-Krishna** in the Mathura region, marking a departure from the ritual-centric, elitist practices of Vedic religion and Brahmanism[2][9][11].
+
+Key features of this substratum include:
+
+- **Transition from Aniconic to Iconic Representation:** The Vedic period primarily featured aniconic (non-image) forms of worship, such as fire altars and sacrificial posts. Over time, there was a shift toward iconic representations, including images and symbols associated with deities like Vāsudeva-Krishna. This development paralleled the increasing prominence of Yaksha and Yakshini figures—semi-divine beings often depicted in early Indian art—whose imagery and cults influenced both popular and elite religious practices[4].
+- **Meta-Framework and Syncretism:** The Bhagavata tradition did not arise in isolation. It developed as a meta-framework that integrated elements from Vedic, non-Vedic (including indigenous and pre-Aryan), and Shramanic traditions. The Upanishads and later texts reveal the profound impact of non-Vedic ascetic and mystical practices on Vedic thought, resulting in a coalescence of traditions[5].
+- **Influence on and from Shramana Movements:** The Shramana traditions, which gained momentum in the first half of the first millennium BCE, were not direct outgrowths of Vedism but developed alongside Brahmanism, often in regions less dominated by Vedic ritualism (e.g., Magadha)[1][3][5][7]. The Bhagavata tradition, with its emphasis on personal devotion (bhakti) and theistic worship, both influenced and was influenced by these parallel movements.
+- **Proto-Sectarian Developments:** As the Bhagavata tradition matured, it contributed to the emergence of sectarian forms of Hinduism—proto-Vaishnava (focused on Vishnu/Krishna), proto-Shaiva (Shiva), and proto-Shakta (Goddess)—each drawing on the evolving symbolic language of both aniconic and iconic representation[2][11].
+
+In summary, the **Bhagavata tradition** represents a pivotal *post-Vedic development* that bridges early Vedic religion, indigenous cults (including Yaksha/Yakshini worship), and the rising Shramana traditions. It provided a meta-framework that shaped and was shaped by the broader religious transformations of ancient India, ultimately informing the later sectarian traditions of Hinduism[2][3][5][9][11].
+
+Citations:
+[1] Shramanic traditions vs Vedic traditions- Parallels in Ancient ... https://www.reddit.com/r/IndianHistory/comments/1hh2dys/shramanic_traditions_vs_vedic_traditions/
+[2] Bhagavata Sampradaya - Wikipedia https://en.wikipedia.org/wiki/Bhagavata_Sampradaya
+[3] Historical Vedic religion - Wikipedia https://en.wikipedia.org/wiki/Historical_Vedic_religion
+[4] Yaksa In Hinduism And Buddhism https://ia801404.us.archive.org/2/items/in.ernet.dli.2015.204891/2015.204891.Yaksa-In_text.pdf
+[5] Pre-history of Shramanism - Tibetan Buddhist Encyclopedia https://tibetanbuddhistencyclopedia.com/en/index.php/Pre-history_of_Shramanism
+[6] Bhagavata Purana - Wikipedia https://en.wikipedia.org/wiki/Bhagavata_Purana
+[7] The Shramanas and Shramanic Traditions - Hinduwebsite.com https://www.hinduwebsite.com/hinduism/concepts/shramana.asp
+[8] [PDF] Introduction To The Study Of Indian History https://ia601406.us.archive.org/12/items/in.ernet.dli.2015.57543/2015.57543.Introduction-To-The-Study-Of-Indian-History_text.pdf
+[9] Bhagavata Sampradaya - Wikipedia https://en.wikipedia.org/wiki/Bhagavata_sampradaya
+[10] [PDF] preface to the revised edition - Arvind Gupta Toys https://www.arvindguptatoys.com/arvindgupta/introhisddk.pdf
+[11] TRANSFORMATION OF VEDIC BRAHMANISM INTO PURANIC HINDUISM https://www.academia.edu/76907655/TRANSFORMATION_OF_VEDIC_BRAHMANISM_INTO_PURANIC_HINDUISM
+[12] Bhagavata Purana - Wikiwand https://www.wikiwand.com/en/articles/Bhagavat_Purana
+
+
 The word "carya" is technically important and central to the Mahasiddha Sahajiya. So, too, is it centrally important to the Pancharatra tradition. Is it important to other streams of tantra? Now, scholars and the general reading public, forget or not be privity to the profoundly vast lexicon, much shared, of Indic languages. The Pancharatra were active and their vast corpus of scripture and their hermeneurtcal, doxographic, theological and praxes, were in place long before the Mahasiddha Sahajiya. Out of the manifest extreme abundance and diversity of potential and largely comparable, synonymous or analogous Indic terms, I feel it is quite telling that they use the identical self-safe technical term in their systems. This is a simple, yet I feel, profound point and important.
 
 ## The Significance of "Carya" in Tantric Traditions: A Profound Lexical Convergence
