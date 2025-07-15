@@ -71,7 +71,7 @@ Citations:
 [12] Bhagavata Purana - Wikiwand https://www.wikiwand.com/en/articles/Bhagavat_Purana
 
 
-. Its earliest forms centered on the worship of Vāsudeva-Krishna in the Mathura region, marking a departure from the ritual-centric, elitist practices of Vedic religion and Brahmanism[2][9][11].  This is incorrect. The Jaina and Vaishnava tradition, in particular, have deep and shared deity substratum that are shared. Balaram, etc.
+"Its earliest forms centered on the worship of Vāsudeva-Krishna in the Mathura region, marking a departure from the ritual-centric, elitist practices of Vedic religion and Brahmanism[2][9][11]."  This is incorrect. The Jaina and Vaishnava tradition, in particular, have deep and shared deity substratum: Balaram, etc.
 
 ### Shared Deity Substratum in Jaina and Vaishnava Traditions
 
@@ -121,6 +121,30 @@ Citations:
 [18] The non-violent Ram: Stories from the Jain tradition https://devdutt.com/the-non-violent-ram-stories-from-the-jain-tradition-and-how-they-differ-from-the-hindu-canon/
 [19] KRISHNA LEGEND AND MATHURA - jstor https://www.jstor.org/stable/44142926
 [20] Hinduism: Vaishnavism - Encyclopedia.com https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hinduism-vaishnavism
+
+
+The Vrishni heroes—Vāsudeva (Krishna), Sankarshana (Balarama), Pradyumna, and Aniruddha—form a group that appears in both early Vaishnava and some Jain narratives, indicating a shared substratum of hero worship that predates the full development of classical Vaishnavism[5][6][4].   Outline that this is the result of the Kshatriya Sattvata, a stream of the Pancharatra tradition proper, that demonstrates a pastoralisation of warriorhood and warrior martial concerns and saw the synchronisation with the pastoral traditions of Govinda/Gopala and Cowherd pre-Regnal and the pre-Kshatriya transition of Dwarka Krishna.
+
+The grouping of the **Vrishni heroes**—Vāsudeva (Krishna), Sankarshana (Balarama), Pradyumna, and Aniruddha—reflects the influence of the **Kshatriya Sattvata stream** within the Pancharatra tradition. This stream is distinguished by its **Kshatriya (warrior) origins**, setting it apart from the Brahmanical, ritual-centric traditions[2]. The Pancharatra teachings, rooted in this warrior class, represent a unique spiritual perspective that integrates martial values and concerns into religious practice[2].
+
+This **Kshatriya Sattvata lineage** facilitated a process of **pastoralisation of warriorhood**, where the martial ideals of the Kshatriya class were synchronized with the pastoral and cowherd traditions of Govinda/Gopala (Krishna as the cowherd)[2]. This transformation is evident in the narratives that depict Krishna’s transition from a pastoral, cowherd figure in Vrindavan to a regal, Kshatriya leader in Dwarka. The result was a **fusion of pastoral and martial motifs**, reflecting both the pre-regnal (cowherd) and post-regnal (warrior-king) phases of Krishna’s mythology.
+
+The **Pancharatra movement** itself emerged as a religious current distinct from Vedic orthodoxy, merging with the ancient Bhagavata tradition centered on Krishna-Vāsudeva[1][6]. Its doctrines and practices were shaped by the social context of the Kshatriya class, and its early development in the Mathura region reflects the convergence of local hero cults (the Vrishni heroes) with broader Vaishnava theology[6][10].
+
+In summary, the **shared substratum of hero worship** seen in both Vaishnava and some Jain traditions is a product of the Kshatriya Sattvata stream of Pancharatra, which integrated **warrior and pastoral elements** and facilitated the evolution of Krishna from a local hero to a pan-Indian deity[2][6][10].
+
+Citations:
+[1] Pancharatra https://en.wikipedia.org/wiki/Pancharatra
+[2] Kshatriya origin: Significance and symbolism https://www.wisdomlib.org/concept/kshatriya-origin
+[3] Pancharatra and Vaikhanasa: Are they really significantly ... https://goldcoasthindu.wordpress.com/2020/04/05/pancharatra-and-vaikhanasa-are-they-really-significantly-different/
+[4] Philosophy Of Pancharatra https://ia801201.us.archive.org/13/items/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_text.pdf
+[5] Pancharatra | Vaishnavism, Vedic Rituals, Agamic Texts | Britannica https://www.britannica.com/topic/Pancharatra
+[6] Pancharatra Explained https://everything.explained.today/Pancharatra/
+[7] Philosophy of Pancharatra_text | PDF | Tantra https://www.scribd.com/document/846238919/Philosophy-of-Pancharatra-text
+[8] Introduction to Pancaratra: Vaishnava Agama and Tantra https://www.youtube.com/watch?v=gYv-F_t4qz0
+[9] bombay-7 https://ia802904.us.archive.org/5/items/in.ernet.dli.2015.408418/2015.408418.Paramasamhita.pdf
+[10] Vrishni heroes https://en.wikipedia.org/wiki/Vrishni_heroes
+
 
 
 
