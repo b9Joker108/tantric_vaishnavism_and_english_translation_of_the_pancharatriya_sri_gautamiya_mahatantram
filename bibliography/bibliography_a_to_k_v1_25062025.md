@@ -357,6 +357,13 @@ As yet, I have not been able to secure a copy.
 **Purport:**
 ...
 
+### JARROW, E.; *et al.* ###
+
+* Jarrow, E. H. Rick (auth.) & Doniger, Wendy (ed.) (2003). 'Tales for the Dying: The Death Narrative of the Bhagavata-Purana'. SUNY Series in Hindu Studies. Albany, N.Y., U.S.A.: State University of New York Press. ISBN 0791456099 (alk.).
+
+**Purport:**
+...
+
 # K #
 
 ...
