@@ -71,6 +71,59 @@ Citations:
 [12] Bhagavata Purana - Wikiwand https://www.wikiwand.com/en/articles/Bhagavat_Purana
 
 
+. Its earliest forms centered on the worship of Vāsudeva-Krishna in the Mathura region, marking a departure from the ritual-centric, elitist practices of Vedic religion and Brahmanism[2][9][11].  This is incorrect. The Jaina and Vaishnava tradition, in particular, have deep and shared deity substratum that are shared. Balaram, etc.
+
+### Shared Deity Substratum in Jaina and Vaishnava Traditions
+
+The statement that the earliest forms of Vāsudeva-Krishna worship in Mathura marked a complete departure from earlier ritual-centric Vedic and Brahmanical practices oversimplifies the religious landscape of early India. In reality, the development of Vaishnavism—especially in the Mathura region—reflects a complex interplay of traditions, including significant overlaps with Jainism and other non-Vedic currents.
+
+#### Overlapping Deities: Balarama and the Vrishni Heroes
+
+- **Balarama (Baladeva)** is a central figure in both Vaishnava and Jaina traditions:
+  - In Vaishnavism, Balarama is revered as Krishna's elder brother, often depicted as an incarnation of Shesha, the cosmic serpent, and sometimes counted among Vishnu’s avatars[1][2][3].
+  - In Jainism, Balarama (Baladeva) is also a prominent figure, appearing as one of the nine Baladevas in Jain universal history. Jain texts present him as a virtuous, non-violent hero, distinct from Krishna (Vasudeva), who is also incorporated into Jain cosmology[4].
+
+- The **Vrishni heroes**—Vāsudeva (Krishna), Sankarshana (Balarama), Pradyumna, and Aniruddha—form a group that appears in both early Vaishnava and some Jain narratives, indicating a shared substratum of hero worship that predates the full development of classical Vaishnavism[5][6][4].
+
+#### Archaeological and Literary Evidence
+
+- **Mathura’s religious landscape** in the early centuries BCE and CE was marked by the veneration of multiple deities, including Balarama, Krishna, and serpent (Nāga) deities, reflecting a syncretic environment where Jain, Vaishnava, and local cults coexisted and influenced each other[7].
+- Early representations of Balarama in Mathura predate those of Krishna and are linked to Nāga worship, suggesting that the cult of Balarama was integrated into both Vaishnava and Jain traditions from a shared regional substratum[7][4].
+
+#### Shared Themes and Evolution
+
+- Both Jain and Vaishnava traditions adapted and reinterpreted stories and attributes of these deities over time:
+  - In Jain texts, Balarama’s role emphasizes non-violence and moral virtue, while Krishna (Vasudeva) is often depicted as a more worldly figure[4].
+  - In Vaishnavism, Balarama’s status diminished as Krishna’s prominence grew, but he remained an essential part of the early pantheon and iconography[4].
+
+#### Conclusion
+
+The evolution of Vāsudeva-Krishna worship in Mathura was not a simple break from Vedic or Brahmanical traditions, nor was it isolated from other religious movements. Instead, it was shaped by a **shared substratum of deity worship**—particularly involving Balarama and the Vrishni heroes—that spanned both Vaishnava and Jain traditions. This interconnectedness reflects the syncretic and dynamic nature of early Indian religious development[5][1][7][4].
+
+Citations:
+[1] Balarama https://en.wikipedia.org/wiki/Balarama
+[2] Krishna's elder brother: Significance and symbolism https://www.wisdomlib.org/concept/krishnas-elder-brother
+[3] Lord Baladeva: Significance and symbolism https://www.wisdomlib.org/concept/lord-baladeva
+[4] Hindu and Jain Mythology of Balarama https://www.academia.edu/243399/Hindu_and_Jain_Mythology_of_Balarama
+[5] Vāsudeva - Wikipedia https://en.wikipedia.org/wiki/V%C4%81sudeva
+[6] © 2018 JETIR December 2018, Volume 5, Issue 12                   www.jetir.org (ISSN-2349-5162) https://www.jetir.org/papers/JETIR1812F30.pdf
+[7] How dominant was the worship of Vasudeva(Krishna) and ... - Reddit https://www.reddit.com/r/IndianHistory/comments/1jno21x/how_dominant_was_the_worship_of_vasudevakrishna/
+[8] Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Vaishnavism
+[9] Krishnaism - Wikipedia https://en.wikipedia.org/wiki/Krishnaism
+[10] Deity worship: Significance and symbolism https://www.wisdomlib.org/concept/deity-worship
+[11] Balrama : The unsung hero of Hinduism - Indian.Temples https://indiantempless.in/2024/08/25/balrama-the-unsung-hero-of-hinduism/
+[12] Vasudeva Krishna and Mathura: The God, the temple, the history https://latest.sundayguardianlive.com/news/vasudeva-krishna-mathura-god-temple-history
+[13] Two gods: Significance and symbolism https://www.wisdomlib.org/concept/two-gods
+[14] The Historical Picture of Krishna-worship - The Incarnate Word https://incarnateword.in/other-authors/kd-sethna-amal-kiran/ancient-india-in-a-new-light/the-historical-picture-of-krishna-worship
+[15] Question about tantric deities : r/vajrayana - Reddit https://www.reddit.com/r/vajrayana/comments/euvppg/question_about_tantric_deities/
+[16] Vāsudeva in late canonical Pali - Essays - Discuss & Discover https://discourse.suttacentral.net/t/vasudeva-in-late-canonical-pali/34166
+[17] Jain connections to Vaishnavism - A rarely touched on question https://gaudiyadiscussions.gaudiya.com/topic_2086.html
+[18] The non-violent Ram: Stories from the Jain tradition https://devdutt.com/the-non-violent-ram-stories-from-the-jain-tradition-and-how-they-differ-from-the-hindu-canon/
+[19] KRISHNA LEGEND AND MATHURA - jstor https://www.jstor.org/stable/44142926
+[20] Hinduism: Vaishnavism - Encyclopedia.com https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/hinduism-vaishnavism
+
+
+
 The word "carya" is technically important and central to the Mahasiddha Sahajiya. So, too, is it centrally important to the Pancharatra tradition. Is it important to other streams of tantra? Now, scholars and the general reading public, forget or not be privity to the profoundly vast lexicon, much shared, of Indic languages. The Pancharatra were active and their vast corpus of scripture and their hermeneurtcal, doxographic, theological and praxes, were in place long before the Mahasiddha Sahajiya. Out of the manifest extreme abundance and diversity of potential and largely comparable, synonymous or analogous Indic terms, I feel it is quite telling that they use the identical self-safe technical term in their systems. This is a simple, yet I feel, profound point and important.
 
 ## The Significance of "Carya" in Tantric Traditions: A Profound Lexical Convergence
