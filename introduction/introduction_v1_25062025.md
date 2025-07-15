@@ -147,6 +147,17 @@ Citations:
 
 
 
+The early substratum of the Sattvata stream of Pancharatra bears martial terminology re-purpased in a theological framework, specifically Vyuha is a pre-extant term denoting a battle formation.
+
+Indeed, the early **Sattvata stream of the Pancharatra tradition** reflects a **martial substratum** in both its social origins and theological vocabulary. One of the most notable examples is the use of the term **_Vyuha_**, which originally denotes a **battle formation** in Kshatriya/warrior contexts found in epic and dharmaśāstra literature (e.g., Mahābhārata, Manusmṛti). In Pancharatra theology, this term is **re-purposed** to describe the **emanational schema** through which the divine manifests in ordered forms: Vāsudeva, Sankarshana, Pradyumna, and Aniruddha.
+
+This theological usage of **Vyuha** illustrates how martial language and worldview were recontextualized into a cosmological and devotional framework, reflecting the **Kshatriya origins** of the tradition. The **fourfold vyuha** embodies aspects of governance, order, and cosmic control—values centrally aligned with the warrior class—and integrates them into a metaphysical construct that reinforces divine sovereignty and protection.
+
+Thus, the **Pancharatra system**, particularly in its **Sattvata form**, is best understood not as a purely priestly or speculative theology, but as a **warrior-based religio-political vision**, which assimilated pastoral, martial, and devotional elements into an evolving Vaishnava doctrine.
+
+
+
+
 
 The word "carya" is technically important and central to the Mahasiddha Sahajiya. So, too, is it centrally important to the Pancharatra tradition. Is it important to other streams of tantra? Now, scholars and the general reading public, forget or not be privity to the profoundly vast lexicon, much shared, of Indic languages. The Pancharatra were active and their vast corpus of scripture and their hermeneurtcal, doxographic, theological and praxes, were in place long before the Mahasiddha Sahajiya. Out of the manifest extreme abundance and diversity of potential and largely comparable, synonymous or analogous Indic terms, I feel it is quite telling that they use the identical self-safe technical term in their systems. This is a simple, yet I feel, profound point and important.
 
