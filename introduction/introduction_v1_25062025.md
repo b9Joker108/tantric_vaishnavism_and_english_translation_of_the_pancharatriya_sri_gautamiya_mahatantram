@@ -608,6 +608,40 @@ Thus, the **Pancharatra system**, particularly in its **Sattvata form**, is best
 
 
 
+I have been able to find no scholarly sources that mention those two in a set of foyr, other than in a work of Swami Shivananda and I have been able to find no information or agama tied to either agama tradition.
+
+Your findings are confirmed by the available evidence: there is **extremely little to no independent scholarship or primary source material** on the **Pratishthasara Agama** or **Vijnanalalita Agama** as distinct textual traditions within Vaishnavism, outside of a handful of encyclopedic or summary claims.
+
+The assertions that these are two among the "four Vaishnava Agamas" almost exclusively trace back to **Swami Sivananda’s *All About Hinduism*** and derivative summaries or online sources that repeat his classification[2][1][3][7][8]. Mainstream academic, Indological, and South Asian religious studies literature does not provide:
+- Detailed descriptions of these Agamas,
+- Cited texts or manuscripts with these titles,
+- Lineages or schools explicitly using them as living scriptural authorities.
+
+**Most cited primary Pancharatra Samhitas, and the Vaikhanasa tradition, are well-documented** (with texts like *Paushkara Samhita*, *Sattvata Samhita*, *Ahirbudhnya Samhita*, etc.), but there is an absence of both scriptural manuscripts and modern sectarian adherence or ritual tradition connected to Pratishthasara or Vijnanalalita as independent Agamic traditions.
+
+> *In sum:*
+> - The classification “Pratishthasara” and “Vijnanalalita” as two of four core Vaishnava Agamas is reported in secondary and popular sources[2][1][3][7][8], but **no primary texts, ritual lineages, or academic studies confirm these as independent or functionally operative Agamas**.
+> - This suggests their place in the typology may be schematic, historical, or exegetical—perhaps preserving names of lost, minor, or hypothetical traditions—but they do **not have the living textual or ritual legacy** of the Vaikhanasa and Pancharatra Agamas.
+
+If you require a documented academic consensus or wish to present the topic authoritatively in your work, you may state that:
+- **Academic research and primary documentation recognize Vaikhanasa and Pancharatra as the substantial, living Vaishnava Agamas**, whereas Pratishthasara and Vijnanalalita are attested only in secondary typologies and lack extant texts or sectarian practice.
+
+If you need references or wish to discuss the historiography behind this classification, let me know.
+
+Citations:
+[1] What is Pratishthasara Agama? - Definition from Yogapedia https://www.yogapedia.com/definition/10356/pratishthasara-agama
+[2] 10 CLASSIFICATIONS OF HINDU SCRIPTURES https://www.satyavedism.org/swami-sivananda/all-about-hinduism-chapter-2-hindu-scriptures-swami-sivananda
+[3] Hindu, Hinduism and Hindustan: Part XXIII https://www.boloji.com/articles/50517/hindu-hinduism-and-hindustan-part-xxiii
+[4] The Agamas | PDF https://www.scribd.com/doc/258675557/The-Agamas
+[5] For use by the Author only | © 2019 Koninklijke Brill NV https://researchmap.jp/read0012109/misc/17413162/attachment_file.pdf
+[6] Title https://core.ac.uk/download/pdf/39263573.pdf
+[7] Agama | PDF https://www.scribd.com/document/774284502/Agama
+[8] Atmeeyam : ( 22/10/2012. ) http://varma-atmeeyam.blogspot.com/2016/04/
+[9] Studies in Āgama and Vinaya Literature https://www.academia.edu/120164033/Studies_in_%C4%80gama_and_Vinaya_Literature
+[10] Bibliography https://www.austriaca.at/0xc1aa5576_0x003b4c6f.pdf
+
+
+
 
 The word "carya" is technically important and central to the Mahasiddha Sahajiya. So, too, is it centrally important to the Pancharatra tradition. Is it important to other streams of tantra? Now, scholars and the general reading public, forget or not be privity to the profoundly vast lexicon, much shared, of Indic languages. The Pancharatra were active and their vast corpus of scripture and their hermeneurtcal, doxographic, theological and praxes, were in place long before the Mahasiddha Sahajiya. Out of the manifest extreme abundance and diversity of potential and largely comparable, synonymous or analogous Indic terms, I feel it is quite telling that they use the identical self-safe technical term in their systems. This is a simple, yet I feel, profound point and important.
 
