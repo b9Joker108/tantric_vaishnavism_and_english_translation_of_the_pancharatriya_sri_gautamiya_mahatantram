@@ -390,5 +390,10 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 **Purport:**<br>
 This is a watershed work. I must dedicate time to it.
 
+### KVAERNE, P. ###
 
+* Kvaerne, Per (1977). 'An Anthology of Buddhist Tantric Songs: A Study of the Caryagiti'. 'The Norwegian Academy of Science and Letters \[Norw.: Det Norske Videnskaps-Akademi]': 'Vol. 2, History-Phikosophy Class; New Series No. 14 \[Norw.: Vol. II (2). Hist.-Filos. Klass. Skrifter. Ny Serie No. 14]'. Blindern, Oslo, Norway: Universitetsforlaget. ISBN 8200016145.
+
+**Purport:**<br>
+An exceptional treatment. There are only scholar-researcher-writers equal to Kvaerne: none exceed. He is of standard and this work is an exemplar.
 
