@@ -51,7 +51,7 @@ I need to invest time in this work and the '[Sri Adhyatma Ramayana](https://en.w
 
 ### LARSSON, S.; *et al.* ###
 
-* Larsson, Stefan & af Edholm, Kristoffer (eds.) (2021). 'Songs on the Road: Wandering Religious Poets in India, Tibet, and Japan'. Stockholm University, Stockholm, Sweden: Stockholm University Press. ISBN 9789176351369 (PDF). DOI: https://doi.org/10.16993/bbi. Source: https://doi.org/10.16993/bbi (accessed: Wednesday, July 16, 2025)
+* Larsson, Stefan & af Edholm, Kristoffer (eds.) (2021). 'Songs on the Road: Wandering Religious Poets in India, Tibet, and Japan'. Stockholm Studies in Comparative Religion Vol. 43: Olsson, Prof. Susanne (exec. ed.); *et al.*. (NB: Independent reviewers: Jacobsen, Prof. Knut A. & Rutherford, Prof. Ian.). Stockholm University, Stockholm, Sweden: Stockholm University Press. ISBN 9789176351369 (PDF). DOI: https://doi.org/10.16993/bbi. Source: https://doi.org/10.16993/bbi (accessed: Wednesday, July 16, 2025)
 
 **Purport:**<br>
 …
