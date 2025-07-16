@@ -628,7 +628,79 @@ Citations:
 
 
 
-My Pancharatra scriprure that I am translating is the Gautamiya Samhita or Mahatantram. So, Maharshi Gautama is also very important in the Pancharatra Agama Samhita Tradition.
+Very early Jaina traditions involve Jina planting Victory Flags or Banners into the Earth. Survey. Academic register. Prestige dialect. Original §cripts and IAST and detailed linguistic analysis of terms of salience, in context, is mandatory. Remember, we are investigating the martial substratum.
+
+### Early Jaina Traditions: The Jina's Victory Banner (जयध्वज / जयहस्त / विजयपताका) and Martial Symbolism
+
+#### 1. Lexical and Textual Context
+
+- **"Victory Banner"** in Jaina usage appears as:  
+  - Sanskrit: **जयध्वज** (*jayadhvaja*) – “victory flag/banner”  
+    - जय (jaya) = “victory, conquest”  
+    - ध्वज (dhvaja) = “flag, standard”  
+  - **विजयपताका** (*vijayapatākā*) – “flag/banner of victory”  
+    - विजय (vijaya) = “victory, triumph”  
+    - पताका (patākā) = “banner, flag”  
+  - **जयहस्त** (*jayahasta*) – “hand of victory” (used, e.g., for a hand raised/mudrā in blessing but also for flag raising)
+
+- **Devanāgarī script:**  
+  जयध्वज  
+  विजयपताका  
+  जयहस्त  
+
+#### 2. Description in Early Jain Ritual and Narrative
+
+- Early Jain tradition involves **the Jina planting or establishing a victory flag (जयध्वज / विजयपताका) as a symbolic act of spiritual conquest**, marking critical episodes in their biography—including *Kevala-jñāna* (omniscience; केवलज्ञान) and the site of *Nirvāṇa* (निर्वाण).
+- This act is both commemorative and talismanic, expressing sovereignty over inner passions as well as spiritual territory[1][2][3].  
+- The *flag* becomes a regular object of ritual, sometimes installed near or on temple vimānas (spires), and serves in festivals such as **Dīpotsava/Divālī** (दीपोस्तव/दिवाळी), which marks Mahāvīra’s nirvāṇa[1][8].
+
+#### 3. Sources and Martial Symbolism
+
+- In **manuscript colophons and ritual paintings**, R̥ṣi or Abhijit (spiritual champion) Jinas are often depicted standing by or installing a flag or banner[1][2]. The original act was widely commemorated in performative ritual.
+- The flag and pitcher (कलश, *kalaśa*) are paired—flag for victory, pitcher for purity—suggesting a deliberate marriage of *martial* and *ascetic* symbols[3].
+
+#### 4. Art, Ritual, and Lexical Evidence
+
+- In **iconography and religious art**, the victory banner appears with a highly codified shape, usually as a tall staff crowned by crescent, parasol, or streaming fabric—a literal standard of “conquest” over samsāra[1][2][6].
+- The **ritual raising and adoring of the flag mast** (ध्वजस्तम्भ, *dhvajastambha*) forms part of temple festivals, and texts prescribe it be “brought down at night and placed in front of the temple” as an object of veneration[9].
+
+#### 5. Linguistic Register & Martial Substratum
+
+- The term ***jaya* (जय, victory/conquest)** in *jayadhvaja* and related words is inherited across early Indic martial and royal contexts.  
+  - In military usage: a king who conquered a region would plant a standard to signify dominion.
+  - Jaina tradition ***transposes this martial symbolism onto spiritual conquest***: the Jina “plants the victory flag” upon achieving victory over passions (कषाय, *kaṣāya*), ignorance (अविद्या, *avidyā*), and karma (कर्म, *karma*).
+- The linguistic root is shared with Vedic usages (cf. ऋग्वेद, *Ṛgveda* 1.36.18: *dhvaja* for battle or royal flags).
+
+##### Original Scripts and Pronunciation Guide
+
+| Term              | Devanāgarī      | IAST             | Pronunciation                   |
+|-------------------|-----------------|------------------|---------------------------------|
+| जयध्वज            | jayadhvaja      | JYUH-yuh-dhvuhj  |
+| विजयपताका         | vijayapatākā    | vi-JUH-yuh-pa-TA-ka |
+| जयहस्त            | jayahasta       | JYUH-yuh-huh-sta |
+| ध्वज               | dhvaja          | DHUH-vuh-juh     |
+
+#### 6. Conclusion (Survey Only)
+
+**Jaina textual, ritual, and artistic evidence confirms an early association of the Jina with the planting or establishment of the victory banner (जयध्वज / विजयपताका) as a symbol of spiritual and martial conquest. The terms used are explicitly martial and draw on a pan-Indic tradition of banners marking victory. In the Jain context, this act is systematically internalized: the true field of victory is the self, yet the public rites, art, and vocabulary retain—and transform—the imagery of conquest.**[1][2][3][9]
+
+Citations:
+[1] Victory banner https://jainpedia.org/manuscript/victory-banner/
+[2] Highlights of JAINpedia https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/
+[3] Ritual and Symbol in the Jain Religious Tradition https://www.herenow4u.net/index.php?id=107604
+[4] Jain Sculpture https://www.metmuseum.org/essays/jain-sculpture
+[5] Jainism https://en.wikipedia.org/wiki/Jainism
+[6] Nandita Punj on Female Figures in Jain Art https://harvardartmuseums.org/tour/557/slide/10233
+[7] Jain Art and Tantrism - Baias https://baiasarte.com/wp-content/uploads/2023/12/bassa-qualita_Catalogo_stime.pdf
+[8] Rituals And Festivals https://jainworld.com/education/jain-education-material/senior-level/rituals-and-festivals/
+[9] Jaina temple rituals https://www.tamilartsacademy.com/journals/volume2/articles/jain-temple.html
+[10] The Perfect Body of the Jina and His Imperfect Image https://www.soas.ac.uk/sites/default/files/2022-06/The%20Perfect%20Body%20of%20the%20Jina%20and%20His%20Imperfect%20Image%20file86546.pdf
+
+
+
+
+
+My given Pancharatra scripture and associated tradition that I am treating and translating is the Gautamiya Samhita or Mahatantram. So, Maharshi Gautama is also very important in the Pancharatra Agama Samhita Tradition.
 
 Your observation is entirely correct: **Maharshi Gautama** plays a *significant, though understudied, role in the Pancharatra Agama Samhita tradition*—notably within texts such as the **Gautamiya Samhita/Mahatantra**, which you are translating.
 
