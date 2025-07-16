@@ -49,6 +49,13 @@ I need to invest time in this work and the '[Sri Adhyatma Ramayana](https://en.w
 **Purport:**<br>
 …
 
+### LARSSON, S.; *et al.* ###
+
+* Larsson, Stefan & af Edholm, Kristoffer (eds.) (2021). 'Songs on the Road: Wandering Religious Poets in India, Tibet, and Japan'. Stockholm University, Stockholm, Sweden: Stockholm University Press. ISBN 9789176351369 (PDF). DOI: https://doi.org/10.16993/bbi. Source: https://doi.org/10.16993/bbi (accessed: Wednesday, July 16, 2025)
+
+**Purport:**<br>
+…
+
 ### LAWRENCE, D. ###
 
 * Lawrence, David Peter (1992). 'Argument and the Recognition of Shiva: The Philosophical Theology of Utpaladeva and Abhinavagupta'. Dissertation. The Faculty of the Divinity School. Chicago, Illinois, U. S. A.: The University of Chicago. Source: https://archive.org/details/argumentrecognitionofsivaphilosophicaltheologyofutpaladevaandabhinavaguptadavidpeterlawrencethe_540_H (accessed: Friday, July 12, 2024)
