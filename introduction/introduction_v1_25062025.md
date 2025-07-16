@@ -234,6 +234,148 @@ Citations:
 [10] Gautam - Simple English Wikipedia, the free encyclopedia https://simple.wikipedia.org/wiki/Gautam
 
 
+Jina, is a team of pre- or early Shramana Traditions as it fundamental to early Jaina Traditions, and Bauddha Traditions. The Jainas are Jina, the Samyaksambuddha Gautama Shakyamuni, too, is stated to be a Jina. Soo, too, was there absorbtion of the early cult of the Five Dhyani Buddhas which are Five Jinas or Jaina. Now, the language, the term is martial. There seems to be a very early martial substratum or martial accretion in the proto- to early-Shramana complex. Is this pointing to a physical conflict with the cults of the Vedic Saptarishi that later cooled into an Ahimsa revisioning and reframed by early Jaina and Bauddha soteriology and hermeneutics into an internalized victory? But, was initially a conflict with the dominant religio-cultural status quo?
+
+## The Martial Etymology of Jina and the Early Śramaṇa Traditions
+
+The question of whether the early Śramaṇa traditions, particularly Buddhism and Jainism, contained **martial substrata** that were later internalized into spiritual conquest is a fascinating and complex scholarly inquiry that touches on the very origins of these religious movements.
+
+### The Martial Terminology of Jina
+
+The term **"Jina"** is indeed fundamentally martial in its etymology. Derived from the Sanskrit root √ji meaning "to conquer" or "to win," Jina literally translates to "conqueror," "victor," or "one who has conquered"[1][2][3]. This martial terminology pervades both early Jaina and Buddhist traditions. In Jainism, the Tirthankaras are called Jinas because they have "conquered inner enemies such as anger, attachment, pride, and greed"[4][5]. Similarly, in Buddhism, the term Jina refers to the Buddha as "Victor" - one who has "conquered all the negative forces which hold beings captive in saṃsāra"[3][6].
+
+The **Five Dhyani Buddhas** in later Tantric Buddhism are also referred to as the "Five Jinas" or "Five Wisdom Tathāgatas," emphasizing their role as spiritual conquerors[7][8][9]. This consistent use of martial terminology across both traditions suggests a deeper cultural substrate that valued conquest and victory, albeit transformed into spiritual terms.
+
+### The Śramaṇa Traditions and Greater Magadha
+
+Modern scholarship, particularly Johannes Bronkhorst's theory of **"Greater Magadha,"** provides crucial context for understanding the cultural milieu in which these traditions emerged. According to Bronkhorst, the Śramaṇa traditions arose in "Greater Magadha," a region that was "Indo-Aryan, but not Vedic"[10][11]. This culture was distinct from the Vedic heartland and notably placed **Kshatriyas (warriors) higher than Brahmins**[10][12].
+
+The evidence suggests that early Buddhism and Jainism emerged not as reactions to established Brahmanical dominance, but rather in a cultural context where **warrior values were already prominent**[13][14]. As one scholar notes: "If the Buddha did not adopt the ideas of karma and rebirth from Upaniṣadic sources, because these, as part of the Brahmanic-sanskritic discourse, were not known to him, it should be safe to conclude that these sources do not predate the Buddha"[14].
+
+### From Physical to Spiritual Conquest
+
+The transformation from physical to spiritual conquest in the Śramaṇa traditions appears to represent a **sophisticated internalization** of martial values rather than their rejection. The concept of **ahimsa** (non-violence), central to both traditions, can be understood as a "spiritualization" of conquest - the ultimate victory being over one's own passions and desires rather than external enemies[15][16][17].
+
+This internalization process is evident in several ways:
+
+1. **Martial Metaphors**: Both traditions extensively use military metaphors. The Buddha's enlightenment is described as a victory over Māra (the tempter), and Buddhist texts speak of "conquering the Path" and achieving victory over defilements[3][6].
+
+2. **Warrior Origins**: Both the Buddha and Mahavira came from **Kshatriya (warrior) backgrounds**[18][19][20]. Their rejection of Brahmanical authority can be seen as consistent with a warrior culture that valued action and personal achievement over ritual and birth status.
+
+3. **Conquest Terminology**: The pervasive use of conquest terminology throughout both traditions suggests that the martial substrate was not eliminated but transformed. The "conquest" became internal - over ignorance, desire, and the cycle of rebirth.
+
+### The Vedic Saptarishi and Cultural Conflict
+
+The relationship between the Śramaṇa traditions and the **Vedic Saptarishi** (Seven Sages) tradition is complex. While there is evidence of cultural tension between the Vedic and Greater Magadha cultures, the evidence for direct physical conflict is limited. The Vedic texts do refer to the eastern peoples as "demonic" (āsurya) and linguistically inferior[11][21], suggesting cultural prejudice rather than active warfare.
+
+However, the **Kshatriya reaction** against Brahmanical dominance was a significant factor in the rise of Buddhism and Jainism[18][20]. Both traditions challenged the authority of the Brahmins and offered alternative paths to spiritual liberation that did not depend on Vedic ritual or priestly mediation.
+
+### The Internalization of Ahimsa
+
+The development of **ahimsa** as a central principle in both traditions represents a sophisticated transformation of martial values. Rather than abandoning the concept of conquest, both traditions redirected it inward. The greatest victory became the conquest of one's own mind and passions. This "internalized victory" provided a powerful alternative to physical warfare while maintaining the cultural valuation of conquest and heroism.
+
+The martial terminology persisted because it resonated with the cultural values of the time, but its meaning was fundamentally transformed. The **Jina** became not a physical conqueror but a spiritual one - someone who had achieved the ultimate victory over suffering itself.
+
+### Conclusion
+
+The evidence suggests that the early Śramaṇa traditions did indeed contain significant martial substrata that were later internalized into spiritual conquest. The pervasive use of martial terminology, the warrior backgrounds of the founders, and the cultural context of Greater Magadha all point to an original martial ethos that was transformed rather than rejected. This transformation represents one of the most sophisticated developments in ancient Indian religious thought - the conversion of physical conquest into spiritual victory, making ahimsa not a rejection of warrior values but their ultimate fulfillment.
+
+Citations:
+[1] Why do you think the term jina was used for mahavira... | Filo https://askfilo.com/user-question-answers-smart-solutions/why-do-you-think-the-term-jina-was-used-for-mahavira-3135383831333636
+[2] Jina, Jīna, Ji-ina, Jí nà, Ji na, Jī ná: 29 definitions https://www.wisdomlib.org/definition/jina
+[3] Dictionary https://www2.buddhistdoor.net/dictionary/details/jina
+[4] Tirthankara - Wikipedia https://en.wikipedia.org/wiki/Tirthankara
+[5] What does the term Jain derive from? – Discussion Forum https://discussion.tiwariacademy.com/question/what-does-the-term-jain-derive-from/
+[6] Jina: Significance and symbolism https://www.wisdomlib.org/concept/jina
+[7] The 5 Dhyani Buddha: Pancha Buddha Statue Set https://www.termatree.com/blogs/termatree/the-five-dhyani-buddhas
+[8] Five Dhyani Buddhas | EBSCO Research Starters https://www.ebsco.com/research-starters/religion-and-philosophy/five-dhyani-buddhas
+[9] Jina Buddhas https://www.tibetanbuddhistencyclopedia.com/en/index.php?title=Jina_Buddhas
+[10] Greater Magadha - Wikipedia https://en.wikipedia.org/wiki/Greater_Magadha
+[11] Wynne on Bronkhorst, 'Greater Magadha: Studies in the Culture of ... https://networks.h-net.org/node/6060/reviews/16094/wynne-bronkhorst-greater-magadha-studies-culture-early-india
+[12] Magadha - Wikipedia https://en.wikipedia.org/wiki/Magadhan_Empire
+[13] © Jens Schlieter, 2012 | doi:10.1163/9789004225350_008 https://brill.com/downloadpdf/display/book/9789004225350/B9789004225350-s008.pdf
+[14] A190 https://serval.unil.ch/resource/serval:BIB_C47B43464741.P001/REF.pdf
+[15] Open Theology 2015; 1: 160–174 https://www.degruyter.com/document/doi/10.1515/opth-2015-0005/pdf?srsltid=AfmBOoq9DbUXh7gk-Flh2VPJwBwKCl3rLIdPDAwdyLSS6KYxMqslU7J-
+[16] Ahimsa - Wikipedia https://en.wikipedia.org/wiki/Ahimsa
+[17] First Do No Harm | Lion's Roar https://www.lionsroar.com/first-do-no-harm/
+[18] CHAPTER 4 - JAINISM & BUDDHISM https://www.scribd.com/document/841926237/CHAPTER-4-JAINISM-BUDDHISM
+[19] Jainism and Buddhism - History, Similarities, and Principles https://www.vedantu.com/history/jainism-and-buddhism
+[20] Religious Movements – Jainism and Buddhism https://ebooks.inflibnet.ac.in/icp01/chapter/religious-movements-jainism-and-buddhism/
+[21] Review of Bronkhorst, Johannes, Greater Magadha: Studies in the Culture of Early India https://web.archive.org/web/20180906090512/https:/www.h-net.org/reviews/showrev.php?id=31537
+[22] Śramaṇa - Wikipedia https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a
+[23] Spread of Jainism and Buddhism: Part III - self study history https://selfstudyhistory.com/2015/09/15/spread-of-jainism-and-buddhism-part-3/
+[24] Shramana Tradition - Launchpad IAS https://launchpadeducation.in/shramana-tradition/
+[25] Jainism | Early World Civilizations - Lumen Learning https://courses.lumenlearning.com/atd-herkimer-worldcivilization/chapter/jainism/
+[26] 3. The Origin of Śramaṇa Tradition https://www.wisdomlib.org/buddhism/essay/the-buddhist-path-to-enlightenment-study/d/doc1187822.html
+[27] Five Dhyani Buddhas - Tibetan Buddhist Encyclopedia https://tibetanbuddhistencyclopedia.com/en/index.php/Five_Dhyani_Buddhas
+[28] 27 - Interactions Between Vedic Traditions and New Philosophies (c. 600–300 BCE) (S2E12) | Podcast Episode on RSS.com https://rss.com/podcasts/a-history-of-india/1915777/
+[29] Antiquity of Jainism https://fr.scribd.com/document/22566494/Antiquity-of-Jainism
+[30] 5 Dhyani Buddha Mandala | Five Jina Buddha https://enlightenmentthangka.com/blogs/thangka/five-dhyani-buddha-mandala
+[31] The Sramana Movement | Early World Civilizations - Lumen Learning https://courses.lumenlearning.com/atd-herkimer-worldcivilization/chapter/the-sramana-movement/
+[32] Five Dhyani Buddhas https://www.scribd.com/document/176804780/Five-Dhyani-Buddhas
+[33] Jainism and Buddhism https://oxfordjournals.org/book/27690/chapter/197827812?searchresult=1
+[34] Significance of Shramana https://www.wisdomlib.org/concept/shramana
+[35] Dhyani Buddhas | Pancha Buddhas – Mandalas Life https://mandalas.life/2018/dhyani-buddhas-pancha-buddhas/
+[36] Sadhu - Wikipedia https://en.wikipedia.org/wiki/Sadhu
+[37] Indian martial arts - Wikipedia https://en.wikipedia.org/wiki/Hindu_martial_arts
+[38] Indra - Wikipedia https://en.wikipedia.org/wiki/Indra
+[39] shramana in English dictionary https://glosbe.com/en/en/shramana
+[40] [PDF] Meaning of Names - MyKairos.org https://www.mykairos.org/docs/kt/names_meanings.pdf
+[41] Saptarshi - Wikipedia https://en.wikipedia.org/wiki/Saptarshi
+[42] History of Choson Kwon Bup https://www.ikmaf.com/index.php/styles/choson-kwon-bup/kwon-bup-a-historical-perspective
+[43] Was the Buddha a part of the Vedic Kshatriya Varna - SuttaCentral https://discourse.suttacentral.net/t/was-the-buddha-a-part-of-the-vedic-kshatriya-varna/29219
+[44] Shramana, Śramaṇa: 19 definitions - Wisdom Library https://www.wisdomlib.org/definition/shramana
+[45] Martial - Etymology, Origin & Meaning https://www.etymonline.com/word/martial
+[46] Rishi - Wikipedia https://en.wikipedia.org/wiki/Rishi
+[47] The Shramana | PDF | Yoga | Religious Behaviour And Experience https://www.scribd.com/document/141562463/The-Shramana
+[48] Buddhism and Its Vedic Connections - Stephen Knapp https://www.stephen-knapp.com/buddhism_and_its_vedic_connections.htm
+[49] Indian religions - Wikipedia https://en.wikipedia.org/wiki/Indian_religions
+[50] Spirit Warrior: The Religious Source of Martial Arts | Asian Geographic https://asiangeo.com/culture_and_people/spirit-warrior-the-religious-source-of-martial-arts/
+[51] The Hindu Roots of Yoga: The Saptarishis https://www.hinduamerican.org/blog/hindu-roots-yoga-saptarishis/
+[52] Religions 2020, 11, 66; doi:10.3390/rel11020066 https://pdfs.semanticscholar.org/af60/58070469b6af2ae4f9813c4e8f69bea6af4f.pdf
+[53] Buddhism and Jainism - Wikipedia https://en.wikipedia.org/wiki/Buddhism_and_Jainism
+[54] Microsoft Word - IC-P01-M07-Religious  Movements  Jainism - Buddhism - ET.docx https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000829IC/P000927/M014492/ET/1457346265ET07.pdf
+[55] Full article: THE PARADOX OF THE BUDDHIST SOLDIER https://www.tandfonline.com/doi/full/10.1080/14639947.2021.2145683
+[56] I have recently come across a view that Buddhism (and ... - Reddit https://www.reddit.com/r/IndianHistory/comments/1fpdfsg/i_have_recently_come_across_a_view_that_buddhism/
+[57] The Buddha Taught Nonviolence, Not Pacifism https://www.buddhistinquiry.org/article/the-buddha-taught-nonviolence-not-pacifism/
+[58] Sramanas connected to pre-Aryan hunter gatherers? Evidence from ... https://discourse.suttacentral.net/t/sramanas-connected-to-pre-aryan-hunter-gatherers-evidence-from-ma-18/26297
+[59] Monier-Williams Sanskrit-English Dictionary https://sanskrit.inria.fr/MW/96.html
+[60] Peacemaking Buddhism: importance of Ahimsa "Non-Harm" in ... https://buddhaweekly.com/the-importance-of-ahimsa-non-violence-in-buddhism-buddha-ghandi-and-dr-king-showed-us-nonviolence-is-the-weapon-of-the-strong/
+[61] The Sramana Movement – Early World Civilizations https://library.achievingthedream.org/herkimerworldcivilization/chapter/the-sramana-movement/
+[62] [Advaita-l] kshatriya dharma according to manu smriti and its interpretation today? https://www.advaita-vedanta.org/archives/advaita-l/2018-January/048134.html
+[63] Significance of Conquerors and supreme conqueror https://www.wisdomlib.org/concept/conquerors-and-supreme-conqueror
+[64] Do Kshatriyas have to abide by the Dharmic rules of engagement when fighting enemies who do not abide by the same rules of engagement in battle? https://hinduism.stackexchange.com/questions/33414/do-kshatriyas-have-to-abide-by-the-dharmic-rules-of-engagement-when-fighting-ene
+[65] War magic and just war in Indian tantric Buddhism https://go.gale.com/ps/i.do?aty=open-web-entry&id=GALE%7CA366344007&issn=0155977X&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&userGroupName=anon~f6406084&v=2.1
+[66] Greco-Buddhism - Wikipedia https://en.wikipedia.org/wiki/Greco-Buddhism
+[67] Extermination of the Kshatriya race: Significance and symbolism https://www.wisdomlib.org/concept/extermination-of-the-kshatriya-race
+[68] The Roots of the Martial Arts - The Incarnate Word https://incarnateword.in/compilations/physical-education-comprehensive/the-roots-of-the-martial-arts
+[69] A Debate on Kshatriya Dharma https://www.youtube.com/watch?v=Q2387YQdAbQ
+[70] The Original Teachings of the Buddha - Proto Buddhism https://buddhaoriginalteachings.blogspot.com/p/proto-buddhism.html
+[71] Śramaṇa | Wikipedia audio article https://www.youtube.com/watch?v=-q03T0dhH6g
+[72] Kshatriyas and Brahmanas: Significance and symbolism https://www.wisdomlib.org/concept/kshatriyas-and-brahmanas
+[73] Dictionary of Buddhism Damien Keown OUP | PDF - Scribd https://www.scribd.com/document/694636370/Dictionary-of-Buddhism-Damien-Keown-OUP-1
+[74] Chapter 8 Body Movement and Sport Activities: A Buddhist Normative Perspective from India to China https://brill.com/abstract/book/9789004536876/BP000009.xml?language=en
+[75] What does hinduism say about fighting for brahmins? https://hinduism.stackexchange.com/questions/53055/what-does-hinduism-say-about-fighting-for-brahmins
+[76] The Buddhist Conquest of China [3 ed.] 9004156046 - dokumen.pub https://dokumen.pub/the-buddhist-conquest-of-china-3nbsped-9004156046.html
+[77] The Sramana Movement https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-sramana-movement/
+[78] Significance of Brahmanas and Kshatriya https://www.wisdomlib.org/concept/brahmanas-and-kshatriya
+[79] Tirthankara, Tīrthaṃkara, Tīrthaṅkara, Tirthamkara: 13 definitions https://www.wisdomlib.org/definition/tirthankara
+[80] Jainism - Wikipedia https://en.wikipedia.org/wiki/Jainism
+[81] Tirthankara | Definition, Names, & Facts | Britannica https://www.britannica.com/topic/Tirthankara
+[82] The non-violence of violence: Jain perspectives on warfare, asceticism https://www.taylorfrancis.com/chapters/mono/10.4324/9780203088692-8/non-violence-violence-jain-perspectives-warfare-asceticism-worship-john-hinnells-richard-king
+[83] Indian Administrative Service - IAS Exam https://prepp.in/news/e-492-jain-tirthankaras-ancient-india-history-notes
+[84] 823-828 Ajivika.indd https://serval.unil.ch/resource/serval:BIB_9E0A7CECA766.P001/REF.pdf
+[85] [PDF] Greater Magadha Studies in the Culture of Early India - Jainworld https://jainworld.jainworld.com/JWEnglish/Greater_Magadha_Studies_in_the_culture_o.pdf
+[86] Tirthankara @ HereNow4U https://www.herenow4u.net/index.php?id=4326
+[87] An ancient Jain attempt to assimilate the Buddha - SuttaCentral https://discourse.suttacentral.net/t/an-ancient-jain-attempt-to-assimilate-the-buddha/19440
+[88] Evidence of the Origin of Tirthankara Images in the Archaeological https://www.scitepress.org/Papers/2023/125343/125343.pdf
+[89] Role https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000033SO/P000299/M015167/ET/14605224157ET.pdf
+[90] Greater Magadha: Studies in the Cultures of Early India - Hardcover https://www.abebooks.com/9788120835344/Greater-Magadha-Studies-Cultures-Early-8120835344/plp
+[91] Marble statue of a tirthankara - Google Arts & Culture https://artsandculture.google.com/asset/marble-statue-of-a-tirthankara/7gGoWvc0S-EVDg?hl=en
+[92] Jaina Philosophy https://plato.stanford.edu/entries/jaina-philosophy/
+
+
+
 My Pancharatra scriprure that I am translating is the Gautamiya Samhita or Mahatantram. So, Maharshi Gautama is also very important in the Pancharatra Agama Samhita Tradition.
 
 Your observation is entirely correct: **Maharshi Gautama** plays a *significant, though understudied, role in the Pancharatra Agama Samhita tradition*—notably within texts such as the **Gautamiya Samhita/Mahatantra**, which you are translating.
