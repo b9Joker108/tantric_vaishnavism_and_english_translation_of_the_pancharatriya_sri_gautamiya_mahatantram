@@ -376,6 +376,49 @@ Citations:
 
 
 
+Why have you cast the Five Dhyani Buddhas immediately into a tantric framework when they are an Early Bauddhadharma or pre- or extra-Bauddhadharma phenomemon of Shramana period?
+
+The immediate association of the **Five Dhyani Buddhas** with a tantric (Vajrayana) Buddhist context reflects the form in which this schema became systematized and widely recognized, but the historical development is more nuanced and complex.
+
+### Origins and Early Development
+
+- The **Five Dhyani Buddhas**—Vairocana, Akshobhya, Ratnasambhava, Amitabha, and Amoghasiddhi—are a foundational concept of *Vajrayana Buddhism*, where they symbolize five aspects of enlightened consciousness and serve as focal points in mandalas and ritual practice[1][4][5][6].
+- However, *the explicit set of "Five" Buddhas as a coherent group does not appear in early Shramana or earliest Buddhist texts*, nor does the Sanskrit term "Dhyani Buddha" itself. The grouping emerges much later, being a “later development, based on the Yogācāra elaboration of concepts concerning the jñāna of the Buddhas, of the Trikaya theory”[5].
+- The **first clear appearance of the standardized five** is found in tantric scriptures like the *Sarvatathāgatatattvasaṃgraha Sutra* (late 7th century CE), and the *Vajrasekhara Sutra*[3]. Before this, Mahayana texts such as the *Sutra of Golden Light* (c. 5th century CE) already mention Buddhas in the cardinal directions, indicating a gradual conceptual layering but not yet the tantric arrangement[3][5].
+
+### Pre-Tantric and Early Mahayana Context
+
+- The *notion* of multiple transcendent Buddhas, associated with directions and cosmic qualities, **predates Vajrayana and appears in Mahayana sutras and stupa architecture**. For example, Indian stupas such as Sanchi and Udayagiri enshrine Buddhas facing the cardinal directions, a practice that later influenced the tantric five-Buddha schema[3].
+- Early Buddhist texts and Shramana tradition certainly explored notions of cosmic and eternal Buddhas, but the *specific organization into "Five Dhyani Buddhas" arises only with the maturation of tantric Buddhism*, not in the pre-sectarian or earliest Mahayana period[5][3].
+
+### Absorption and Systematization
+
+- While the roots of **multi-Buddha cosmology** reach into the early Mahayana and perhaps the wider Shramanic movement’s speculation on soteriological archetypes, *the Five Dhyani Buddhas* as a clearly defined, named, visualized, and ritually enacted group is a **mature development of tantric (Vajrayana) Buddhism**—not an original element of early or proto-Shramana Buddhism[1][3][4][5][6].
+- The use of the term "Jina" for these Buddhas is significant, as it reflects cross-pollination of victory motifs from broader Indic religious thought, including Jain and early Buddhist traditions, but it does not negate the late systematization of the fivefold grouping[5].
+
+### Scholarly Cautions
+
+- Modern scholarship emphasizes that the term *Dhyani Buddha* itself is not found in early texts and is a later English-language and doctrinal construct[2][5][6].
+- The iconographic and soteriological systematization is tantric; **the conceptual seeds are pre-tantric, but the fully developed mandalic, ritualized fivefold schema is Vajrayana**[3][5][7].
+
+**In summary:**  
+While notions of multiple Buddhas and cosmic Buddhas can be traced back to early Mahayana and possibly late Shramana thought, the defined concept of the "Five Dhyani Buddhas" is not attested in pre- or extra-Buddhist Shramana tradition, but is rather a tantric (Vajrayana) systematization that drew upon earlier elements[3][5][6]. Their organization, iconography, and centrality as a spiritual map for practice is fundamentally Vajrayana, even if earlier doctrinal and iconographic precedents existed.
+
+Citations:
+[1] Five Dhyani Buddhas | EBSCO Research Starters https://www.ebsco.com/research-starters/religion-and-philosophy/five-dhyani-buddhas
+[2] Dhyani-Buddha | Five Wisdom Buddhas, Mahayana Buddhism https://www.britannica.com/topic/Dhyani-Buddha
+[3] Five Tathāgatas - Wikipedia https://en.wikipedia.org/wiki/Five_Tath%C4%81gatas
+[4] The Five Dhyani Buddhas: An Introduction to Wisdom and ... https://enlightenmentthangka.com/blogs/thangka/the-five-dhyani-buddhas-an-introduction-to-wisdom-and-enlightenment
+[5] Five Dhyani Buddhas https://www.scribd.com/document/176804780/Five-Dhyani-Buddhas
+[6] Dhyani-Buddha https://www.britannica.com/print/article/160884
+[7] Who are the Five Buddhas? | 欧洲的世界遗产之旅 https://visitworldheritage.com/zh/eu/who-are-the-five-buddhas/14b72a36-4e4a-4c6f-9e11-14d96ce4abbd
+[8] Exploring the Five Dhyani Buddhas: Ratnasambhava, The Jewel of ... https://www.termatree.com/blogs/termatree/exploring-the-five-dhyani-buddhas-ratnasambhava-the-jewel-of-generosity-and-equanimity
+[9] The Five Dhyani Buddhas; Gifts of the Five Skandhas https://www.chaplainoftheheart.com/journal/five-dhyani-buddhas-five-skandhas
+[10] Buddhist Deities – Five Dhyani Buddhas https://tibetanbuddhistencyclopedia.com/en/index.php/Buddhist_Deities_%E2%80%93_Five_Dhyani_Buddhas
+
+
+
+
 My Pancharatra scriprure that I am translating is the Gautamiya Samhita or Mahatantram. So, Maharshi Gautama is also very important in the Pancharatra Agama Samhita Tradition.
 
 Your observation is entirely correct: **Maharshi Gautama** plays a *significant, though understudied, role in the Pancharatra Agama Samhita tradition*—notably within texts such as the **Gautamiya Samhita/Mahatantra**, which you are translating.
