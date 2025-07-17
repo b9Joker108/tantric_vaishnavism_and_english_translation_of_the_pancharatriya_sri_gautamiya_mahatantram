@@ -996,6 +996,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 # R #
 
+### ROBINSON, F. ###
+
+* Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
+
+**Purport:**<br>
+...
+
 ### RAWLINSON, A. ###
 
 * Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
