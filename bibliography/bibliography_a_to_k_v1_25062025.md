@@ -303,6 +303,13 @@ A respendent piece of work.
 
 ...
 
+### GETTY, A.; *et al.* ###
+
+* Getty, Alice (auth. & trans.) & Deniker, J. (intr.) (1914). 'The Gods of Northern Buddhism: Their History, Iconography and Progressive Evolution through the Northern Buddhist Countries'. With an 'Introduction: General Survey of Buddhism and its Evolution' by J. Deniker, translated from the French by Getty. London, England, U.K.: Oxford: At The Clarendon Press. 
+
+**Purport:**<br>
+...
+
 # H #
 
 ### HADA, M.; *et al.* ###
