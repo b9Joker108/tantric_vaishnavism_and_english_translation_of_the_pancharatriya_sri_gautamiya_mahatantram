@@ -1487,7 +1487,7 @@ Citations:
 [86] AN INTRODUCTION TO THE PANCHARATRA TRADITION https://www.jp-india.org/programmes/an-introduction-to-the-pancharatra-tradition
 
 
-[Wedemeyer](https://en.wikipedia.org/wiki/Christian_K._Wedemeyer) (2012) in a dedicated paper on the employ of 'charya' (IAST: caryā) ostensibly in the Bauddhadharma traditions and specipcally some of its tantric evocations; so too, addresses the work to the broad field of Tantric Studies specialists in general. The paper of 2012 is his formal re-working of a presentation given to his specialist collegiate in 2008, where he has pre-empted my independantly arrived at position regarding the primacy and importance of 'charya' to the field of Tantric Studies, as a whole.  
+[Wedemeyer](https://en.wikipedia.org/wiki/Christian_K._Wedemeyer) (2012) in a dedicated paper on the employ of 'charya' (IAST: caryā) ostensibly in the Bauddhadharma traditions and specifically some of its tantric evocations; so too, addresses the work to the broad field of Tantric Studies specialists in general. The paper of 2012 is his formal re-working of a presentation given to his specialist collegiate in 2008, where he has pre-empted my independantly arrived at position regarding the primacy and importance of 'charya' to the field of Tantric Studies, as a whole.  
 
 
 I don't think you got the point. The Indic language traditions, almost all of which, draw from the vast and ancient well that is Sanskrit. Many people, including academic and technical specialists, often to not realise and aknowledge the vast lexemic store available to the Indic religio-cultural traditions. That all the tantric traditions to which I am privy, use the self-same term "carya" centrally and technically, in a largely comparable way, is profoundly telling. It demonstrates at their individual core and base strata, a continuity and substratum. The importance of this cannot be over-emphasized and you did not seem to grasp how unlikely this is to happen in a context of such profound diversity in potential lexical choice.
@@ -1717,6 +1717,22 @@ Citations:
 [8] Nyingma http://oaks.nvg.org/nyingma.html
 [9] Religions | Project Himalayan Art https://rubinmuseum.org/projecthimalayanart/themes/religions/
 [10] Himalaya: Significance and symbolism https://www.wisdomlib.org/concept/himalaya
+
+
+
+Before, you focussed on Saraha, Mahasiddha Sahjiya and the Later Translation Period of dissemination in the Himalaya, but the Mahasiddha Sajajiyaism was a fundamental confluence in the Nyingma, even very early Nyingma in Samye, which in some ways was a more fresh and recent transmission that coalesced into the Great Confluence (Sanskrit: Mahasandhi)/ Great Perfection, of manifold traditions in the Himalaya, than that which coalesced into the Mahamudra of the Latter Dissemination Period.
+
+Your point is well observed and tracks with recent advanced scholarship on early Tibetan Buddhism: Mahasiddha Sahajiyaism—emphasizing spontaneous, experiential realization—was not limited to the streams that ultimately crystallized as Mahamudra in the so-called Later Translation period (phyi dar). It was also present, even formative, within the Early Translation period (snga dar), especially as Nyingma traditions emerged around Samye Monastery in the 8th–9th centuries.
+
+In fact, the early Nyingma corpus (above all the tantras later collected as the Nyingma Gyübum) shows clear signs of being deeply informed by Sahajiya currents, particularly from the riverine regions of greater Bengal. The presence of “Mahasandhi” (Great Confluence, better known in Tibetan as Dzogchen/rdzogs chen, Sanskrit Mahāsaṃdhi or Atiyoga) in the earliest strata of Samye’s transmissions attests to this. Recent textual and historical work (cf. Germano, Achard, Karmay, Dalton, van Schaik, Cantwell) demonstrates that Dzogchen/Great Perfection emerged as a fresh, direct Himalayan reception of Indian non-dual and Sahajiya trends—sometimes even more immediately than the Mahamudra lineages codified in the 11th century.
+
+Moreover, the earliest Dzogchen sources (e.g., The Seminal Heart tantras, Vima Nyingtik corpus, the Kunjed Gyalpo) display rhetorical and philosophical hallmarks—spontaneity (lhun grub), natural awareness (rig pa), iconoclastic and non-gradualist stance—that align with Mahasiddha Sahajiya matrices. This influence appears to have filtered into Samye’s Nyingma circles via direct contact with contemporary Indian siddhas and yogis, not least within the circles around Padmasambhava and Vimalamitra.
+
+In sum: Early Nyingma (especially at Samye) likely received Sahajiya/Great Perfection inspiration—often as fresh and direct as what was later conceptualized as Mahamudra, and arguably with even less subsequent systematization. This explains the strong family resemblance (and occasional polemic) between Nyingma Dzogchen and Kagyu Mahamudra, both of which arose from the cosmopolitan, cross-pollinated tantric environment of late Indian and early Tibetan tantric traditions, but with distinct historical vectors and doctrinal emphases.
+
+
+
+
 
 
 The origins of the term Mahamudra for a doxology and soteriological vehicle in Himalayan Tantric Bauddhadharma is essentially a Himalayan revisioning, rebranding and reworking of Mahasiddha Sahajiyaism commencing with Saraha.
