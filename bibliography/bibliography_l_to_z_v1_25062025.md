@@ -1108,6 +1108,10 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 ...
 
+### THRANGU, K.; *et al.* ###
+
+* Thrangu, Khenchen (comm.); Martin, Michele (trans.; arr. & ed.) & O'Hearn, Peter (trans.) (2006). 'A Song for the King: Saraha on Mahamudra Meditation'. Somerville, Massachusetts, U.S.A.: Wisdom Publications. ISBN 0861715039 (pbk.: alk. paper). 
+
 **Purport:**<br>
 ...
 
