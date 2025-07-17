@@ -397,3 +397,11 @@ This is a watershed work. I must dedicate time to it.
 **Purport:**<br>
 An exceptional treatment. There are only scholar-researcher-writers equal to Kvaerne: none exceed. He is of standard and this work is an exemplar.
 
+### KYABGON, T.; *et al.*
+
+* Kyabgon, Traleg (orat.; trans. & comm.) & Hutchison, Lynette (arr. & ed.) (2018). 'King Doha: Saraha's Advice to a King'. With a 'Foreward' by Orgyen Chowang Rinpoche. Ballarat, Victoria, Australia: Shogam Publications. ISBN 9780648114871 (ebook).
+
+**Purport:**<br>
+...
+
+
