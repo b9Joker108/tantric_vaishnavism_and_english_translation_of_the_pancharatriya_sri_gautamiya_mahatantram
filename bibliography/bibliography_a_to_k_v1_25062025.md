@@ -85,7 +85,7 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 
 ### ADHIKARI, A. ###
 
-* Adhikari, Anindita (2019). 'Lord Hayagriva in Sanskrit Literature'. Thesis. Department of Sanskrit. Suryamaninagar, Tripura, India: Tripura University (A Central University). Source: https://archive.org/details/adhikari-anindita-2019.-lord-hayagriva-in-sanskrit-literature (accessed: Thursday, August 08, 2024)
+* Adhikari, Anindita (2019). 'Lord Hayagriva in Sanskrit Literature'. Thesis. Department of Sanskrit. Suryamaninagar, Tripura, India: Tripura University (A Central University). Source: https://archive.org/details/adhikari-anindita-2019.-lord-hayagriva-in-sanskrit-literature (accessed: Thursday, August 08, 2024). Source: http://hdl.handle.net/10603/358085 (accessed: Friday, July 18, 2025)
 
 **Purport:**<br>
 ...
