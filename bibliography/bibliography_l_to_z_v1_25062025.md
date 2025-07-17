@@ -1062,6 +1062,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SENGUPTA, A. ###
+
+* Sengupta, Anusua (1993). 'Buddhist Art of Bengal: from the 3rd Century B.C. to the 13th Century A.D.'. Delhi, India: Rahul Publishing House. ISBN: 8173880069; ISBN 9788173880063.
+
+**Purport:**<br>
+This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhist Art of Bengal from the third century B.C. to the thirteenth century A.D.', which was taken up in 1980 at the University of Calcutta under the guidance of Prof. Amita Ray. Date of presentation unknown. **Note:** As of Friday, July 18, 2025, I have secured neither monograph, nor dissertation.
+
 ### SRINIVASAN, D. ###
 
 * Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
