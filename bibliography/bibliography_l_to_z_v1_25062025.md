@@ -1029,6 +1029,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### SCHAEFFER, K. ###
+
+* Schaeffer, Kurtis R. (2005). 'Dreaming the Great Brahmin: Tibetan Traditions of the  Buddhist Poet-Saint Saraha'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195173734. 
+
+**Purport:**<br>
+...
+
 ### SCHMID, C. ###
 
 * Schmid, Charlotte (1997). 'Les Vaikuntha gupta de Mathura: Vishnu ou Krishna? \[French; English: The Vaikuntha Gupta of Mathura: Vishnu or Krishna?]' (pp. 60-88) in *Arts asiatiques \[French; English: Asiatic Arts]*, 'Tome 52 \[French; English: Vol. 52], 1997. (NB: In French with excellent images.). DOI: https://doi.org/10.3406/arasi.1997.1401. Source: https://www.persee.fr/doc/arasi_0004-3958_1997_num_52_1_1401 (accessed: Saturday, July 12, 2025)
