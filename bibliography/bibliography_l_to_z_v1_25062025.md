@@ -1,4 +1,4 @@
-<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+6<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 <figure>
@@ -740,6 +740,11 @@ The bibliography of this article, for its time, is a sublimation of scholarship.
 ...
 
 ### NAYAR, K. ###
+
+* Nayar, Kamala E. (1998). 'Hayagriva: The Many "Histories" of an Indian Deity'. Ph.D. dissertation. Faculty of Graduate Studies and Research. Montreal, Canada: McGill University.
+
+**Purport:**<br>
+...
 
 * Nayar, Kamala Elizabeth (2004). ‘Hayagriva in South India: Complexity and Selectivity of a Pan-Hindu Deity’. Leiden, The Netherlands: Koninklijke Brill NV. ISBN 9004137300. Source: https://archive.org/details/nayar-kamala-elizabeth-2004.-hayagriva-in-south-india-complexity-and-selectivity (accessed: Friday, September 27, 2024)
 
