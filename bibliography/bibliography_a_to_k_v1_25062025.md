@@ -156,9 +156,12 @@ Aiyangar, M. Duraiswami & Venugopalacharya, T. (eds.) (1942). 'Sri Pancharatra R
 In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jayakhya Samhita', edited by Krishnamachariar, in the Gaikawad's Series, edited by Bhattacharya, of the Oriental Institute, Baroda. So, there may be more of value on the Pancharatra, secreted in other issues of the Journal.
 
 
+### AUNG, S. ###
 
+* Aung, San Tha (1997, 1979). 'The Buddhist Art of Ancient Rakhine: An Eastern Border State Beyond Ancient India, East of Vanga and Samatata'. Second edition. (NB: First edition published in 1979.). Padaytha Quarters, Sawbwargyigone, Insein, Yangon, Myanmar: U Ye Myint.
 
-
+**Purport:**<br>
+...
 
 # B #
 
