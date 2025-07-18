@@ -13,11 +13,13 @@ The following verse appears in the Shrimad Bhagavatam’s “Instructions of Bha
 
 वैदिकस्तान्त्रिको मिश्र इति मे त्रिविधो मखः ।  <br>
 vaidikas tāntriko miśra iti me tri-vidho makhaḥ  <br>
-Sacrifice (makhaḥ) offerered to Me is of three kinds: Vedic, Tantric and Admixed. <br>
+Sacrifice (makhaḥ) offerered to Me is of three kinds: <br>
+Vedic, Tantric and Admixed. <br>
 
 त्रयाणामीप्सितेनैव विधिना मां समर्चरेत् ॥  <br>
 trayāṇām īpsitenaiva vidhinā māṁ samarcaret <br>
-One should properly worship Me using whichever of these three methods is most suitable, according to their own aspiration and qualification.<br>
+One should properly worship Me using whichever of these three methods is most suitable, <br>
+According to their own aspiration and qualification.<br>
 
 
 ### 1. **Terminology and Structure**
