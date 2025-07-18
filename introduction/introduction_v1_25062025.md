@@ -9,20 +9,18 @@ I recommend the five (5) volumes by Surendranath, for it is the first and to my 
 As the left-hand cleanses the right,<br>
 So too, does the right-hand, cleanse the left.<br>
 
-The following verse appears in the Shrimad Bhagavatam’s “Instructions of Bhagavan Sri Krishna to Sri Uddhava” (Sri Uddhava-gītā, Book XI, Chapter 27, Shloka 7), a crucial discourse on **Deity worship (kriyā-yoga, arcanā, pūjā)** where Krishna outlines principles for installing and worshipping the divine presence in image or icon form[1][2][3][4][5]. The verse succinctly presents three (3) sanctioned paths by which the Supreme may be approached ritually: *vaidika* (Vedic), *tāntrika* (Tantric/Āgamic), or *miśra* (hybrid/admixture):
+The following verse appears in the Shrimad Bhagavatam’s “Instructions of Bhagavan Sri Krishna to Sri Uddhava” (Sri Uddhava-gītā, Book XI, Chapter 27, Shloka 7), a crucial discourse on **Deity worship (kriyā-yoga, arcanā, pūjā)** where Krishna outlines principles for installing and worshipping the divine presence in image or icon form. The verse succinctly presents three (3) sanctioned paths by which the Supreme may be approached ritually: *vaidika* (Vedic), *tāntrika* (Tantric/Āgamic), or *miśra* (hybrid/admixture):
 
-वैदिकस्तान्त्रिको मिश्र इति मे त्रिविधो मखः ।  <br>
-vaidikas tāntriko miśra iti me tri-vidho makhaḥ  <br>
-Sacrifice (makhaḥ) offerered to Me is of three kinds: <br>
-Vedic, Tantric and Admixed. <br>
+> वैदिकस्तान्त्रिको मिश्र इति मे त्रिविधो मखः ।  <br>
+> vaidikas tāntriko miśra iti me tri-vidho makhaḥ  <br>
+> Sacrifice (makhaḥ) offerered to Me is of three kinds: <br>
+> Vedic, Tantric and Admixed. <br>
 
-त्रयाणामीप्सितेनैव विधिना मां समर्चरेत् ॥  <br>
-trayāṇām īpsitenaiva vidhinā māṁ samarcaret <br>
-One should properly worship Me using whichever of these three methods is most suitable, <br>
-According to their own aspiration and qualification.<br>
+> त्रयाणामीप्सितेनैव विधिना मां समर्चरेत् ॥  <br>
+> trayāṇām īpsitenaiva vidhinā māṁ samarcaret <br>
+> One should properly worship Me using whichever of these three methods is most suitable, <br>
+> According to their own aspiration and qualification.<br>
 
-
-### 1. **Terminology and Structure**
 - **Vaidika (वैदिक)**: Rituals and worship strictly following the Vedic Śruti, including injunctions from the Saṁhitās, Brāhmaṇas, and supporting texts. Representative of ancient sacrificial modes, homas, and mantra protocol.
 - **Tāntrika (तान्त्रिक)**: Rituals based on Tantra or Āgamic literature (notably the Pāñcarātra and Gautamīya traditions), emphasizing pragmatic, accessible, and often more exoteric/householder-oriented forms of worship (ārcana, pūjā), including the use of images[2][3].
 - **Miśra (मिश्र)**: A “mixed” mode, combining Vedic and Tantric/Āgamic elements to craft a hybrid praxis commonly seen in temple and domestic worship throughout late classical and medieval India.
@@ -58,10 +56,6 @@ Your statement is supported by both historical scholarship and observable realit
 **Pure Vedic ritualism**—entailing the full stringency of śrauta sacrifices, mastery of Vedic Sanskrit, and the exclusive use of Vedic mantras and protocols—is now relatively rare, typically preserved within specialized Brahmin lineages and a handful of traditional institutions devoted to Vedic study and yajña. Such strict Vedic rites are often performed for specific occasions (e.g., soma sacrifices, rare agnihotra observances) rather than as the day-to-day norm for most Hindus.
 
 Despite this practical reality, **the Vedas and those who maintain their recitation and ritual, especially the Brahmana custodians, are widely venerated across the spectrum of Hindu traditions.** Even the most Āgamic or Tantric lineages acknowledge the primacy and sanctity of the Veda—often citing its authority in preambles to pūjā, including recitations of Vedic ślokas, and showing reverence for Vedic scholars. This esteem is evident in both ritual formalities and cultural discourse, where the Veda is honored as the *śruti* (eternally revealed wisdom), and the Brahmana as its living guardian, even by communities whose daily worship is mainly Purāṇic or Āgamic in form.
-
-In sum:  
-- **Most contemporary Sanātana Dharma is Purāṇic-Āgamic (Tantric) in practice, with Vedic elements as foundational but rarely exclusive.**
-- **Vedic tradition and its custodians remain deeply respected,** reflecting a well-integrated hierarchy of ritual forms and spiritual authorities within Hinduism.
 
 
 
