@@ -51,13 +51,19 @@ Most major commentaries (including that of Śrīdhara Svāmī) underscore that t
 
 This verse, delivered by Bhagavan Sri Kṛṣṇa to Sri Uddhava, transcends ritual exclusivity and codifies the legitimacy of the Vedic, Tantric (Āgamic), and mixed traditions. It endorses adaptive worship and honours the historical and theological shifts in Sanatana Dharma (Hindu) sacramental life, recognizing both the evolutionary dynamism of ritual and the centrality of sincere intent.
 
-### References
+In truth, as most living traditions of Sanatana Dharma are demonstrably an admixture of Puranic lyricism, narrativity and Tantric/Agamic worship, pure Vedic ritualism and its stringency, required learning and cultivation are rare. That said, most Agamic and Mixed practitioners and devotees, hold the Vedas and Brahmanas who uphold and maintain the Vedic Traditions, in esteem.
 
-- Bhagavata Purāṇa 11.27.7 [1][2][3][4][5]
-- Sectarian and classical commentaries (e.g., Śrīdhara, Jīva Gosvāmī on SB 11.27)
-- Contemporary scholarship on Vedic-Āgamic ritual syncretism
+Your statement is supported by both historical scholarship and observable reality in present-day Hindu practice. **Most living traditions within Sanātana Dharma—be they temple-based, regional, sectarian, or household—are indeed a synthesis of Purāṇic storytelling and Tantric/Āgamic ritual forms.** This blending is manifest in the prominence of temple worship (ārcana, pūjā, abhiṣeka), the use of imagery and icons, and the performative, participatory style of community festivals, all of which draw significantly from Āgamic and Purāṇic sources.
 
-If you need further discussion of each term’s use in ritual manuals, or case studies of contemporary application, I can provide region-specific or historical elaboration.
+**Pure Vedic ritualism**—entailing the full stringency of śrauta sacrifices, mastery of Vedic Sanskrit, and the exclusive use of Vedic mantras and protocols—is now relatively rare, typically preserved within specialized Brahmin lineages and a handful of traditional institutions devoted to Vedic study and yajña. Such strict Vedic rites are often performed for specific occasions (e.g., soma sacrifices, rare agnihotra observances) rather than as the day-to-day norm for most Hindus.
+
+Despite this practical reality, **the Vedas and those who maintain their recitation and ritual, especially the Brahmana custodians, are widely venerated across the spectrum of Hindu traditions.** Even the most Āgamic or Tantric lineages acknowledge the primacy and sanctity of the Veda—often citing its authority in preambles to pūjā, including recitations of Vedic ślokas, and showing reverence for Vedic scholars. This esteem is evident in both ritual formalities and cultural discourse, where the Veda is honored as the *śruti* (eternally revealed wisdom), and the Brahmana as its living guardian, even by communities whose daily worship is mainly Purāṇic or Āgamic in form.
+
+In sum:  
+- **Most contemporary Sanātana Dharma is Purāṇic-Āgamic (Tantric) in practice, with Vedic elements as foundational but rarely exclusive.**
+- **Vedic tradition and its custodians remain deeply respected,** reflecting a well-integrated hierarchy of ritual forms and spiritual authorities within Hinduism.
+
+
 
 
 [9] Bhagavata Purana with Multiple Commentaries TTD Critical Edition 
