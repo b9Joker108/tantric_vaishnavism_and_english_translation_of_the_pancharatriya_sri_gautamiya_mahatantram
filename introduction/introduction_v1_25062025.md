@@ -17,7 +17,7 @@ The following verse appears in the Shrimad Bhagavatam’s “Instructions of Bha
 > Vedic, Tantric and Admixed. <br>
 
 > त्रयाणामीप्सितेनैव विधिना मां समर्चरेत् ॥  <br>
-> trayāṇām īpsitenaiva vidhinā māṁ samarcaret <br>
+> trayāṇām īpsitenaiva vidhinā māṁ samarcaret <br>
 > One should properly worship Me using whichever of these three methods is most suitable, <br>
 > According to their own aspiration and qualification.<br>
 
