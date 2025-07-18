@@ -1001,6 +1001,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 # R #
 
+### RADDOCK, E. ###
+
+* Raddock, Elisabeth \[Ukr: Раддок, Е.] (2022). 'Determining the Date and the Place of Origin of the Hayashirsha Pancharatra \[Ukr: Визначення часу та місця створення “Гаяшірша-паньчаратри” ; Roman.: Vyznachennya chasu ta mistsya stvorennya “Gayashirsha-pancharatra”]' (pp. 119-129) in *The World of the Orient \[Ukr: Східний світ ; Roman: Skhidnyi svit]*, Vol. 4 , Issue 117, 2022. Kyiv, Ukraine: A. Yu. Krymskyi Institute of Oriental Studies, NAS of Ukraine (on behalf of The World of the Orient). DOI: https://doi.org/10.15407/orientw2022.04.119 (accessed: Friday, July 18, 2025)
+
+**Purport:**<br>
+...
+
 ### ROBINSON, F. ###
 
 * Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
