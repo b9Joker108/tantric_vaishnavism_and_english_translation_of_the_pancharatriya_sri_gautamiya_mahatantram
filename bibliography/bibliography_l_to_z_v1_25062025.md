@@ -1008,6 +1008,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### RAWLINSON, A. ###
+
+* Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+
+**Purport:**<br>
+...
+
 ### ROBINSON, F. ###
 
 * Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
@@ -1015,9 +1022,9 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
-### RAWLINSON, A. ###
+### ROCHFORD, E.; *et al.* ###
 
-* Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
+* Rochford, Jr.; E. Burke (auth.); Miller, Timothy (ed.) & Palmer, Susan J. (ed.) (2007). 'Hare Krishna Transformed'. The New and Alternative Religion Series. New York, N.Y., U.S.A.: New York University Press. ISBN 9780814775790 (pbk. : alk. paper).
 
 **Purport:**<br>
 ...
