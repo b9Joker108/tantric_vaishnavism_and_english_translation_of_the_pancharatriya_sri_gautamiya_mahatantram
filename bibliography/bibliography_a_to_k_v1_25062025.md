@@ -310,6 +310,13 @@ A respendent piece of work.
 **Purport:**<br>
 ...
 
+### van GULIK, R. ###
+
+* van Gulik, R. H. (1980, 1956). 'Siddham: An Essay on the History of Sanskrit Studies in China and Japan'. Shata-Pitaka Series: Indo-Asian Literatures Vol. 247. (NB: The 'Preface' by van Gulik is dated: "Autumn 1953" at the: "Netherlands Embassy, New Delhi", but I can find no attestation for a publication date prior to 1956. Given the date of the 'Preface', this date of first publication should be understood as provisional.). Hauzkhas Enclave, New Delhi, India: Mrs. Sharada Rani.
+
+**Purport:**<br>
+**TODO:** Investigate publication listing of entire Indo-Asian series.
+
 # H #
 
 ### HADA, M.; *et al.* ###
