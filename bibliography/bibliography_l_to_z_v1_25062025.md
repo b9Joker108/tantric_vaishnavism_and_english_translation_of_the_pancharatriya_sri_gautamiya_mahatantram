@@ -272,6 +272,13 @@ This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vai
 **Purport:**<br>
 This work contains a very useful section entitled: 'Bhāgvata-Pāñcharātra-Vaishṇava Cult' (pp. 780–793).
 
+### MALAPAKA, I. ###
+
+* Malapaka, Dr. Indira (2025). 'From Hearth to Verse: An Archaeogastronomic Exploration of the Ancient Indian Kitchen' (pp. 182-187) in the *International Journal of Science and Research \[IJSR]*, Vol. 14, Issue 5, May, 2025. Paldi, Ahmedabad, Gujarat, India: World Wide Journas. DOI: https://dx.doi.org/10.21275/MS25502083759 (accessed: Sunday, July 20, 2025)  
+
+**Purport:**<br>
+...
+
 ### MALAVIYA, R. ###
 
 * Malaviya, Dr. Ramaji (ed.) (1992). 'Gautamiyamahatantram of Maharshi Gautama'. With a Foreward in Sanskrit by Dr. Vidyaniwas Misra. Yogatantra-Granthamala Vol.14. First edition. Varanasi, India: Dr. Harish Chandra Mani Tripathi, Sampurnanand Sanskrit University. Source: https://archive.org/details/wqyJ_gautamiya-maha-tantram-of-maharsi-gautama-with-dr.-vidyaniwasas-mishra-by-dr.-ra (accessed: Thursday, June 20, 2024)
