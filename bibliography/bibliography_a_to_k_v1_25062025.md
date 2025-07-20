@@ -386,6 +386,13 @@ As yet, I have not been able to secure a copy.
 **Purport:**
 ...
 
+### JAISWAL, S.; *et al.* ###
+
+* Jaiswal, Shubham; Agrawal, Avlokita & Raman, Geethanjali (eds.) (2019). 'Genesis of Stupas' (pp. 205-213) in Agrawal, Avlokita & Gupta, Rajat (eds.) (2019). *Revisiting the Role of Architecture for 'Surviving' Development: 53ʳᵈ International Conference of the Architectural Science Association*. Melbourne, Victoria, Australia: Architectural Science Association (ANZAScA). 
+
+**Purport:**
+...
+
 ### JARROW, E.; *et al.* ###
 
 * Jarrow, E. H. Rick (auth.) & Doniger, Wendy (ed.) (2003). 'Tales for the Dying: The Death Narrative of the Bhagavata-Purana'. SUNY Series in Hindu Studies. Albany, N.Y., U.S.A.: State University of New York Press. ISBN 0791456099 (alk.).
