@@ -945,6 +945,13 @@ This is an important and useful work that I am yet to secure.
 **Purport:**<br>
 ...
 
+### PANDIKATTU, K.; *et al* ###
+
+* Pandikattu, Kuruvila & Karimundackal, Thomas (eds.) (2018). 'Melodies from the Flute: Dialogue Among Religions and Cultures : Memorial Volume for Indian Christian Philosopher Rev Noel Sheth SJ'. ISBN 9789351483267.
+
+**Purport:**<br>
+...
+
 ### PARAMASIVAN, V. ###
 
 * Paramasivan, Vasudha (2010). 'Between Text and Sect: Early Nineteenth Century Shifts in the Theology of Ram'. Ph.D. dissertation in South and Southeast Asian Studies. Berkeley, California, U.S.A.: University of California. Source: http://escholarship.org/uc/item/1k81z14s accessed: (accessed: Saturday, March 15, 2025)
