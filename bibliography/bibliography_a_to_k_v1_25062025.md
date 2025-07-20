@@ -270,6 +270,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 **Purport:**<br>
 I am contemplatishing purchasing a hardcopy of this volume, as I have not been able to secure a digital copy. Dehejia is an exceptional scholar. **TODO:** Purchase: ?
 
+### DEVA, B. ###
+
+* Deva, B. Chaitanya (1973). 'An Introduction to Indian Music'. Patiala House, New Delhi, India: Publications Division (Ministry of Information & Broadcasting, Government of India).  
+
+**Purport:**<br>
+...
+
 ### DUNN, B. ###
 
 * Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
