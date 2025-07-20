@@ -277,6 +277,11 @@ I am contemplatishing purchasing a hardcopy of this volume, as I have not been 
 **Purport:**<br>
 ...
 
+* Deva, B. Chaitanya (1987, 1978). 'Musical Instruments of India: Their History and Development'. With a 'Foreword' by Swami Prajnanananda. Second revised edition. (NB: First published in 1978.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 8121500486.
+
+**Purport:**<br>
+...
+
 ### DUNN, B. ###
 
 * Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
