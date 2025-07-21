@@ -1076,6 +1076,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### SARMA, S. ###
+
+* Sarma, Satyendranath N. (1966, 1955). 'The Neo-Vaishnavite Movement and the Satra Institution of Assam'. (NB: Ph.D. dissertation was presented in 1955 to Gauhati University.). Gauhati University, Guwahati, Assam, India: Department of Publication (Gauhati University). Source: https://ia601402.us.archive.org/12/items/in.ernet.dli.2015.461471/2015.461471.The-Neo-vaisnavite.pdf (accessed: Monday, July 21, 2025)
+
+**Purport:**<br>
+...
+
 ### SCHAEFFER, K. ###
 
 * Schaeffer, Kurtis R. (2005). 'Dreaming the Great Brahmin: Tibetan Traditions of the  Buddhist Poet-Saint Saraha'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195173734. 
