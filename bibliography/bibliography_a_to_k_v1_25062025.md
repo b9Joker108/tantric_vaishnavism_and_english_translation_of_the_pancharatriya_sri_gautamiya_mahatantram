@@ -102,6 +102,13 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 **Purport:**<br>
 This is an important work. Sri Ramanujacharya is the first attested unambigously theistic Vaishnava Vedantic theologian, known to posterity from the vicissitudes, fickleness and selectivity, of history. It is best to remember that history is a construction, that we can only ever endeavour to approach truth, never reveal or attain it. Since, I became aware that Ramanuja didn't quote from the Shrimad Bhagavatham Mahapuranam, and aware that He authored a commentary on the Sri Vishnu Purana, and that this scripture contains an interior and intimate devotional perspective on the lilas of Sri Govinda and the blessed Gopis, I have become intrigued to find a dedicated work that gives academic treatment on this aspect of Ramanuja and the historicity of the Vedanta. Did Ramanuja have access to the Bhagavatham or not? Was Ramanuja aware of the Bhagavatham? Did Ramanuja just favour the Vishnu Purana over the Bhagavatham, and if so why? Was it something specific to the Vishnu Purana that inflamed and incited Ramanuja's devotional and theistic theology? If so, what?
 
+### AGRAWALA, R. ###
+
+* Agrawala, R.C. (1974). 'Narasimha-Varaha-Vishnu Images and Some Allied Problems' (pp. 11-21) in  Khandalavala, Karl & Chandra, Moti (eds.) (1974). *Lalit Kala*, No. 16. New Delhi, India. Rabindra Bhavan, New Delhi, India: Lalit Kala Akademi (Sankho Chaudhuri). 
+
+**Purport:**<br>
+As yet, I have not been able to secure a copy.
+
 ### AGRAWALA, V. ###
 
 * Agrawala, Vasudeva Sharan (1953). 'India as known to Panini: A Study of the Cultural Material in the Ashtadhyayi'. Radha Kamud Mookerji Endowment Lectures for 1952 at the University of Lucknow. Lucknow, India: University of Lucknow. Source: https://archive.org/details/in.gov.ignca.4695 (accessed: Tuesday, August 27, 2024)
