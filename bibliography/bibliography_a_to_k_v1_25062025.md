@@ -165,6 +165,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BANERJEE, P. ###
+
+* Banerjee, P. (1978). 'The Life of Krishna in Indian Art'. With a 'Foreword' by C. Sivaramamurti. New Delhi, India: National Museum, New Delhi. Source: https://archive.org/details/dli.venugopal.829 (accessed: Monday, July 21, 2025)
+
+**Purport:**<br>
+...
+
 ### BARTHWAL, P. ###
 
 * Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1936). 'The Nirguna School of Hindi Poetry: An Exposition of Medieval Indian Santa Mysticism'. (NB: Being a thesis approved in the Benares Hindu University for the degree of Doctor of Letters.). Benares, India: Indian Book Shop.
