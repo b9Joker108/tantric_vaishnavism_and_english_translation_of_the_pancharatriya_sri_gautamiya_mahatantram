@@ -432,6 +432,11 @@ As yet, I have not been able to secure a copy.
 **Purport:**<br>
 ...
 
+* Kaunteya-dasa (2023). 'Neo-Smartas: ISKCON's Greatest Danger'. Alachua, Florida, U.S.A.: The Bhaktivedanta Book Trust International (BBTi) (Eye of the Storm Press). Source: https://archive.org/details/kaunteya-das-neo-smartas-iskcons-greatest-danger-official-version (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
 ### KISS, C. ###
 
 * Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
