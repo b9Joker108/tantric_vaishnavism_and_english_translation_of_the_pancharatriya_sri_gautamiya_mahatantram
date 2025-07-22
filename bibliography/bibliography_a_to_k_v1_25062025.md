@@ -425,6 +425,12 @@ As yet, I have not been able to secure a copy.
 
 ...
 
+### KAUNTEYA-dasa ###
+
+* Kaunteya-dasa (2013). 'Did Shrila Prabhupada Want Women Diksha Gurus?'. Alachua, Florida, U.S.A.: The Bhaktivedanta Book Trust International (BBTi)(Eye of the Storm Press). Source: https://archive.org/details/did-srila-prabhupada-want-women-diksa-gurus-kaunteya-das (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
 
 ### KISS, C. ###
 
