@@ -270,6 +270,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 
 ...
 
+### DAMODARA-dasa; *et al.* ###
+
+* Damodara-dasa & Krishna-kirti-dasa (2019). 'Vaishnava-Diksha According to Narada Pancharatra: Can a Female Devotee be a Diksha-Guru?'. First edition. Surat, Gujarat, India: Bhakti Vikas Trust (BVKS). ISBN 9789382109556. Source: https://archive.org/details/VDNAP/mode/2up (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
 ### DASGUPTA, S. ###
 
 * Dasgupta, Surendranath (1949). 'A History of Indian Philosophy: Vol. IV \[4] - Indian Pluralism'. First edition. London, England, U.K.: Cambridge at the University Press. Source: https://archive.org/details/in.ernet.dli.2015.135147 (accessed: Saturday, July 12, 2025)
