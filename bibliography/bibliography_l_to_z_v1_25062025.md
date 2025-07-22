@@ -549,9 +549,16 @@ In due course, I need to secure Miller's theses and dissertations.
 **Purport:**<br>
 This is the best digitization of the volume I have been able to find. It had a makeshift cover that detracted from the edition. So, I extracted the cover and prepended the true and correct cover I sourced by the grace of goddess Shrimati Serendipity on the weblog of Sri Vishnudut1926. Vishnudut1926 was manifestly delighted with aspects and tracts of the work. I have as yet been unable to determine if this edition is canonical Pancharatra. On a cursory appraisal of its register, it bears no branding, iconography nor otherwise overt information nor salience, attesting to its veracity as Pancharatra. My intuition informs me, in a positive assessment, it is neo-Pancharatra or a faux and derivative work, modelled somewhat on canonical Pancharatra and other agamic and tantric scriptures of comparable nature and concerns. This is not to be considered a determination. If value is found in the work, the work is of value, regardless of what academia, specialists and/or the tradition(s) attest.
 
-### MISHRA, S. ###
+### MISHRA, Sam. ###
 
 * Mishra, Sampadananda (2016). ‘The Greatness of the Rishi Tradition of India’ in *Shraddha*, Vol. 8, №2, November, 2016. Academia.com Source: https://archive.org/details/mishra-sampadananda-2016.-the-greatness-of-the-rishi-tradition-of-india (accessed: Saturday, August 17, 2024)
+
+**Purport:**<br>
+...
+
+### MISHRA, Sar. ###
+
+* Mishra, Pt. Sarju-Prasada \[Sanskrit: पं० सरयूप्रसाद-मिश्र ; IAST: paṃ. sarayū-prasāda-miśra] (comm.) (1905). 'Sri Narada Pancharatra: Bharadwaja Samhita \[(Sanskrit: नारदपञ्चरात्र-भारद्वाजसंहिता ; IAST: nārada-pañcarātra-bhārdvāja-saṃhitā); with Sarju-Prasadiya Commentary (Sanskrit: सरयूप्रसादीय-टीका ; IAST: sarayuprasadīya-ṭīkā)]'. (NB: In Sanskrit set in Devanagari.). Mumbai, Maharashtra, India: 'Sri Venkateshwara Steam Press (Sanskrit: श्रीवेङ्कटेश्वर स्टीम् यन्त्रागारे मुद्रयित्वा प्रकाशिता। ; IAST: śrī-veṅkaṭeśvara sṭīm yantrāgāre mudrayitvā prakāśitā)' (Sri Khemaraja Sri-Krishna-dāsa). Source: https://archive.org/details/in.ernet.dli.2015.345175 (accessed: Wednesday, July 23, 2025)
 
 **Purport:**<br>
 ...
