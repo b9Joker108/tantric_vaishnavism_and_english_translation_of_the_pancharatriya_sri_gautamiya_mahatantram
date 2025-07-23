@@ -343,10 +343,17 @@ A respendent piece of work.
 
 ### GETTY, A.; *et al.* ###
 
-* Getty, Alice (auth. & trans.) & Deniker, J. (intr.) (1914). 'The Gods of Northern Buddhism: Their History, Iconography and Progressive Evolution through the Northern Buddhist Countries'. With an 'Introduction: General Survey of Buddhism and its Evolution' by J. Deniker, translated from the French by Getty. London, England, U.K.: Oxford: At The Clarendon Press. 
+* Getty, Alice (auth. & trans.) & Deniker, J. (intr.) (1914). 'The Gods of Northern Buddhism: Their History, Iconography and Progressive Evolution through the Northern Buddhist Countries'. With an 'Introduction: General Survey of Buddhism and its Evolution' by J. Deniker, translated from the French by Getty. London, England, U.K.: Oxford: At The Clarendon Press.
 
 **Purport:**<br>
 ...
+
+### GRIERSON, G. ###
+
+* Grierson, G. A. (1921, 1909). 'Bhakti Marga' (pp. 539?-531?) in Hastings, J. (ed.) (1921, 1909). *Encyclopedia of Religion and Ethics: Vol. II \[2]*. Edinburgh, Scotland, U.K.; T. T. Clark.
+
+**Purport:**<br>
+**TODO:** Fix this citation after Hastings details are copied across.
 
 ### van GULIK, R. ###
 
