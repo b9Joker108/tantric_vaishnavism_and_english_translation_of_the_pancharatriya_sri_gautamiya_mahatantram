@@ -499,6 +499,81 @@ Let me know if you would like the full Devanāgarī and IAST text of each hymn.
 
 
 
+"Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
+
+## Shared Narratives Between Early Vaishnavism and Jainism
+
+The deep overlap between early Vaishnava and Jaina Dharma—manifest in motifs like the Nine Baladevas and Nine Vasudevas—reflects an ancient matrix of South Asian religious thought, rooted in pre-Vedic, possibly Dravidian, social and spiritual landscapes. These resonances are not an accident; they reveal shared cultural, mythological, and socio-religious currents unique to these two traditions.
+
+### 1. Origins of Narayana and Syncretism
+
+- **Narayana** was historically a non-Vedic deity, probably of Dravidian or tribal origin, closely associated with water and fortune[1][2][3][4].
+- Over time, Vedic traditions (centered in northern India) absorbed tribal and regional deities like Narayana, eventually merging him with Vishnu, resulting in the composite god Vishnu-Narayana.[1][3][5]
+- The **Bhagavata cults** (devoted to Krishna and Vāsudeva) were similarly non-Vedic and Dravidian in origin, merging myths of pastoral and tribal societies with Vedic cosmology[1][5].
+
+### 2. Early Vaishnavism and Jainism: Shared Mythological Structures
+
+#### The Concept of Repeating Heroic Dyads and Triads
+
+- Both **Vaishnavism** and **Jainism** describe cycles of **Baladeva** and **Vāsudeva**:
+  - Jain tradition specifically lists **nine Baladevas (gentle heroes)** and **nine Vāsudevas (strong, conquering heroes)** in every time cycle, with antagonists called **Prati-Vasudevas**[6][7][8].
+  - **Baladeva and Vāsudeva** appear as half-brothers (e.g., Balarama and Krishna in their final incarnation of the current world-age), a motif explicitly found in Jain texts like Hemachandra’s *Triṣaṣṭiśalākāpuruṣacarita*[9][7][6].
+  - Each set has recurring narrative arcs: Baladeva is gentle and upholds non-violence, Vāsudeva conquers evil, and Prati-Vāsudeva is an adversary[7][6].
+- This systematized, repeating structure is not found in early **Buddhism** or **Shaivism**.
+
+#### Interlinked Mythic Figures
+
+- Certain legendary figures are shared across both traditions. For instance, in Jainism, Krishna (Vāsudeva), Balarama (Baladeva), and even Neminatha (the 22nd Tirthankara) are linked as familial cousins[10][11].
+- The idea of lineage heroes and their adversaries reflects ancient oral traditions, probably predating and running parallel to early Brahmanical textual traditions.
+
+### 3. Cultural Roots of Shared Features
+
+#### Pre-Vedic Tribal and Dravidian Influence
+
+- The sharing of myths and patterns (such as the dyadic heroes and cyclic time) likely stems from:
+  - A **common substratum of oral epics and hero worship** in Dravidian and tribal societies of ancient India, later absorbed into both Jain and Vaishnava frameworks[1][2][5].
+  - Flexibility in assimilating popular local deities and legends into the evolving Jain and Vaishnava pantheons, as opposed to the more exclusive Vedic tradition.
+- Both traditions were less rigidly tied to Vedic ritual and text, making them more adaptable to local religious and ethical narratives[1][5].
+
+#### Philosophical Compatibility
+
+- **Jainism and Vaishnavism** both emphasized values such as **bhakti (devotion), ahimsa (non-violence)** (with Baladeva upholding this in Jain versions), and Moksha (liberation), allowing for cross-pollination in stories and ethics[7][6].
+- Socially, both were accommodating of people outside strict Brahmanical hierarchy, appealing to non-Aryan and non-Vedic communities.
+
+### 4. Why Similarities Are Unique to Jainism and Vaishnavism
+
+| Aspect                        | Jainism & Vaishnavism         | Other Traditions (e.g., Shaivism, Buddhism)         |
+|-------------------------------|------------------------------|-----------------------------------------------------|
+| Cyclic Heroic Dyads/Triads    | Yes (Baladeva, Vāsudeva)     | No systematic cycle in Buddhist or Shaivite mythos  |
+| Mythic Family Repetition      | Yes (half-brothers, shared ancestry) | Less emphasized or absent                  |
+| Absorption of Tribal Deities  | Central to formation         | To a lesser extent (more Vedic integration in Shaivism, monastic structure in Buddhism) |
+| Emphasis on Bhakti/Devotion   | Yes (early and strong)       | Bhakti less central in early Shaivism/Buddhism      |
+
+### Conclusion
+
+The robust overlap between early Vaishnavism and Jainism—including the motifs of Baladevas and Vasudevas—is best understood as a legacy of shared, non-Vedic, probably Dravidian oral and mythic traditions. Their flexibility and regional openness allowed both Jaina and Vaishnava dharmas to integrate myths, ethical paradigms, and devotional practices from the same broad cultural pool—creating parallels and cross-references rarely found in other Indian traditions[1][2][6][7][5].
+
+Citations:
+[1] Origin of Vishnu/Narayana/Krishna/Vāsudeva/Gopala https://arindamroyblog.wordpress.com/2019/05/09/origin-of-vishnu-narayana-krishna-vasudeva-gopala/
+[2] Narayana https://en.wikipedia.org/wiki/Narayana
+[3] THE ORIGIN Of NARAYANA https://www.jstor.org/stable/44002565
+[4] Myth of Lord Vishnu! http://sonawanisanjay.blogspot.com/2015/04/myth-of-lord-vishnu.html
+[5] Vaishnavism https://en.wikipedia.org/wiki/Vaishnavism
+[6] Vasudeva, Vāsudeva, Vasudevā, Vāsudevā, Vasu-deva https://www.wisdomlib.org/definition/vasudeva
+[7] Balarama https://en.wikipedia.org/wiki/Balarama
+[8] Buddhist Symbols - Jainism Icons https://symbolikon.com/meanings/jainism-symbols-and-meanings/
+[9] Guys Who Bond-Fraternal-Love-in-Hemacandra-s-Trisastisalakapurusacarita https://journals.akademicka.pl/cis/article/download/5498/5114
+[10] Jain connections to Vaishnavism - A rarely touched on ... https://gaudiyadiscussions.gaudiya.com/topic_2086.html
+[11] Jaina Mythology : Appearance of Krishna in it https://enrouteindianhistory.com/appearance-of-krishna-in-jaina-mythology/
+[12] Hinduism and Jainism https://en.wikipedia.org/wiki/Hinduism_and_Jainism
+[13] Narayana, Nārāyaṇa, Nārāyana, Narāyana, Nara-ayana, ... https://www.wisdomlib.org/definition/narayana
+[14] Vaishnava and Jaina Cult under Nidugal Cholas https://www.jetir.org/papers/JETIR1812F30.pdf
+[15] Which school of religious belief is older, Hinduism or ... https://www.reddit.com/r/india/comments/cnwi68/which_school_of_religious_belief_is_older/
+[16] Rama in Jainism https://en.wikipedia.org/wiki/Rama_in_Jainism
+[17] The Hindu Confrontation with the Jaina and the Buddhist https://journal.fi/scripta/article/view/67219/27517
+[18] HISTORY OF VAISHNAVISM http://www.srimatham.com/uploads/5/5/4/9/5549439/history_of_vaishnavism.pdf
+[19] dravidian gods - modern hinduism https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0010030_Dravidian_gods_in_modern_hinduism.pdf
+[20] History of Jainism ►Jainism in South India https://www.herenow4u.net/index.php?id=82298
 
 
 
