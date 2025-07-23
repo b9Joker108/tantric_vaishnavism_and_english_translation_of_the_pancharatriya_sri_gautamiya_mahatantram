@@ -1166,6 +1166,11 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+* Singh, Ravindra Raj (2006). 'Bhakti and Philosophy'. Lanham, Maryland, U.S.A.: Lexington Books (a division of Rowman & Littlefield Publishers, Inc.). ISBN 9780739114247 (cloth: alk. paper).
+
+**Purport:**<br>
+...
+
 ### SRINIVASAN, D. ###
 
 * Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
