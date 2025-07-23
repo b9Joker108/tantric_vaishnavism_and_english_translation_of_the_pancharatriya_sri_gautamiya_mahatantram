@@ -322,6 +322,13 @@ I am contemplatishing purchasing a hardcopy of this volume, as I have not been 
 **Purport:**<br>
 ...
 
+### DUNDAS, P.; *et al.* ###
+
+* Dundas, Paul (auth).; Hinnells, John & Smart, Ninian (eds.) (2004, 2002, 1992). 'The Jains'. Library of Religious Beliefs and Practices series. Second edition: revised & expanded. (NB: First published 1992 by Routledge. Second rev. & exp. ed. published 2002 by Routledge, London, England, U.K. The 2004 edition is an e-book imprint of the 2002 edition.). London, England, U.K.: Taylor & Francis e-Library (Routledge is an imprint of Taylor & Francis Group). ISBN 0203398270 (Master e-book ISBN).
+
+**Purport:**<br>
+...
+
 ### DUNN, B. ###
 
 * Dunn, Brian Philip (2016). 'A.J. Appasamy and his Reading of Ramanuja: A Comparative Study in Divine Embodiment'. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780198791416. 
