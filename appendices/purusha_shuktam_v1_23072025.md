@@ -1,5 +1,6 @@
 # Purusha Shuktam #
 
+Tradition hold that the Vedic seer who revealed this hymn was Maharshi Narayan: the Narayan out of the duo Nara-Narayan.
 
 You are wrong: https://indiaphilosophy.wordpress.com/2016/02/25/purusha-suktam-rig-veda-10-90/?utm_source=perplexity
 
@@ -748,5 +749,9 @@ need. Om, let there be peace, peace,
 peace.
 
 
+# References #
 
+* Satyamayananda, Swami (auth.) & Page, William (ed.) (2014, 2012). 'Ancient Sages'. Mayavati, Champawat, Uttarakhand, India: Advaita Ashrama (Swami Tattwavidananda). (NB: The volume of 2014 is an imprint of the first edition of 2012.). ISBN 9788175053564. Source: 
+https://archive.org/details/ancient-sages-swami-satyamayananda (accessed: Wednesday, July 23, 2025)  
 
+These were first published in the English monthly 'Prabuddha Bharata' from August 1997 to June 2003. The story of sage Durvasa was included later.
