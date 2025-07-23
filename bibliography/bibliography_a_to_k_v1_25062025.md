@@ -238,6 +238,13 @@ This work is particularly rare and unusual in the Vaikhanasa canon, as it is not
 **Purport:**<br>
 I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical discourse of the Vaikhanasa Tradition into the German and the European languages and I proffer as most educated European people in this period, were also literate in French and English, as well as Latin and Ancient Greek, it may be considered to open the discourse into the English language and theological discourse as well.
 
+### BRINKHAUS, H. ###
+
+* Brinkhaus, Horst (1992). 'Early Developmental Stages of the Vishnupradurabhava Lists' (pp. 101-110) in the *Vienna Journal of South Asian Studies \[English; German: Wiener Zeitschrift für die Kunde Südasiens] - Supplement: Proceedings of the VIIIth \[8th] World Sanskrit Conference, Vienna, 1990*, 1992, Vol. 36. Postgasse 7, Vienna, Austria: Austrian Academy of Sciences Press. Source: https://www.jstor.org/stable/24010811 (accessed: Thursday, July 24, 2025)
+
+**Purport:**<br>
+...
+
 ### BURTON, A. ###
 
 * Burton, Adrian P. (2000). 'Temples, Texts, and Taxes: the Bhagavad-Gita and the Politico-Religious Identity of the Chaitanya Sect - an Archival and Textual Investigation into the Text and Times of the Sarartha-Varshini Commentary on the Bhagavad-Gita by Vishvanatha Chakravarti'. Ph.D. dissertation. Canberra, A.C.T., Australia: The Australian National University (ANU). 
