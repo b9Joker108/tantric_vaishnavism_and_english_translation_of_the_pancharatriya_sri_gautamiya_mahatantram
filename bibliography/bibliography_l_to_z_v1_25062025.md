@@ -1039,6 +1039,13 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 ...
 
+### QUINTANILLA, S. ###
+
+* Quintanilla, Sonya Rhie (auth.) & Fontein, Jan (ed.) (2007). 'History of Early Stone Sculpture at Mathura: CA. 150 BCE-100 CE'. Studies in Art and Archaeology Vol. XXV \[25]: Continuation of Studies in South Asian Culture. With a 'Preface' by Pramod Chandra. Leiden, The Netherlands: Koninklijke Brill NV. ISBN 9789004155374.
+
+**Purport:**<br>
+...
+
 # R #
 
 ### RADDOCK, E. ###
