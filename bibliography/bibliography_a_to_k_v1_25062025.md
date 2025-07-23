@@ -343,7 +343,12 @@ A respendent piece of work.
 
 ### GARBE, R. ###
 
-Garbe, Richard (1905). 'The Bhagavad-Gita: Translated from Sanskrit - With an Introduction on its Original Form, its Teachings, and its Age \[English; German: Die Bhagavadgītā: Aus dem Sanskrit übersetzt - mit einer Einleitung über ihre ursprüngliche Gestalt, ihre Lehren und ihr Alter]'. (NB: In the German language.). Leipzig, Saxony, Germany: H. Hsessel Verlag. Source: https://archive.org/details/diebhagavadgt00garbgoog (accessed: Wednesday, July 23, 2025)
+* Garbe, Richard (1905). 'The Bhagavad-Gita: Translated from Sanskrit - With an Introduction on its Original Form, its Teachings, and its Age \[English; German: Die Bhagavadgītā: Aus dem Sanskrit übersetzt - mit einer Einleitung über ihre ursprüngliche Gestalt, ihre Lehren und ihr Alter]'. (NB: In the German language.). Leipzig, Saxony, Germany: H. Hsessel Verlag. Source: https://archive.org/details/diebhagavadgt00garbgoog (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
+* Garbe, Richard (1921, 1909). 'Bhagavad-Gita' (pp. 535-538) in Hastings, J. (ed.) (1921, 1909). *Encyclopedia of Religion and Ethics: Vol. II \[2]*. Edinburgh, U.K.; T.T. Clark.
 
 **Purport:**<br>
 ...
