@@ -1114,6 +1114,13 @@ Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was 
 **Purport:**<br>
 ...
 
+### SASTRY, S. ###
+
+* Sastry, Sri Sadhu Subrahmanya (auth.) & Reddy, Sri S. 'Gopi' Krishna (ed.) (1981). 'Tirupati Sri Venkatesvara'. T.T.D. Religious Series No. 107. With a 'Foreword' by Sri P.V.R.K. Prasad. Tirupati, Andhra Pradesh, India: Tirumala Tirupati Devasthanams (T.T.D.: Sri P.V.R.K. Prasad).
+
+**Purport:**<br>
+...
+
 ### SATYAMAYANANDA ###
 
 * Satyamayananda, Swami (auth.) & Page, William (ed.) (2014, 2012). 'Ancient Sages'. Mayavati, Champawat, Uttarakhand, India: Advaita Ashrama (Swami Tattwavidananda). (NB: The volume of 2014 is an imprint of the first edition of 2012.). ISBN 9788175053564. Source: 
