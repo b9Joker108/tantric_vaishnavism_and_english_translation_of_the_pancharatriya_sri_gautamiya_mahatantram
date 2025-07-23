@@ -104,7 +104,12 @@ This is an important work. Sri Ramanujacharya is the first attested unambigously
 
 ### AGRAWALA, R. ###
 
-* Agrawala, R.C. (1974). 'Narasimha-Varaha-Vishnu Images and Some Allied Problems' (pp. 11-21) in  Khandalavala, Karl & Chandra, Moti (eds.) (1974). *Lalit Kala*, No. 16. New Delhi, India. Rabindra Bhavan, New Delhi, India: Lalit Kala Akademi (Sankho Chaudhuri). 
+* Agrawala, Sri R.C. (1954). 'A Unique Image of Yoga-Narayana from Rajaputana' (pp. 235-237) in *Artibus Asiae*, Vol. 17, No. 3/4, 1954. Museum Rietberg, Zurich, Switzerland: Artibus Asiae Publishers.  
+
+**Purport:**<br>
+...
+
+* Agrawala, R.C. (1974). 'Narasimha-Varaha-Vishnu Images and Some Allied Problems' (pp. 11-21) in Khandalavala, Karl & Chandra, Moti (eds.) (1974). *Lalit Kala*, No. 16. New Delhi, India. Rabindra Bhavan, New Delhi, India: Lalit Kala Akademi (Sankho Chaudhuri). 
 
 **Purport:**<br>
 As yet, I have not been able to secure a copy.
