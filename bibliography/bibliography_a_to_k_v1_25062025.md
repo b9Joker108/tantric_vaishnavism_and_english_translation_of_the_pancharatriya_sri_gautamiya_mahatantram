@@ -360,7 +360,7 @@ A respendent piece of work.
 * Gadkari, Jayant (1996). 'Society and Religion: From Rugveda to Puranas'. Tardeo, Bombay, Maharashtra, India: Popular Prakashan. ISBN 9788171547432.
 
 **Purport:**<br>
-Not yet secured.
+Not yet secured. That said, a significant portion of the work is viewable on Google Books: https://books.google.com/books/about/Society_and_Religion.html (accessed: Thursday, July 24, 2025)
 
 ### GARBE, R. ###
 
