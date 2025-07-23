@@ -317,6 +317,13 @@ Malaviya is a disciple of Prof. Vraj Vallabh Dwivedi.
 **Purport:**<br>
 This work has an article/chapter which I would really like to secure: Narayanan, M. G. S. & Veluthat, Kesavan (1978). 'Bhakti Movement in South India'. Volume secured.
 
+### MALLA, B. ###
+
+* Malla, Bansi Lal (1996). 'Vaishnava Art and Iconography of Kashmir'. Hauz Khas, New Delhi, India: Abhinav Publications (Shakti Malik). ISBN 8170173051. Source: https://archive.org/details/wghS_vaishnava-art-and-iconography-of-kashmir-bansi-lal-malla (accessed: Thursday, July 24, 2025)
+
+**Purport:**<br>
+...
+
 ### MALLINSON, J. ###
 
 * Mallinson, James (2012). 'Yoga & Yogis' (Note: Photographs by Mallinson.) (pp. 2–27) in Moses, Meenakashi & Stern, Eddie (eds.) (2012). *Namarupa: Categories of Indian Thought*, Vol. 3, Issue 15, 2012. Dublin, New Hampshire, U. S. A.:Mallinson, James (2012). 'Yoga & Yogis'Namarupa, LLC (Robert Moses & Eddie Stern). Source: https://archive.org/details/mallinson-james-2012.-yoga-yogis (accessed: Monday, August 26, 2024)
