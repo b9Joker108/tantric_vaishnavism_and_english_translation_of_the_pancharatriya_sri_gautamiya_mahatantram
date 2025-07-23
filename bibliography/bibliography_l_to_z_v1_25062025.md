@@ -194,6 +194,13 @@ It has been digitised and is a part of the HathiTrust Digital Library as of 2010
 **Purport:**<br>
 This is an excellent volume of quality material.
 
+### LONG, J. ###
+
+* Long, Jeffery D. (2009). 'Jainism: An Introduction'. I.B. Taurus: Introduction to Religion series. London, England, U.K.: I.B.Tauris & Co Ltd. ISBN 9781845116255 (HB). Source: https://jainworld.jainworld.com/JWEnglish/Jainism%20An%20Introduction%20%28Jeffery%20D.%20Long%29.pdf (accessed: Thursday, July 24, 2025)
+
+**Purport:**<br>
+The work has a brief survey of the literature, which may serve as a point of entry. Long defers to Paul Dundas as the reigning Jaina academic. 
+
 ### LONG, J.; *et al.* ###
 
 * Long, Jeffery D.; Sherma, Rita D.; Jain, Pankaj & Khanna, Madhu (eds.) (2022). 'Hinduism and Tribal Religions'. Encyclopedia of Indian Religions series. Dordrecht,The Netherlands: Springer. ISBN 9789402411881 (ebook). Source: xxx
