@@ -355,6 +355,13 @@ A respendent piece of work.
 
 ...
 
+### GADKARI, J. ###
+
+* Gadkari, Jayant (1996). 'Society and Religion: From Rugveda to Puranas'. Tardeo, Bombay, Maharashtra, India: Popular Prakashan. ISBN 9788171547432.
+
+**Purport:**<br>
+Not yet secured.
+
 ### GARBE, R. ###
 
 * Garbe, Richard (1905). 'The Bhagavad-Gita: Translated from Sanskrit - With an Introduction on its Original Form, its Teachings, and its Age \[English; German: Die Bhagavadgītā: Aus dem Sanskrit übersetzt - mit einer Einleitung über ihre ursprüngliche Gestalt, ihre Lehren und ihr Alter]'. (NB: In the German language.). Leipzig, Saxony, Germany: H. Hsessel Verlag. Source: https://archive.org/details/diebhagavadgt00garbgoog (accessed: Wednesday, July 23, 2025)
@@ -500,6 +507,13 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 
 **Purport:**<br>
 This is a watershed work. I must dedicate time to it.
+
+### KUIPER, K. ###
+
+* Kuiper, Kathleen (2010). 'The Culture of India: Understanding India'. New York, N.Y.: U.S.A.: Britannica Educational Publishing (a trademark of Encyclopeedia Britannica, Inc. & in Association with Rosen Educational Services, LLC.). ISBN 9781615302031.
+
+**Purport:**<br>
+...
 
 ### KVAERNE, P. ###
 
