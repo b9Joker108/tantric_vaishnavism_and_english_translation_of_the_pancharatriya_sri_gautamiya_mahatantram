@@ -852,6 +852,11 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 
 ### O'FLAHERTY, W. ###
 
+* O'Flaherty, Wendy Doniger (1971). 'The Origin of Heresy in Hindu Mythology' (pp. 271-333) in the *History of Religions*, Vol. 10, No. 4, May, 1971. Chicago, Illinois, U.S.A.: The University of Chicago Press. Source: https://www.jstor.org/stable/1061913 (accessed: Thursday, July 24, 2025) 
+
+**Purport:**<br>
+...
+
 * O'Flaherty, Wendy Doniger (1987). 'The Interaction of Saguna and Nirguna Images of Deity' (pp. 47-52) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
 
 **Purport:**<br>
