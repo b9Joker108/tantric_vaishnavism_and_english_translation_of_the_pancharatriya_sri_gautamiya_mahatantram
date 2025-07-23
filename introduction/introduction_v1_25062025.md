@@ -7,8 +7,9 @@ I recommend the five (5) volumes by Surendranath, for it is the first and to my 
 For my detractors, who critique my exansive catchment and survey of source and reference materials, an express confession and marked disappointment from [Hemchandra](https://en.wikipedia.org/wiki/Hem_Chandra_Raychaudhuri) (1936: p. viii), drawn from the 'Preface' of the First Edition (Hemchandra, 1920): 
 
 > "... I have to confess that I have not been able to utilise fully the evidence of all the ancient Jaina and
-> Buddhist records.". Hemchandra and I live in times markedly different; but, I deem our methodology and
-> purview are aligned.
+> Buddhist records.".
+
+Hemchandra and I live in times markedly different; but, I deem our methodology and purview are aligned.
 
 # Introduction #
 
