@@ -1097,6 +1097,14 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 **Purport:**<br>
 ...
 
+### SATYAMAYANANDA ###
+
+* Satyamayananda, Swami (auth.) & Page, William (ed.) (2014, 2012). 'Ancient Sages'. Mayavati, Champawat, Uttarakhand, India: Advaita Ashrama (Swami Tattwavidananda). (NB: The volume of 2014 is an imprint of the first edition of 2012.). ISBN 9788175053564. Source: 
+https://archive.org/details/ancient-sages-swami-satyamayananda (accessed: Wednesday, July 23, 2025)  
+
+**Purport:**<br>
+These were first published in the English monthly 'Prabuddha Bharata' from August 1997 to June 2003. The story of sage Durvasa was included later.
+
 ### SCHAEFFER, K. ###
 
 * Schaeffer, Kurtis R. (2005). 'Dreaming the Great Brahmin: Tibetan Traditions of the  Buddhist Poet-Saint Saraha'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195173734. 
