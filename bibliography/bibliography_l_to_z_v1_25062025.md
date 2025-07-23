@@ -1159,6 +1159,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+### SINGH, R. ###
+
+* Singh, Ravindra Raj (1991). 'The Pivotal Role of Bhakti in Indian World Views' (pp. 65-81) in *Diogenes*, Vol. 39, Issue 156, December, Winter, 1991. Cambridge, England, U.K.: Cambridge University Press. 
+
+**Purport:**<br>
+...
+
 ### SRINIVASAN, D. ###
 
 * Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
