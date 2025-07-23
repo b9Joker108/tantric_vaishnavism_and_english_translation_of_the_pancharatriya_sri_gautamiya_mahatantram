@@ -1064,6 +1064,11 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 **Purport:**<br>
 Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was a person nested in history around whom there had been much subsequent poetic embellishment and accretion. Raychaudhuri sought to clear the field with this watershed survey. I value the poetic accretion, but honour his point.
 
+* Raychaudhuri, Hemchandra (1975, 1920). 'Materials for the Study of the Early History of the Vaishnava Sect'. (NB: This 1975 volume, is properly, an imprint of the first edition of 1920. It declares its status as the "\[s]econd edition", but it is technically an imprint of the first edition and contains Frontmatter intact and does not bear the "revised and enlarged" components of the 1936 second edition; revised and enlarged with additional and altered Frontmatter.). New Delhi, India: Oriental Books Reprint Corporation. Source: https://archive.org/details/dli.ernet.170061 (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
 ### ROBINSON, F. ###
 
 * Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
