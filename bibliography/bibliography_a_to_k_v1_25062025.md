@@ -341,6 +341,13 @@ A respendent piece of work.
 
 ...
 
+### GARBE, R. ###
+
+Garbe, Richard (1905). 'The Bhagavad-Gita: Translated from Sanskrit - With an Introduction on its Original Form, its Teachings, and its Age \[English; German: Die Bhagavadgītā: Aus dem Sanskrit übersetzt - mit einer Einleitung über ihre ursprüngliche Gestalt, ihre Lehren und ihr Alter]'. (NB: In the German language.). Leipzig, Saxony, Germany: H. Hsessel Verlag. Source: https://archive.org/details/diebhagavadgt00garbgoog (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
 ### GETTY, A.; *et al.* ###
 
 * Getty, Alice (auth. & trans.) & Deniker, J. (intr.) (1914). 'The Gods of Northern Buddhism: Their History, Iconography and Progressive Evolution through the Northern Buddhist Countries'. With an 'Introduction: General Survey of Buddhism and its Evolution' by J. Deniker, translated from the French by Getty. London, England, U.K.: Oxford: At The Clarendon Press.
