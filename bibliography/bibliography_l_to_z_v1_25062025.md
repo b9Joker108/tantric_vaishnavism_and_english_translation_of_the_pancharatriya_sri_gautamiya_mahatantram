@@ -598,7 +598,12 @@ This work, ostensibly a tour-guide, is produced by a researcher-scholar who has 
 
 ### MITRA, R. ###
 
-Mitra, Rajendralala (1875). 'The Antiquities of Orissa: Vol. 1'. Calcutta, Bengal, India: Wyman & Co. Source: https://archive.org/details/dli.csl.7811 (accessed: Friday, July 25, 2025)
+* Mitra, Rajendralala (1875). 'The Antiquities of Orissa: Vol. 1'. Calcutta, Bengal, India: Wyman & Co. Source: https://archive.org/details/dli.csl.7811 (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
+
+* Mitra, Rajendralala (1880). 'The Antiquities of Orissa - Vol. 2'. Calcutta, Bengal, India: W. Newman & Co. Source: https://archive.org/details/dli.csl.7243 (accessed: Friday, July 25, 2025)
 
 **Purport:**<br>
 ...
