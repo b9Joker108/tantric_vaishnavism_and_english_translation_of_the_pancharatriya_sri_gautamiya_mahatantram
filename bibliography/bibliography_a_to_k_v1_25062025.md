@@ -104,7 +104,12 @@ This is an important work. Sri Ramanujacharya is the first attested unambigously
 
 ### AGRAWALA, P. ###
 
-Agrawala, Prithvi K. (1983). 'Mithuna: The Male-Female Symbol in Indian Art and Thought'. With a 'Foreword' by Prof. T.R.V. Murti. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
+* Agrawala, Prithvi K. (1977). 'Early Indian Bronzes'. Indian civilisation series: Vol. 11. Varanasi, Uttar Pradesh, India: Prithvi Prakashan. 
+
+**Purport:**<br>
+Not yet secured.
+
+* Agrawala, Prithvi K. (1983). 'Mithuna: The Male-Female Symbol in Indian Art and Thought'. With a 'Foreword' by Prof. T.R.V. Murti. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
 
 **Purport:**<br>
 ...
