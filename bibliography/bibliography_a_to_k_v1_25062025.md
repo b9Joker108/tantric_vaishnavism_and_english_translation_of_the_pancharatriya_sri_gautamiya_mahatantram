@@ -102,6 +102,13 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 **Purport:**<br>
 This is an important work. Sri Ramanujacharya is the first attested unambigously theistic Vaishnava Vedantic theologian, known to posterity from the vicissitudes, fickleness and selectivity, of history. It is best to remember that history is a construction, that we can only ever endeavour to approach truth, never reveal or attain it. Since, I became aware that Ramanuja didn't quote from the Shrimad Bhagavatham Mahapuranam, and aware that He authored a commentary on the Sri Vishnu Purana, and that this scripture contains an interior and intimate devotional perspective on the lilas of Sri Govinda and the blessed Gopis, I have become intrigued to find a dedicated work that gives academic treatment on this aspect of Ramanuja and the historicity of the Vedanta. Did Ramanuja have access to the Bhagavatham or not? Was Ramanuja aware of the Bhagavatham? Did Ramanuja just favour the Vishnu Purana over the Bhagavatham, and if so why? Was it something specific to the Vishnu Purana that inflamed and incited Ramanuja's devotional and theistic theology? If so, what?
 
+### AGRAWALA, P. ###
+
+Agrawala, Prithvi K. (1983). 'Mithuna: The Male-Female Symbol in Indian Art and Thought'. With a 'Foreword' by Prof. T.R.V. Murti. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
+
+**Purport:**<br>
+...
+
 ### AGRAWALA, R. ###
 
 * Agrawala, Sri R.C. (1954). 'A Unique Image of Yoga-Narayana from Rajaputana' (pp. 235-237) in *Artibus Asiae*, Vol. 17, No. 3/4, 1954. Museum Rietberg, Zurich, Switzerland: Artibus Asiae Publishers.  
