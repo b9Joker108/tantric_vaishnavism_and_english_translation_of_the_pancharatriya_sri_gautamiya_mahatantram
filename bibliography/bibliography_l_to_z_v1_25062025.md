@@ -596,6 +596,13 @@ This work, ostensibly a tour-guide, is produced by a researcher-scholar who has 
 **Purport:**<br>
 ...
 
+### MITRA, R. ###
+
+Mitra, Rajendralala (1875). 'The Antiquities of Orissa: Vol. 1'. Calcutta, Bengal, India: Wyman & Co. Source: https://archive.org/details/dli.csl.7811 (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
+
 ### MOHAPATRA, R.; *et al* ###
 
 * Mohapatra, Ramesh Prasad (auth.) & Donaldson, Thomas (ed.) (1998). ‘Ornaments of Orissa’. Ashok Vihar, Delhi, India: B. R. Publishing Corporation \[a division of BRPC (India) Ltd.]. ISBN 8176460311. Source: xxx
