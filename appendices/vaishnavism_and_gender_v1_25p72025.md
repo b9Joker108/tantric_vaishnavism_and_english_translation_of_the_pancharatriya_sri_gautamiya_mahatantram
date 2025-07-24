@@ -1,8 +1,8 @@
 # Vaishnavism and Gender #
 
-Thus in certain medieval Visņuite sects even the male devotees dressed themselves and behaved like women with reference to their husband-lord Krsna.
+[Murti](https://en.wikipedia.org/wiki/Tiruppattur_R._Venkatachala_Murti) in the 'Foreword' to Agrawala (1983: p. viii) states:
 
-
+"Thus in certain medieval Visņuite sects even the male devotees dressed themselves and behaved like women with reference to their husband-lord Krsna."
 
 The analysis of: "Thus in certain medieval Visņuite sects even the male devotees dressed themselves and behaved like women with reference to their husband-lord Krsna." was good, but can you do it again as a spatio-temporal analysis. Was it pre- as well as post-Chaitanya?
 
@@ -283,3 +283,8 @@ Citations:
 [37] Cross-dressing for the Goddess - Times of India https://timesofindia.indiatimes.com/Cross-dressing-for-the-Goddess/articleshow/2929677.cms
 [38] Gopi Bhava vs Sakhi Bhava - Radha name https://www.radha.name/news/philosophy/gopi-bhava-vs-sakhi-bhava
 [39] Beautifull Laddu Gopal Dress From Iskcon Temple /janmashtmi Celebration /laddu Gopal Idol Number 2,4, and 5,6,7 No Made in Vrindavan Iskcon - Etsy Canada https://www.etsy.com/ca/listing/1745513700/beautifull-laddu-gopal-dress-from-iskcon
+
+
+# References #
+
+* Agrawala, Prithvi K. (1983). 'Mithuna: The Male-Female Symbol in Indian Art and Thought'. With a 'Foreword' by Prof. T.R.V. Murti. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. 
