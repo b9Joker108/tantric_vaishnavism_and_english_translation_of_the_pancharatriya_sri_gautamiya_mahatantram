@@ -195,6 +195,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BANERJEA, J. ###
+
+* Banerjea, Jitendranath (1942). 'The Holy Pañcavīras of the Vṛṣṇis' (pp. 65-68) in the *Indian Society of Oriental Art \[Calcutta]*, Vol. X \[10], 1942.
+
+**Purport:**<br>
+Not yet secured.
+
 ### BANERJEE, P. ###
 
 * Banerjee, P. (1978). 'The Life of Krishna in Indian Art'. With a 'Foreword' by C. Sivaramamurti. New Delhi, India: National Museum, New Delhi. Source: https://archive.org/details/dli.venugopal.829 (accessed: Monday, July 21, 2025)
