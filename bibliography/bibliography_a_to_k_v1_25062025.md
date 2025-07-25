@@ -413,6 +413,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 ...
 
+### GOSWAMI, K.; *et al.* ###
+
+* Goswami, Sri Kanupriya (auth.) & Delmonico, Neal G. \[Sri Nitai-dasa] (trans.) (2007). 'On Associating with Great Ones \['Mahat-sanga Prasanga'; Bengali: মহৎসঙ্গ-প্রসঙ্গ ; IAST: mahatsaṅga-prasaṅga; English: 'Noble Community: A Discourse']'.‎ McPherson, Kirksville, Missouri, U.S.A.: Blazing Sapphire Press. ISBN 9780981790299. Source: https://www.bhajankutir.net/kanupriya/mahat-sanga.pdf (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
+
 ### GRIERSON, G. ###
 
 * Grierson, G. A. (1921, 1909). 'Bhakti Marga' (pp. 539?-531?) in Hastings, J. (ed.) (1921, 1909). *Encyclopedia of Religion and Ethics: Vol. II \[2]*. Edinburgh, Scotland, U.K.; T. T. Clark.
