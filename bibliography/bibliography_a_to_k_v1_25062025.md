@@ -179,6 +179,12 @@ Aiyangar, M. Duraiswami & Venugopalacharya, T. (eds.) (1942). 'Sri Pancharatra R
 **Purport:**<br>
 In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jayakhya Samhita', edited by Krishnamachariar, in the Gaikawad's Series, edited by Bhattacharya, of the Oriental Institute, Baroda. So, there may be more of value on the Pancharatra, secreted in other issues of the Journal.
 
+### APTE, P. ###
+
+* Apte, Prabakar (1972). 'Claim of Pancharatra on Bhagavad-Gita' (pp. 200-203) in the *Annals of the Bhandakar Oriental Research Institite \[ABORI]*, Vol. 53, No. 1/4, 1972. Shiva Nagar, Pune, Maharashtra, India: Bhandarkar Oriental Research Institute \[BORI]. Source: http://www.jstor.org/stable/41688772 (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
 
 ### AUNG, S. ###
 
