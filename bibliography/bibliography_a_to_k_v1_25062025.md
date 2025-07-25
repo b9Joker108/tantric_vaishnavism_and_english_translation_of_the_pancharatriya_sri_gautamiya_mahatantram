@@ -323,10 +323,10 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 
 ### DEHEJIA, V. 
 
-* Dehejia, Vidya  (1988). 'Slaves of the Lord: The Path of the Tamil Saints'. First edition. New Delhi, India: Munshirm Manoharlal. ISBN 978812500449.
+* Dehejia, Vidya (2022, 2002, 1988). 'Slaves of the Lord: The Path of the Tamil Saints'. (NB: First edition @as published in 1988 and there have been two re-printings or impression: 2002 and 2022.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 978812500449.
 
 **Purport:**<br>
-I am contemplatishing purchasing a hardcopy of this volume, as I have not been able to secure a digital copy. Dehejia is an exceptional scholar. **TODO:** Purchase: ?
+Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be dispensed with and could not locate a facsimile or digital edition.
 
 ### DEVA, B. ###
 
