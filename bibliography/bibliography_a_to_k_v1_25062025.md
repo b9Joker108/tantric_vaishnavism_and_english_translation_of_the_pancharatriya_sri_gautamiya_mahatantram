@@ -202,6 +202,11 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 **Purport:**<br>
 Not yet secured. **TODO:** Send them an email request: yourmail@artorientalkolkata.in
 
+* Banerjea, Jitendranath (1946). 'Presidential Address' (pp. 32-46) in the *Proceedings of the Indian History Congress*, Vol. 9, 1946. Source: http://www.jstor.com/stable/44137032 (accessed: Saturday, July 26, 2025)
+
+**Purport:**<br>
+This has much information of quality and value in it.
+
 ### BANERJEE, P. ###
 
 * Banerjee, P. (1978). 'The Life of Krishna in Indian Art'. With a 'Foreword' by C. Sivaramamurti. New Delhi, India: National Museum, New Delhi. Source: https://archive.org/details/dli.venugopal.829 (accessed: Monday, July 21, 2025)
