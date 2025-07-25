@@ -909,6 +909,11 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+* Olivelle, Patrick (ed.) (2019). 'Grihasta: The Householder in Ancient Indian Religious Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780190696177 (ebook). 
+
+**Purport:**<br>
+A most useful volume; unfortunately, Olivelle in the 'Introdicti(n' and none of the scheduled articles by the various authors address the Grihasta and the Agamic (Tantric) Traditions, whether understood as pre-, extra-, post- or arrising out of the Vedic Traditions in the strict and technical denotation.
+
 ### OLSON, C. ###
 
 * Olson, Carl (1997). 'The Indian Renouncer and Postmodern Poison: A Cross-Cultural Encounter'. New Perspectives in Philosophical Scholarship: Texts and Issues. New York, N.Y., U.S.A.: Peter Lang. ISBN 9780820430225.
