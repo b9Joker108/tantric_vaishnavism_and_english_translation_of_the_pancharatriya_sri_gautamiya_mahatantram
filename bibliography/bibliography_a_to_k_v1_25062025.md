@@ -509,6 +509,13 @@ As yet, I have not been able to secure a copy.
 
 ...
 
+### KAPOOR, O. ###
+
+* Kapoor, O.B.L. (1994, 1976). 'The Philosophy and Religion of Sri Chaitanya: The Philosophical Background of the Hare Krishna Movement'. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 8121502756. Source: https://archive.org/details/kapooro.b.l.thephilosophyandreligionofsricaitanya (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
+
 ### KAUNTEYA-dasa ###
 
 * Kaunteya-dasa (2013). 'Did Shrila Prabhupada Want Women Diksha Gurus?'. Alachua, Florida, U.S.A.: The Bhaktivedanta Book Trust International (BBTi)(Eye of the Storm Press). Source: https://archive.org/details/did-srila-prabhupada-want-women-diksa-gurus-kaunteya-das (accessed: Wednesday, July 23, 2025)
