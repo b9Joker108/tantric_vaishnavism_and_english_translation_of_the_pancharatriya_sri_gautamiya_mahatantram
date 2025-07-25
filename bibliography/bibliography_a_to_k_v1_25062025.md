@@ -202,6 +202,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 **Purport:**<br>
 ...
 
+### BANERJI, J. ###
+
+Banerji, Jitendranath (1941). 'Besnagar: One of the Earliest Seats of the Pancharatra Cult' (pp. 147-152) in Sherwani, H.K. (sec.). *Proceedings of the Indian History Congress*, Fifth Session, Hyderabad, 1941. India: Thompson & Co., Ltd. Source: https://www.jstor.org/stable/44304707 (accessed: Saturday, July 26, 2025)
+
+**Purport:**<br>
+...
+
 ### BARTHWAL, P. ###
 
 * Barthwal, Pitambar Datt \[IAST: Barathvāla, Pitāmbaradatta] (1936). 'The Nirguna School of Hindi Poetry: An Exposition of Medieval Indian Santa Mysticism'. (NB: Being a thesis approved in the Benares Hindu University for the degree of Doctor of Letters.). Benares, India: Indian Book Shop.
