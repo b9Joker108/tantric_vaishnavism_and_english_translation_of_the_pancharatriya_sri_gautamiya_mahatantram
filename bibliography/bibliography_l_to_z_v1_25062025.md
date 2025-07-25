@@ -643,6 +643,11 @@ This work, ostensibly a tour-guide, is produced by a researcher-scholar who has 
 **Purport:**<br>
 ...
 
+* Mookerjee, Ajit (1971). 'Tantra Asana: A Way to Self-Realization'. Kumar Gallery, Sundar Nagar, New Delhi: Ravi Kumar. Spurce: https://archive.org/details/tantraasanaawaytoselfrealisationajitmookerjee_202003_660_W (accessed: Friday, July 25, 2025)
+
+**Purport:**<br>
+...
+
 ### MOOKERJEE, As. ###
 
 * Mookerjee, Asutosh (president) (1923). ‘Proceedings and Transactions of the Second Oriental Converence: Calcutta, January 28th to February 1st, 1922’. Calcutta, India: Calcutta University (and printed by The Babtist Mission Press). Source: https://archive.org/details/dli.ernet.277183 (accessed: Saturday, August 24, 2024)
