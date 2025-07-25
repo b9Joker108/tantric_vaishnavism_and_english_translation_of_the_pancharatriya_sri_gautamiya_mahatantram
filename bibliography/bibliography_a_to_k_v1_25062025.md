@@ -200,7 +200,7 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 * Banerjea, Jitendranath (1942). 'The Holy Pañcavīras of the Vṛṣṇis' (pp. 65-68) in the *Indian Society of Oriental Art \[Calcutta]*, Vol. X \[10], 1942.
 
 **Purport:**<br>
-Not yet secured.
+Not yet secured. **TODO:** Send them an email request: yourmail@artorientalkolkata.in
 
 ### BANERJEE, P. ###
 
