@@ -718,8 +718,6 @@ Without reservation, I determine this a watershed work in the literature. I lean
 **Purport:**<br>
 I envisaged the necessity of this work. I am overjoyed it has been conducted. Thankfully, I found it. It is a premier example of academic discourse analysis and the literature review of a complex theological, phenomenological and soteriological concept, that traverses multiple ontological domains in the Indic Dharmic and Ayurvedic Traditions, amongst others.
 
-
-
 # N #
 
 ### NABHA, B.; *et al.* ###
@@ -1082,6 +1080,13 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 ### RAGUNATHA-dasa; *et al.* ###
 
 * Raghunatha-das-Goswami, Sri Shila \[Sanskit (set in Bengali script): শ্রীশ্রীল-রঘুনাথদাস-গোস্বামি ; IAST: śrī-śrīla-raghunāthadāsa-gosvāmī] (auth.) (fl. c. 1510-1586) & Bhaktivinoda-Thakura, Sri Shila \[Sanskrit (set in Bengali script): শ্রীশ্রীল-ভক্তিবিনোদ-ঠাকুর ; IAST: śrī-śrīla-bhaktivinoda-ṭhākura] (comm.) (1907, 1886). 'Sri Manah-Shiksha with Sri Bhajana-Darpana Bhashya & Sri-Sva-Niyama-Dvadashalam \[Sanskrit (set in Bengali script): শ্রীমনঃশিক্ষা ও শ্রীভজন-দর্পণ-ভাষ্য ও শ্রীস্বনিয়ম-দ্বাদশকম্ ; IAST: śrī-manaḥ-śikṣā ō śrī-bhajana-darpaṇa-bhāṣya ō śrī-sva-niyama-dvādaśakam; English: 'Teachings to the Mind' with its commentary: 'A Mirror that Reflects Bhajana: A Commentary' with the 'Twelve Verses of Self-Imposed Regulations']'. 'Gauriya Vedanta Society, Navadwipa (Nadia) \[Sanskrit (set in Bengali script): শ্রীগৌড়ীয় বেদান্ত সমিতি নবদ্বীপ (নদীয়া); IAST: śrī-gaurīya-vedānta-samiti-nabadvīpa (nadīyā)]'. Source: https://bhaktivinodainstitute.org/wp-content/uploads/2024/06/Manah-Siksa-with-commentary-sva-niyama-dvadasakam.pdf (accessed: Sunday, July 20, 2025)
+
+**Purport:**<br>
+...
+
+### RAJAGURU, S. ###
+
+* Rajaguru, Sri Satyanarayan (1960). 'Inscriptions of Orissa, Vol. II \[2]: c.600-1100 A.D'. First edition. Research & Museum, Government of Orissa (Sri J.K. Roy). Source: https://archive.org/details/inscriptionsofor02orisuoft (accessed: Friday, July 25, 2025) 
 
 **Purport:**<br>
 ...
