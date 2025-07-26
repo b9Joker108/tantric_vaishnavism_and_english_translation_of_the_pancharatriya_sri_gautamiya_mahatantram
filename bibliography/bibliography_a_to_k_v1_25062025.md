@@ -273,6 +273,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 This work is particularly rare and unusual in the Vaikhanasa canon, as it is not principally a work of ritual, but one of theology. This makes it of particular importance.
 
+### Bhattacharya, S. ###
+
+* Bhattacharya, Suresh Chandra (1995). 'Vaishnavism in Eastern India'. University of Calcutta Center of Advanced Study in Ancient Indian History & Culture. (NB: Proceedings of Inter-University Seminar on Vaishnavism in Eastern India.). Calcutta, West Bengal, India: Firma KLM Private (under the auspices of University of Calcutta, Calcutta, India). ISBN 9788171020263.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### BHATTACHARYYA, N. ###
 
 * Bhattacharyya, N. N. (Narendra Nath) (ed.) (1989). 'Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume'. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
