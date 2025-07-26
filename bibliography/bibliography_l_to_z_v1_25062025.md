@@ -1257,6 +1257,11 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Forms' (pp. 39-54) in the *Archives of Asian Art*, Vol. XXXII \[32], 1979. New York, N.Y., U.S.A.: The Asia Society, Inc. Source: https://www.jstor.org/stable/20111096 (accessed: Saturday, July 26, 2025)
+
+**Purport:**<br>
+...
+
 ### STAAL, F. ###
 
 * Staal, Frits (1987).  'The Ineffable Nirguna Brahman' (pp. 41-46) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
