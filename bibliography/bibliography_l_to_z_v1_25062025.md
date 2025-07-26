@@ -1370,6 +1370,13 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 **Purport:**<br>
 ...
 
+### WESSELS-MEVISSEN, C.; *et al.* ###
+
+* Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). 'Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research'. New Delhi, India: Aryan Books International. ISBN 9788173056321.
+
+**Purport:**<br>
+This contains a useful professional and biographical survey of Srinivasan and lists a great number of her published works.
+
 ### WILKE, A.; *et al.* ###
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
