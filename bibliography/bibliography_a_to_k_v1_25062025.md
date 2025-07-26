@@ -458,6 +458,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 **TODO:** Investigate publication listing of entire Indo-Asian series.
 
+### GUPTA, V. ###
+
+* Gupta, Vinay Kumar (2019). 'Chapter 4: Vrishnis in Ancient Art and Literature' (pp. 69-90) in Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). *Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research*. New Delhi, India: Aryan Books International. ISBN 9788173056321. Source: https://www.researchgate.net/publication/336771184_Vrishnis_in_Ancient_Literature_and_Art (accessed: Saturday, July 26, 2025)
+
+**Purport:**<br>
+...
+
 # H #
 
 ### HADA, M.; *et al.* ###
