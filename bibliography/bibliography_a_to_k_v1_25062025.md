@@ -207,6 +207,11 @@ Not yet secured. **TODO:** Send them an email request: yourmail@artorientalkolka
 **Purport:**<br>
 This has much information of quality and value in it.
 
+* Banerjea, Jitendranath (1966). 'Pauranic and Tantric Religion: Early Phase'. Department of Ancient Indian History and Culture, Centre of Advanced Study in Ancient Indian History and Culture: University of Calcutta. Lectures and Seminars No. II-A (Lectures). Ballygunge, Calcutta, West Bengal, India: Calcutta University Press (Sibendranath Kanjilal).
+
+**Purport:**<br>
+Contains a useful survey-in-brief of the life and work of Banerjea. This work is very useful for our purposes. I could not initially locate it due to the orthography of 'Pauranic' as I was searching for 'Puranic'.
+
 ### BANERJEE, P. ###
 
 * Banerjee, P. (1978). 'The Life of Krishna in Indian Art'. With a 'Foreword' by C. Sivaramamurti. New Delhi, India: National Museum, New Delhi. Source: https://archive.org/details/dli.venugopal.829 (accessed: Monday, July 21, 2025)
