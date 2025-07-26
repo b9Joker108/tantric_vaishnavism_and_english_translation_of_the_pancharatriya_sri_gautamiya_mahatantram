@@ -273,6 +273,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 This work is particularly rare and unusual in the Vaikhanasa canon, as it is not principally a work of ritual, but one of theology. This makes it of particular importance.
 
+### BHATTACHARYYA, N. ###
+
+* Bhattacharyya, N. N. (Narendra Nath) (ed.) (1989). 'Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume'. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+This volume is exceptional. Though, not ostensibly on tantra in either the Agamic or Sahajiya purview, my fundamental thesis has positioned to the Zeitgeist-of-Bhakti and the Zeitgeist-of-the-Sahajiya, becoming in large and in most evocations, except those prior to the time of Sri Saraha, who opened the Sahajiya Zeitgeist, as conjoint -- and that all modern and contemporary Bhakti evocations, are fundamentally Tantric-Agamic-Sahajiya complexes as they employ tantric architecture and modalities, of the Tantric Agama and Sahajiya sadhana and natural simplicity, without exception.
+
 ### BLOCH, T. ###
 
 * Bloch, Dr. E. Theodor (1896). 'Über das Gṛhya- und Dharmasūtra der Vaikhānasa [German; English: On the Grihya- and Dharmasutra of the Vaikhanasa'. Leipzig, Saxony, Germany: Otto Harrassowitz. (NB: A complete copy is freely available on the 'Google Play Books' Android application.).
