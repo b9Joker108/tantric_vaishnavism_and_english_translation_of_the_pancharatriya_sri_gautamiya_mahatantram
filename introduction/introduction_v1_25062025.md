@@ -497,6 +497,32 @@ No other Mandalas contain hymns directly attributed to the Gautama lineage.
 
 Let me know if you would like the full Devanāgarī and IAST text of each hymn.
 
+Yoga is so endemic, fundamental and deeply integrated in innumerable ways into all the tantric traditions and particularly in their sadhana and sadhana architectures, that foregrounding its ubiquity is often unspoken and unregistered -- but, it is omnipresent and interpenetrating. The Yoga-Samkhya continuüm is the ontological and soteriological mechanism of tantra and the contextual framework within which tantra is inset: Though, oft-given different nomenclatures, narrative and symbolic frameworks.
+
+Your observation accurately highlights that **Yoga is fundamentally interwoven with all tantric traditions**, especially in their spiritual practices (sadhana) and structural frameworks. This intrinsic integration often goes unspoken because of its pervasiveness and seamless embedding.
+
+Specifically:  
+- The **Yoga-Sankhya philosophical continuum** forms a core ontological and soteriological foundation for Tantra. Sankhya provides a dualistic metaphysical framework of Purusha (consciousness) and Prakriti (matter/energy), while Yoga outlines the practical method for liberation through disciplined control and realization of the self. Tantra adopts and adapts these ideas but adds its own layers of symbolic, ritual, and energetic methods to access higher states of consciousness.  
+- Tantra’s complex architecture of sadhana—including mantra (sound), yantra (symbol), and mudra (gesture)—operates within this Yoga-Sankhya schema, focusing on the awakening and sublimation of subtle energies (kundalini) and centers (chakras), culminating in union or realization.  
+- While Yoga and Sankhya are sometimes given different names or frameworks within Tantric texts, their principles are integral and omnipresent, forming the “backbone” beneath diverse tantric philosophies and practices.
+
+For example, classical Tantric texts such as the **Isanasivagurudeva Paddhati** (11th century) build upon and extend the 25 principles of Sankhya by adding 11 new ones to form a 36-principle tantric cosmology, illustrating the continuity and expansion of Yogic philosophy into Tantra[6]. Similarly, Tibetan Vajrayana Tantra conceptualizes a "continuum" (tantra literally means "continuum") of causal, method, and result streams, closely relating to yogic stages of realization and energetic transformation[1].  
+
+In summary, your framing of the Yoga-Sankhya continuum as the ontological and soteriological mechanism underpinning Tantric sadhana aligns with scholarly understandings: Yoga’s practices and metaphysics are deeply embedded and refracted through the symbolic, ritualistic, and experiential methods of Tantra, making Yoga foundational yet often implicitly acknowledged within Tantric traditions.
+
+If you want, I can point to specific textual examples or scholarly discussions elaborating on this Yoga-Sankhya-Tantra interrelationship.
+
+Citations:
+[1] Tibetan tantric practice - Wikipedia https://en.wikipedia.org/wiki/Tibetan_tantric_practice
+[2] Podcast Ep. 8 ~ Yoga Tantra Explained - Big Shakti https://www.bigshakti.com/podcast/8-yoga-tantra-explained
+[3] [PDF] Tantra : The Art of Philosophy - Stanford University https://web.stanford.edu/class/history11sc/pdfs/yantra.pdf
+[4] Understanding Tantric Philosophy - Yoga International https://yogainternational.com/article/view/understanding-tantric-philosophy
+[5] The Three Streams of Yoga, Vedanta, And Tantra -Swami Jnaneshvara-IMPR https://www.scribd.com/document/535731491/The-Three-Streams-of-Yoga-Vedanta-And-Tantra-Swami-Jnaneshvara-IMPR
+[6] 10. Sankhya-Yoga and Tantra https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study/d/doc1457645.html
+[7] [PDF] Highest Yoga Tantra - Tibetan Buddhist Encyclopedia https://tibetanbuddhistencyclopedia.com/en/images/e/e9/Highest_Yoga_Tantra_(_PDFDrive_).pdf
+[8] Samkhya: Part One: The Beginnings - sreenivasarao's blogs https://sreenivasaraos.com/2012/10/03/samkhya-part-one-the-beginnings/
+[9] [PDF] The Significance of Yoga Tantra and the Compendium of Principles ... https://libraetd.lib.virginia.edu/downloads/tx31qj002?filename=Weinberger_StevenNeal_2003.pdf
+[10] Vedanta, Tantra or Samkhya? What are they? (Yoga Philosophy) https://www.youtube.com/watch?v=wGd4b7rS1SQ
 
 
 "Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
