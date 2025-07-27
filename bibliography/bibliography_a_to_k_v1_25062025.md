@@ -348,6 +348,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 **Purport:**<br>
 ...
 
+### COUTURE, A. ###
+
+* Couture, Andre (1999). 'Krishna's Strange Name of Damodara' (pp. 169-191) in Burnier, R.; *et al.* (eds.) (1999). *The Adyar Library Bulletin*, Vol. 63, 1999. Adyar, Chennai, India: The Adyar Library and Research Centre (The Theosophical Society).
+
+**Purport:**<br>
+...
+
 # D #
 
 ...
