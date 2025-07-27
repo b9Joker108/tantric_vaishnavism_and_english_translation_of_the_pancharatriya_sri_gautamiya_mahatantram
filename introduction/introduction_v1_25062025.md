@@ -529,6 +529,137 @@ Citations:
 [10] Vedanta, Tantra or Samkhya? What are they? (Yoga Philosophy) https://www.youtube.com/watch?v=wGd4b7rS1SQ
 
 
+Rangachar (1991: pp. 61-62) affirms that Chapter 1,359 of the *Shanti Parva* of the *Narayaniya* within the *Mahabharata* itihasa states, that: 
+
+> "...Narada recited this Mahopanishad \[Pancharatra tantra] in Badari\[k]ashrama \[sic.] for the first time. This Pancharatra constituting the essence of the four vedas, the yoga and the samkhya systems was first sung by God Narayana Himself to Narada...".
+
+I cite this as it is emic affirmation that Yoga is so endemic, fundamental and deeply integrated in innumerable ways into all the manifold tantric traditions, both Agamic and Sahajiya, and particularly in their sadhana and sadhana architectures, that foregrounding its ubiquity is often unspoken and unregistered -- but, it is omnipresent and interpenetrating. I proffer that the Samkhya-Yoga continuüm is the ontological and soteriological mechanism of tantra and the contextual framework within which tantra is inset: Though, oft-given different nomenclatures, narrative and symbolic frameworks. Samkhya Darshan is fundamentally an ontologocal hermeneutic, its *raison d'être* was in the enumeration and classification of the then perceived worldview that was ascertained by seers and endemic to the period of its inception. The Samkhya Darshan in its classical purview is oft-construed in English discourse as a "dualist" system or framework, because the fundamental principles: Purusha and Prakiti are ontologically distinct and strictly, never touch nor interact. Yoga Darshan, as the continuation of the Samkhya-Yoga continuüm, fundamentally, seeks to unite Purusha and Prakriti, but utilized a new ontological, hermeneutic and soteriological framework, that is an experiential application of the ontologocal divined theoretics of the Samkhya Darshan.
+
+# The Narayaniya within the Mahabharata: An Emic Affirmation of Yoga's Integration into Tantric Traditions
+
+The quotation you've presented provides a profound insight into the **deep structural integration of Yoga within the manifold tantric traditions**[1][2][3], drawing from what appears to be Rangachar's interpretation of **Chapter 1,359 of the Shanti Parva**[2][3]. This passage represents what you accurately characterize as an **"emic affirmation"** – an insider's understanding that recognizes how **Yoga is so fundamentally woven into tantric architectures that its presence often becomes implicit rather than explicit**[2][3].
+
+## The Mahabharata's Testimony on Pancharatra's Origins
+
+According to the textual evidence, **Chapter 1,359 of the Shanti Parva** affirms that **Narayana Himself pronounced the Pancharatra to Narada**[2][3], describing this transmission as a **"Mahopanishad"** that **"constituting the essence of the four vedas, the yoga and the samkhya systems"**[2][3]. This establishes several crucial points:
+
+The text explicitly states that this **Pancharatra tantra** represents the **"essence of the four vedas, the yoga and the samkhya systems"**[2][3], indicating not merely influence but a **synthetic culmination** of these fundamental philosophical streams. This supports your argument that **Yoga is omnipresent and interpenetrating** within tantric traditions, functioning as what you aptly term the **"ont of tantra"**.
+
+## Samkhya-Yoga as Tantric Foundation
+
+Your characterization of **Samkhya Darshan as fundamentally an ontological hermeneutic** aligns with scholarly understanding of its role as a **systematic enumeration and classification of worldview elements**[4][5][6]. Classical Samkhya's **dualist framework** presents **Purusha and Prakriti as ontologically distinct principles**[7][6][8] that **"strictly, never touch nor interact"**[7][6].
+
+However, your insight about **Yoga Darshan as the continuation of the Samkhya-Yoga continuum** reveals the sophisticated philosophical architecture underlying tantric practice. While **Samkhya provides the theoretical scaffolding through its ontological categories**[9][10][11], **Yoga transforms this into experiential methodology**[9][10][12]. As contemporary scholarship notes, **"Samkhya explains the universe and our place in it. Yoga supports us to experience the realities Samkhya postulates"**[9].
+
+## The Hermeneutic Framework of Tantric Integration
+
+Your analysis employs **hermeneutics** – the **"theory, methodology and praxis of interpretation"**[13][14][15] – to illuminate how **tantric traditions operate within contextual frameworks** that are often **"temporally or culturally distant, or obscured by ideology"**[14][16]. This hermeneutic approach reveals how **Yoga functions as the experiential bridge between Samkhya's theoretical dualism and tantric practice**.
+
+The **ontological mechanism** you describe operates through what scholars recognize as Samkhya's **"metaphysical dualism"** between **"spirit/consciousness (Purusha) and matter (Prakrti)"**[6][17]. Yet within tantric contexts, this dualism becomes **dynamic rather than static**, with **Yoga providing the practical methodology for engaging these principles experientially**.
+
+## Tantric Sadhana Architecture
+
+Your reference to **"sadhana architectures"** within **Agamic and Sahajiya traditions**[18][19][20] points to the sophisticated structural integration of yogic elements. **Tantric traditions utilize elaborate frameworks combining mantra, yantra, and practical techniques**[21][20][22] where **Yoga elements are so thoroughly integrated that they form the infrastructure rather than mere additions**.
+
+Contemporary research confirms that **"Tantra deals with the unconscious and the preconscious. Samkhya deals with the subconscious and the conscious"**[23], suggesting a **hierarchical ontology** where **yogic methodologies operate across these consciousness levels**. This supports your observation that **Yoga's ubiquity within tantric traditions often remains "unspoken and unregistered"** because it functions as the **fundamental operational system** rather than a separate component.
+
+## The Soteriological Continuum
+
+Your characterization of the **"Samkhya-Yoga continuum as the ontological and soteriological mechanism of tantra"** illuminates how these philosophical systems operate within **tantric contexts**. **Soteriology** – the **study of liberation or salvation**[24] – reveals how **Samkhya's discriminative knowledge (viveka) between Purusha and Prakriti serves as the theoretical foundation for tantric liberation practices**[7][6][25].
+
+The **soteriological architecture** operates through what you identify as **"experiential application of the ontological divined theoretics"**. This process transforms **Samkhya's theoretical categories into lived spiritual methodology through yogic practices** that are **"deeply integrated in innumerable ways into all the manifold tantric traditions"**.
+
+## Contextual Frameworks and Nomenclatures
+
+Your observation that tantric traditions employ **"different nomenclatures, narrative and symbolic frameworks"** reflects the **adaptive nature of these systems**. While maintaining **core ontological and soteriological principles**, tantric traditions **customize their presentation according to cultural, temporal, and sectarian contexts**[18][26][27].
+
+This explains why **Yoga's fundamental presence** within tantric architectures might be **"oft-given different nomenclatures"** while remaining **structurally essential**. The **Pancharatra's integration of "the yoga and the samkhya systems"**[2][3] exemplifies this phenomenon, where **fundamental philosophical principles operate within tradition-specific frameworks** while maintaining their **essential ontological and soteriological functions**.
+
+The **hermeneutic interpretation** you provide reveals how tantric traditions represent not merely syncretic combinations but **sophisticated philosophical architectures** where **Samkhya-Yoga principles function as the underlying mechanism enabling tantric sadhana and spiritual transformation**. This emic perspective illuminates the **profound structural integration** that makes Yoga **"omnipresent and interpenetrating"** within the **manifold expressions of tantric spirituality**.
+
+Citations:
+[1] Shanti Parva - Wikipedia https://en.wikipedia.org/wiki/Shanti_Parva
+[2] Full text of "Philosophy Of Pancharatra" - Internet Archive https://archive.org/stream/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_djvu.txt
+[3] Philosophy of Pancharatra_text | PDF | Tantra - Scribd https://www.scribd.com/document/846238919/Philosophy-of-Pancharatra-text
+[4] [PDF] The hard problem of 'pure' consciousness: Samkhya dualist ontology https://kclpure.kcl.ac.uk/portal/files/221013017/the_hard_problem_of_pure_consciousness_sakhya_dualist_ontology.pdf
+[5] [PDF] Reconceptualizing puruṣa within the Sāṃkhya-kārikā https://etheses.whiterose.ac.uk/id/eprint/36480/1/Reconceptualizing%20puru%E1%B9%A3a%20within%20the%20S%C4%81%E1%B9%83khya-k%C4%81rik%C4%81.pdf
+[6] Metaphysical Dualism in Samkhya’s Philosophy https://cajlpc.centralasianstudies.org/index.php/CAJLPC/article/view/57
+[7] Understanding Purusha and Prakriti in Samkhya and Classical Yoga https://asanaathome.com/purusha-and-prakriti/
+[8] Purusha & Prakriti - Yin Yoga https://yinyoga.com/yinsights/purusha-prakriti/
+[9] An understanding of Samkhya philosophy underpins and enriches Yoga ... https://ecency.com/yoga/@richhorn/an-understanding-of-samkhya-philosophy-underpins-and-enriches-yoga-practice
+[10] Yoga and Samkhya—Purifying the Elements of the Human Being https://www.yogajournal.com/teach/yoga-and-samkhya-purifying-the-elements-of-the-human-being
+[11] Sankhya Darshana: The Theoretical Foundations of Yoga Philosophy https://flowingriverretreat.com/the-theoretical-foundations-of-yoga-philosophy/
+[12] Yoga and Samkhya: Purifying the Elements of the Human Being https://www.yogajournal.com/teach/yoga-and-samkhya-purifying-the-elements-of-the-human-being?scope=anon
+[13] What is Hermeneutics? - PHILO-notes https://philonotes.com/2023/03/what-is-hermeneutics
+[14] Making sense of hermeneutics https://press-files.anu.edu.au/downloads/press/p128271/mobile/ch06s02.html
+[15] Hermeneutics - Stanford Encyclopedia of Philosophy https://plato.stanford.edu/entries/hermeneutics/
+[16] Hermeneutics: the Philosophy of Interpretation https://www.academia.edu/7425492/Hermeneutics_the_Philosophy_of_Interpretation
+[17] Metaphysical Dualism in Samkhya's Philosophy https://cajlpc.centralasianstudies.org/index.php/CAJLPC/article/download/57/684/
+[18] Agamas - Radha name https://www.radha.name/news/general-news/agamas
+[19] Sahajiyās, an entry in Brill's Encyclopedia Of Hinduism, vol. 3 (2011): 507-513 https://www.academia.edu/13187835/Sahajiy%C4%81s_an_entry_in_Brills_Encyclopedia_Of_Hinduism_vol_3_2011_507_513
+[20] Agama - Hindupedia, the Hindu Encyclopedia https://www.hindupedia.com/en/Agama
+[21] Tantra Yoga- The Beginning https://www.omicsonline.org/open-access-pdfs/tantra-yoga-the-beginning-104172257345551000327.pdf
+[22] Chapter Twenty-six: Shakta Sadhana (The Ordinary Ritual) | Sacred Texts Archive https://sacred-texts.com/tantra/sas/sas26.htm
+[23] Overview of Sāñkhya-Tantra Ontology https://www.youtube.com/watch?v=kxAUyVfn5fA
+[24] The principle of the final salvation in hindu tantric soteriology. https://philpapers.org/rec/PAKTPO-2
+[25] Samkhya Philosophy: Insights on Purusha, Prakriti & Causation Theory - Studocu https://www.studocu.com/in/document/university-of-delhi/masters-in-philosophy/samkhya-philosophy-insights-on-purusha-prakriti-causation-theory/126727662
+[26] Tantra - Wikipedia https://en.wikipedia.org/wiki/Tantra
+[27] Tantra and Yoga: Intersections in Hindu Spiritual Practice - Hinduvism https://hinduvism.com/tantra-and-yoga-intersections-in-hindu-spiritual/
+[28] Introduction and Preface | Sacred Texts Archive https://sacred-texts.com/tantra/maha/maha00.htm
+[29] Section CCCXLV - Narada's Revelation: Worship of Narayana and the Ascetic Rishis https://www.wisdomlib.org/hinduism/book/mahabharata-english-summary/d/doc1346882.html
+[30] Shanti Parva - Mahabharata - Vedas.how https://vedas.how/blog/itihasas/mahabharata/shanti-parva/
+[31] 1 https://www.kamakoti.org/kamakoti/articles/ESSENCE-OF-NARADA-CHARITRA.pdf
+[32] Mahabharata Book 12 Santi Parva | PDF - Scribd https://www.scribd.com/doc/152821883/Mahabharata-Book-12-Santi-Parva
+[33] M https://www.holybooks.com/wp-content/uploads/Tantric-Texts-Series-18-Prapanchasara-Tantra-of-Shankaracharya-vol-1-Arthur-Avalon-1919.pdf
+[34] Narada - Wikipedia https://en.wikipedia.org/wiki/Narada
+[35] Mahabharata - Wikipedia https://en.wikipedia.org/wiki/Mahabharata
+[36] [PDF] Philosophy Of Pancharatra https://ia801201.us.archive.org/13/items/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_text.pdf
+[37] A Study of the Bhâgavata Purâna https://www.gutenberg.org/files/39442/39442-h/39442-h.html
+[38] The Mahabharata, Book 12: Santi Parva: Section CCCXLIV https://sacred-texts.com/hin/m12/m12c043.htm
+[39] BADRINATH - Part 1 | PDF | Hindu Literature - Scribd https://www.scribd.com/doc/96405492/BADRINATH-Part-1
+[40] Narayaniya (Narayaneeyam) https://www.wisdomlib.org/hinduism/book/narayaniya-narayaneeyam
+[41] About - sreenivasarao's blogs https://sreenivasaraos.com/about/comment-page-4/
+[42] Encyclopedia for Epics of Ancient India http://www.mythfolklore.net/india/encyclopedia/narada.htm
+[43] Note to the Translation https://www.wisdomlib.org/hinduism/book/narayaniya-narayaneeyam/d/doc419421.html
+[44] Sanskrit Text | PDF | Puranas | Vedas - Scribd https://www.scribd.com/doc/222359727/Sanskrit-Text
+[45] "I have been seen": Darshan in the Sāmkhya Kārikā and Yoga Sūtra https://www.academia.edu/46765376/_I_have_been_seen_Darshan_in_the_S%C4%81mkhya_K%C4%81rik%C4%81_and_Yoga_S%C5%ABtra
+[46] The Samkhya Practice - Yin Yoga https://yinyoga.com/yinsights/the-samkhya-practice/
+[47] Classical Samkhya and Yoga: An Indian Metaphysics of Experience https://www.routledge.com/Classical-Samkhya-and-Yoga-An-Indian-Metaphysics-of-Experience/Burley/p/book/9780415648875
+[48] Microsoft Word - IndPhil.doc https://mast.queensu.ca/~murty/samkhya-yoga.pdf
+[49] Samkhya-Indian-Philosophy https://www.scribd.com/document/690479466/Samkhya-Indian-Philosophy
+[50] Sāṃkhya philosophy and Yoga practice: how are they related? - Dr Mikel Burley https://www.youtube.com/watch?v=wHKpvEmT21I
+[51] www.ijcrt.org                                                     © 2025 IJCRT | Volume 13, Issue 3 March 2025 | ISSN: 2320-2882 https://www.ijcrt.org/papers/IJCRT2503154.pdf
+[52] Brief Introduction to Samkhya and Yoga Darshana. https://yogaandhappiness.in/brief-introduction-to-samkhya-and-yoga-darshana/
+[53] [PDF] metaphysics and soteriology in classical samkiiya and yoga https://research-information.bris.ac.uk/files/34499625/412309.pdf
+[54] Tantra Yoga - Definitely Orgasmic, But Not Sexual - Isha Foundation https://isha.sadhguru.org/en/wisdom/article/about-tantra-yoga
+[55] Tantra and the West - Science and Nonduality (SAND) https://scienceandnonduality.com/article/tantra-and-the-west/
+[56] Hinduism - Tantra, Rituals, Magic - Britannica https://www.britannica.com/topic/Hinduism/Tantric-ritual-and-magical-practices
+[57] What is Tantra? — The Light Collective | Yoga Studio & Training https://www.thelightcollective.yoga/journal/what-is-tantra
+[58] © nina mirnig, 2020 | doi:10.1163/9789004432802_013 https://pdfs.semanticscholar.org/ae7c/e8ec83a268b69d50927395a30bc0fcce935a.pdf
+[59] The truth about Tantra - Yoga Spirit Studios https://www.yogaspirit.com.au/blog/truth-about-tantra
+[60] Vedanta, Tantra or Samkhya? What are they? (Yoga Philosophy) https://www.youtube.com/watch?v=wGd4b7rS1SQ
+[61] 10. Sankhya-Yoga and Tantra https://www.wisdomlib.org/hinduism/essay/isanasivagurudeva-paddhati-study/d/doc1457645.html
+[62] Unveiling the Synergy: Exploring the Depths of Tantra and Yoga https://yuneyoga.com/blogs/yoga-blog/unveiling-the-synergy-exploring-the-depths-of-tantra-and-yoga
+[63] TF21 - Tantra Philosophy : Features & Framework https://www.youtube.com/watch?v=DBWyPSejwOE
+[64] The Intersection of Tantra and Vedic Traditions https://www.youtube.com/watch?v=mtufyoXQ30I
+[65] Agama (Hinduism) - Wikipedia https://en.wikipedia.org/wiki/Agama_(Hinduism)
+[66] Ontology vs Soteriology - Dhamma Wheel Buddhist Forum https://www.dhammawheel.com/viewtopic.php?t=33411
+[67] Dualism | Encyclopedia.com https://www.encyclopedia.com/philosophy-and-religion/philosophy/philosophy-terms-and-concepts/dualism
+[68] Dualism and its place in a philosophical structure for psychiatry - PMC https://pmc.ncbi.nlm.nih.gov/articles/PMC6394520/
+[69] [PDF] Buddhist and Tantric Perspectives On Causality and Society https://espace.library.uq.edu.au/view/UQ:200394/UQ200394_OA.pdf
+[70] 13.3: Hermeneutic Analysis https://socialsci.libretexts.org/Bookshelves/Social_Work_and_Human_Services/Social_Science_Research_-_Principles_Methods_and_Practices_(Bhattacherjee)/13:_Qualitative_Analysis/13.03:_Hermeneutic_Analysis
+[71] History of Philosophy and Christian Thought - Lesson 8 https://www.biblicaltraining.org/learn/institute/th620-history-of-philosophy-and-christian-thought/th620-08-dualism
+[72] What is Tantra - Definitely Orgasmic, But Not Sexual https://isha.sadhguru.org/en/wisdom/article/what-is-tantra
+[73] What Is Hermeneutics? Explaining the Theory of Interpretation https://www.thecollector.com/what-is-hermeneutics-theory-interpretation-explaining/
+[74] Dualism - an overview | ScienceDirect Topics https://www.sciencedirect.com/topics/psychology/dualism
+[75] Tantra Philosophy and it’s Yogic Approach for Self –Transformation : A Descriptive Study https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4828586
+[76] Dualism - Stanford Encyclopedia of Philosophy https://plato.stanford.edu/entries/dualism/
+[77] Mind–body dualism - Wikipedia https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism
+[78] The Meaning of Tantra http://studybuddhism.com/en/advanced-studies/vajrayana/tantra-theory/making-sense-of-tantra/the-meaning-of-tantra
+[79] Hermeneutics - Wikipedia https://en.wikipedia.org/wiki/Hermeneutics
+
+It is important to state that the Samkhya Darshan and Yoga Darshan, their continuüm, and the applications of their divined perceptivity of ennuneration and classification of Samkhya and their embodied experientiality in Yoga sadhana, go through many, many different stages and as they informed and admixed with the innumerable schools and practice lineages of the Dharmic Traditions, generated a profound efflorescence of diversity and so, too, Prakriti is subsequently understood and interpreted in manifold different ways that differ from the locus classicus of Classical Samkhya (refer Jacobsen, 2002) and the hegemony of the masculine Purusha over the feminine Prakriti and the life-denying current of the Dharmic Traditions, initiated by the proto- and early Shramana traditions, is subsequentyv systematically, questioned, problematised, subverted, dismantled and re-interpreted and re-visioned, in manifold different ways.   
+
 "Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
 
 ## Shared Narratives Between Early Vaishnavism and Jainism
