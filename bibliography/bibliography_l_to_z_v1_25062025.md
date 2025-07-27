@@ -1297,6 +1297,13 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 **Purport:**<br>
 **TODO:** There are many other works of note in this Series outlined in the Frontmatter. They are to be secured and filed in due course. B9HH Tuesday, July 8, 2025.
 
+### STEWART, T. ###
+
+* Stewart, Tony K. (2013). 'Religion in the Subjunctive: Vaishnava Narrative, Sufi Counter-Narrative in Early Modern Bengal' (pp. 52-72) in *The Journal of Hindu Studies*, Vol. 6, Issue 1, May, 2013. Oxford, England, U.K.: Oxford University Press (on behalf of The Oxford Centre for Hindu Studies). DOI: https://doi.org/10.1093/jhs/hit013 (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+...
+
 ### STRICKMANN, M. ###
 
 * Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
