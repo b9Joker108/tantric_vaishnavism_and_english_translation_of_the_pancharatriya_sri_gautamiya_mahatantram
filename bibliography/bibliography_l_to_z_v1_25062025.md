@@ -1224,6 +1224,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SEBASTIAN, R. ###
+
+* Sebastian, Rodney (2019). 'Cultural Fusion in a Religious Dance Drama: Building the Sacred Body in the Manipuri Raslilas'. Ph.D. dissertation. Graduate School. Gainesville, Florida, U.S.A.: University of Florida. Source: https://www.proquest.com/docview/2464172212 (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+...
+
 ### SEN, A.; *et al.* ###
 
 * Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33 - 56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
