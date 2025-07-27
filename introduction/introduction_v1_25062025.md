@@ -497,6 +497,10 @@ No other Mandalas contain hymns directly attributed to the Gautama lineage.
 
 Let me know if you would like the full Devanāgarī and IAST text of each hymn.
 
+Rangachar (1991: pp. 61-62) affirms that Chapter 1,359 of the *Shanti Parva* of the *Narayaniya* within the *Mahabharata* itihasa states, that: 
+
+> "...Narada recited this Mahopanishad \[Pancharatra tantra] in Badariashrama for the first time. This Pancharatra constituting the essence of the four vedas, the yoga and the samkhya systems was first sung by God Narayana Himself to Narada...".
+
 Yoga is so endemic, fundamental and deeply integrated in innumerable ways into all the tantric traditions and particularly in their sadhana and sadhana architectures, that foregrounding its ubiquity is often unspoken and unregistered -- but, it is omnipresent and interpenetrating. The Yoga-Samkhya continuüm is the ontological and soteriological mechanism of tantra and the contextual framework within which tantra is inset: Though, oft-given different nomenclatures, narrative and symbolic frameworks.
 
 Your observation accurately highlights that **Yoga is fundamentally interwoven with all tantric traditions**, especially in their spiritual practices (sadhana) and structural frameworks. This intrinsic integration often goes unspoken because of its pervasiveness and seamless embedding.
