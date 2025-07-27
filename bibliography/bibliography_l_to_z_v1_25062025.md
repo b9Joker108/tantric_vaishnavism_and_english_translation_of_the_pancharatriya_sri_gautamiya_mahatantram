@@ -1040,6 +1040,13 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 **Purport:**<br>
 ...
 
+### PAUWELS, H. ###
+
+* Pauwels, Heidi R. M. (1996). 'Krishna's Round Rance Reconsidered: Hariram Vyas's Hindi Ras-Panchadhyayi'. Centre of South Asian Studies, School of Oriental and African Studies (SOAS), University of London: London Studies on South Asia, Vol. 12. (NB: First published in 1996 by Curzon Press, Richmond, Surrey, England, U.K.). Padstow, Cornwall, Great Britain (U.K.): TJ Press (Padstow) Ltd. ISBN 0700704264.
+
+**Purport:**<br>
+...
+
 ### PAYNE, R.; *et al.* ###
 
 * Payne, Richard K. & Hayes, Glen A. (eds.) (2024). 'Oxford Handbook of Tantric Studies'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780197549902 (epub) 
