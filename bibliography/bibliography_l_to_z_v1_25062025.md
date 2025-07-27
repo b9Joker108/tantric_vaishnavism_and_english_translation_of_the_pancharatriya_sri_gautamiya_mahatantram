@@ -986,6 +986,13 @@ This is an important and useful work that I am yet to secure.
 **Purport:**<br>
 ...
 
+### PAL, B. ###
+
+* Pal, Bipin Chandra (1933). 'Bengal Vaishnavism'. Calcutta, West Bengal. With a 'Preface' by Hirendra Nath Datta.India: Modern Book Agency (Jnananjan Pal). Source: https://ia904600.us.archive.org/10/items/in.ernet.dli.2015.68182/2015.68182.Bengal-Vaishnavism.pdf (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+...
+
 ### PAL, P. ###
 
 * Pal, Pratapaditya (1986). 'Indian Sculpture: Vol. 1; c.500 B.C.-A.D. 700'. With a Foreword by Earl A. Powell III. (Note: This is a catalogue of the Los Angeles County Museum of Art Collection.). Los Angeles, California, U.S.A.: Los Angeles County Museum of Art (Berkeley, California, U.S.A.: University of California Press). ISBN 0875871291 (Vol. 1, paperback). Source: https://archive.org/details/indiansculpturec01palp (accessed: Saturday, July 20, 2024)
