@@ -550,7 +550,7 @@ As yet, I have not been able to secure a copy.
 **Purport:**
 ...
 
-### Jash, P. ###
+### JASH, P. ###
 
 * Jash, Pranabananda (1982). 'History and Evolution of Vaishnavism in Eastern India'. Calcutta, West Bengal, India: Roy and Chowdhury.
 
