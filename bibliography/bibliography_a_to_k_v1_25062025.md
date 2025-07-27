@@ -145,7 +145,7 @@ This work is useful for our purposes, but its aspiration to a scholarly and acad
 
 ### AIYANGAR, M.; *et al.* ###
 
-Aiyangar, M. Duraiswami & Venugopalacharya, T. (eds.) (1942). 'Sri Pancharatra Raksha of Sri Vedanta Deshika: Ctitically Edited with Notes and Variant Readings'. With an Introduction in English by G. Srinivasa Murti. The Adyar Library Series №36. Adyar, Madras, India: The Adyar Library. Source: https://archive.org/details/in.ernet.dli.2015.495252 (accessed: Thursday, July 18, 2024). Source: https://archive.org/details/aiyangar-m.-duraiswami-venugopalacharya-t.-eds.-1942.-sri-pancharatra-raksha-of- (accessed: Friday, August 23, 2024)
+* Aiyangar, M. Duraiswami & Venugopalacharya, T. (eds.) (1942). 'Sri Pancharatra Raksha of Sri Vedanta Deshika: Ctitically Edited with Notes and Variant Readings'. With an Introduction in English by G. Srinivasa Murti. The Adyar Library Series №36. Adyar, Madras, India: The Adyar Library. Source: https://archive.org/details/in.ernet.dli.2015.495252 (accessed: Thursday, July 18, 2024). Source: https://archive.org/details/aiyangar-m.-duraiswami-venugopalacharya-t.-eds.-1942.-sri-pancharatra-raksha-of- (accessed: Friday, August 23, 2024)
 
 **Purport:**<br>
 ...
