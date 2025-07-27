@@ -308,6 +308,13 @@ I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical dis
 **Purport:**<br>
 ...
 
+### BORDEAUX, J. ###
+
+* Bordeaux, Joel (2019). 'Blood in the Mainstream: Kali Puja and Tantric Orthodoxy in Early Modern Bengal' (pp. 151-164) in the Mittal, Sushil (ed.). (2019). *International Journal of Hindu Studies*, Vol. 23, 2019. Berlin, Heidelberg, Germany: Springer. DOI: https://doi.org/10.1007/s11407-019-09257-0 (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+This is very useful. **TODO:** Harvest bibliography.
+
 ### BRINKHAUS, H. ###
 
 * Brinkhaus, Horst (1992). 'Early Developmental Stages of the Vishnupradurabhava Lists' (pp. 101-110) in the *Vienna Journal of South Asian Studies \[English; German: Wiener Zeitschrift für die Kunde Südasiens] - Supplement: Proceedings of the VIIIth \[8th] World Sanskrit Conference, Vienna, 1990*, 1992, Vol. 36. Postgasse 7, Vienna, Austria: Austrian Academy of Sciences Press. Source: https://www.jstor.org/stable/24010811 (accessed: Thursday, July 24, 2025)
