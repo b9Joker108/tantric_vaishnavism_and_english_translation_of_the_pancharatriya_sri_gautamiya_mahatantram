@@ -238,6 +238,13 @@ As yet, I have not secured a copy of this work. Though, without cetainty, I am q
 **Purport:**<br>
 As yet, I have not secured a copy of this work. Refer purport to Barthwal (1936).
 
+### BARUA, B. ###
+
+* Barua, B.M. (1920). 'The Ajivikas: A Short History of their Religion and Philosophy; Part 1: Historical Summary'. Calcutta, West Bengal, Indian University of Calcutta. Source: https://www.rarebooksocietyofindia.org/book_archive/196174216674_10153031903361675.pdf (accessed: Sunday, July 27, 2025)
+
+**Purport:**<br>
+Rangachar (xxx: p. xxx) relates that Hermann Jacobi states that the Ajivakas were Bhagavatas, but doesn't provide a firm citation. Barua (1920) contends that the Ajivikas are offshoots of Vaikhanasas.
+
 ### BEHERA, S. ###
 
 * Behera, Simanchal (2018). 'Mathas in Odisha with Special Reference to Ganjam District: A Study' (pp. 1 - 18) in *JETIR (Journal of Emerging Technologies and Innovative Research)*, August 2018, Vol. 5, Issue 8. Source: https://www.jetir.org/papers/JETIR1808161.pdf (accessed: Sunday, July 06, 2025)
