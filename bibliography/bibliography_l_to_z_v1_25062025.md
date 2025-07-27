@@ -1005,6 +1005,13 @@ This is an important and useful work that I am yet to secure.
 **Purport:**<br>
 ...
 
+### PANDEY, C. ###
+
+* Pandey, Chandra Bhanu (1964) 'Mahabhartiya Rishi Sanskriti \[Hindi; English: 'The Risi Culture of the Mahabharata Age']'. Department of Ancient Indian History. Ph.D. dissertation in Hindi. Sagar, Madhya Pradesh, India: Saugar University (Dr. Hari Singh Gour Vishwavidyalaya). Source: http://hdl.handle.net/10603/248954 (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+...
+
 ### PANDEY, S. ###
 
 * Pandey, Dr. Shitala Prasad \[Hindi: डॉ० शीतलाप्रसाद पाण्डेय ; IAST: Ḍo. Śītalāprasāda Pāṇḍeya] (2011). 'A Study of Vaikhanasa Agama \[Hindi: वैखानस आगम : एक अध्ययन ; IAST: Vaikhānasa Āgama: Eka Adhyayana]. (Note: The work is in Hindi set in Devanagari.). First edition. Varanasi, India: 'Art Publishing \[Hindi: कला प्रकाशन ; IAST: Kalā Prakāśana]. ISBN 9789380467597. Source: https://archive.org/details/wg803 (accessed: Sunday, July 28, 2024)
