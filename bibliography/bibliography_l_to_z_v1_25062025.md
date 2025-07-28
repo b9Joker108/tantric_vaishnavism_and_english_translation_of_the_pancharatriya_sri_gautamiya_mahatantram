@@ -1157,6 +1157,13 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 **Purport:**<br>
 ...
 
+### RAY, B. ###
+
+* Ray, Bidyut Lata (2012). 'Studies In Bamadeva Samhita: The Cult Of Lord Jagannatha'. New Delhi, India: Om Publications. ISBN 9788190676687. 
+
+**Purport:**<br>
+The Sri Vamadeva Samhita may or may not be technically Pancharatriya. Its status is yet to be determined with veracity. The Catalogue makes reference to neither a published samhita of this name nor an unpublished manuscript of same. But, a number of Pancharatra Samhitas do explicitly reference a Vamadeva Samhita. I have as yet neither securedacopy of this version, nor the published copy of the Vamadevav published by memory in 1972, under Bamdev Samhita. Also, the script and language of the 1972 publication is yet to be determined.
+
 ### RAYCHAUDHURI, H. ###
 
 * Raychaudhuri, Hemchandra (1936, 1920). 'Materials for the Study of the Early History of the Vaishnava Sect'. Second edition, revised and enlarged. (NB: First edition published in 1920.). Calcutta, Bengal, India: University of Calcutta (University Press: Bhupendralal Banerjee).
