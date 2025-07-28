@@ -919,6 +919,13 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### OLDENBERG, H.; *et al.* ###
+
+* Oldenberg, Hermann (auth.) & Shrotri, Shridhar B. (trans.) (2004, 1993, 1988, 1916, 1894). 'The Religion of the Veda \[German: Die Religion des Veda]'. (NB: The first German language edition was published in 1894. The second German language edition of 1916 was revised and enlarged. The first English edition of 1988 was a translation of the 1916 edition and published in Delhi. Reprinted imprints of the 1988: 1993 & 2004.). Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN: 8120803922. Source: https://archive.org/details/the-religion-of-the-veda-hermann-oldenberg (accessed: Monday, July 28, 2025)
+
+**Purport:**<br>
+...
+
 ### OLIVELLE. P. ###
 
 * Olivelle, Patrick (ed.) (2006). ‘Between the Empires: Society in India 300 BCE to 400 CE’. Abingdon, Oxford, England, U.K.: Oxford University Press (Oxford Scholarship Online). ISBN 9780195305326. Source: https://archive.org/details/olivelle-patrick-ed.-2006.-between-the-empires-society-in-india-300-bce-to-400-ce (accessed: Sunday, August 18, 2024)
