@@ -605,6 +605,11 @@ As yet, not secured. But, by memory, these were serialised in a journal.
 
 ### MITRA, R. ###
 
+* Mitra, Rajandralala (ed.) (1874). 'Notices of Sanskrit MSS.: Series I; No. VIII; Vol. III; Part I'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
+
+**Purport:**<br>
+Mitra (1874: pp. 99-x) describes a Sanskrit manuscript of the 'Sri Gautamiya Tantra' (Samhita or Mahatantra) set in Bengali script with a mangala shloka of "Sri Sri Balagopalaya Namah" that is different to the Bengali version I have secured with the mangalala shloka of "Sri Sri Gurave Namah".
+
 * Mitra, Rajendralala (1875). 'The Antiquities of Orissa: Vol. 1'. Calcutta, Bengal, India: Wyman & Co. Source: https://archive.org/details/dli.csl.7811 (accessed: Friday, July 25, 2025)
 
 **Purport:**<br>
