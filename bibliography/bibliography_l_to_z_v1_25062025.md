@@ -589,6 +589,13 @@ This is the best digitization of the volume I have been able to find. It had a m
 **Purport:**<br>
 This work, ostensibly a tour-guide, is produced by a researcher-scholar who has done extensive fieldwork and is intricately knowledgeable in the built environment and architecture of India. This work, incidentally, though unfortunately not topographical, provides a decent survey of the lay of the land. Useful, for one doing parikrama on-foot. 
 
+### MITCHINER, J. ###
+
+* Mitchiner, John E. (1982). 'Traditions of the Seven Rishis'. Delhi, India: Motilal Banarsidass. ISBN 9788120813243.
+
+**Purport:**<br>
+As yet, not secured. But, by memory, these were serialised in a journal.
+
 ### MITTAL, S.; *et al* ###
 
 * Mittal, Sushil & Thursby, Gene R. (eds.) (2005, 2004). ‘The Hindu World’. New York, N. Y., U. S. A.: Routledge (an imprint of the Taylor & Francis Group). ISBN 0203644700 (ebook). Source: xxx
