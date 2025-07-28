@@ -605,12 +605,12 @@ As yet, not secured. But, by memory, these were serialised in a journal.
 
 ### MITRA, R. ###
 
-* Mitra, Rajandralala (ed.) (1874). 'Notices of Sanskrit MSS.: Series I; No. VIII; Vol. III; Part I'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
+* Mitra, Rajendralala (ed.) (1874). 'Notices of Sanskrit MSS.: Series I; No. VIII; Vol. III; Part I'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
 
 **Purport:**<br>
 Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all appended and collected together as the four parts of volume three.
 
-* Mitra, Rajandralala (ed.) (1875a). 'Notices of Sanskrit MSS.: Series I; No. IX; Vol. III; Part II'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
+* Mitra, Rajendralala (ed.) (1875a). 'Notices of Sanskrit MSS.: Series I; No. IX; Vol. III; Part II'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
 
 **Purport:**<br>
 Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all affixed and collected together as the four parts of volume three. Mitra (1875a: pp. 99-101) describes a Sanskrit manuscript of the 'Sri Gautamiya Tantra' (Samhita or Mahatantra) set in Bengali script with a mangala shloka of "Sri Sri Balagopalaya Namah" and then commences with the beginning of: "siddha-ashrame ..." and that is different to the Bengali version I have secured with the mangalala shloka of "Sri Sri Gurave Namah", that commences with the discussion of a mantra. So, there is a Gautama Samhita that is different to the Gautamiya and in addition, there may be two (2) Gautamiya Samhitas, rather than two recensions. Y.T.B.D.
@@ -620,12 +620,12 @@ Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all affixed and colle
 **Purport:**<br>
 ...
 
-* Mitra, Rajandralala (ed.) (1876a). 'Notices of Sanskrit MSS.: Series I; No. X; Vol. III; Part III'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
+* Mitra, Rajendralala (ed.) (1876a). 'Notices of Sanskrit MSS.: Series I; No. X; Vol. III; Part III'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
 
 **Purport:**<br>
 Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all appended and collected together as the four parts of volume three.
 
-* Mitra, Rajandralala (ed.) (1876b). 'Notices of Sanskrit MSS.: Series I; No. XI; Vol. III; Part IV'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
+* Mitra, Rajendralala (ed.) (1876b). 'Notices of Sanskrit MSS.: Series I; No. XI; Vol. III; Part IV'. Published under orders ofvthe Government of Bengal. Calcutta, Bengal, India: The Baptist Mission Press. Source: https://archive.org/details/s1noticesofsansk03benguoft (accessed: Tuesday, July 29, 2025)
 
 **Purport:**<br>
 Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all appended and collected together as the four parts of volume three.
