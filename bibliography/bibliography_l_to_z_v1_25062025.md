@@ -1010,7 +1010,12 @@ This is an important and useful work that I am yet to secure.
 * Pandey, Chandra Bhanu (1964) 'Mahabharatiya Rishi Sanskriti \[Hindi: महाभारतीय ऋषि-संस्कृति ; IAST: mahābhāratīya rși-saṃskrti; English: 'The Risi Culture of the Mahabharata Age']'. Department of Ancient Indian History. Ph.D. dissertation in Hindi. Sagar, Madhya Pradesh, India: Saugar University (Dr. Hari Singh Gour Vishwavidyalaya). Source: http://hdl.handle.net/10603/248954 (accessed: Monday, July 28, 2025)
 
 **Purport:**<br>
-...
+Secured.
+
+* Pandey, Chandra Bhanu (1987). 'Risis in Ancient India'. (NB: English translation and reworking of the author's 1964 Ph.D. dissertation: 'The Rishi Culture of the Mahabharata Age \[IAST: māhābharatīya ṛṣi saṃskriti]', Saugar University, Sagar, Madhya Pradesh, India; now the: Dr. Hari Singh Gour Vishwavidyalaya.). Delhi: Sundeep Prakashan. ISBN 8185067023.
+
+**Purport:**<br>
+As yet, not secured.
 
 ### PANDEY, S. ###
 
