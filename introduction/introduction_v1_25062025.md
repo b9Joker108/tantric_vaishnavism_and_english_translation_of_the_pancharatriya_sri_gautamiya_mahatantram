@@ -567,6 +567,82 @@ No other Mandalas contain hymns directly attributed to the Gautama lineage.
 
 Let me know if you would like the full Devanāgarī and IAST text of each hymn.
 
+
+Plesse advise of when, how, why, by whom and by what mechanisms the Vedic Religion of the Rig Veda and the Brahmanism that accreted around it, and from it. which initially included women Rishis, systematically socio-politically privileged itself, its chosen and its concerns and its soteriology from others, including women and orter castes, even proscribing violence and maming of some cohorts who were witness to or recited the Vedas and outline all those who were excluded or why, and when this exclusion arose and how we know.
+
+### Origins, Mechanisms, and Evolution of Privilege in Vedic Religion and Brahmanism
+
+#### Initial Context: Rig Veda & Early Vedic Religion
+- **Time & Setting:** The Rig Veda (composed c.1500–1000 BCE) marks the earliest stratum of Vedic religion. It reflects a society led by tribal chiefs (rajas) with advisory assemblies like the *sabha* and *samiti*, which included women in both social and, to some degree, religious roles[1][2]. Ritual and spiritual authority was important, but political power was decentralized.
+
+- **Inclusion of Women Rishis:** Several hymns of the Rig Veda were authored by women seers (rishikas)—notably Gargi Vachaknavi and Vak Ambhrini—who participated actively in debates, education, and ritual[3][4][5]. Women could attend assemblies and even sometimes officiate religious acts under specific circumstances.
+
+#### Socio-Political Privileging and Exclusion
+- **Why & How the Shift Happened:**  
+  As society transitioned from early Vedic tribalism to the more stratified Brahmanism (beginning c.1100–500 BCE), ritual centrality grew, and the priestly Brahmin class claimed exclusive interpretive and ritual privileges. Mechanisms included[6][7][8]:
+  - Control of Vedic chants, rituals, and the Sanskrit language, which the majority could neither understand nor recite.
+  - Codification of dharma in texts (Dharmasutras, Smritis, Upanishads) that increasingly restricted sacred education and ritual to “twice-born” males (Brahmins, Kshatriyas, Vaishyas)[7][8][9].
+  - Development of a soteriology (doctrine of salvation) that linked ritual purity, birth, and access to liberation, with Brahmins as the ultimate mediators[10][11].
+
+- **Mechanisms of Privilege:**  
+  - Prohibition of Vedic study, ritual recitation, or even hearing the Vedas for Shudras (“lower castes”) and women, often under threat of severe punishment, including violence or mutilation—a fact recorded in later Dharma texts and echoed in the Puranas[8][9][12].
+  - Outlawing of inter-caste social or ritual mixing and consolidating endogamous jatis (sub-castes)[9].
+  - Association of ritual pollution and spiritual unworthiness with entire social groups.
+
+#### Who Was Excluded and When
+- **Women:** Though early women rishis existed, by the late Vedic and Brahmanical periods, women were formally barred from Vedic study, ritual participation, and ceremony, except as “wives” in auxiliary roles, and denied the sacred thread (upanayana)[3][12].
+- **Lower castes (Shudras):** Shudras were explicitly prohibited from hearing or reciting the Vedas and could not participate in sacrifices or rituals, except as menial labor. Outcastes (“untouchables”) were assigned to polluting tasks and placed outside the system[9][12][13].
+- **Agnates of mixed birth or foreign descent:** Excluded from ritual, caste society, and economic privilege.
+
+#### When and How We Know
+- **Timelines:**  
+  - Earliest evidence of exclusion (of Shudras and women) emerges c. 1000–800 BCE, as recorded in the Brahmanas and later Dharma literature[9][12].
+  - Codification and strict enforcement appear especially during the late Vedic and Early Brahmanical periods (c. 800–500 BCE), culminating by the time of the later Upanishads and law codes like the Manusmriti (c. 200 BCE–200 CE)[6][7][13].
+- **How We Know:**  
+  - Textual analysis of successive Vedic, Brahmana, and Dharmasutra/Smriti literature tracks the tightening socio-religious restrictions[6][7][8][9].
+  - Archaeology and comparative anthropology support increasingly rigid social stratification[2].
+
+#### Soteriology: Spiritual Salvation as a Tool of Privilege
+- **Vedic Soteriology:** Initially emphasized communal well-being and prosperity.  
+- **Brahmanical Soteriology:** Moved toward individual liberation (moksha), with ritual, birth, and purity as gates—controlled by Brahmins who monopolized sacred knowledge and determined eligibility for salvation-oriented practices[10][11]. Lower castes and women were denied independent spiritual advancement except through submission to Brahmanical authority.
+
+**Summary Table: Exclusion and Mechanisms in Vedic/Brahmanic Tradition**
+
+| Group              | Initial Status (Rig Veda)    | Final Status (Brahmanism)         | Mechanism                    |
+|--------------------|-----------------------------|------------------------------------|------------------------------|
+| Women              | Rishikas, teachers, debaters | Excluded from Vedic study/ritual[]3 | Codified ritual exclusion    |
+| Shudras            | Possible inclusion           | Proscribed from Vedas, rituals[]6[]8| Textual, social restriction  |
+| Outcastes/Untouchables | N/A                       | Extreme exclusion, degraded work   | Caste system, mythology      |
+| Non-Aryan groups   | Partial entry, intermingling | Assimilated as lower jati/castes   | Social stratification        |
+
+**Conclusion:**  
+The socio-political privileging of the Vedic/Brahmanical tradition was gradual, driven by textual, ritual, and institutional mechanisms deployed by the Brahmin priesthood, and codified in texts that justified and perpetuated exclusion on the basis of gender, birth, and class. This accrued over centuries, with strictest forms of exclusion and violence becoming dominant during the later Vedic period and codified by the early classical era[6][7][9][12].
+
+Citations:
+[1] Early Vedic Period (1500 - 1000 BCE) https://www.nextias.com/blog/early-vedic-period/
+[2] Analysis of the social and political structure of ancient India ... https://www.allsubjectjournal.com/assets/archives/2024/vol11issue10/11229.pdf
+[3] Empowered Women in Ancient Indian Tradition https://www.slc.du.ac.in/uploads/centre/SIC/2022-23/Empowered_Women_in_Ancient_Times.pdf
+[4] Female Rishis and Philosophers in the Veda https://dash.harvard.edu/bitstream/handle/1/9886300/FemaleRsis-UNICODE%20copy.pdf
+[5] Women as Rishikas in the Vedas https://www.hindupedia.com/en/Women_as_Rishikas_in_the_Vedas
+[6] Historical Vedic religion https://en.wikipedia.org/wiki/Historical_Vedic_religion
+[7] Brahmanism https://www.worldhistory.org/Brahmanism/
+[8] 17. Vedic Indian to the Fall of the Maurya Empire https://pressbooks.pub/abriefhistory1/chapter/vedic-indian-to-the-fall-of-the-maurya-empire/
+[9] The Caste System | World Civilization https://courses.lumenlearning.com/suny-hccc-worldcivilization/chapter/the-caste-system/
+[10] Soteriology: Significance and symbolism https://www.wisdomlib.org/concept/soteriology
+[11] Anthropology and Soteriology in Hinduism https://pressbooks.wmich.edu/seeingtheworldthroughreligionandculture/chapter/anthropology-and-soteriology-in-hinduism/
+[12] Sudra woman: Significance and symbolism https://www.wisdomlib.org/concept/sudra-woman
+[13] Caste system in India https://en.wikipedia.org/wiki/Caste_system_in_India
+[14] Brahmins and Balance of Power: Re-Reading A.P. Rana's ... https://academic.oup.com/isagsq/article/4/1/ksae006/7613801
+[15] Brahman https://en.wikipedia.org/wiki/Brahman
+[16] Soteriology https://en.wikipedia.org/wiki/Soteriology
+[17] 5.3 Rise of Hinduism and the caste system https://library.fiveable.me/early-world-civilizations/unit-5/rise-hinduism-caste-system/study-guide/8xvinkLV6wdZw7pG
+[18] Full article: 'Lol even poor Brahmin discriminates poor Dalit' https://www.tandfonline.com/doi/full/10.1080/14780887.2024.2424496
+[19] [PDF] Insidious Interlocking of Gender and Caste: Consequences of ... https://vc.bridgew.edu/cgi/viewcontent.cgi?article=2674&context=jiws
+[20] Exploring the Evolution of Brahman in the Rig Veda https://www.linkedin.com/posts/jay-thakkar-10125_indianphilosophy-brahman-rigveda-activity-7200127538176663552-E9S3
+
+
+
+
 Rangachar (1991: pp. 61-62) affirms that Chapter 1,359 of the *Shanti Parva* of the *Narayaniya* within the *Mahabharata* itihasa states, that: 
 
 > "...Narada recited this Mahopanishad \[Pancharatra tantra] in Badari\[k]ashrama \[sic.] for the first time. This Pancharatra constituting the essence of the four vedas, the yoga and the samkhya systems was first sung by God Narayana Himself to Narada...".
