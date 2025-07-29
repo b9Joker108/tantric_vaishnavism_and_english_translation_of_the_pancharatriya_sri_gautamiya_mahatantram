@@ -1258,6 +1258,13 @@ These were first published in the English monthly 'Prabuddha Bharata' from Augus
 **Purport:**<br>
 ...
 
+### SCHARFE, H.; *et al.* ###
+
+* Scharfe, Hartmut (auth.) & Bronkhorst, Johannes (ed.) (2002). 'Education in Ancient India'. 'Handbook of Oriental Studies \[German: Handbuch der Orientalistik]': Section Two - India. Volume 16: Education in Ancient India. Leiden, Netherlands: Koninklijke Brill NV. ISBN 9004125566. 
+
+**Purport:**<br>
+...
+
 ### SCHMID, C. ###
 
 * Schmid, Charlotte (1997). 'Les Vaikuntha gupta de Mathura: Vishnu ou Krishna? \[French; English: The Vaikuntha Gupta of Mathura: Vishnu or Krishna?]' (pp. 60-88) in *Arts asiatiques \[French; English: Asiatic Arts]*, 'Tome 52 \[French; English: Vol. 52], 1997. (NB: In French with excellent images.). DOI: https://doi.org/10.3406/arasi.1997.1401. Source: https://www.persee.fr/doc/arasi_0004-3958_1997_num_52_1_1401 (accessed: Saturday, July 12, 2025)
