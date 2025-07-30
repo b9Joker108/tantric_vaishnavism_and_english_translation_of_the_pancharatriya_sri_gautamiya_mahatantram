@@ -49,6 +49,11 @@ I need to invest time in this work and the '[Sri Adhyatma Ramayana](https://en.w
 **Purport:**<br>
 …
 
+* Larson, Gerald James (ed.); Bhattacharya, Ram Shankar (ed.) & Potter, Karl H. (gen. ed.) (2008). 'Encyclopedia of Indian Philosophies Vol. XII \[12] - Yoga: India's Philosophy of Meditation'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 9788120833494 (Vol. XII)
+
+**Purport:**<br>
+…
+
 ### LARSSON, S.; *et al.* ###
 
 * Larsson, Stefan & af Edholm, Kristoffer (eds.) (2021). 'Songs on the Road: Wandering Religious Poets in India, Tibet, and Japan'. Stockholm Studies in Comparative Religion Vol. 43: Olsson, Prof. Susanne (exec. ed.); *et al.*. (NB: Independent reviewers: Jacobsen, Prof. Knut A. & Rutherford, Prof. Ian.). Stockholm University, Stockholm, Sweden: Stockholm University Press. ISBN 9789176351369 (PDF). DOI: https://doi.org/10.16993/bbi. Source: https://doi.org/10.16993/bbi (accessed: Wednesday, July 16, 2025)
