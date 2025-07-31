@@ -585,6 +585,13 @@ As yet, I have not been able to secure a copy.
 **Purport:**
 As yet, not secured. 
 
+### JENSEN, J. ###
+
+* Jensen, Jeppe Sinding (2011). 'Revisiting the Insider-Outsider Debate: Dismantling a Pseudo-problem in the Study of Religion' (pp. 29-47) in the *Method and Theory in the Study of Religion*, Vol. 23, Issue 1, 2011. Leiden, Netherlands: Brill. DOI: https://doi.org/10.1163/157006811X549689. (accessed: Thursday, July 31, 2025)
+
+**Purport:**
+...
+
 # K #
 
 ...
