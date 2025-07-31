@@ -273,12 +273,19 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 ...
 
-### BHATTACHARYA, R. ###
+### BHATTACHARYA, Rag. ###
 
 * Bhattacharya, Raghupati \[Telegu: రఘుపతిభట్టాచార్య ; IAST: raghupati bhaṭṭācārya] (auth.) & 'Shrinivasacharya \[Telegu: శ్రీనివాసాచార్య : IAST: śrīnivāsācārya]' of Gonepuru (ed.); & 'Shrinivasadikshita \[Telegu: శ్రీనివాసదీక్షిత ; IAST: s̀rīnivāsadīksita]' (comp.)(1948). 'Mokshopaya Pradeepika: The Revered Garland of Conclusions on the Vaikhanasa Doctrine \[Telegu: మోక్షోపాయప్రదీపికా ; IAST: mokṣopāya pradīpikā]'. 'Nellore \[English; Telegu: నల్లూరు ], Andhra Pradesh, India: Sri Mabhushagraja Vejkatha-Nrisimha-Acharya \[Telegu: శ్రీమాభీషగ్రాజదేవ వేంకటనృసింహాచార్య ; IAST: śrī mābhīṣagrajadeva Veṅkaṭanṛsiṃhācārya) & 'Praja Press \[Telegu: ప్రజా ప్రెస్ ; IAST: prajā pres]. Source: https://dn790001.ca.archive.org/0/items/mokshopayapradee015043mbp/mokshopayapradee015043mbp.pdf (accessed: Saturday, July 12, 2025) 
 
 **Purport:**<br>
 This work is particularly rare and unusual in the Vaikhanasa canon, as it is not principally a work of ritual, but one of theology. This makes it of particular importance.
+
+### BHATTACHARYA, Ram. ###
+
+* Bhattacharya, Ram Shankar (1985). 'An Introduction to the Yoga-Sutra'. With a 'Foreword' by Ram Karan Sharma dated 1985. Delhi, India: Bharatiya Vidya Prakasana. 
+
+**Purport:**<br>
+...
 
 ### Bhattacharya, S. ###
 
