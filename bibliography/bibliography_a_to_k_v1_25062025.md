@@ -522,6 +522,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 ...
 
+### HARIHARA-ANANDA Aranya, S. ###
+
+* Harihara-Ananda Aranya, Swami \[Bengali: স্বামী হরিহরানন্দ অরণ্য ; IAST: svāmī harihara-ānanda araṇya; Hindi: स्वामी हरिहरानंद अरण्य ; IAST: svāmī harihara-ānanda araṇya] (comm.) & Mukerji, P.N. (trans.) (2000, 1999, 1981, 1977, 1963). 'The Yoga Philosophy of Patanjali with Bhashvati'. With a 'Foreword' by Swami Dharmamegha Aranya dated 1963. With a 'Preface to the  First Edition by P.N. Mukerji dated 1963. With a 'Preface to the Fourth Edition' by Adinath Chatterjee dated 2000. (NB: First edition published in 1963. Second edition published in 1978 and revised and enlarged. Third edition of 1981 is further revised and enlarged. The 1999 edition was a reprint or imprint of the 1981 edition. The fourth edition published in 2000 is further enlarged.). Calcutta, West Bengal, India: University of Calcutta (on behalf of Kapil Math, Madhupur, Bihar). ISBN 8187594004. Source: https://archive.org/details/dli.calcutta.11267 (accessed: Thursday, July 31, 2025)
+
+**Purport:**<br>
+...
+
 ### HENRION-DOURCY, I. ###
 
 * Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
