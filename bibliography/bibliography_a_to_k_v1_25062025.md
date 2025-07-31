@@ -342,6 +342,12 @@ This is very useful. **TODO:** Harvest bibliography.
 
 ...
 
+### CHAKRAVARTI, P. ###
+
+* Chakravarti, Pulinbihari (1952). 'Origin and Development of the Samkhya System of Thought'. Calcutta Sanskrit Series No. XXX \[30]. First edition. Calcutta, West Bengal, India: Metropolitan Printing & Publishing House Ltd.
+
+**Purport:**<br>
+...
 
 ### CHAPPELLE, P. ###
 
