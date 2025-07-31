@@ -1336,6 +1336,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+### SJOMAN, N. ### 
+
+* Sjoman, N.E. (1999, 1996). 'The Yoga Tradition of the Mysore Palace'. (NB: First edition 1996 and Second edition 1999.). With a 'Foreword' by H.H. Srikantadatta Narasimharaja Wadiyar dated 1995. Hauz Khas, New Delhi, India: Abhinav Publications (Shakti Malik). ISBN 9788170173892.
+
+**Purport:**<br>
+...
+
 ### SRINIVASAN, D. ###
 
 * Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
