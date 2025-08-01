@@ -913,7 +913,7 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 
 ### O'BRIEN, B. ###
 
-* O’Brien, Barbara (2018). ‘An Explanation of Upaya in Buddhism’ in *Learn Religions [online]*, March 20, 2018 (updated). Source: https://www.learnreligions.com/upaya-skillful-or-expedient-means-450018 (accessed: Monday, July 22, 2024). Source: https://archive.org/details/o-brien-barbara-2018.-an-explanation-of-upaya-in-buddhism (accessed: Monday, July 22, 2024)
+* O’Brien, Barbara (2018). ‘An Explanation of Upaya in Buddhism’ in *Learn Religions \[online]*, March 20, 2018 (updated). Source: https://www.learnreligions.com/upaya-skillful-or-expedient-means-450018 (accessed: Monday, July 22, 2024). Source: https://archive.org/details/o-brien-barbara-2018.-an-explanation-of-upaya-in-buddhism (accessed: Monday, July 22, 2024)
 
 **Purport:**<br>
 ...
@@ -932,7 +932,7 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 
 ### OKI, M. ###
 
-* Oki, Mai (c2022). ‘The Enumeration of Vishnu’s Manifestations in Sanskrit Literature’. Department of Indological Studies. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/oki-mai-c-2022.-the-enumeration-of-vishnus-manifestations-in-sanskrit-literature (accessed: Saturday, August 31, 2024)
+* Oki, Mai (c.2022). ‘The Enumeration of Vishnu’s Manifestations in Sanskrit Literature’. Department of Indological Studies. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/oki-mai-c-2022.-the-enumeration-of-vishnus-manifestations-in-sanskrit-literature (accessed: Saturday, August 31, 2024)
 
 **Purport:**<br>
 ...
@@ -961,7 +961,7 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 * Olivelle, Patrick (ed.) (2019). 'Grihasta: The Householder in Ancient Indian Religious Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780190696177 (ebook). 
 
 **Purport:**<br>
-A most useful volume; unfortunately, Olivelle in the 'Introdicti(n' and none of the scheduled articles by the various authors address the Grihasta and the Agamic (Tantric) Traditions, whether understood as pre-, extra-, post- or arrising out of the Vedic Traditions in the strict and technical denotation.
+A most useful volume; unfortunately, Olivelle in the 'Introduction' and none of the scheduled articles by the various authors address the Grihasta and the Agamic (Tantric) Traditions, whether understood as pre-, extra-, post- or arising out of the Vedic Traditions in the strict and technical denotation.
 
 ### OLSON, C. ###
 
@@ -1086,7 +1086,7 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 
 ### PARIMOO, R.; *et al* ###
 
-* Parimoo, Ratan & Alone, Y. S., *et al.* (eds.) (2024, 2012). 'An Introduction to Indian Art: Part 1 - Textbook in Fine Arts for Class XI'. With a Forword by Prof. Parvin Sinclair, Director, NCERT. Reprint. (Note: First edition published in 2012.). Sri Aurobindo Marg, New Delhi, India: 'National Council of Educational Research and Training (NCERT) \[Hindi: राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद ; IAST: rāṣṭrīya śaikṣika anusandhāna aura praśikṣaṇa pariṣad]. ISBN 9789350071878. Source: https://archive.org/details/parimoo-ratan-alone-y.-s.-et-al.-eds.-2024-2012.-an-introduction-to-indian-art-p (accessed: Sunday, September 29, 2024)
+* Parimoo, Ratan & Alone, Y.S., *et al.* (eds.) (2024, 2012). 'An Introduction to Indian Art: Part 1 - Textbook in Fine Arts for Class XI'. With a Forword by Prof. Parvin Sinclair, Director, NCERT. Reprint. (Note: First edition published in 2012.). Sri Aurobindo Marg, New Delhi, India: 'National Council of Educational Research and Training (NCERT) \[Hindi: राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद ; IAST: rāṣṭrīya śaikṣika anusandhāna aura praśikṣaṇa pariṣad]. ISBN 9789350071878. Source: https://archive.org/details/parimoo-ratan-alone-y.-s.-et-al.-eds.-2024-2012.-an-introduction-to-indian-art-p (accessed: Sunday, September 29, 2024)
 
 **Purport:**<br>
 ...
@@ -1094,6 +1094,30 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 ### PARPOLA, A. ###
 
 * Parpola, Asko (1999). 'Vac as a Goddess of Victory in the Veda and Her Relation to Durga' (pp. 101–143) in *Zinbun: Memoirs of the Research Institute for Humanistic Studies*, Vol. 34, №2, 1999. Kyoto, Japan: Kyoto University. Source: https://archive.org/details/parpola-asko-1999.-vac-as-a-goddess-of-victory-in-the-veda-and-her-relation-to-durga (accessed: Tuesday, August 06, 2024)
+
+**Purport:**<br>
+...
+
+* Parpola, Asko (2002). 'Pre-Proto-Iranians of Afghanistan as Initiators of Shakta Tantrism: On the Scythian/Saka Affiliation of the Dasas, Nuristanis and Magadhans' (pp. 233–324) in *Iranica Antiqua*, Vol. 37, 2002. Leuven, Belgium: Peeters Publishers. Source: https://archive.org/details/parpola-asko-2002.-pre-proto-iranians-of-afghanistan-as-initiators-of-shakta-tan (accessed: Saturday, August 31, 2024)
+
+**Purport:**<br>
+...
+
+### PATHAK, M. ###
+
+* Pathak, Madhusudan M. (ed.) (1997). 'The Critical Edition of the Viṣṇupurāṇam Vol. 1 (Amshas 1–3)'. First edition. Vadodara, India: Oriental Institute. (OCLC Number / Unique Identifier: 1075411480)
+
+**Purport:**<br>
+...
+
+* Pathak, Madhusudan M. (ed.)(1999). 'The Critical Edition of the Viṣṇupurāṇam Vol. 2 (Amshas 4–6, Index)'. First edition. Vadodara, India: Oriental Institute. (OCLC Number 1075663962)
+
+**Purport:**<br>
+...
+
+### PATNAIK, S. ###
+
+* Patnaik, Saanika (2018). 'Depictions of the Forgotten: Yakshas and Yakshis in the Mahabharata and Early Buddhist Art'. Thesis. Sonipat, Haryana, India: Ashoka University. Source: https://archive.org/details/patnaik-saanika-2018.-depictions-of-forgotten-yakshas-yakshis-in-mahabharata-early-buddhist-art (accessed: Tuesday, September 17, 2024)
 
 **Purport:**<br>
 ...
@@ -1111,6 +1135,13 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 
 **Purport:**<br>
 Not one dedicated article on either the Pancharatra or Vaikhanasa, one on Vaishnava Sahajiya and one on the Bhutashuddhi (BS) gives some treatment to the Pancharatra and has a valuable bibliography. This article on the BS and the one by Flood, plus the dedicated primary resource on BS, should be enough to support a well-rounded presentation.
+
+### PERRET, R. ###
+
+* Perret, Roy W. (ed.) (2013, 2001). 'Indian Philosophy: A Collection of Readings - 1. Epistemology, 2. Logic and Philosophy of Language, 3. Metaphysics, 4. Philosophy of Religion, 5. Theory of Value \[5-volumes-in-1: edition]'. New York, N. Y., U. S. A.: Routledge (Garland is an imprint of the Taylor & Francis Group). ISBN 08153336701 (5 volume set ISBN). Source: https://archive.org/details/indian-philosophy-a-collection-of-readings-5-vol.-set-roy-w.-perrett (accessed: Friday, August 02, 2024)
+
+**Purport:**<br>
+...
 
 ### P.I., A. ###
 
