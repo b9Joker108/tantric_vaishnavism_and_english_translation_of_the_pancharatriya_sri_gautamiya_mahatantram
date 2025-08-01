@@ -1295,6 +1295,54 @@ The *Sri Yoni Tantra* has been published in a critical edition, but I have not y
 **Purport:**<br>
 ...
 
+### RAJARAJAN, R. ###
+
+* Rajarajan, R.K.K. (1992). 'The Cave Temple at Tirumalai: Its Iconographical Significance' (pp. 489–494) in *East and West*, Vol. 42, №2/4, December, 1992. Rome, Italy: Istituto Italiano per l'Africa e l'Oriente (IsIAO). Source: https://archive.org/details/rajarajan-r.-k.-k.-1992.-the-cave-temple-at-tirumalai-its-iconographical-significance (accessed: Thursday, August 08, 2024)
+
+**Purport:**<br>
+...
+
+* Rajarajan, R.K.K. (2011). 'Vishnu's Epithets in the Hymns of the Alvars in Art Historical Context' (pp. 1–19) presented at the *18th Tamil Nadu History Congress*, conducted at Vellalar College for Women, Erode, Tamil Nadu, India. Gandhigram, Tamil Nadu, India: Gandhigram Rural University. Source: https://archive.org/details/rajarajan-r.-k.-k.-2011.-vishnus-epithets-in-the-hymns-of-the-alvars-in-art-historical-context (accessed: Thursday, August 08, 2024)
+
+**Purport:**<br>
+...
+
+* Rajarajan, R.K.K. (2016). 'Master-Slave Ambivalence in the Hagiography of the Alvars' (pp. 44–60) in *The Quarterly Journal of the Mythic Society*, Vol. 107, Issue 1, 2016. Bangalore, Karnataka, India: The Mythic Society. Source: https://archive.org/details/rajarajan-r.-k.-k.-2016.-master-slave-ambivalence-in-the-hagiography-of-the-alvars (accessed: Thursday, August 08, 2024)
+
+**Purport:**<br>
+...
+
+* Rajarajan, R.K.K. (2020). 'Water, Source of "Genesis" and the End Macro and Micro Vishnu in the Hymns of the Alvars' (pp. 1–36) in *The Medieval History Journal*, November, 2020. DOI: 10.1177/0971945820956583. Newbury Park, California, U.S.A.: SAGE Publishing. Source: xxx
+
+**Purport:**<br>
+...
+
+* Rajarajan, R.K.K. (2021). 'The Vedas and Bhakti Harmonized-Kovalur: the Mutal Alvars and Tirumankai' (pp. 14–33) in *ShodhKosh: Journal of Visual and Performing Arts*, Vol. 2, Issue 2, 2021. Granthaalayah, Indore, India: Granthaalayah Publications. DOI: 10.29121/shodhkosh.v2.i2.2021.2. Source: xxx
+
+**Purport:**<br>
+...
+
+### RAJENDRAN, R. ###
+
+* Rajendran, Dr. R. (coord.) & Jayanthi, J., (ed.), *et al.* (2000). 'Project Madurai: puRanAnURu (in Tamil Script, TSCII format)'. Tiruchirappalli, Tamilnadu, India: K.A.P. Viswanatham Higher Secondary School. Source: https://archive.org/details/rajendran-dr.-r.-coord.-ed.-jayanthi-j.-et-al.-2000.-project-madurai-pu-ran-an-u (accessed: Monday, September 16, 2024)
+
+**Purport:**<br>
+...
+
+### RAJWADE, V.; *et al.* ###
+
+* Rajwade, V.K.; Abhyankar, M.M. Vasudeoshastri; Sontakke, N.S. & Varadarajasharma, T.S. (eds.) (1933). 'Rig-Veda-Samhita: With the Commentary of Sayana-Acharya - Vol. 1, Mandala 1'. With a Foreward in English by V.K. Rajwade. With an Introduction in English by N.S. Sontakke. Poona, India: Vaidika Samshodhana Mandala (Tilak Maharashtra University). Source: https://archive.org/details/rajwade-v.-k.-abhyankar-m.-m.-v.-sontakke-n.-s.-varadarajasharma-t.-s.-eds.-1933 (accessed: Saturday, August 24, 2024)
+
+**Purport:**<br>
+...
+
+### RAMAN, S. ###
+
+* Raman, Srilata (2007). 'Self-Surrender (Prapatti) to God in Sri-Vaishnavism: Tamil Cats and Sanskrit Monkeys'. Taylor & Francis e-Library edition. With a Series Editor's Preface by Gavin Flood. (First edition published in 2007). Milton Park, Abingdon, Oxon, England, U.K.: Routledge Hindu Studies Series (in association with the Oxford Centre for Hindu Studies). Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203967812 (ebook). Source: https://archive.org/details/raman-srilata-2007.-self-surrender-prapatti-to-god-in-sri-vaishnavism-tamil-cats-sanskrit-monkeys (accessed: Wednesday, August 07, 2024)
+
+**Purport:**<br>
+I established a magico-intentional prayer-spell for insight into the Sri Vaishnava's sectarian bifurcation into two principal denominations and this adept work by Raman is the fructification. As I engage this work, it may be wise to excavate the curated Internet Archive Sri Vaishnavam Tamil Collection, refer: https://archive.org/details/itav_20220707_202207 (accessed: Wednesday, August 07, 2024)
+
 ### RAMANAN, M. ###
 
 * Ramanan, Mohan (2014). 'The Classical Music Culture of South India' (pp. 134-145) in *Indialogs \[Styled: Indi@logs]*, Vol. 1, 2014. Bellaterra, Barcelona, Catalonia, Spain: 'Autonomous University of Barcelona \[English; Catalan: Universitat Autònoma de Barcelona]'. 
