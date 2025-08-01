@@ -1350,6 +1350,93 @@ I established a magico-intentional prayer-spell for insight into the Sri Vaishna
 **Purport:**<br>
 ...
 
+### RAMANUJA-achari, R. ###
+
+* Ramanuja-Achari, Pt. Sri Rama (2013). 'Vaishnava Iconology: Based on Pancharatra Agama'. Srimatham.com Source: https://archive.org/details/ramanuja-achari-pt.-sri-rama-2013.-vaishnava-iconology-based-on-pancharatra-agama (accessed: Saturday, September 21, 2024)
+
+**Purport:**<br>
+...
+
+### RAMESAN, N. ###
+
+* Ramesan, Dr. N. (1999, 1981). 'The Tirumala Temple'. With a Publisher's Note by Dr. I.V. Subba Rao dated 1999. With a Foreword by R. Subrahmanyam dated 1980. Second edition. (Note: First edition was published in 1981 along with a Publisher's Note by P.V.R.K. Prasad dated 1981.). Tirupati, India: Tirumala Tirupati Devasthanams. Soure: Source: https://archive.org/details/the-tirumala-temple-by-dr-n-ramesan-in-english (accessed: Thursday, September 26, 2024). Source: https://archive.org/details/in.ernet.dli.2015.162281 (accessed: Thursday, September 26, 2024)
+
+**Purport:**<br>
+...
+
+### RANGACHAR, M. ###
+
+* Rangachar, M. E. (2000). 'The Philosophy of Vishishtadvaita: As Expounded by Sri Vedanta Deshika in the Nyaya-Siddha-Anjana'. With a Preface in English by Swami Harshananda dated 2000. With a Preamble in Sanskrit by N.S. Ramanujatatacharya and excerpts from this are rendered in an English Introduction. Ashoknagar, Bangalore, Karnataka, India: Sri Nityananda Printers. Source: https://archive.org/details/thephilosophyofvisistadvaitaasexpoundedbysrivedantadesikainnyayasiddhanjanadrmerangachar2000ocr (accessed: Tuesday, September 03, 2024)
+
+**Purport:**<br>
+...
+
+### RANGACHAR, S. ###
+
+* Rangachar, S. (1991). 'Philosophy of Pancharatras'. With a Preface by Dr. M.N. Singaramma. With a Foreward by Sampathkumara Bhattacharya. First edition. (Note: This is a publication of the author's thesis submitted to the Mysore University sometime prior.). (Note: Published with the financial assistance of Tirumala Tirupathi Devastanam.). Mandya, Karnataka, India: Sridevi Prakashana (Dr. M.N. Singaramma). Source: https://archive.org/details/PhilosophyOfPancharatra (accessed: Saturday, August 31, 2024)
+
+**Purport:**<br>
+...
+
+### RANGARAJAN, H.; *et al.* ###
+
+* Rangarajan, Haripriya & Gupta, Vinay Kumar (2015). 'Vrishni Cult in South India' (pp. 82–85) in *History Today*, №16, 2015. Source: xxx
+
+**Purport:**<br>
+...
+
+### RASTELLI, M. ###
+
+* Rastelli, Marion (1999). 'For the Understanding of the Pancharatra from the Origin of its Samhitas \[German: Zum Verstandnis des Pancharatra von der Herkunft seiner Samhitas]' (in German) (pp. 51–93) in the *Vienna Journal of South Asian Studies \[German: Wiener Zeitschrift fur die Kunde Sudasiens]* \[WZKS]*, Vol. 43, 1999. Vienna, Austria: Austrian Academy of Sciences Press \[German: Verlag der Osterreichischen Akademie der Wissenschaften]. Source: https://archive.org/details/rastelli-marion-1999.-for-the-understanding-of-the-pancharatra-from-the-origin-o (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2000). 'The Five Times (Pancha Kalas) in the Oldest Pancharatra-Samhitas \[German: Die Fünf Zeiten (Pañca Kālas) in den Ältesten Pāñcarātra-Saṃhitās]' (Note: Article in German.) (pp. 101–134) in the *Vienna Journal of South Asian Studies \[German: Wiener Zeitschrift für die Kunde Südasiens] \[WZKS]*, Vol. 44, 2000. Vienna, Austria: Austrian Academy of Sciences Press. Source: https://archive.org/details/rastelli-marion-2000.-the-five-times-pancha-kalas-in-the-oldest-pancharatra-samhitas-in-german (accessed: Thursday, August 29, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2000). 'The Religious Practice of the Sadhaka According to the Jayakha-Samhita' (pp. 319–395) in the *Indo-Iranian Journal*, Vol. 43, Issue 4. Amsterdam, The Netherlands: Kluwer Academic Publishers. Source: https://archive.org/details/rastelli-marion-2000.-the-religious-practice-of-the-sadhaka-according-to-the-jayakha-samhita (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2007, 2003). 'Mandalas and Yantras in the Pancharatra Tradition' (pp. 119–152) in Buhnemann, Gudrun, *et al.* (2007, 2003). *Mandalas and Yantras in the Hindu Traditions*. Revised edition. (Note: First published in Leiden, The Netherlands, in 2003.). Bali Nagar, New Delhi, India: D.K. Printworld (P) Ltd. ISBN 8124603979 (hardbound). Source: https://archive.org/details/buhnemann-gudrun-et-al.-2007-2003.-mandalas-and-yantras-in-the-hindu-traditions-rev.-ed (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2003). 'REVIEW: Sanjukta Gupta (2000). Lakshmi Tantra. A Pancharatra Text. (First Indian Edition)' (pp. 232–233) in the *Vienna Journal of South Asian Studies \[German: Wiener Zeitschrift für die Kunde Südasiens]*, Vol. 47, 2003. Vienna, Austria: Austrian Academy of Sciences Press. Source: https://archive.org/details/rastelli-marion-2003.-review-sanjukta-gupta-2000.-lakshmi-tantra.-a-pancharatra- (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2003). 'The Use of Mandalas and Yantras in the Pancharatra Tradition' (pp. 119–178) in Buhnemann, Gudrun (auth.) & Bronkhorst, Johannes (ed.), *et al.* (2003). *Mandalas and Yantras in the Hindu Traditions*. Leiden, The Netherlands: Brill. ISBN 9004129022. Source: …
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2020, 2003). 'The Ekayanaveda in the Pancharatra Tradition' (pp. 43–54) in Butters, Albion M. (ed.) (2020). *Puranas, Agamas, and Tantras: Papers of the 12th World Sanskrit Conference held in Helsinki, Finland, 13–18 July, 2003*. Studia Orientalia Vol. 121. Helsinki, Finland: Finnish Oriental Society. ISBN 9789519380964. Source: https://archive.org/details/butters-albion-m.-ed.-2020.-puranas-agamas-tantras-papers-of-12th-wsc-helsinki-f (accessed: Wednesday, August 21, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2004). 'REVIEW: Andreas Bock-Raming (2002). Studies on the Concept of God in the Older Anonymous Literature of the Pancharatra. Contributions to Indology 34. \[German: Untersuchungen zur Gottesvorstellung in der älteren Anonymliteratur des Pāñcarātra. Beiträge zur Indologie 34]' (Reviwed text and review in German) (pp. 229–232) in the *Vienna Journal of South Asian Studies \[German: Wiener Zeitschrift für die Kunde Südasiens]*, Vol. 48, 2004. Vienna, Austria: Austrian Academy of Sciences Press. Source: https://archive.org/details/rastelli-marion-2004.-review-andreas-bock-raming-2002.-studies-on-concept-of-god (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2007). 'The "Pancharatra Passages" in Agnipurana 21–70' (pp.187–229) in Goodall, Dominic & Padoux, Andre (eds.) (2007). *Tantric Studies in Memory of Helene Brunner \[French: Melanges Tantriques a la Memoire d'Helene Brunner]*. Collection Indologie Vol. 106. Pondichery, Paris: EFEO (Ecole Francaise d'Extreme-Orient), Institut Francais de Pondichery (IFP). ISBN 9782855396668.
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2022). 'Vaishnava Agamas' (pp. 1690–1698) in Long, Jeffery D.; Sherma, Rita D.; Jain, Pankaj & Khanna, Madhu (eds.) (2022). *Hinduism and Tribal Religions*. Encyclopedia of Indian Religions series. Dordrecht, The Netherlands: Springer. ISBN 9789402411881 (ebook). Source: xxx
+
+**Purport:**<br>
+...
+
 ### RAWLINSON, A. ###
 
 * Rawlinson, Andrew (1987). 'Love and Meditation in the Bhakti Tradition' (pp. 53-58) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
@@ -1375,6 +1462,13 @@ Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was 
 
 **Purport:**<br>
 ...
+
+### REEDY, C. ###
+
+* Reedy, Chandra L. (1997). 'Himalayan Bronzes: Technology, Style and Choices'. Newark, New Jersey, U.S.A.: Delaware (Associated University Presses, Inc.). ISBN 0874135702 (alk. paper). ISBN 9780874135701. Source: https://books.google.com/books/about/Himalayan_Bronzes.html?id=3dNiLUB3usMC (accessed: Sunday, September 29, 2024)
+
+**Purport:**<br>
+Some of this work is accessible on Google Books, but as yet, I have not secured the work in its entirety. From research, I have ascertained it to be a work of quality and of uncommon depth, that investigates Himalayan bronzes artefacts from a holistic suite of technical inter-disciplinary perspectives.
 
 ### ROBINSON, F. ###
 
@@ -1416,9 +1510,14 @@ Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was 
 **Purport:**<br>
 ...
 
-### SASTRY, S. ###
+### SASTRY, S.; *et al.* ###
 
 * Sastry, Sri Sadhu Subrahmanya (auth.) & Reddy, Sri S. 'Gopi' Krishna (ed.) (1981). 'Tirupati Sri Venkatesvara'. T.T.D. Religious Series No. 107. With a 'Foreword' by Sri P.V.R.K. Prasad. Tirupati, Andhra Pradesh, India: Tirumala Tirupati Devasthanams (T.T.D.: Sri P.V.R.K. Prasad).
+
+**Purport:**<br>
+...
+
+* Sastry, Sri Sadhu Subrahmanya (auth.) & Reddy, Sri S. Krishna (Gopi Krishna) (ed.) (2004, 1981). 'Tirupati Sri Venkateshwara'. T.T.D. Religious Series №107. With a Foreword by Aleya Kallam. Reprint. (With a Foreword by P.V.R.K. Prasad dated 1981 in the edition of 1981.). Tirupati, Andhra Pradesh, India: Tirumala Tirupati Devasthanams. Source: https://archive.org/details/tirupat-sri-venkateswara-by-sadhu-subrahmanya-sastry-in-english (accessed: Friday, September 27, 2024)
 
 **Purport:**<br>
 ...
@@ -1464,6 +1563,18 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SCHRADER, F.; *et al.* ###
+
+* Schrader, F. Otto & Ramanujacharya, M.D. & (eds.) (1916). 'Ahirbudhnya Samhita of the Pancharatra Agama: Vol. 1'. With a Prefatory Note in English by Johan van Manen. (Note: In Sanskrit set in Devanagari. It is stated by van Manen that the volume was prepared from seven manuscripts and their then provenance is provided on p. viii, without any further specifics.) Adyar, Madras, India: Adyar Library. Source: https://archive.org/details/in.ernet.dli.2015.486994 (accessed: Sunday, August 25, 2024)
+
+**Purport:**<br>
+...
+
+* Schrader, F. Otto & Ramanujacharya, M.D. (eds.) (1916). 'Ahirbudhnya Samhita of the Pancharatra Agama: Vol. 2'. (Note: In Sanskrit set in Devanagari. It is stated by van Manen that the volume was prepared from seven manuscripts and their then provenance is provided on Vol. 1, p. viii, without any further specifics.) Adyar, Madras, India: Adyar Library. Source: https://archive.org/details/in.ernet.dli.2015.322565 (accessed: Sunday, August 25, 2024)
+
+**Purport:**<br>
+...
+
 ### SEBASTIAN, R. ###
 
 * Sebastian, Rodney (2019). 'Cultural Fusion in a Religious Dance Drama: Building the Sacred Body in the Manipuri Raslilas'. Ph.D. dissertation. Graduate School. Gainesville, Florida, U.S.A.: University of Florida. Source: https://www.proquest.com/docview/2464172212 (accessed: Monday, July 28, 2025)
@@ -1473,7 +1584,7 @@ A very useful article and evidentiary for the iconographical development of Sri 
 
 ### SEN, A.; *et al.* ###
 
-* Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33 - 56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal and New Perspectives on Religious Life and Culture' (pp. 33–56) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk).
 
 **Purport:**<br>
 ...
@@ -1499,6 +1610,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+### SINGER, M. ###
+
+* Singer, Milton (ed.) (1976, 1959). 'Traditional India: Structure and Change'. American Folklore Society Bibliographical and Special Series Vol. 10. Third impression/printing. (Note: First edition published in 1959.). Austin, Texas, U.S.A.: University of Texas Press. ISBN 0292735049. Source: https://archive.org/details/singer-milton-ed.-1976-1959.-TraditionalIndia-StructureandChange (accessed: Saturday, October 05, 2024)
+
+**Purport:**<br>
+...
+
 ### SINGH, R. ###
 
 * Singh, Ravindra Raj (1991). 'The Pivotal Role of Bhakti in Indian World Views' (pp. 65-81) in *Diogenes*, Vol. 39, Issue 156, December, Winter, 1991. Cambridge, England, U.K.: Cambridge University Press. 
@@ -1507,6 +1625,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 ...
 
 * Singh, Ravindra Raj (2006). 'Bhakti and Philosophy'. Lanham, Maryland, U.S.A.: Lexington Books (a division of Rowman & Littlefield Publishers, Inc.). ISBN 9780739114247 (cloth: alk. paper).
+
+**Purport:**<br>
+...
+
+### SIRCAR, D. ###
+
+* Sircar, D.C. (ed.) (1970). 'The Bhakti Cult and Ancient Indian Geography'. Centre of Advanced Study in Ancient Indian History and Culture, University of Calcutta, Lectures and Seminars No. IV-B (Seminars). (NB: Papers of the 'Proceedings of the Seminar' of February, 23rd and 24th, 1968.). Calcutta, West, Bengal, India: University of Calcutta. First edition. University of Calcutta (Sri Sibendranath Kanjilal). Source: https://archive.org/details/dli.calcutta.11084 (accessed: Friday, June 20, 2025)
 
 **Purport:**<br>
 ...
