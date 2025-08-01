@@ -349,6 +349,13 @@ This is very useful. **TODO:** Harvest bibliography.
 **Purport:**<br>
 ...
 
+### CHAITANYA, K. ###
+
+* Chaitanya, Krishna (alt. K.K. Nair) (1991). 'The Betrayal of Krishna: Vicissitudes of a Great Myth'. New Delhi, India: Clarion Books. ISBN 8185120390 / ISBN 9788185120393.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### CHAPPELLE, P. ###
 
 * Chappelle, Pamela Ann (2021). 'Sacred Sound: The Thread of Sound, Language and Reality in Hinduism'. Graduate Program in Liberal Studies. Graduate School-Camden. Camden, New Jersey, U.S.A.: Rutgers, The State University of New Jersey. Source: https://mals.camden.rutgers.edu/files/Chappelle-Capstone.pdf (accessed: Thursday, July 10, 2025)
