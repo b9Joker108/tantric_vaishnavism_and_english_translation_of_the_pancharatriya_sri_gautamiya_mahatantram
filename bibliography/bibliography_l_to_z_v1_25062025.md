@@ -847,6 +847,13 @@ I wrote to the Montreal University Library on Friday, September 27, 2024, for as
 **Purport:**<br>
 ...
 
+### NEEVEL, Jr.; W. ###
+
+* Neevel, Jr.; Walter G. (1977). 'Yamuna's Vedanta and Pancharatra: Integrating the Classical and the Popular'. Harvard Dissertations in Religion Vol. 10. Missoula, Montana, U.S.A.: Scholars Press (University of Montana). ISBN 0891301364. Source: xxx
+
+**Purport:**<br>
+...
+
 ### NEKI, J. ###
 
 * Neki, Jaswant Singh (c. 2013). ‘Sahaj’ in Mann, J. S. & Sodhi, S. S. (eds. & comps.) (c. 2013). *Concepts in Sikhism: Cognitive Psychology — Mind Map Approach to Understanding Sikhism for the Second Generation Sikh Children*. Halifax, Nova Scotia Canada: Independently/Self-published. (Note: There is a published edition available by Sapatrishi Publications, 2022, except it is credited with an additional editor and compiler, not evident in the undated PDF precursor, I have secured, who is named M. P. Singh. All three editor/compilers bear the title ‘Doctor’, which is worth noting. ISBN 9789394769083. I date the PDF as circa 2013, as an identical undated PDF to the one I secured, was uploaded to Scribd in that year.). Source: https://archive.org/details/mann-j.-s.-sodhi-s.-s.-eds.-comps.c-2013.-concepts-in-sikhism-cognitive-psycholo (accessed: Monday, July 15, 2024)
@@ -863,7 +870,7 @@ I wrote to the Montreal University Library on Friday, September 27, 2024, for as
 
 ### NEMEC, J. ###
 
-* Nemec, John (2020). ‘Innovation and Change in the Vale of Kashmir, circa 900–150 C. E.’ (pp. 283–320) in Goodall, Dominic; Hatley, Shaman; Isaacson, Harunaga & Raman, Srilata (eds.) (2020). *Shaivism and the Tantric Traditions: Essays in Honour of Alexis G.J.S. Sanderson*. Gonda Indological Studes Vol. 22. Leiden, The Netherlands: Koninklijke Brill. ISBN 9789004432802 (ebook). Source: https://archive.org/details/goodall-d.-hatley-s.-isaacson-h.-raman-s.-eds.-2020.-shaivism-and-the-tantric-tr (accessed: Friday, October 04, 2024)
+* Nemec, John (2020). 'Innovation and Social Change in the Vale of Kashmir, circa 900–150 C. E.' (pp. 283–320) in Goodall, Dominic; Hatley, Shaman; Isaacson, Harunaga & Raman, Srilata (eds.) (2020). *Shaivism and the Tantric Traditions: Essays in Honour of Alexis G.J.S. Sanderson*. Gonda Indological Studes Vol. 22. Leiden, The Netherlands: Koninklijke Brill. ISBN 9789004432802 (ebook). Source: https://archive.org/details/goodall-d.-hatley-s.-isaacson-h.-raman-s.-eds.-2020.-shaivism-and-the-tantric-tr (accessed: Friday, October 04, 2024)
 
 **Purport:**<br>
 By memory, Nemec is faculty at U. of Virg. **TODO:** Harvest his work.
@@ -1357,9 +1364,37 @@ I established a magico-intentional prayer-spell for insight into the Sri Vaishna
 **Purport:**<br>
 ...
 
+### RAMANUJAN, S. ###
+
+* Ramanujan, S.R. (2022). 'Venkatachala Nilayam: Tracing the Evolution of Tirumala Temple'. Vanagaram, Chennai, Tamil Nadu, India: Notion Press. ISBN 9781685383466. Source: https://books.google.com/books/about/Venkatachala_Nilayam.html?id=sptcEAAAQBAJ (accessed: Thursday, September 26, 2024)
+
+**Purport:**<br>
+Though it doesn't state so, this appears to be the same as Ramanujan (2014), as it has identical chapter headings.
+
+### RAMDAS, R. ###
+
+* Ramdas, Ravindranath Vaman (1986). 'Glimpses of Aparaka-Tika of Aparaditya the King of the Shilahara Dynasty of North Konkan (1127–1148 A.D.) which was Presented to the Court of Jayasimha the King of Kashmir' (pp. 122–127) in the *Proceedings of the Indian History Congress*, Vol. 47, Issue 1, 1986, pp. i - xxxvi, 1–743. Aligarh, Uttar Pradesh, India: Indian History Congress (Department of History, Aligarh Muslim University). Source: https://archive.org/details/ramdas-ravindranath-vaman-1986.-glimpses-of-aparaka-tika-of-aparaditya-the-king- (accessed: Sunday, August 25, 2024)
+
+**Purport:**<br>
+This references the presence or notability of the Pancharatra tradition in two localities of the given time-period.
+
+### RAMELAN, W.; *et al.* ###
+
+* Ramelan, Wiwin D.S. (ed.) & Indrasari, Dwi A. (trans.), *et al.* (2013). 'Candi Indonesia: Seri Jawa'. (Note: In Indonesian and English). Jakarta, Indonesia: Direktorat Pelestarian Cagar Budaya dan Permuseuman (Direktorat Jenderal Kebudayaan). ISBN 9786021766934. Source: xxx
+
+**Purport:**<br>
+I was hoping for a dedicated work on the Candi of Indonesia in English. I also hoped that it would be well illustrated. This volume adeptly realises that which I hoped for, even more than hoped in truth. The value of a bilingual edition is inestimable. This particular electronic version, is flawlessly produced, in the sense of the fidelity of the colour images. It truly is a blessing. I tender a sincere appreciation and thank you, to all concerned.
+
 ### RAMESAN, N. ###
 
 * Ramesan, Dr. N. (1999, 1981). 'The Tirumala Temple'. With a Publisher's Note by Dr. I.V. Subba Rao dated 1999. With a Foreword by R. Subrahmanyam dated 1980. Second edition. (Note: First edition was published in 1981 along with a Publisher's Note by P.V.R.K. Prasad dated 1981.). Tirupati, India: Tirumala Tirupati Devasthanams. Soure: Source: https://archive.org/details/the-tirumala-temple-by-dr-n-ramesan-in-english (accessed: Thursday, September 26, 2024). Source: https://archive.org/details/in.ernet.dli.2015.162281 (accessed: Thursday, September 26, 2024)
+
+**Purport:**<br>
+...
+
+### RAMESH, M. ###
+
+* Ramesh, M.S. (2000, 1992). '108 Vaishnava Divya Desams: Vol. 1 - Divya Desams in Tondai Nadu (A descriptive study of 23 well known Vaishnavite shrines of Tondai Nadu)'. Reprint of first edition. T.T.D. Religious Publications Series №412. (Note: The first edition was published in 1992.). Tirupati, Tamil Nadu, India: Tirumala Tirupati Devasthanams. Source: https://archive.org/details/108-vaishnavite-divya-desams-vol-1-by-dr-m-s-ramesh-in-english (accessed: Saturday, August 03, 2024)
 
 **Purport:**<br>
 ...
@@ -1378,12 +1413,74 @@ I established a magico-intentional prayer-spell for insight into the Sri Vaishna
 **Purport:**<br>
 ...
 
+### RANGACHARYA, M. ###
+
+* Rangacharya, M. (1911). 'A Descriptive Catalogue of the Sanskrit Manuscripts in the Government Oriental Manuscripts Library, Madras: Vol. 11 - Systems of Indian Philosophy - Continued'. (Note: In English, Sanskrit set in Devanagari and IAST.). Madras, India: \[Madras] Government Press. Source: https://archive.org/details/rangacharya-m.-1911.-desc.-cat.-of-sanskrit-mss-in-gov.-oriental-man.-library-ma (accessed: Tuesday, September 03, 2024)
+
+**Purport:**<br>
+On p. vi of this work, these manuscripts are listed: Pāñcarātrakaṇṭakōddhāra №5279, pp. 4069–4070 an "injured" "complete" "palm-leaf" manuscript of "\[a]ppearance, old", of 118 pages with seven (7) lines to a page in Grantha script: "A treatise in support of Yāmunācārya's Agāmaprāmāṇya by Vādhūla Varadācārya." Beginning: जयति श्रीमहाचार्यो वेदान्तार्थप्रकाशकः । कुहनाबद्धसिद्धान्त श्रद्धाध्वान्तदिवाकरः ॥ श्रीपाश्चरात्रप्रामाण्यकण्टकोद्धारसङ्ग्रहः । वाधूलवरदार्येण क्रियते भगवन्मुदे ॥ श्रीपञ्चरात्रमार्गेषु कण्टका निहिताः परैः । तत्र सञ्चरतां पुंसां प्रीत्यै तानुद्धराम्यहम् ॥ पञ्चरात्राभिधं तन्त्रं नारायणमुखोद्गतम् । मानवादेर्विशेषेण मानतां प्रतिपद्यते ॥ \[ननु] पञ्चरात्रप्रामाण्यमनुपपन्नम् ; मूलाभावाद्विरुद्धत्वाद्विद्यास्थाने वसंग्रहात् । वैदिकैरगृहीतत्वादवैदिकपरिग्रहात् ।। End: प्रसिद्धेतिहास पुराणादिवचनविरुद्धानां तथाभूतवचनानामनादर - णीयत्वात् अन्ये पद्रवाश्चागमप्रामाण्यादौ निरस्ता इत्युपरम्यते ॥ श्रीपञ्चरात्रशास्त्रस्य श्रुतिस्मृत्यविरोधिनः । तत्त्वविद्वज्जनन्यायैः प्रामाण्यमुपपादितम् । Colophon: इति श्रीपञ्श्चरात्र (स्थ) कण्टकोद्धारसङ्ग्रहः । कृतोऽयं विदुषां प्रीत्यै श्रुतिस्मृतिपुरस्सरः ।। Beginning: jayati śrīmahācāryo vedāntārthaprakāśakaḥ | 
+kuhanābaddhasiddhānta śraddhādhvāntadivākaraḥ ||
+śrīpāścarātraprāmāṇyakaṇṭakoddhārasaṅgrahaḥ |
+vādhūlavaradāryeṇa kriyate bhagavanmude ||
+śrīpañcarātramārgeṣu kaṇṭakā nihitāḥ paraiḥ |
+tatra sañcaratāṃ puṃsāṃ prītyai tānuddhārāmyaham ||
+pañcarātrābhidhaṃ tantraṃ nārāyaṇamukhodgatam |
+mānavāderviśeṣeṇa mānatāṃ pratipadyate ||
+\[nanu] pañcarātraprāmāṇyamanupapannam; mūlābhāvādviruddhatvādvidyāsthāne vasaṅgrahāt |
+vaidikairagṛhītatvādavaidikaparigrahāt || End: prasiddhetihāsa purāṇādivacanaviruddhānāṃ tathābhūtavacanānāmanādaraṇīyatvāt anye padravāścāgamaprāmāṇyādau nirastā ityuparamyate ||
+śrīpañcarātraśāstrasya śrutismṛtyavirodhinaḥ |
+tattvavidvajjananyāyaiḥ prāmāṇyamupapāditam || Colophon: iti śrīpañścarātra (stha) kaṇṭakoddhārasaṅgrahaḥ |
+kṛto'yaṃ viduṣāṃ prītyai śrutismṛtipurassaraḥ || Beginning: "Victory to the great teacher who illuminates the meanings of Vedanta, who is the Sun dispelling the darkness of false doctrines bound by deceit. The collection of the 'Removal of Thorns from (the authenticity of) the Śrī Pāñcarātra' is being composed by Vādhūla Varadārya for the pleasure of the Lord. Thorns have been placed by others in the path of the Śrī Pāñcarātra. I shall remove them for the pleasure of those who walk this path. The tantra called Pāñcarātra, which originated from the mouth of Nārāyaṇa, is especially accepted by the followers of Manu and others." End: "Due to the contradiction with the well-known statements of Itihāsa and Purāṇa, such statements are not to be respected. Other objections regarding the authenticity of the Āgamas are also refuted, and thus it concludes. The authenticity of the Śrī Pāñcarātra Śāstra, which is not opposed to the Vedas and Smṛtis, has been established by the logic of learned persons." Colophon: "Thus ends the collection of the removal of thorns from the Śrī Pāñcarātra. This has been composed for the pleasure of the learned, following the Vedas and Smṛtis." Note: The word rendered as "thorn" is "kaṇṭaka" (कण्टक) in Sanskrit. This term metaphorically refers to obstacles or challenges that have been placed in the path of the Pāñcarātra tradition by others.; Pāñcarātrarakṣā №5280 to 5282, pp. 4071–4072; Pāñcarātrarakṣāhṛdaya №5283, pp. 4077 to 4078; Pāñcarātrāgama with Pradipikā №5284, pp. 4079 to 4080; Pāñcarātrāgama №5285 to 5287, pp. 4081–4084; Pāñcarātrāgamaprāmāṇya №5288, p. 4085; Pāñcarātrāgamasaṅgra №5289, p. 4086.
+
+### RANGACHARYA, M.; *et al.* ###
+
+* Rangacharya, M. & Aiyangar, M.B. Varadaraja (trans.) (1899). 'The Vedanta-Sutras with the Sri-Bhashya of Ramanujacharya, Vol. 1: Translated into English'. The Brahmavadin Series. Triplicane, Madras, India: The "Brahmavadin" Press (M. C. Alsingapperumal). Source: https://archive.org/details/sri_bhashya_english_translation_by_m_rangacharya_mb_varadaraja_aiyangar_1899 (accessed: Thursday, August 01, 2024)
+
+**Purport:**<br>
+...
+
+* Rangacharya, M. & Aiyangar, M.B. Varadaraja (trans.) (1964). 'The Vedanta-Sutras with the Sri-Bhashya of Ramanujacharya, Vol. 2: Translated into English'. First edition. With a joint Preface by M.R. Sampatkumaran & M.B. Narasimha Iyengar. With an Index of Quotations. With a Glossarial Index. (Note: I noticed towards the end of the work amongst the addenda, that not only were some pages upsidedown, but a very few, were absent altogether. So, another digitisation of the volume needsmust be realised.) Nungambakkam, Madras, India: The Educational Publishing Co. Source: https://archive.org/details/sri_bhashya_english_translation_by_m_rangacharya_mb_varadaraja_aiyangar_1899 (accessed: Thursday, August 01, 2024)
+
+**Purport:**<br>
+...
+
+* Rangacharya, M. & Aiyangar, M.B. Varadaraja (trans.) (1965). 'The Vedanta-Sutras with the Sri-Bhashya of Ramanujacharya, Vol. 3: Translated into English'. First edition. With a joint Preface by M.R. Sampatkumaran & M.B. Narasimha Iyengar. With an Index of Quotations. With a Glossarial Index. Nungambakkam, Madras, India: The Educational Publishing Co. Source: https://archive.org/details/sri_bhashya_english_translation_by_m_rangacharya_mb_varadaraja_aiyangar_1899 (accessed: Thursday, August 01, 2024)
+
+**Purport:**<br>
+...
+
 ### RANGARAJAN, H.; *et al.* ###
 
 * Rangarajan, Haripriya & Gupta, Vinay Kumar (2015). 'Vrishni Cult in South India' (pp. 82–85) in *History Today*, №16, 2015. Source: xxx
 
 **Purport:**<br>
 ...
+
+### RAO, M. ###
+
+* Rao, Dr. M. Rama (2013, 1963). 'Temples of Tirumala, Tirupati and Tiruchanur'. T.T.D. Religious Publications Series №999. With a Foreword by L.V. Subrahmanyam dated 2013. Second edition. (Note: First edition published in 1963.). Tirupati, Andhra Pradesh, India: Tirumala Tirupati Devasthanams. Source: There was a problem uploading. Upload again.
+
+**Purport:**<br>
+...
+
+### RAO, S. ###
+
+* Rao, Prof. S.K. Ramachandra (trans.) (2008, 1983). 'The Tantra of Sri-Chakra (Sri-Bhavanopanishad \[Sanskrit: श्री-भावनोपनिषत् ; IAST: Śrī-Bhāvanopaniṣat])'. Sri Garib Das Oriental Series №329. Second edition. (First edition: Sharada Prakashana, Bangalore, India in 1983.). Shakti Nagar, Delhi, India: Sri Satguru Publications (a division of Indian Books Centre). ISBN 8170308895. Source: https://archive.org/details/tantraofsrichakrabhavopanishadramachandraraos.k.satgurupublicationsrividya_202003_423_P (accessed: Sunday, August 04, 2024)
+
+**Purport:**<br>
+...
+
+* Rao, Prof. S.K. Ramachandra (2005b). 'The Agama Encyclopaedia Vol. 4: Pancharatra-Agama'. Second revised and enlarged edition. (Note: Revised edition of 'Agama Kosha', set published from 1989–1994, Bangalore.). Shakti Nagar, Delhi, India: Sri Satguru Publications (a division of Indian Books Centre). ISBN 8170308143 (Vol. 4). Source: xxx
+
+**Purport:**<br>
+Why is the date annotated "b"?
+
+### RAO, V. ###
+
+* Rao, V. Krishna Bhaskara (1985). 'A Study of Tirumala Tirupati Devasthanams with Special Respect to Organisational and Financial Aspects'. Thesis. Waltair, Visakhapatnam, Andhra Pradesh, India: Adhra University. Source: https://shodhganga.inflibnet.ac.in/handle/10603/400263 (accessed: Friday, July 12, 2024). Source: https://archive.org/details/rao-v.-krishna-bhaskara-1985.-a-study-of-tirumala-tirupati-devasthanams-with-spe (accessed: Friday, July 12, 2024)
+
+**Purport:**<br>
+I found this paper listed in articles about Vaikhanasa. I located it in a number of segments and affixed them together and uploaded to Internet Archive for probity.
 
 ### RASTELLI, M. ###
 
@@ -1432,7 +1529,56 @@ I established a magico-intentional prayer-spell for insight into the Sri Vaishna
 **Purport:**<br>
 ...
 
+* Rastelli, Marion (2014). 'Sandhya Worship in the 14th Century Pancharatra: Theory and Practice?' (pp. 235–287) in the *Cracow Indological Studies*, Vol. 16, 2014. Krakow, Poland: Ksiegarnia Akademicka Publishing. DOI: https://doi.org/10.12797/CIS.16.2014.16.10 Source: https://archive.org/details/rastelli-marion-2014.-sandhya-worship-in-14th-century-pancharatra-theory-practice (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2015). 'Maha-Lakshmi: Integrating a Goddess into the Ahirbudhnya-Samhita' (pp. 325 -356) in the *Indo-Iranian Journal*, Vol. 58, №4, 2015. Leiden, The Netherlands: Brill. Source: https://archive.org/details/rastelli-marion-2015.-maha-lakshmi-integrating-a-goddess-into-the-ahirbudhnya-samhita (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2018). 'REVIEW ~ Diwakar Archarya (2015). Early Tantric Vaishnavism: Three Newly Discovered Works of the Pancharatra. The Svayambhuvapancharatra, Devamritapancharatra and Ashtadashavidhana. Critically Edited from their 11th- and 12th-century Nepalese Palm-Leaf Manuscripts with an Introduction and Notes' (pp. 272–275) in the *Indo-Iranian Journal*, Vol. 61, №3, 2018. Leiden, The Netherlands: Brill. Source: https://archive.org/details/rastelli-marion-2018.-review-early-tantric-vaishnavism-three-newly-discovered-works-of-pancharatra (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+...
+
+* Rastrelli, Marion (2018). 'Yoga in the Daily Routine of the Pancharatrins' (pp. 223–258) in Baier, Karl; Maas, Philipp A. & Preisendanz, Karin (eds.) (2018). *Yoga in Transformation: Historical and Contemporary Perspectives*. 'Vienna Forum for Theology and the Study of Religions: \[German: Wiener Forumfur Theologieund Religionswissenschaft]': Band 16. Gottingen, Germany: Vienna University Press (V&R unipress GmbH). ISBN 9783737008624 (elibrary). Source: xxx
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2019). 'Narratives as a Medium for Appealing to the Royal Court: A Look into the Ahirbudhnya-Samhita' (pp. 335–361) in Mirnig, Nina; Rastelli, Marion & Eltschinger, Vincent (eds.) (2019). *Tantric Communities in Context*. 'Austrian Academy of Sciences \[German: Österreichische Akademie der Wissenschaften]'. 'Philosophical-Historical Class, Proceedings, Vol. 899 \[German: Philosophisch-Historische Klasse Sitzungsberichte, 899]'. 'Contributions to the Cultural and Intellectual History of Asia, №99 \[German: Band Beiträge zur Kultur- und Geistesgeschichte Asiens, Nr. 99]'. 'Edited by the Institute for Cultural and Intellectual History of Asia under the direction of Birgit Kellner \[German: Herausgegeben vom Institut für Kultur- und Geistesgeschichte Asiens unter der Leitung von Birgit Kellner]'. Vienna, Austria: Austrian Academy of Sciences Press \[German: Osterreichische Akademie der Wissenschaften]. (Note: In English, though bibliographic details are in German.). ISBN 9783700183785. Source: https://archive.org/details/mirnig-nina-rastelli-marion-eltschinger-vincent-eds.-2019.-tantric-communities-in-context (accessed: Friday, August 23, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2019). 'Vaishnava Pancharatra' (pp. 1–15) in *Oxford Bibliographies \[online]*, last modified May, 29, 2019. DOI: 10.1093/OBO/9780195399318–0221. Source: https://archive.org/details/rastelli-marion-2019.-vaishnava-pancharatra-pp.-1-15-in-oxford-bibliographies-on (accessed: Monday, August 19, 2024)
+
+**Purport:**<br>
+...
+
+* Rastelli, Marion (2019). 'Worshipping Vishnu's Twelve Manifestations: A Glimpse into Early Medieval Vaishnava Lay Practice' (pp. 165–207) in the *Cracow Indological Studies, Gurum Upapadyamahe: The Volume Dedicated to Professor Gerhard Oberhammer on the Occasion of His 90th Birthday*, Vol. 21, №1, 2019. Krakow, Poland: Ksiegarnia Akademicka Publishing. DOI: https://doi.org/10.12797/CIS.21.2019.01.07 Source: xxx
+
+**Purport:**<br>
+...
+
 * Rastelli, Marion (2022). 'Vaishnava Agamas' (pp. 1690–1698) in Long, Jeffery D.; Sherma, Rita D.; Jain, Pankaj & Khanna, Madhu (eds.) (2022). *Hinduism and Tribal Religions*. Encyclopedia of Indian Religions series. Dordrecht, The Netherlands: Springer. ISBN 9789402411881 (ebook). Source: xxx
+
+**Purport:**<br>
+...
+
+### RASTOGI, N. ###
+
+* Rastogi, Navjivan (1975). 'Contribution of Kashmir to Philosophy, Thought and Culture' (pp. 27–43) in the *Annals of the Bhandarkar Oriental Research Institute \[ABORI]*, Vol. 56, №1 of 4, 1975. Pune, Maharashtra, India: Bhandarkar Oriental Research Institute (BORI). Source: https://archive.org/details/rastogi-navjivan-1975.-contribution-of-kashmir-to-philosophy-thought-and-culture (accessed: Thursday, September 19, 2024)
+
+**Purport:**<br>
+...
+
+### RATIE, I. ###
+
+* Ratie, Isabelle (2018). 'On the Shaddhatusamiksha, a Lost Work Attributed to Bhartrihari: An Examination of Testimonies and a List of Fragments' (pp. 709–741) in the *Journal of the American Oriental Society \[JAOS]*, Vol. 138, №4, 2018. Ann Arbor, Michigan, U.S.A. American Oriental Society (Hatcher Graduate Library, University of Michigan). Source: https://archive.org/details/ratie-isabelle-2018.-...-shaddhatusamiksha-a-lost-work-attributed-to-bhartrihari (accessed: Sunday, September 08, 2024)
 
 **Purport:**<br>
 ...
@@ -1631,7 +1777,12 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 
 ### SIRCAR, D. ###
 
-* Sircar, D.C. (ed.) (1970). 'The Bhakti Cult and Ancient Indian Geography'. Centre of Advanced Study in Ancient Indian History and Culture, University of Calcutta, Lectures and Seminars No. IV-B (Seminars). (NB: Papers of the 'Proceedings of the Seminar' of February, 23rd and 24th, 1968.). Calcutta, West, Bengal, India: University of Calcutta. First edition. University of Calcutta (Sri Sibendranath Kanjilal). Source: https://archive.org/details/dli.calcutta.11084 (accessed: Friday, June 20, 2025)
+* Sircar, D.C. (ed.) (1970). 'The Bhakti Cult and Ancient Indian Geography'. Centre of Advanced Study in Ancient Indian History and Culture, University of Calcutta, Lectures and Seminars No. IV-B (Seminars). (NB: Papers of the 'Proceedings of the Seminar' of February, 23rd and 24th, 1968.). First edition. Calcutta, West, Bengal, India: University of Calcutta (Sri Sibendranath Kanjilal). Source: https://archive.org/details/dli.calcutta.11084 (accessed: Friday, June 20, 2025)
+
+**Purport:**<br>
+This is a very important work for our purposes. It contains many useful papers.
+
+* Sircar, D.C. (auth.) (1971). 'Studies in the Geography of Ancient and Medieval India'. Second edition: revised and enlarged. Varanasi, Uttar Pradesha, India: Motilal Banarsidass. ISBN 8120806905.
 
 **Purport:**<br>
 ...
@@ -1699,6 +1850,11 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 # T #
 
+### THOORAN, M.; *et al.* ###
+
+* Thooran, M.P. Periyasaamy \[Tamil: எம். பி. பெரியாசாமி தூரன் ; IAST: Eṃ. Pi. Periyāsāmi Tūran], *et al.* (eds.) (1954). 'The Tamil Encyclopedia' \[Tamil: தமிழ்க் கலைக்களஞ்சியம் ; IAST: tamiḻk kalaikkaḷañciyam]. (Note: Printed set of ten volumes initially published in 1954 onwards and published online digitally in 2018.). Chennai, India: 'Tamil Development Academy' \[Tamil: தமிழ் வளர்ச்சிக் கழகம் ; IAST: Tamiḻ Vaḷarccik Kaḻakam]'. Source: http://bit.ly/4eDmwIY (accessed: Tuesday, October 01, 2024)
+
+**Purport:**<br>
 ...
 
 ### THRANGU, K.; *et al.* ###
@@ -1707,6 +1863,27 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 **Purport:**<br>
 ...
+
+### TORELLA, R. ###
+
+* Torella, Raffaele (1998). 'The Kanchukas in the Shaiva and Vaishnava Tantric Tradition: A Few Considerations Between Theology and Grammar' (pp. 55–86) in Oberhammer, Gerhard (ed.). (1998a). *Studies in Hinduism II \[2]: Miscellanea to the Phenomenon of Tantras*. Austrian Academy of Sciences, Philosophical-Historical Class 662. Contributions to the Cultural and Intellectual History of Asia №28. 'Vienna, Austria: Austrian Academy of Sciences Press \[German: Wien: Osterreichischen Akademie der Wissenschaften]. ISBN 9783700127543. Source: https://archive.org/details/studiesinhindusimmiscellaneatothephenomenonoftantrasgerhardoberhammerarticles_876_v (accessed: Friday, September 27, 2024)
+
+**Purport:**<br>
+...
+
+### TORWESTEN, H.; *et al.* ###
+
+* Torwesten, Hans (auth.); Phillip, John (trans.) & Rosset, Loly (ed.) (1991, 1985). 'Vedanta: Heart of Hinduism'. First edition \[in English]. (Note: First published in German with the title: 'Vedanta, Kern des Hinduismus' in 1985 by Walter-Verlag AG, Olten, Germany.). New York, N.Y., U.S.A.: Grove Weidenfeld (a division of Grove Press, Inc.). ISBN 0802110428 (acid-free paper). Source: https://archive.org/details/torwesten-hans-auth.-phillip-john-trans.-rosset-loly-ed.-1991-1985.-vedanta-heart-of-hinduism (accessed: Tuesday, October 01, 2024)
+
+**Purport:**<br>
+...
+
+### TYAGANANDA, S. ###
+
+* Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17–20) in *Prabuddha Bharata or Awakened India: Perspectives on Vedanta*, Vol. 115, №1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha Bharata/Year 2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
+
+**Purport:**<br>
+Most useful in relation to the Bhutashuddi, Panchatattva, Mahabhuta and Five Pure Lights.
 
 # U #
 ...
@@ -1718,6 +1895,20 @@ https://escholarship.org/uc/item/4vt6f325 (accessed: Thursday, July 10, 2025)
 
 **Purport:**<br>
 Ullrey was under direct supervision of three (3) persons whose work I greatly admire. Therefore, this should be worthwhile. 
+
+### UNKNOWN ###
+
+* Unknown (n.d.). 'Bhutashuddhyadi (Sanskrit: भूतशुद्ध्यादि; IAST: Bhūtaśuddyādi; alt. title: Sanskrit: भूतशुद्धिविधिः; Bhūtaśuddhividhi)', T. no. 656. Pondichéry \[Pondicherry], India: Institut Français d'Indologie \[French; English: French Institute of Pondicherry]. Source: https://www.ifpindia.org/transcripts/pdf/T0656.pdf (accessed: Friday, August 01, 2025)
+
+**Purport:**<br>
+This is unsatisfactory filing practice. But, I have not yet resolved how to treat anonymity, traditional or unknown authorship of given works. An excellent source on the pervasive yogic and tantric sadhana and rite of Bhutashuddhi, that has such a profound diversity amongst manifold Dharmic Traditions, and which arguably constitutes an exorcism of the energetic ghosts and phantoms which delude and that which does not serve alignment with one's cultivation of their constitutional position and the Ground-of-Being and constitutes an elemental purification, calling upon the sacred wisdom of the Mahabhutas or the Five Pure Lights to purify ones bodymind and spiritual and ideally divinised continuum.
+
+### UPADHYAYA, B. ###
+
+* Upadhyaya, Baladeva (1952). 'The Philosophy of the Pancharatras', July, №7, 1952 (pp. 289–295) in Vandananda, Swami (ed.) (1952). *Prabhuddha Bharata: Or Awakened India*, Vol. LVII \[57], January-December, №1–12, 1952. Calcutta, West Bengal, India: Advaita Ashrama (a branch of the Ramakrishna Math and Mission). Source: https://archive.org/details/vandananda-swami-ed.-1952.-prabhuddha-bharata-or-awakened-india-vol.-lvii-57-jan (accessed: Tuesday, October 01, 2024)
+
+**Purport:**<br>
+...
 
 ### URBAN, H. ###
 
@@ -1738,7 +1929,29 @@ This is quite useful as it is relatively recent and amongst other things, ventur
 **Purport:**<br>
 This stands as an exceptionally valuable resource for the serious practitioner of Dzogchen within the Nyingma tradition. The text offers direct, pragmatic and experiential guidance distilled from oral instructions and written notes by senior disciples of the Rinpoche, presenting the essence of Dzogchen contemplation, conduct and view in a manner that is accessible without sacrificing the profundity of the Rinpoche's original teachings. The translators, compilers and editors, all established figures in the field of Himalayan Bauddhadharma sacred literature, bring a wealth of experiential knowledge and linguistic competence, ensuring that the transmission remains faithful to the living tradition. That said, the publication does not aspire to the standards of academic sophistication nor critical philological rigor of their other work. The source material is acknowledged as composite and, at times, extemporaneous, with the translation prioritizing clarity and immediate applicability over textual criticism or historical contextualization. The editorial apparatus is minimal, lacking extensive footnotes, critical apparatus, or the inclusion of the original Tibetan script or transcription for probity and the book is presented in a standard paperback format typical of practitioner-oriented works from Rangjung Yeshe Publications during this period. Whilst 'Vajra Speech' is indispensable for those seeking practical engagement with Dzogchen pith instructions, it does not constitute a scholarly edition nor a comprehensive critical presentation of the material. Its strength lies in its capacity to communicate the experiential core of the teachings to a contemporary English-literate audience, rather than in that of a refined academic register.
 
+### UTGIKAR, N.; *et al.* ###
+
+* Utgikar, Narayan Bapuji & Paranjpe, Vasudev Gopal (eds.) (1933). 'Collected Works of Sir R.G. Bhandarkar Vol. I \[1]: Comprising Miscellaneous Articles, Reviews, Addresses & c.'. Government Oriental Series Class B, №1. Poona, Maharashtra, India: The Publication Department of The Bhandarkar Oriental Research Institute. Source: https://archive.org/details/in.ernet.dli.2015.223564 (accessed: Saturday, October 05, 2024)
+
+**Purport:**<br>
+...
+
 # V #
+
+### VANDANANDA, S. ###
+
+* Vandananda, Swami (ed.) (1952). 'Prabhuddha Bharata: Or Awakened India', Vol. LVII \[57], January-December, №1–12, 1952. Calcutta, West Bengal, India: Advaita Ashrama (a branch of the Ramakrishna Math and Mission). Source: https://archive.org/details/vandananda-swami-ed.-1952.-prabhuddha-bharata-or-awakened-india-vol.-lvii-57-jan (accessed: Tuesday, October 01, 2024)
+
+**Purport:**<br>
+...
+
+### VARADACHARI, K. ###
+
+* Varadachari, K.C. (1942). 'Some Contributions of Alvars to the Philosophy of Bhakti' (pp. 621–632) in Dandekar, R.N. (ed.) (1942). *Annals of the Bhandarkar Oriental Research Institute \[ABORI]: Silver Jubilee Volume, Bhandarkar Oriental Research Institute 1917–1942*, Vol. XXIII \[23], 1942. Shivajinagar, Pune, Maharashtra, India: Bhandarkar Oriental Research Institute (BORI). Source: https://archive.org/details/dandekar-r.-n.-ed.-1942.-annals-of-the-bhandarkar-oriental-research-institute-abori-vol.-XXIII-23 (accessed: Saturday, October 05, 2024)
+
+**Purport:**<br>
+...
+
 
 ### VAUDEVILLE, C. ###
 
@@ -1749,7 +1962,7 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 
 ### VEERARGAVAN, A. ###
 
-* Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihakendra-saṃhīta: sudarśana-mantra-śāstra ; Devanagari: xxx ; IAST: xxx ]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication No. 476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
+Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவன்; IAST: Muṇaivar Ā. Vīrārākavaṉ] (ed.) (2015). Sri Vihagendra-Samhita: Sudarshana Mantra-Shastra \[Tamil: விஹகேந்திர சம்ஹிதா : சுதர்ஷண மந்திர ஷாஸ்திரம்; IAST: vihagendra-saṃhīta : sudarśana-mantra-śāstra]. Agama Pancharātriya. Thanjavur Sarasvati Mahal Publication №476. Saraswati Mahal Library and Research Centre of Maharaja Saraboji of Thanjavur, Thanjavur. (NB: Sanskrit rendered in Tamil script.). Ahmedabad, Gujarat, India: Saraswati Pustak Bhandar (Justice Siromani, Dr. A. Veeraragavan, M.A., B.L.I.S., Ph.D., Sanskrit Pandita). Source: https://archive.org/details/vihagendra-samhita-series-no.-476-thanjavur-sarasvati-mahal-series (accessed: Wednesday, July 02, 2025)
 
 **Purport:**<br>
 ...
@@ -1777,6 +1990,20 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 **Purport:**<br>
 This contains a useful professional and biographical survey of Srinivasan and lists a great number of her published works.
 
+### WHITE, D. ###
+
+* White, David Gordon (2006). 'Digging Wells while Houses Burn? Writing Histories of Hinduism in a Time of Identity Politics' (pp. 104–131) in *History and Theory: Theme Issue 45, Religion and History*, Vol. 45, №4, December, 2006. Hoboken, New Jersey, U.S.A.: Wiley (for Wesleyan University). Source: https://archive.org/details/white-david-gordon-2006.-digging-wells-while-houses-burn-writing-histories-of-hi (accessed: Monday, September 30, 2024)
+
+**Purport:**<br>
+...
+
+### WHITE, E. ###
+
+* White, Edith M. (1936). 'Bibliography of the Published Writings of Sir George A. Grierson' (pp. 297–318) in the *Bulletin of the School of Oriental Studies \[BSOS]*, 1936, Vol. 8, №2 of 3, Indian and Iranian Studies: Presented to George Abraham Grierson on His Eighty-Fifth Birthday, 7th January, 1936. Cambridge University Press (on behalf of the School of Oriental and African Studies \[SOAS]). London, England, U.K.: University of London. Source: https://www.jstor.org/stable/608043. Accessed: (accessed: Saturday, March 15, 2025).
+
+**Purport:**<br>
+When a scholar documents and does honour to a lauded, yet neglected, scholar of the past, as evidenced here, it is a work of devotion, vocation and vindication. Job well done.
+
 ### WILKE, A.; *et al.* ###
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
@@ -1784,9 +2011,25 @@ This contains a useful professional and biographical survey of Srinivasan and li
 **Purport:**<br>
 This volume is wealth.
 
+### WINTERNITZ, M.; *et al.* ###
+
+* Winternitz, Dr. Moriz (auth. & ed.) & Ketkar, Mrs S. (trans.) (1927, 1908–1922). 'A History of Indian Literature: Vol. 1 - Introduction, Veda, National Epics, Puranas, and Tantras \[German: 'Geschichte der indischen Litteratur']'. (Note: First German edition volumes were published from 1908–1922 by C.F. Amelangs Verlag in Leipzig, Germany.). Calcutta, Bengal, India: University of Calcutta/Calcutta University Press (Bhupendralal Banerjee).
+
+**Purport:**<br>
+The English translation of 1927 by Ketkar and revised and edited by the author Winternitz who first published the volumes in German from 1908 through 1922 gives Tantra a cursory treatment at the end of the first volume but in the German of 1908 must have been one of the first mentions of the Vaishnava Agamas and the Pancharatra Samhitas in a European language. In the forwards and introductions to the English and German volumes mention is made of other works which should be investigated.
+
 ### WONG, L.; *et al.* ###
 
 * Wong, Lucian & Sardella, Ferdinando (auths.) (2020). 'Vaishnavism in Colonial Bengal: Beyond the Hindu Renaissance' (pp. 1 - 15) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
+
+**Purport:**<br>
+...
+
+
+
+### WOODROFF, J.; *et al.* ###
+
+* Woodroff, Sir John \[alt. Arthur Avalon] (ed.) & Majudar, Sri Jnanendralal (trans.) (1952, 1914). 'Principles of Tantra: The Tantratattva of Shriyukta Shiva Chandra Vidyarnava Bhattacharya Mahodaya'. With a Preface by Arthur Avalon dated 1913. With an Introduction by Arthur Avalon. With a Preface by Shri Shiva Chandra Sharmma Vidyanava dated 1811. With an Introduction by Sri Barada Kanta Majumdar. Second edition. (Note: First edition published in 1914 in two parts. Second edition published in 1952 with two parts combined.). Madras, India: Ganesh & Co. (Madras) Ltd. Source: https://archive.org/details/woodroff-sir-john-ed.-majudar-sri-jnanendralal-trans.-1952-1914.-principles-of-t (accessed: Friday, October 04, 2024)
 
 **Purport:**<br>
 ...
@@ -1801,6 +2044,16 @@ This volume is wealth.
 
 # Z #
 
+### ZBAVITEL, D. ###
+
+* Zbavitel, Dusan (1976). 'Bengali Literature'. A History of Indian Literature Vol. IX \[9], Modern Indo-Aryan Literatures, Part II \[2], Fasc. 3. Wiesbaden, Germany: Otto Harrassowitz. ISBN 3447016736. Source: https://archive.org/details/ZBAVITELBengaliLiterature (accessed: Tuesday, July 23, 2024)
+
+**Purport:**<br>
 ...
 
+### ZIMMER, H.; *et al.* ###
 
+* Zimmer, Heinrich (auth.) & Campbell, Joseph (ed.) (1953, 1952). 'Philosophies of India'. With an 'Editor's Foreword' by Joseph Campbell dated March 20, 1951 in New York City. Second impression of 1953. (NB: First published in April, 1952.) London, England, U.K.: Routledge & Kegan Paul Ltd. Source: https://archive.org/details/Philosophy.of.India.by.Heinrich.Zimmer (accessed: Monday, June 16, 2025)
+
+**Purport:**<br>
+...
