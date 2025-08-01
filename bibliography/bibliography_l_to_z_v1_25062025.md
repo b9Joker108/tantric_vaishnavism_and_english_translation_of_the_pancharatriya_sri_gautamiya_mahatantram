@@ -1143,6 +1143,20 @@ Not one dedicated article on either the Pancharatra or Vaikhanasa, one on Vaishn
 **Purport:**<br>
 ...
 
+### PHARATE, V. ###
+
+* Pharate, Vidula Hemant (2021). 'Identity of Shailusha: Curious Case of Myth Formation and Pancharatra Propagation in the Kashmir Region: With Special Reference to the Vishnudharmottara Purana' (pp. 61–76) in Joshi, Sachchidanand; Sarkar, Radha Banerjee & Sengupta, Kuntala (eds.). *Kalakalpa: IGNCA Journal of Arts*, Vol. 5, No 2, Besant Pachami, 2021. New Delhi, India: Indira Gandhi National Centre for the Arts (Sachchidanand Joshi). Source: https://archive.org/details/pharate-v.-h.-2021.-identity-of-shailusha-curious-case-of-myth-formation-panchar (accessed: Tuesday, August 27, 2024)
+
+**Purport:**<br>
+...
+
+### PHUNTSHO, K. ###
+
+* Phuntsho, Karma (2005). 'Mipham's Dialectics and the Debates on Emptiness: To Be, Not to Be or Neither'. RoutledgeCurzon Critical Studies in Buddhism series. Taylor & Francis e-Library edition. Milton Park, Abingdon, Oxon, England, U. K.: RoutledgeCurzon (an imprint of the Taylor & Francis Group). ISBN 0203085914 (ebook). Source: https://archive.org/details/phuntsho-karma-2005.-miphams-dialectics-the-debates-on-emptiness-to-be-not-to-be-or-neither (accessed: Thursday, July 25, 2024)
+
+**Purport:**<br>
+...
+
 ### P.I., A. ###
 
 * P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2014). ‘The Ritualistic Tradition of Tantra in Kerala: A Study on its Characteristic Features and Transmission’. Department of Sanskrit Sahitya. Faculty of Sanskrit Literature. Ph.D. Thesis. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely denote his family name.). Kalady, Kerala, India: Sree Sankaracharya University of Sanskrit (SSUS). Source: https://archive.org/details/p.-i.-ajithan-2014.-ritualistic-tradition-of-tantra-in-kerala-a-study-on-its-cha (accessed: Friday, August 16, 2024)
@@ -1155,8 +1169,54 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 **Purport:**<br>
 ...
 
+### POPE, G. ###
 
+* Pope, Georgina Elizabeth (2019). 'Mobilising Assamese Vaishnavite Performance Practices: Cultural Value on the Move'. Ph.D. thesis. Arts and Humanities Department. London, England, U. K.: King's College London (University of London). Source: https://archive.org/details/pope-georgina-e.-2019.-mobilising-assamese-vaishnavite-performance-practices-cultural-value-on-move (accessed: Tuesday, September 17, 2024)
 
+**Purport:**<br>
+...
+
+### PRAJNANANANDA, P. ###
+
+* Prajnanananda, Paramahamsa (2004). 'Jnana Sankalini Tantra'. First edition. Diefenbachgasse, Vienna, Austria: Prajna Publication. ISBN 3902038187. Source: https://archive.org/details/JnanaSankaliniTantraParamahansaPrajnanananda (accessed: Saturday, August 17, 2024)
+
+**Purport:**<br>
+...
+
+### PRASADA, R. ###
+
+* Prasada, Rama (trans.) (1988, 1912). 'Patanjali's Yoga Sutras: With the Commentary of Vyasa and the Gloss of Vachaspati'. With an Introduction by Rai Bahadur Shrisha Chandra Vasu. (Note: Originally published in 1912 by the Panini Office, Allahabad, India.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 8121504244. Source: https://archive.org/details/PatanjalisYogaSutraswithTheCommentaryOfVyasaAndTheGlossOfVachaspatiMisraRamaPrasadTranslation (accessed: Friday, August 09, 2024)
+
+**Purport:**<br>
+I just awoke from sleep and dream, Swapna Darshan. I fell asleep last night, well-exhausted from a day of researching and writing endeavour, after just coming across the Laxmi Venkateshwar Steam Press edition of the Sri Shatpath Brahmanam, particularly the Shrimad Vajsaneyi Madhyandin recension, with the Vedarthaprakash Commentary, also known as the Sayana Bhashya, and the commentary by Sri Hariswami, edited by Sridhara Shastri (as per the Internet Archive upload, and who isn't actually given express credit in the publication proper, which only states: "…[e]dited by several learned persons…") and published and printed by Sri Gangavishnu Shrikrishnadass of the Laxmi Venkateshwar Steam Press, Bombay, 1940. Now, I first became aware of the Sri Venkateshwara Steam Press, when researching the edition of the Padma Purana that had been used in the translation of the English version of the Padma. This was an early venture of Gangavishnu, as the name of the company in its early period, was not yet prefixed by Sri 'Laxmi', as it is in the Sri Shatpath Brahmanam of 1940 by Gangavishnu in the Veṅkaṭeśvara edition. The English translation of the Padma Purana only states that it was translated from the "Veṅkaṭeśvara edition", with no further specifics and no citation in the bibliography of the work, which was most curious and truly vexatious from a scholarly point of view, as I then knew nothing of the Veṅkaṭeśvara publishing and printing house. After an inspired and profoundly lucky session of research, even if I say so myself, coupled with focused endeavour, I not only ascertained the specifics of the the edition used, from triangulating a suite of secondary sources that I just fortuitously happened upon, along with a digitised segment of a first edition of the Padma Purana, which upon deciphering the hieroglyphics of the cryptic colophon, was initially published by Gangavishnu of Veṅkaṭeśvara, in a suite of serialised segments as potboilers, prior to collecting the serialised parts and publishing them as a complete edition, which I have as yet not been able to source. In the same research session, I also realised a post-processed electronic version of the complete Veṅkaṭeśvara edition of the Padma, by the grace of the beautiful Goddess Shrimati Serendipity. . I didn't know then, why I felt so powerfully called to add the Sri Padma Purana details to this Annotated Bibliography of my impending translation of the Gautamiya Samhita or Mahatantram of the Pancharatra. Intellectually and conceptually, it seemed tangential and removed from the subject specifics, well at least at first blush. I learnt from that digitised edition of the serialised part-publication of the Padma, that the Venkateshwara Steam Press as a company and business, was actually named after their steam press, 'Veṅkaṭeśvara', named after the deity Sri Veṅkaṭeśvara, or into whom the deity Sri Veṅkaṭeśvara, so important to the Vaikhanasa tradition, may have been ritually installed with the mystical ceremony of the 'prana pratishtha' (Sanskrit: प्राण प्रतिष्ठा ; IAST: Prāṇa Pratiṣṭhā). I just feel that this was done. Anyway, I awoke this morning with the express instruction to write of the Kaya Siddhi and explain how it is a multifaceted accomplishment in terms of its spiritual giftings, virtues and byproducts, in my direct experience. An invocation, glorification and adoration of the Kaya Siddhi, is in the liturgy of Nyingma Dzogchenpa, which I received from my Sri Gurudeva Dharmarajji. I was aware of Kaya Siddhi, prior to my initiation into Dzogchen and formal commencement and undertaking of Dzogchen sadhana, from my Yoga endeavours. In this, the lineage and spiritual technology of the inter-religious and ecumenical Mahasiddha, often referred to as 'Buddhist', are evident, as well as strong, and it also betrays influence from early Hatha Yoga, Shaiva and Shakta Tantras, amongst others. Now, I am not stating that I have fully accomplished and realised the Kaya Siddhi unobstructed, but that I have yielded a mote of its virtue, which has coalesced with the Rasa and Bhava of my Bhakti sadhana, to bring about occurrences of powerful emotional consonance and experience, spontaneously and when encountering certain objects, entities, things, environments, situations and people. Such, when referring to objects, may be understood as a type of psychometry in the English language, from the Greek. My first experience of a welling of the Kaya Siddhi, was during a period of consort practice in esoteric sexual yogas. The welling was a fruit of the sadhana. I didn't write of the sexual yogas or my experiences therewith, as that is personal and private, indeed necessarily secret, though it informed my personal identification as a hierodule, but I wrote of this tangentially when I was in the period of doing express research and study into the nature, state and experience, of the Avadhuta, a class of great saint, common to all of the Dharmic Traditions. My research and devotion had taken me to the Sikhi tradition and the scripture and divine guru and invested deity, the Sri Guru Grantha Sahibji, which contains a section called the Siddha Goshti , which contains a dialogue between Sri Guru Nanak and a coterie of Avadhutas. When I first encountered the Sri Guru Grantha, in an electronic copy, I just couldn't stop crying and I knew not why. It would also happen when I physically touched a print-copy of the sacred scripture. During this period, and after the emotional consonances, I attended Sikhi temples and celebrated their liturgies, honoured their mahaprashadam which is offered to the Sri Guru Grantha, as well as their prashadam, which is sublime. I also circumambulated the Sri Guru Grantha, along with its orator, just as I have done holy people, sacred objects and vigraha and thakura of deities and murti of saints and holy people, throughout my life. I even showered, took refuge, respite and slept overnight in Yoga Nidra, in one of their two very closely sited guruwarras, whilst I travelled on pilgrimage from Melbourne to Cairns onfoot, as well as hitched. The emotions I experienced were sublime and complex. The commingling of so many emotions, but such agony-grief and blissful joy at-once, and tears-of-joy and tears-of-anguish, were overwhelming and a wonder. All of this narrative, was to affirm that this is how I know that the Veṅkaṭeśvara edition of the Satapatha Brahmana 'Vajsaneyi' with two commentaries, will be my favoured and privileged edition, in my research into the Pancharatra and the translation of the Gautamiya, as it contains the esoteric information as to the nature of Sri Vishnu's sacrifice and that of the sage Sri Narayana, that underwent apotheosis into deity-hood. I now also appreciate, that Veṅkaṭeśvara Steam Press, became a very successful publishers from the initial rough, rudimentary and makeshift quality of the partial serialised publication of the Padma, to the quality of the edition of the Satapatha Brahmana mentioned herein, and that they published a lot of Sri Vaishnava materials and scriptures, and importantly for the purposes of this endeavour, many Pancharatra and Vaikhanasa Agamas and Samhitas. Do you perceive how the nature of Kaya Siddhi functions as an experiential confirmation of an emergence what commenced purely on the intuitive level? It is like a spiritual geiger-counter or divining tool. Kaya Siddhi of course has other virtues. If you research, read and recite the Yoga Sutras with devotion and attention, you will identify the passages that refer to it. My favoured edition and translation of the Yoga Sutras will ever-be the Thorsons edition of the Iyengar, first published in 1996, from the first edition published in 1966 by George Allen & Unwin, even though the recent Bryant is worthy of note, due to its synthesis of the extended commentarial tradition. I only came across this edition of the Yoga Sutras by Prasada (1988), after researching on the Kaya Siddhi, tomwrite about it, and searching for "kaya soddhi", led me to the Wisdom Library (online), and their electronic edition and website rendering, of this transaction of the Yoga Sutras, by Prasada. This bilingual edition by Prasada, also includes a splendid treatment of the Patanjali autocommentary in both the original Classical Sanskrit set in Devanagari, with attendant English rendering. It is truly, a work of quality.
+
+### PRASHAR, P. ###
+
+* Prashar, Dr. Pooja (2018). 'Naga Worship in Ancient Kashmir' (pp. 2571–2579) in the *International Journal of Research*, Vol. 5, Issue 4, February, 2018. Rajkot, Gujarat, India: Pen2Print. Source: https://archive.org/details/prashar-dr.-pooja-2018.-naga-worship-in-ancient-kashmir (accessed: Tuesday, September 10, 2024)
+
+**Purport:**<br>
+...
+
+### PRATYAGATMANANDA, S. ###
+
+* Pratyagatmananda, Swami (1989). 'Philosophy of the Tantras' (pp. 25–38) in Lokeswarananda, Swami (ed.) (1989). *Studies on the Tantras*. Gol Park, Calcutta, West Bengal, India; The Ramakrishna Mission Institute of Culture. Source: https://archive.org/details/RamakrishnaMissionStudiesOnTheTantras (accessed: Sunday, August 18, 2024)
+
+**Purport:**<br>
+...
+
+### PREMA-dasa; *et al.* ###
+
+* Prema-dasa & Sundara-gopala-dasa (trans'.); & Madhava-priya-dasa & Sanatana-dasa (eds.) & et al. (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
+
+**Purport:**<br>
+A most valuable work for our purposes. It contains a useful terminological dichotomy or differentiation between Sahajiyas of quality and those that run contrariwise.
+
+### PUZEY, G.; *et al* ###
+
+* Puzey, Guy & Kostanski, Laura (eds.) (2016). 'Names and Naming: People, Places, Perceptions and Power'. Multilingual Matters Vol. 163. Bristol, England, U. K.: Multilingual Matters. ISBN 9781783094905 (paperback). Source: https://archive.org/details/puzey-guy-kostanski-laura-eds.-2016.-names-and-naming-people-places-perceptions-and-power (accessed: Tuesday, September 03, 2024)
+
+**Purport:**<br>
+...
 
 # Q #
 
@@ -1173,10 +1233,32 @@ P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.]
 
 ### RADDOCK, E. ###
 
-* Raddock, Elisabeth \[Ukr: Раддок, Е.] (2022). 'Determining the Date and the Place of Origin of the Hayashirsha Pancharatra \[Ukr: Визначення часу та місця створення “Гаяшірша-паньчаратри” ; Roman.: Vyznachennya chasu ta mistsya stvorennya “Gayashirsha-pancharatra”]' (pp. 119-129) in *The World of the Orient \[Ukr: Східний світ ; Roman: Skhidnyi svit]*, Vol. 4 , Issue 117, 2022. Kyiv, Ukraine: A. Yu. Krymskyi Institute of Oriental Studies, NAS of Ukraine (on behalf of The World of the Orient). DOI: https://doi.org/10.15407/orientw2022.04.119 (accessed: Friday, July 18, 2025)
+* Raddock, Elisabeth Eva (2011). 'Listen How the Wise One Begins Construction of a House for Vishnu: vijānatā yathārabhyaṃ gṛhaṃ vaiṣṇavaṃ śṛṇv evaṃ; Chapters 1–14 of the Hayashirsha Pancharatra'. Dissertation. South and Southeast Asian Studies. Berkeley, California, U S. A.: University of California. Source: https://archive.org/details/raddock-e.-e.-2011.-listen-how-the-wise-one-begins-construction-of-a-house-for-v (accessed: Sunday, August 04, 2024)
 
 **Purport:**<br>
 ...
+
+* Raddock, Elisabeth \[Ukr: Раддок, Е.] (2022). 'Determining the Date and the Place of Origin of the Hayashirsha Pancharatra \[Ukr: Визначення часу та місця створення “Гаяшірша-паньчаратри” ; Roman.: Vyznachennya chasu ta mistsya stvorennya “Gayashirsha-pancharatra”]' (pp. 119-129) in *The World of the Orient \[Ukr: Східний світ ; Roman: Skhidnyi svit]*, Vol. 4, Issue 117, 2022. Kyiv, Ukraine: A. Yu. Krymskyi Institute of Oriental Studies, National Academy of Sciences of Ukraine (on behalf of The World of the Orient). DOI: https://doi.org/10.15407/orientw2022.04.119 (accessed: Friday, July 18, 2025). Source: https://archive.org/details/raddock-elisabeth-2022.-determining-the-date-and-place-of-origin-of-the-hayashirsha-pancharatra (accessed: Saturday, August 31, 2024)
+
+**Purport:**<br>
+...
+
+### RAGHAVAN, V. ###
+
+* Raghavan, Venkataraman (1955). 'The Vedas and Bhakti' (pp. 330–331) in *Vedanta Kesari*, №42, December, 1955. Chennai, Tamil Nadu, India: Sri Ramakrishna Math. Source: https://archive.org/details/raghavan-v.-1955.-the-vedas-and-bhakti (accessed: Tuesday, September 17, 2024)
+
+**Purport:**<br>
+...
+
+* Raghavan, Venkataraman (1976, 1959). 'Methods of Popular Religious Instruction in South India' (pp. 130–138) in Singer, Milton (ed.) (1976, 1959). *Traditional India: Structure and Change*. American Folklore Society Bibliographical and Special Series Vol. 10. Third impression/printing. (Note: First edition published in 1959.). Austin, Texas, U.S.A.: University of Texas Press. ISBN 0292735049. Source: https://archive.org/details/singer-milton-ed.-1976-1959.-TraditionalIndia-StructureandChange (accessed: Saturday, October 05, 2024)
+
+**Purport:**<br>
+...
+
+* Raghavan, Venkataraman (1965). 'The Name Pancharatra: With an Analysis of the Sanatkumara-Samhita in Manuscript' (pp. 73–79) in the *Journal of the American Oriental Society \[JAOS]*, Vol. 85, №1, Jan.-Mar., 1965. Ann Arbor, Michigan, U.S.A.: American Oriental Society. Source: https://archive.org/details/raghavan-venkataraman-1965.-the-name-pancharatra-with-an-analysis-of-the-sanatku (accessed: Monday, September 16, 2024)
+
+**Purport:**<br>
+This article, along with Raghavan's 'Foreward' to the critical edition of the *Srri Sanatkumara-Samhita* are the most authoritative sources on the meaning of the name, term and denotations of 'Pancharatra'. I noticed non-academic, self-published insider discourse make reference in passing to the *Sri Maha-Sanatkumara-Samhita*, emphasis on Maha, which may denote the Ur text of the extant sections of the *Sri Sanatkumara-Samhita* or it may not. Sometimes, I have noted the prefixture of 'Maha', to denote an additional or different text or recension, as different to the usage without. This ambiguity and play of denotation and referenced scripture is vexing without having a facsimile of the manuscripts in hand or an accomplished study and assessement of same. This insider discourse, also implied that this Maha version, was the ascendant, dominant or principal Pancharatra samhita and held sway even over the Sri Sat\[t]vata Samhita and the balance of the Ratnatraya.
 
 ### RAGHAVAN, V.; *et al.* ###
 
@@ -1191,6 +1273,20 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 
 **Purport:**<br>
 ...
+
+### RAI, S. ###
+
+* Rai, S. C. refer Roy, Dr. Sunil Chandra
+
+**Purport:**<br>
+...
+
+### RAI, V. ###
+
+* Rai, Vinay Kumar \[Hindi: विनय कुमार राय ; IAST: Vinaya Kumāra Rāya] (ed. & trans.) (1999). '\[Sri] Yoni Tantra' \[Sanskrit: योनितन्त्र ; IAST: Yōnitantra] ('with original and Hindi translation'; Hindi: मूल एवं हिन्दी अनुवाद सहित ; IAST: mūla evaṃ hindī anuvāda sahita). First edition. Lamhi, Varanasi, India: 'Prachya Prakashan' \[Hindi: प्राच्य प्रकाशन ; IAST: prācya prakāśana ; English: 'Oriental Publications']. Source: https://archive.org/details/rai-vinay-kumar-raya-vinaya-kumara-ed.-trans.-1999.-sri-yoni-tantra-yonitantra-sanskrit-hindi (accessed: Tuesday, July 23, 2024)
+
+**Purport:**<br>
+The *Sri Yoni Tantra* has been published in a critical edition, but I have not yet been able to secure it. This bilingual Sanskrit and Hindi edition, is all I have so far been able to realise and even that was challenging. As such, I resolved to commend it to archives, for probity. It appears that the *Sri Yoni Tantra* has received minimal academic treatment. I have not yet engaged the work significantly, but what I have ascertained, marks it of interest. It is a left-handed Tantric work and interestingly, amongst other matters, treats the state of an Avadhuta, which interests me greatly.
 
 ### RAJAGURU, S. ###
 
