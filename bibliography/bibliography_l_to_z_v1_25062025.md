@@ -1698,6 +1698,13 @@ Roccasalvo, Joseph F. (1980). 'The Debate at bSam yas: A Study in Religious Cont
 **Purport:**<br>
 ...
 
+### ROCHER, R.; *et al.* ###
+
+* Rocher, Rosane & Rocher, Ludo (2012). 'The Making of Western Indology: Henry Thomas Colebrooke and the East India Company'. With a 'Preface and acknowledgements' by Rosane and Ludo Rocher dated 2009. First edition.  Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780415336017 (hbk).
+
+**Purport:**<br>
+...
+
 ### ROCHFORD, E.; *et al.* ###
 
 * Rochford, Jr.; E. Burke (auth.); Miller, Timothy (ed.) & Palmer, Susan J. (ed.) (2007). 'Hare Krishna Transformed'. The New and Alternative Religion Series. New York, N.Y., U.S.A.: New York University Press. ISBN 9780814775790 (pbk. : alk. paper).
