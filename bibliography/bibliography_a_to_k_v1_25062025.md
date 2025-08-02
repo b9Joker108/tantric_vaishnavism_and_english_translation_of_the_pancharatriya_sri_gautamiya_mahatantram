@@ -550,6 +550,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**
 As yet, I have not been able to secure a copy.
 
+### HILTEBEITEL, A. ###
+
+* Hiltebeitel, Alf (1973). 'Gods, Heroes, and Krsna: A Study of the Mahabharata in relation to Indian and Indo-European Symbolisms'. Ph.D. dissertation. University of Chicago Divinity School. Chicago, Illinois, U.S.A.: University of Chicago.
+
+**Purport:**
+As yet, I have not been able to secure this. A copy may possibly be negotiated from here:  http://pi.lib.uchicago.edu/1001/cat/bib/4209680
+
 ### HOPKINS, S. ###
 
 * Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
