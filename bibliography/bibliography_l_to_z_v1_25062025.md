@@ -1590,6 +1590,18 @@ I found this paper listed in articles about Vaikhanasa. I located it in a number
 **Purport:**<br>
 ...
 
+### RAWSON, P. ###
+
+* Rawson, Philip (1973). 'Tantra: The Indian Cult of Ecstacy'. London, England, U.K.: Thames and Hudson. ISBN 0500270325. Source: https://archive.org/details/TantraTheIndianCutOfEcstasyPhilipRawson (accessed: Thursday, August 22, 2024)
+
+**Purport:**<br>
+...
+
+Rawson, Philip (1973). 'The Art of Tantra'. First edition. Greenwich, Connecticut, U.S.A.: New York Graphic Society Ltd. ISBN 0821205234 (paper). Source: xxx
+
+**Purport:**<br>
+...
+
 ### RAY, B. ###
 
 * Ray, Bidyut Lata (2012). 'Studies In Bamadeva Samhita: The Cult Of Lord Jagannatha'. New Delhi, India: Om Publications. ISBN 9788190676687. 
@@ -1597,14 +1609,49 @@ I found this paper listed in articles about Vaikhanasa. I located it in a number
 **Purport:**<br>
 The Sri Vamadeva Samhita may or may not be technically Pancharatriya. Its status is yet to be determined with veracity. The Catalogue makes reference to neither a published samhita of this name nor an unpublished manuscript of same. But, a number of Pancharatra Samhitas do explicitly reference a Vamadeva Samhita. I have as yet neither securedacopy of this version, nor the published copy of the Vamadevav published by memory in 1972, under Bamdev Samhita. Also, the script and language of the 1972 publication is yet to be determined.
 
-### RAYCHAUDHURI, H. ###
+### RAY, G. ###
 
-* Raychaudhuri, Hemchandra (1936, 1920). 'Materials for the Study of the Early History of the Vaishnava Sect'. Second edition, revised and enlarged. (NB: First edition published in 1920.). Calcutta, Bengal, India: University of Calcutta (University Press: Bhupendralal Banerjee).
+* Ray, Gary L. (n.d.). 'The Northern Ch'an School and Sudden Versus Gradual Enlightenment Debates in China and Tibet'. Thezensite.com Source: http://www.thezensite.com/ZenEssays/HistoricalZen/ Sudden_vs_Gradual_Ray.html (accessed: Thursday, July 25, 2024), Source: https://archive.org/details/ray-gary-l.-n.-d..-the-northern-chan-school-sudden-versus-gradual-enlightenment- (accessed: Thursday, July 25, 2024)
 
 **Purport:**<br>
-Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was a person nested in history around whom there had been much subsequent poetic embellishment and accretion. Raychaudhuri sought to clear the field with this watershed survey. I value the poetic accretion, but honour his point.
+...
+
+### RAY, S. ###
+
+* Ray (alt. Rai/Roy), Sunul Chandra (1970, 1957). 'Early History and Culture of Kashmir'. With a Foreward by Sardar K.M. Panikkar. Second revised edition. (Note: First edition published in 1957.). New Delhi, India: Munshiram Manoharlal. Source: https://archive.org/details/in.ernet.dli.2015.131574 (accessed: Friday, August 30, 2024)
+
+**Purport:**<br>
+...
+
+### RAYCHAUDHURI, H. ###
+
+* Raychaudhuri, Hemchandra (1936, 1920). 'Materials for the Study of the Early History of the Vaishnava Sect'. Second edition, revised and enlarged. (NB: First edition published in 1920.). Calcutta, Bengal, India: University of Calcutta (University Press: Bhupendralal Banerjee). Source: https://archive.org/details/in.ernet.dli.2015.148629 (accessed: Friday, July 12, 2024)
+
+**Purport:**<br>
+Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was a person nested in history around whom there has been much subsequent poetic and pastoral embellishment and accretion. Raychaudhuri sought to clear the field with this watershed survey. I value the poetic and pastoral accretion, but honour and appreciate 9his point.
 
 * Raychaudhuri, Hemchandra (1975, 1920). 'Materials for the Study of the Early History of the Vaishnava Sect'. (NB: This 1975 volume, is properly, an imprint of the first edition of 1920. It declares its status as the "\[s]econd edition", but it is technically an imprint of the first edition and contains Frontmatter intact and does not bear the "revised and enlarged" components of the 1936 second edition; revised and enlarged with additional and altered Frontmatter.). New Delhi, India: Oriental Books Reprint Corporation. Source: https://archive.org/details/dli.ernet.170061 (accessed: Wednesday, July 23, 2025)
+
+**Purport:**<br>
+...
+
+### REDDY, D. ###
+
+* Reddy, Dr. D. Narasimha \[Telegu: డా॥ డి నరసింహా రెడ్డి ; IAST: Ḍā. Ḍi Narasiṃhā Reḍḍi] (1990). 'A Study of Yogapada of Padma-Samhita in the Light of Patanjali Yoga-Darshana \[Telegu: పాద్మ సంహితలోని యోగపాదము పతంజలి యోగదర్శనము - ఒక పరిశీలన ; IAST: Pādma Saṃhitāloni Yogapādamu Patañjali Yogadarśanamu - Oka Pariśīlana]'. With a Foreward in English by Dr. M. Narasimhachary dated 1990. (Note: In Telegu.) (Note: Published with the financial assistance of Tirumala Tirupati Devasthanams under their scheme: Aid to Publish Religious Books.). Tirupati \[Telegu: తిరుపతి ; IAST: Tirupati], Andhra Pradesh, India: 'Sudarshan Publications \[Telegu: సుదర్శన్ పబ్లికేషన్స్ ; IAST: Sudarśana Pablikēṣans]'. Source: https://archive.org/details/in.ernet.dli.2015.385275 (accessed: Tuesday, September 10, 2024)
+
+**Purport:**<br>
+...
+
+### REDDY, P. ###
+
+* Reddy, Prabhavati (2016). 'The Vaishnava Appropriation of Vedic Fires in the Vaikhanasa Tradition: A New Ritual System for Image Worship'. Shivdasani Lecture, May 26, 2016. (An audio recording of the lecture is downloadable. No transcript is provided.). The Oxford Centre for Hindu Studies. Source: https://legacy.ochs.org.uk/lectures/by-name-sorter/Dr Prabhavati Reddy (accessed: Monday, July 15, 2024)
+
+**Purport:**<br>
+Reddy writes the following about her lecture on the OCHS site: "The Vaikhanasas are a small South Indian community of Vaisnava Brahmins who have traditionally engaged in conducting temple worship by following their distinctive ritual system. The name Vaikhanasa derives from Sage Vikhanas, who is attributed with the authorship of the Vaikhanasa Sutras and with the founding of the Vaikhanasa School. The Vaikhanasa regards itself as part of the Vaisnava tradition orthodoxy because of its close adherence to Vedic religion and its presence within the Taittiriya School of the Black Yajurveda. The Vaikhanasa ritual literature on domestic and temple worship both in text and practice reflect this tradition's strong influences from the Srauta sacrificial cult and its fire rituals. This lecture will explore the ways in which the concept of Vedic fires is appropriated in the typical Vaisnava way by formulating a new ritual system for image worship (samurtarcana) in a temple setting within the Vaikhanasa School. We will examine the concepts of Triple Fires (tretagni) and Five Fires (pancagni) within the context of triple images (bimbatrayi) and fivefold images (pancabera). Also considered are the ways in which the Vedic ideas of fire sacrifice are rearticulated with new meanings and interpretations for the theistic, temple-based religion of Visnu as Venkatesvara."
+
+### REDMONDS, G. ###
+
+* Redmonds, George (2004). 'Names and History: People, Places and Things'. London, England, U.K.: Hambledon and London. ISBN 185285426X. https://archive.org/details/redmonds-george-2004.-names-and-history-people-places-and-things (accessed: Tuesday, September 03, 2024)
 
 **Purport:**<br>
 ...
@@ -1616,9 +1663,37 @@ Raychaudhuri was of the avowed and clear position that Sri Vasudeva-Krishna was 
 **Purport:**<br>
 Some of this work is accessible on Google Books, but as yet, I have not secured the work in its entirety. From research, I have ascertained it to be a work of quality and of uncommon depth, that investigates Himalayan bronzes artefacts from a holistic suite of technical inter-disciplinary perspectives.
 
+### RENOU, L. ###
+
+* Renou, Louis (2016, 1953). 'Religions of Ancient India'. Bloomsbury Academic Collections. Religious Studies: Religions of the World. (First published in 1953 by The Athlone Press, London, as part of the Jordan Lectures 1951.). London, England, U.K.: Bloomsbury Academic (an imprint of Bloomsbury Publishing Plc). ISBN 9781474288194 (ePDF). Source: https://archive.org/details/renou-louis-2016-1953.-religions-of-ancient-india (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+...
+
+### RENOU, L.; *et al.* ###
+
+* Renou, Louis (auth.) & Spratt, Philip (trans.) (1957). 'Vedic India'. Classical India Vol. 3. First edition. (Translated from the French edition of 1947.). Calcutta, India: Susil Gupta (India) Pvt. Ltd. Source: https://archive.org/details/in.gov.ignca.6854 (accessed: Tuesday, August 20, 2024)
+
+**Purport:**<br>
+...
+
 ### ROBINSON, F. ###
 
 * Robinson, Francis (2000). 'Islam and Muslim History in South Asia'. New Delhi, India: Oxford University Press. ISBN 0195649672. 
+
+**Purport:**<br>
+...
+
+### ROCCASALVO, J. ###
+
+Roccasalvo, Joseph F. (1980). 'The Debate at bSam yas: A Study in Religious Contrast and Correspondence' (pp. 505–520) in *Philosophy East and West*, Vol. 30, №4, October, 1980. Honolulu, Hawaii, U.S.A.: University of Hawai'i Press. Source: https://archive.org/details/roccasalvo-joseph-f.-1980.-the-debate-at-b-sam-yas-a-study-in-religious-contrast-correspondence (accessed: Thursday, July 25, 2024)
+
+**Purport:**<br>
+...
+
+### ROCHER, L.; *et al.* ###
+
+* Rocher, Ludo (auth.) & Gonder, Jan (ed.) (1986). 'The Puranas'. A History of Indian Literature, Vol. 2: Epics and Sanskrit Religious Literature, Fasc. 3. Wiesbaden, Hesse, Germany: Otto Harrassowitz. ISBN 3447025220. Source: https://archive.org/details/rocher-ludo-1986.-the-puranas (accessed: Tuesday, July 30, 2024)
 
 **Purport:**<br>
 ...
@@ -1630,6 +1705,13 @@ Some of this work is accessible on Google Books, but as yet, I have not secured 
 **Purport:**<br>
 ...
 
+### ROSU, A. ###
+
+* Rosu, Arion (1986). 'Mantra et Yantra en Medecine et Alchimie Indiennes' (pp. 117–126) in Padoux, Andre (ed.) (1986). *Mantras et Diagrammes Rituels dans L'Hindouisme*. Centre National de la Recherche Scientifique: Equipe de Recherche №249, "L'Hindouisme - Texts, Doctrines, Pratiques". Table Ronde: Mantras et Diagrammes Rituels dans L'Hindouisme, Paris, 22–22 Juin, 1984. Paris, France: Editions du Centre National de la Recherche Scientifique. ISBN 2222038499. Source: https://archive.org/details/MantraEtDiagrammesRituelsDansLHindouismeTableRonde (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+...
+
 ### ROY, A. ###
 
 * Roy, Asim (1970). 'Islam in the Environment of Medieval Bengal: With Special Reference to the Bengali Sources'. Ph.D. thesis. Canberra, A.C.T., Australia: The Australian National University (ANU).
@@ -1637,10 +1719,111 @@ Some of this work is accessible on Google Books, but as yet, I have not secured 
 **Purport:**<br>
 ...
 
+### ROY, S. ###
 
+* Roy (alt. Rai/Ray), Dr. Sunil Chandra (1955). 'Studies on the History of Religion in Ancient Kashmira' (pp. 168–199) in Datta, K.K., *et al.* (eds.) (1955). *The Journal of the Bihar Research Society*, Vol. 41, Part 2, June, 1955. Patna, Bihar, India: The Bihar Research Society. Source: https://archive.org/details/datta-k.-k.-et-al.-eds.-1955.-the-journal-of-the-bihar-research-society-vol.-41-part-2-june-1955 (accessed: Monday, September 09, 2024)
+
+**Purport:**<br>
+Roy cites verse references extensively from the [Rajatarangiti](https://en.wikipedia.org/wiki/Rajatarangini) (12th century CE), but vexingly, does not specify either manuscript or publication. To my knowledge, there are two published editions he could be working from, but any number of unpublished manuscripts. The Sanskrit work edited by Durgaprasada & Peterson in three (3) volumes: Vol. 1 (1882), Vol. 2 (1894) and Vol. 3. (1896) or the critical edition and English translation of Stein in three (3) volumes (1900). Note: [Stein](https://en.wikipedia.org/wiki/Aurel_Stein), did not pull from the work of Durgaprasada & Peterson. Roy, later in his work, cites and quotes from, the English translation of Stein, which intimates that he may be working from Stein's critical edition, but without investigation, this cannot be taken as a given.
+
+### RUEGG, D. ###
+
+* Ruegg, David Seyfort (1989). 'Buddha-Nature, Mind and the Problem of Gradualism in a Comparative Perspective: On the Transmission and Reception of Buddhism in India and Tibet'. Source: https://archive.org/details/buddhanaturemindproblemofgradualismincomparativeperspectivetransmissionbuddhismi_132_P (accessed: Thursday, July 25, 2024)
+
+**Purport:**<br>
 ...
 
 # S #
+
+### SAHA, N. ###
+
+* Saha, Niranjan (2014). 'Philosophy of Advaita Vedanta according to Madhusudana Saraswati's Gudharthadipika'. Ph.D. dissertation. Department of the Study of Religions. School of Oriental and African Studies (SOAS). London, England, U. K.: University of London.
+
+**Purport:**<br>
+...
+
+### SAHAY, S. ###
+
+* Sahay, Srija (2021). 'Connected Worship: Locating Pancharatra Networks in West and Central India' (pp. 313–328) in the *Journal of Dharma Studies*, Vol. 4, Issue 3, 2021. Cham, Zug, Switzerland: Springer Nature Switzerland AG. Source: xxx
+
+**Purport:**<br>
+...
+
+### SAMAD, A. ###
+
+* Samad, Abdul (2010). 'Emergence of Hinduism in Gandhara: An analysis of Material Culture'. Department of History and Cultural Studies. Ph.D. dissertation. Berlin, Germany: 'Free University of Berlin \[German: Freie Universitat Berlin]'. Source: https://archive.org/details/samad-abdul-2010.-emergence-of-hinduism-in-gandhara-an-analysis-of-material-culture (accessed: Sunday, September 15, 2024)
+
+**Purport:**<br>
+...
+
+### SANDERSON, A. ###
+
+* Sanderson, Alexis (1986). 'Mandala and Agamic Identity in the Trika of Kashmir' (pp. 169–214) in Padoux, Andre (ed.) (1986). *Mantras et Diagrammes Rituels dans L'Hindouisme*. Centre National de la Recherche Scientifique: Equipe de Recherche №249, "L'Hindouisme - Texts, Doctrines, Pratiques". Table Ronde: Mantras et Diagrammes Rituels dans L'Hindouisme, Paris, 22–22 Juin, 1984. Paris, France: Editions du Centre National de la Recherche Scientifique. ISBN 2222038499. Source: https://archive.org/details/MantraEtDiagrammesRituelsDansLHindouismeTableRonde (accessed: Wednesday, August 14, 2024)
+
+**Purport:**<br>
+...
+
+* Sanderson, Alexis (2001). 'History through Textual Criticism in the Study of Shaivism, the Pancharatra and the Buddhist Yoginitantras' (pp. 1–47) in Grimal, Francois (ed.) (2001). *Les sources at le temps. Sources and Time. A Colloquium*, Pondicherry 11–13 January 1997. Publications du Departement d'Indologie №91. Pondichery, India: Institut Francais de Pondichery (Ecole Francaise d'Extreme-Orient). ISBN 9788184700992. Source: https://archive.org/details/sanderson-a.-2001.-history-through-textual-criticism...-study-of-shaivism-pancha (accessed: Monday, August 12, 2024)
+
+**Purport:**<br>
+Sanderson's work is technical, involved, specific, niche and a complex, that employs a sophisticated array of disciplines, subdisciplines, modalities and tools, to analyze the intricate relationships between various specific Tantric and Agamic textual traditions. Here are some of the key technical disciplines and subdisciplines that coalesce in his toolkit:
+1. Textual Criticism:
+ - Lower Criticism: Focuses on the identification and removal of transcription errors in texts.
+ - Higher Criticism: Deals with questions of authorship, date, and place of composition.
+2. Palaeography:
+ - The study of ancient handwriting and scripts to date and authenticate manuscripts.
+3. Manuscript Studies:
+ - Codicology: The study of books and textual material as physical objects, including their structure, materials and production.
+ - Philology: The study of language in written historical sources; it is a combination of literary studies, history and linguistics.
+ - Digital Philology: Involves the use of digital tools and methods to study manuscripts.
+4. Critical Textual Analysis:
+ - Stemmatics: The study of the relationships between different manuscript versions to reconstruct the original text.
+ - Eclecticism: A method that uses various readings from different manuscripts to create a critical edition.
+5. Historical Inquiry:
+ - Historiography: The study of the methods and principles through which history is written.
+6. Theological and Doctrinal Studies:
+ - Analysis of religious doctrines and their development over time.
+7. Forensic Analysis:
+ - Applying scientific methods to analyze and authenticate manuscripts and their origins.
+These disciplines collectively enable scholars like Sanderson to meticulously trace the evolution and interconnections of textual traditions, providing a comprehensive understanding of their historical and cultural contexts.
+None of these terms, is the specific technical term I seek, in order to describe the technical nature of Sanderson's analytical toolset and acumen. It is like a complex formed from the applications of aspects of Stemmatics, Codicology, Eclecticism and Forensic analysis, in order to show the acculturation and adaptation, dissemination and transmission, of material and theological ideas, insights, narratives, perceptions and theological, conceptual and doctrinal technologies and perspectives, from one sectarian Tantric textual tradition, to another. Given this, I feel Applied Palaeographic Forensic Stemmatics in manuscript intertextuality, approaches a quantification of the toolset or toolkit, employed to great effect by Sanderson in this work.
+Phylogenetic methods are analytical techniques originally developed in evolutionary biology to study the relationships between different species based on their genetic characteristics. These methods have been adapted for use in textual criticism to analyze the relationships between different manuscript versions of a text.
+In the context of textual criticism, phylogenetic methods involve the following steps:
+1. Data Collection: Gathering textual variants from different manuscripts.
+2. Alignment: Aligning the textual variants to identify similarities and differences.
+3. Tree Construction: Using algorithms to construct a phylogenetic tree that represents the evolutionary relationships between the manuscripts.
+4. Analysis: Interpreting the tree to understand the history and transmission of the text.
+These methods help scholars to:
+- Reconstruct the genealogy of manuscripts.
+- Identify common ancestors (archetypes) of different manuscript traditions.
+- Understand how texts have evolved and been transmitted over time.
+Phylogenetic methods provide a visual and quantitative way to trace the development and divergence of textual traditions, similar to how biologists trace the evolution of species. Sanderson uses "archetype" in this denotation, which perplexed me, as I have not encountered it before.
+Forensic Phylogenetic Palaeography?
+'Forensic Phylogenetic Palaeography' is an apt term to describe the interdisciplinary approach you're referring to. This term combines several key disciplines:
+1. Forensic Analysis: Applying scientific methods to authenticate and analyze manuscripts.
+2. Phylogenetic Methods: Using evolutionary biology techniques to trace the relationships and transmission of textual variants.
+3. Palaeography: Studying ancient handwriting and scripts to date, authenticate and critically analyze, manuscripts.
+This approach allows scholars, such as Sanderson, to meticulously trace the adaptation and integration of textual materials across different traditions, providing a comprehensive understanding of their historical and cultural contexts and intertextuality.
+Let us break down some of the technical terms used in this work:
+1. Textual Criticism: The scholarly study of manuscripts to determine the original text.
+2. Redactor: An editor who compiles and revises texts, often making changes to fit a particular purpose or context.
+3. Corpus: A collection of written texts, especially the complete works of a particular author or a body of writing on a specific subject.
+4. Recension:
+ - Closed Recension: A situation where the surviving manuscripts of a text are closely related, allowing the editor to reconstruct the archetype (the original form of the text).
+ - Open Recension: A situation where the manuscripts show significant variation, indicating a more complex transmission history with possible contamination (mixing of different textual traditions).
+5. Archetype: The original form of a text from which all copies are derived.
+6. Source-Text: The original text from which passages have been borrowed or incorporated into another text.
+7. Vertical Structure: The hierarchical relationship between different versions of a text, tracing back to the archetype.
+8. Contamination: The mixing of different textual traditions, leading to variations in the manuscripts.
+9. Variants: Different readings or versions of a text found in various manuscripts.
+10. Forensic Analysis: The application of scientific methods to analyze and authenticate manuscripts.
+These terms are used to describe the process of identifying and evaluating the relationships between different manuscripts, particularly when one text has borrowed from another. This helps scholars understand how texts have been transmitted, adapted, and transformed over time.
+And: "…beyond the boundaries of the parallel..."?
+The phrase "beyond the boundaries of the parallel" in this context refers to the analysis extending beyond the direct textual parallels between the source text and the borrowed text. Here's a breakdown of what this means:
+1. Parallel Texts: When one text incorporates passages from another, scholars can identify direct parallels or matches between the two texts.
+2. Boundaries of the Parallel: These are the limits within which the texts directly correspond to each other.
+3. Beyond the Boundaries: This involves looking at the broader context and implications of these parallels. It means examining how the borrowed text has been adapted, modified, or integrated into the new context, and understanding the wider transmission and transformation of the text.
+In essence, it's about moving from simply identifying direct textual matches to understanding the broader historical, cultural, and doctrinal implications of these textual interactions. This approach helps in discerning the deeper layers of textual transmission and adaptation that go beyond the immediate parallels.
 
 ### SARDELLA, F.; *et al.* ###
 
