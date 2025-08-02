@@ -147,6 +147,13 @@ This work is strong and there is such silence around it.
 **Purport:**<br>
 This work is definitely informed by the vast amount of work and citations, I uploaded and published in English Wikipedia, from a number of articles, but particularly the now renamed and defunct English Wikipedia article that I inaugurated, populated and cited, and named 'Kīlā (Sanskrit)', later changed by others to 'Buddhism', which I disagreed with. Even Boord personally contributed to the article, amongst other Tibetologists and Sanskritists. This dissertation even utilises some of my specific terms of phrase, unattributed. My writing and referencing style is idiosyncratic and distinctive. Especially, when my writing is decidedly polished, through much toil. I consider myself a jeweller. I write, often spontaneously. Then, slowly, meticulously, painstakingly and methodologically: facet, filigree, and fashion cabochons and cameos of concept and language. I find it annoying and disconcerting, that some scholars, such as Li, feel they do not need to cite Wikipedia, when their work has drawn and benefited extensively from it. I feel, and it is my concerted opinion, that the time has long since passed when Academia and the bastions of scholarship, could deprecate and disparage the contribution of the suite of Wikimedia projects, and all those (mostly) anonymous, selfless, contributions, of mostly non-academically trained, non-professionals, to iterate and inform global discourse, knowledge and information dissemination, and the subsequent leavening of the global scholarship of Academia and institutional pedagogy and traditions of scholarship. The Wikimedia projects and their synthesis and showcase of human knowledges and discourse confluence, has profoundly altered the 'Human Condition' and 'The Spirit of the Age', since its inception. Well, this position, I tender, proffer and defend.
 
+### LIMAYE, V.; *et al.* ###
+
+* Limaye, V.P. & Vadekar, R.D. (eds.) (1958). 'Eighteen Principal Upanishads Vol. I \[1]: Upanishadic Text with Parallels from Extant Vedic Literature, Exegetical and Grammatical Notes'. Gandhi Memorial Edition. Source: https://archive.org/details/dli.ernet.383034 (accessed: Saturday, August 02, 2025)
+
+**Purport:**<br>
+It appears the companion second volume was never realised.
+
 ### LINDER, S. ###
 
 * Linder, Silvia Schwarz (2012). 'The Philosophical and Theological Teachings of the Padma-Samhita'. Ph.D. dissertation. Vienna, Austria: 'University of Vienna' \[German: Universitat Wien]'. Source: https://archive.org/details/linder-silvia-schwarz-2012.-the-philosophical-and-theological-teachings-of-the-padma-samhita (accessed: Tuesday, August 20, 2024)
