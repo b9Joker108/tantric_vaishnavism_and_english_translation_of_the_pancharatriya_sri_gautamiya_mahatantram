@@ -591,6 +591,13 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 **Purport:**
 ...
 
+### JAHAN, S.; *et al.* ###
+
+* Jahan, Shahnaj Husne (auth.) & Kanungo, Alok K. (ed.) (2019, 2006). 'Excavating Waves and Winds of (Ex)change: A Study of Maritime Trade in Early Bengal'. British Archaeological Reports \[BAR] International Series 1533. South Asian Archaeology Series: Vol. 5. With a 'Foreword' by Dr. Alok Kumar Kanungo. (NB: First published in 2006 by John and Erica Hedges, Oxford, England, U.K.). Oxford, England, U.K.: BAR Publishing. ISBN  9781407329895 (ebook). DOI: https://doi.org/10.30861/9781841717531 (accessed: Sunday, August 03, 2025)
+
+**Purport:**
+...
+
 ### JAISWAL, S.; *et al.* ###
 
 * Jaiswal, Shubham; Agrawal, Avlokita & Raman, Geethanjali (eds.) (2019). 'Genesis of Stupas' (pp. 205-213) in Agrawal, Avlokita & Gupta, Rajat (eds.) (2019). *Revisiting the Role of Architecture for 'Surviving' Development: 53ʳᵈ International Conference of the Architectural Science Association*. Melbourne, Victoria, Australia: Architectural Science Association (ANZAScA). 
