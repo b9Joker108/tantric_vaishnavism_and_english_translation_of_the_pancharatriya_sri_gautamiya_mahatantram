@@ -1077,3 +1077,252 @@ If you'd like scans or TEI-encoded digitizations (if obtainable), or further sou
 
 Would you now like the corresponding Romanized citations (Bengali → IAST) with reference pagination or just confirmation of publication data for archival access?
 
+
+
+
+What verses and section of the Bhagavatam contains the section about the tridandin Brahmana that was recited by Bhaktivedanta Sarasvati Thakura when he took his unconventioned sanyassin with a photo of his guru?
+
+The verses from the **Śrīmad Bhāgavatam** that are strongly associated with the *tridandin brāhmaṇa* and are repeatedly referenced in the context of Gaudīya Vaiṣṇava sannyāsa rituals—including the unconventional self-initiation of **Bhaktisiddhanta Sarasvati Thakura** in front of a photo of his guru in 1918—are from **Canto 11, Chapter 23** (commonly called “The Song of the Avanti Brāhmaṇa” or the *tridandin* or *sannyāsa* brāhmaṇa episode)[1].
+
+### Key Sections and Verses
+
+- **Śrīmad Bhāgavatam 11.23.6–11.23.57**: This passage narrates the story of the Avanti brāhmaṇa who, after being harassed by society, adopts the order of *tridandin sannyāsa*, takes to mendicant life, and tolerantly chants profound verses on the cause of suffering—culminating in the philosophy that control of the mind is central for the renounced order.
+- Verses such as **11.23.17–43** present the philosophical teachings, and verse **11.23.57** sometimes receives special emphasis among mahāmantra reciters.
+
+#### Sample Translation of a Key Relevant Verse:
+> "*He was grateful that a sense of detachment had arisen in his heart and considered it the factual means for delivering his soul. In this condition he determined to engage the duration of his life in the worship of Lord Hari and thus accepted the mendicant order of tridandi-sannyasa. Subsequently, he would enter different villages to beg charity, but the people would harass and disturb him. But he simply tolerated all this...*" (Summary, SB 11.23)[1].
+
+The *tridanda* here is not just a physical staff but the symbolic triple control of body, speech, and mind.
+
+### Historical Ritual
+
+When **Bhaktisiddhanta Sarasvati Thakura** took his extraordinary sannyāsa in 1918, it is widely noted by disciples and biographers that he recited or meditated upon these Avanti brāhmaṇa instructions to embody the ideal of *tridandin* renunciation[2].
+
+### Additional Passages
+
+- In association with the broader concept of protecting and honoring brāhmaṇas, Bhaktisiddhanta Sarasvati also quoted **various passages from Canto 3, Chapter 16** (the *cursed doorkeepers* and the Lord’s deference to brāhmaṇas), but for the direct *tridandin* sannyāsa model and his personal inspiration, it is **Canto 11, Chapter 23** that is most definitive[1].
+
+### **Summary Table**
+
+| Theme                       | Bhagavatam Reference | Section/Verse(s)         |
+|-----------------------------|----------------------|--------------------------|
+| Avanti/tridandin brāhmaṇa   | 11.23                | Verses 6–57 (esp. 17ff)  |
+| Sannyāsa ideal—mind control | 11.23.43             | See also 11.23.56–57     |
+| Brāhmaṇa honor, discipline  | 3.16                 | Verses 10–31             |
+
+**In summary:**  
+The passage recited/meditated on by Bhaktisiddhanta Sarasvati Thakura when he accepted the tridandi sannyāsa before his guru’s photo is found in **Śrīmad Bhāgavatam Canto 11, Chapter 23**, known as "The Song of the Avanti Brāhmaṇa" or the teachings of the tridandin sannyāsin, verses 6–57[1][2].
+
+If you wish for the Sanskrit or a direct translation of a specific verse, please specify the verse number.
+
+- For further reading on this, see also:  
+"Lessons from the Avanti Brahmana" on Mahavishnu Goswami Maharaj’s site[1],  
+and the Bhaktisiddhanta Sarasvati Thakura biographies and sannyasa narratives for ritual practice[2].
+
+Citations:
+[1] Lessons from the Avanti Brahmana - Mahavishnu Goswami Maharaj https://mahavishnugoswami.com/gr/5655
+[2] [PDF] SRILA BHAKTISIDDHANTA SARASVATI GOSWAMI MAHARAJA https://bhaktisundar.org/backup/holy/Srila-Bhaktisiddhanta_writings/Srila%20Bhaktisiddhanta%20Sarawati%20Thakur.pdf
+[3] Bhaktisiddhanta Sarasvati Thakura - Book Intro._0 https://www.scribd.com/document/541036754/Bhaktisiddhanta-Sarasvati-Thakura-Book-Intro-0
+[4] Srila Bhaktisiddhanta Sarawati Thakur https://www.scribd.com/document/261698482/Srila-Bhaktisiddhanta-Sarawati-Thakur
+[5] Srimad Bhagavatam Text - 3.9.14 Speaker - HG Brhat Mridanga Das https://www.youtube.com/watch?v=kiH2a1gL7SI
+[6] Amazing insights from Bhaktisiddanta Sarasvati Thakura’s conversations and discourses https://iskcondesiretree.com/profiles/blogs/amazing-insights-from-bhaktisiddanta-sarasvati-thakura-s-conversa
+[7] Srimad Bhagavatam (Bhaki Siddhanta Saraswati Thakur Katha). Speaker - HG Vaisesika Prabhu https://www.youtube.com/watch?v=g9i4bitaYSA
+[8] Srila Bhaktisiddhanta Sarasvati Thakura Appearance Day | Srila Prabhupada Lecture https://www.youtube.com/watch?v=FQ0VCV8HCsg
+[9] Srimad Bhagavatam Text - 3.11.35 Speaker - H.H. Bhakti Rasayana Sagar Swami https://www.youtube.com/watch?v=PM-z7mwYu8A
+[10] H.H. Prabhodanand Saraswati Swami_SB-07.14.42_05.08.2022 https://www.youtube.com/watch?v=lY3lVFuG0Ko
+[11] Amazing insights from Srila Bhaktisiddhanta Sarasvati Thakura’s conversations and discourses https://iskcondesiretree.com/profiles/blogs/amazing-insights-from-srila-bhaktisiddhanta-sarasvati-thakura-s-c
+[12] Bhaktisiddhanta Sarasvati - Wikipedia https://en.wikipedia.org/wiki/Bhaktisiddhanta_Sarasvati_Thakura
+[13] Śrīmad Bhāgavatam |Canto 3 Chapter 16 - Red Zambala https://gaudiya.redzambala.com/srimad-bhagavatam/srimad-bhagavatam-canto-3-chapter-16.html
+[14] Chapter 64 - Srimad Bhagavatam: Canto 10 https://www.srimadbhagavatam.org/canto10/chapter64.html
+[15] Qualification of a brahmana - Vaniquotes https://vaniquotes.org/wiki/Qualification_of_a_brahmana
+[16] Verse 2.1.10-11 [Brihad-bhagavatamrita] https://www.wisdomlib.org/hinduism/book/brihad-bhagavatamrita-commentary/d/doc426655.html
+[17] The Supremacy of Srimad Bhagavatam over the Vedas https://gosai.com/writings/the-supremacy-of-srimad-bhagavatam-over-the-vedas
+[18] Verses of Srimad-Bhagavatam - Vaniquotes https://vaniquotes.org/wiki/Verses_of_Srimad-Bhagavatam
+[19] Are we really better than Brahmanas? | The Path of Bhakti https://thepathofbhakti.com/are-we-really-better-than-brahmanas/
+[20] Verses - Sripad Bhaktivedanta Tridandi Swami… https://www.bvtridandi.com/verses/
+[21] An Investigation of Hindu Scripture - Apologetics Press https://apologeticspress.org/an-investigation-of-hindu-scripture-1410/
+[22] [PDF] Vaisnava Ke - ebooks - ISKCON desire tree: https://ebooks.iskcondesiretree.com/pdf/00_-_More/Vaisnava_Ke.pdf
+[23] [PDF] Brahmana and Vaisnava - Shyam Das Baba https://shyamdasbaba.com/wp-content/uploads/2020/02/Bhaktisiddhanta_Sarasvati_Thakura_Brahmana_and_Vaisnava.pdf
+[24] [PDF] “Sri Brahma-Samhita” by His Divine Grace Srila Bhaktisiddhanta ... https://yoga.krishna.com/en/pdf/e-books/Sri_Brahma_Samhita.pdf
+[25] Tag Archives: Bhaktisiddhanta Sarasvati Thakura - Gaudiya History https://gaudiyahistory.iskcondesiretree.com/tag/bhaktisiddhanta-sarasvati-thakura/
+[26] Srila Bhaktisiddhanta Sarasvati Thakura | PDF | Vaishnavism - Scribd https://www.scribd.com/doc/109248277/Srila-Bhaktisiddhanta-Sarasvati-Thakura
+[27] True Sannyasa verses Sahajiya Babajis - PureBhakti.com https://www.purebhakti.com/teachers/bhakti-discourses/18-discourses-1990s/1404-true-sannyasa-verses-sahajiya-babajis
+[28] Amrta Vani-Q&A by Bhaktisiddhanta Sarasvati Thakura Prabhupada https://www.scribd.com/document/686341581/Amrta-Vani-Q-A-by-Bhaktisiddhanta-Sarasvati-Thakura-Prabhupada
+[29] Bhaktisiddhanta Sarasvati - Wikipedia https://en.wikipedia.org/wiki/Bhaktisiddhanta_Sarasvati
+[30] Bhaktisiddhanta Sarasvati Thakura's Introduction Of Sannyasa https://www.youtube.com/watch?v=4jjq9JPvXjo
+
+
+
+Tell me all about the Bhikshu-gita in the Bhagavatam?
+
+The **Bhikṣu-gītā** ("Song of the Beggar/Ascetic") is a celebrated philosophical passage in the **Śrīmad Bhāgavatam** (Bhagavata Purana). It is found in **Canto 11, Chapter 23** (sometimes starting in verse 6 or 18, depending on commentary) and is also known as "The Song of the Avanti Brāhmaṇa." This section presents the reflections and teachings of a renouncer (bhikṣu) who, having faced repeated miseries, attains deep insight into the nature of suffering and liberation.
+
+### Context and Narrative
+
+- The context is Lord Krishna instructing Uddhava in the *Uddhava-gītā* section (Cantos 11.7–11.29).
+- Krishna narrates the story of a wealthy brāhmaṇa from Avanti (an ancient city, present-day Ujjain) who, by his greed and miserliness, loses all his wealth, is abandoned by family, and subjected to ridicule and abuse by society[1][3].
+- In his destitution, the brāhmaṇa renounces worldly life, becomes a *tridandin sannyāsī* (triple-staffed mendicant), and endures harsh treatment without losing his composure.
+- He attributes all suffering, not to external circumstances, karma, or other people, but to the restless, uncontrolled mind, which is the true cause of bondage or liberation[1][3][7].
+
+### Philosophical Themes
+
+The Bhikṣu-gītā is notable for its penetrating psychology and advaita-style (nondual) insight, emphasizing:
+
+- **The real cause of suffering is not external events but the mind's attachment, projections, and desires.**
+- **Patience, detachment, and steadfastness liberate the soul.**
+- **Wealth, social ties, and external honor are fleeting and unreliable.**
+- **True happiness is internal and comes from understanding one's spiritual nature.**
+
+### Key Verses 
+
+- **Verses 11.23.43–57** contain the brāhmaṇa's reflective "song." He instructs himself (his mind) repeatedly, often with the refrain: "O mind! You are neither the doer nor the enjoyer. All actions are but products of the gunas (modes of material nature)."
+- Famous lines include:
+  > "The cause of my happiness and distress is not others, not fate, not my body, not the gods, not the planets, not karma, but only the mind"[1][7].
+- Through introspection, the brāhmaṇa’s mind becomes tranquil, and he achieves spiritual realization, unaffected by insult or hardship.
+
+### Structure and Terminology
+
+- The term "Bhikṣu-gītā" refers to the "Song of the Beggar" or "Ascetic" (*bhikṣu* = mendicant, *gītā* = song).
+- The passage is cited as a *gita* or "song" because of its dialogic, self-addressed, and instructive poetic form.
+
+### Influence and Use
+
+- The Bhikṣu-gītā is sometimes recited on occasions of sannyāsa (monastic renunciation), and is known for inspiring steadfastness and inner composure.
+- Bhaktisiddhanta Sarasvati Thakura notably invoked these verses during his unconventional acceptance of sannyāsa in 1918, identifying with the message of non-retaliation and mind-control.
+- The text is referenced in the wider Indian tradition for its practical guidance on equanimity and for its psychological realism.
+
+### English Translation and Sources
+
+- See Śrīmad Bhāgavatam 11.23.6–57 for the narrative and verses[1][3][7][8].
+- Many respected translations and commentaries are available, e.g., on Vedabase (A.C. Bhaktivedanta Swami Prabhupada), WisdomLib, and scholarly editions.
+
+**References:**
+- [1] WisdomLib: "Chapter 23 - The Song of a Recluse (Bhikṣu Gītā)" (summary and text).
+- [3] ProfVK: "For the Bikshu Gita... Bhagavatam Skanda 11, Ch.23, Slokas 6–57."
+- [7] TheSpiritualScientist.com: "Bhikshu Gita 2 – The mind makes it difficult for people to change (SB 11.23.43)."
+- [8] Vedabase: "Śrīmad-Bhāgavatam" (for direct chapter/verse text).
+
+If you would like the Sanskrit, the full English text, or in-depth commentary on specific verses, let me know.
+
+Citations:
+[1] Chapter 23 - The Song of a Recluse (Bhikṣu Gītā) https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128995.html
+[2] Bhikshu Gita by Swami Ramakrishnananda - Discourse 1 of 4-Verse ... https://www.youtube.com/watch?v=9bpa1nZCbwI
+[3] 19.27 : SHLOKAS 25 TO 28 OF 36 | kvforp https://www.profvk.com/19-27-shlokas-25-to-28-of-36
+[4] Srimad Bhagavad Gita All verses with Audio, Index, in ... - Shlokam.org https://shlokam.org/bhagavad-gita/
+[5] Bhikshu Gita 5 - Happiness comes by raising the standard of longing ... https://www.thespiritualscientist.com/bhikshu-gita-5-happiness-comes-by-raising-the-standard-of-longing-srimad-bhagavatam-11-23-46/
+[6] Bhikshu Gita - SamPage https://murthy936.blogspot.com/2024/05/bhikshu-gita.html
+[7] Bhikshu Gita 2 - The mind makes it difficult for people to change https://www.thespiritualscientist.com/bhikshu-gita-2-the-mind-makes-it-difficult-for-people-to-change-be-understanding-srimad-bhagavatam-11-23-43/
+[8] Śrīmad-Bhāgavatam - Vedabase https://vedabase.io/en/library/sb/
+[9] Bhikshu - Gita | PDF | Ātman (Hinduism) | Brahman - Scribd https://www.scribd.com/document/311954193/Bhikshu-Gita
+[10] Different Gitas (विविधाः गीताः) - Dharmawiki https://dharmawiki.org/index.php/Different_Gitas_(%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%83_%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE%E0%A4%83)
+
+
+For the Bikshu Gita itself in original one can go to Bhagavatam Skanda 11, Ch.7 Sloka 32  to  end of Ch.9.
+
+
+
+What is your evidence for stating that the Bhikshu Gita is Advaitin in orieniation? I mean, a lot of the Gitas in the Bhagavatam are indeed Advaitin, but what is specifically and strictly advaitin about this gita?
+
+The claim that the **Bhikṣu-gītā** ("Song of the Mendicant," Śrīmad Bhāgavatam 11.23.6–57) is "Advaitin" in orientation often arises from its philosophical tone and select verses, but this requires careful qualification.
+
+### Core Philosophical Features of the Bhikṣu-gītā
+
+1. **Root Cause of Suffering:**  
+   The Bhikṣu teaches that suffering arises not from others, fate, the body, or even one's karma, but from attachment and agitation of the mind—a point that is echoed in both Advaita Vedanta and other Indian schools[3].
+
+2. **Mind as Creator of Bondage or Liberation:**  
+   He repeatedly instructs his mind: "You are not the doer nor the enjoyer; actions are carried out by the gunas of prakṛti" (SB 11.23.42–43). This impersonal, non-agent stance regarding the self is sometimes identified with Advaitic perspectives, especially in its denial of ultimate doership[3].
+
+3. **Superimposition and Avidyā:**  
+   Commentators note how suffering is caused by avidyā (ignorance):  
+   > "Ignorance (avidyā) ... manifests just like the snake seen on the rope, this whole world ... [and] vanishes the moment one is enlightened."[3]
+   This analogy is foundational in Advaita Vedanta, where the rope-snake metaphor represents mistaken identity of the self.
+
+4. **Non-Attribution of Self to Mind, Senses, or Body:**  
+   The bhikṣu declares that the _ātman_ (self) is not truly affected by the actions of the body or mind. The notion that one's real nature is untouched by change and suffering is a key Advaita theme, though not exclusive to it.
+
+### Where the Bhikṣu-gītā Is and Isn't Advaitin
+
+- **Strictly Advaitan Elements:**  
+  - The denial of ultimate reality to worldly phenomena due to avidyā, and the assertion that the self (ātman) is only a witness—not a doer or sufferer—are typical Advaita ideas[3].
+  - The teaching that "actions are due to the gunas and are not ultimately the self's" parallels the Advaitic doctrine of non-doership (akartṛtvam).
+
+- **Where the Gita Is Not Exclusively Advaita:**  
+  - The Bhikṣu-gītā does not explicitly equate ātman with impersonal brahman or deny the existence of bhakti (devotion) or īśvara (God).  
+  - While Advaita language is present, the metaphysics of the Bhāgavatam is generally inclusive—the text elsewhere strongly affirms theism and bhakti, especially in other cantos.
+  - The mind's role in bondage and liberation is emphasized in multiple Indian schools, including Sāṁkhya and Yoga, not just Advaita Vedanta.
+
+### Scholarly Position
+
+Scholarly and traditional commentaries often call the philosophical core "practical Advaita" or note its "advaitic tone"—especially in presenting the non-doership of the atman and its transcendence over dualities—but do not claim the Bhikṣu-gītā as exclusively or strictly Advaitan in the technical (Shankara Vedānta) sense[3][7].
+
+### Key Citations
+
+> "Here is a practical advaitic philosophy of action in daily life. ... The entire samsāra is due to this avidyā ... which is neither existent nor non-existent. ... The real Self ... has nothing to do with the vicissitudes of existence ... This is why the scriptures say it is ‘anirvacanīya’—undecidable."[3]
+
+> "The Bhikshu Gita is an acclaimed Gita dealing with Advaita Vedanta. It is part of the Srimad Bhagavatam."[7]
+
+### Conclusion
+
+**While the Bhikṣu-gītā is not doctrinally Advaita Vedanta in a strict, Shankara sense, it contains vivid expressions of non-dual insight:**  
+- Attribution of suffering to avidyā,  
+- Emphasis on non-doership and self as witness,  
+- Use of classic Advaita metaphors (e.g., rope and snake).  
+
+However, its theistic and bhakti context in the wider Bhāgavatam prevents it from being classified as exclusively Advaitin. "Advaitic" here refers to philosophical tone and select metaphysics, not formal doctrinal exclusivity[3][7].
+
+If you need Sanskrit verses or deeper exegesis on this, let me know.
+
+Citations:
+[1] Bhagvad Gita - Advaita Interpretation : r/AdvaitaVedanta - Reddit https://www.reddit.com/r/AdvaitaVedanta/comments/1gpojh3/bhagvad_gita_advaita_interpretation/
+[2] Bhikshu Gita 6 - See the mind's aversion to concentration as a trick ... https://www.thespiritualscientist.com/bhikshu-gita-6-see-the-minds-aversion-to-concentration-as-a-trick-of-illusion-srimad-bhagavatam-11-23-47/
+[3] 19.27 : SHLOKAS 25 TO 28 OF 36 | kvforp https://www.profvk.com/19-27-shlokas-25-to-28-of-36
+[4] Total Sixty Gitas Exists with BhagvadGita. Things You Never Know... https://swamisamarth.dattaprabodhinee.org/2023/04/total-sixty-gitas-exists-with.html
+[5] Many kinds of 'Gita's – a bird's eye view - Wisdom of the Seers http://speakingmuni.blogspot.com/2015/06/many-kinds-of-gitas-birds-eye-view.html
+[6] Bhikshu Gita 5 - Happiness comes by raising the standard of longing ... https://www.thespiritualscientist.com/bhikshu-gita-5-happiness-comes-by-raising-the-standard-of-longing-srimad-bhagavatam-11-23-46/
+[7] Types Of Gitas · - dasarpAI https://main--dasarpai.netlify.app/gk/types-of-gitas/
+[8] The Bhikshu Gita (Set Of 2 Books) – Totally Indian https://totallyindian.com/en-ru/products/the-bhikshu-gita-set-of-2-books-product
+[9] Various Gitas Of Hinduism - Wordzz https://wordzz.com/various-gitas-hinduism/
+
+
+
+
+
+Your evidence for your assertion was tenuous and reaching. A lot of Indian Dharmic traditions subsume the doctrine of non-doer-ship, Sri Krishna even advances it in the Bhagavad Gita. Do you wish to revise your stance?
+
+You are correct that the doctrine of non-doer-ship (akartṛtvam) is present across many Indian traditions, and is not exclusive to Advaita Vedanta—Śrī Kṛṣṇa himself advances this idea in the Bhagavad Gītā (notably in BG 5.8–9 and BG 13.30), and it appears in Vaishnava, Sāṅkhya, and Yogic texts as well[2][9]. This is an important corrective: the mere presence of non-doer-ship or teaching that the mind is the root of bondage does not, by itself, make a passage “Advaitin” in the formal doctrinal sense.
+
+Regarding the **Bhikṣu-gītā** (Bhāgavatam 11.23.6–57):
+- The text teaches that misery is not caused by agents, gods, fate, or even karma, but by the mind; this is a widely held Indian philosophical position and appears in both dualist and nondualist schools[5][7].
+- The analogy of the rope and snake (avidyā) does appear in Advaita Vedanta, but the recognition of ignorance (avidyā) as the source of delusion is shared by other darśanas, including classical Yoga and even theistic Vedānta[7].
+- The distinctions made between the true self and activities of the mind, while reminiscent of Advaita, fit broad Indian patterns.
+
+**Strictly Advaitin features in the Bhikṣu-gītā are not exclusive or explicit:**
+- The text does not teach that the individual self (jīva) is identical with nirguṇa Brahman or that all distinctions are ultimately illusory, which is the hallmark of classical Advaita. 
+- It does not deny or dismiss the reality of devotion, nor does it assert that liberation is solely knowledge of non-duality, as pure Advaita does[2][9].
+
+**Most scholarship classifies the Bhikṣu-gītā as “advaitic in tone” or “practically non-dual,” but not as explicitly, strictly Advaitin in the Śaṅkara Vedānta sense.** Its message of dis-identification with mind/body, non-doer-ship, and patient equanimity is shared by many Indian traditions[5][7][9].
+
+Therefore, I revise my stance as follows:
+- The Bhikṣu-gītā contains nondual and non-doer-ship themes compatible with Advaita Vedanta, but these are not unique to Advaita and are integral to much of Indian soteriology.
+- The passage is not “strictly Advaitin” but is ecumenically nondual and psychological, expressing teachings that bridge multiple darśanas.
+- Its use in the Gaudiya (and ISKCON) and other theistic sannyāsa contexts reflects this broad, cross-systemic appeal rather than sectarian metaphysics.
+
+Thank you for prompting a more precise and careful assessment.
+
+Citations:
+[1] What is the difference between Bhedabheda and ... https://www.reddit.com/r/AdvaitaVedanta/comments/195eozg/what_is_the_difference_between_bhedabheda_and/
+[2] ISKCON vs Advaita Vedanta: A Comprehensive Comparison https://www.yesvedanta.com/iskcon-advaita-vedanta-comparison/
+[3] Brahma Sutras https://en.wikipedia.org/wiki/Brahma_Sutras
+[4] Part 17 - Vijnana Bhikshu and His System of Vedanta https://www.wisdomlib.org/hinduism/essay/srikara-bhashya-commentary/d/doc1471652.html
+[5] Many kinds of 'Gita's – a bird's eye view http://speakingmuni.blogspot.com/2015/06/many-kinds-of-gitas-birds-eye-view.html
+[6] Bhikshu Gita http://www.spiritual-minds.com/Gita_files/Bhikshu%20Gita/BhikshuGita.pdf
+[7] Total Sixty Gitas Exists with BhagvadGita. Things You Never ... https://swamisamarth.dattaprabodhinee.org/2023/04/total-sixty-gitas-exists-with.html
+[8] The Ribhu Gita: By Richard Clarke - Luthar.com https://luthar.com/2008/04/27/the-ribhu-gita/
+[9] Is Bhagavad Gita, Dwaitic or Advaitic? - Vedanta https://hinduismuniversalreligion.com/being-a-hindu/more-on-some-concepts/best-teaching-of-bhagavad-gita/is-bhagavad-gita-dwaitic-or-advaitic/
+
+
+
+
+
+
