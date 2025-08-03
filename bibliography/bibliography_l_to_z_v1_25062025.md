@@ -1946,6 +1946,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+### SHAHA, R. ###
+
+* Shaha, Rishikesh (1992). 'Ancient and Medieval Nepal'. With a 'Foreword' by John K. Locke, S.J. First edition. Daryaganj, New Delhi, India: Manohar Publications (Ajay Kumar Jain). ISBN 8185425698.
+
+**Purport:**<br>
+...
+
 ### SHARMA, S. ###
 
 * Sharma, Shital (2006). 'Restoring Ananda: Philosophy, Aesthetic Experience, and Ritual in Pushti-Marga Vaishnavism'. MA thesis. Faculty of Religious Studies. Montreal, Quebec, Canada: McGill University. ISBN 9780494325612. Source: https://escholarship.mcgill.ca/concern/theses/j098zb349 (accessed: Wednesday, July 23, 2025)
