@@ -1939,6 +1939,13 @@ Sen, Amiya P. (auth.) (2020). 'Theorising Bengal Vaishnavism: Bipin Chandra Pal 
 **Purport:**<br>
 This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhist Art of Bengal from the third century B.C. to the thirteenth century A.D.', which was taken up in 1980 at the University of Calcutta under the guidance of Prof. Amita Ray. Date of presentation unknown. **Note:** As of Friday, July 18, 2025, I have secured neither monograph, nor dissertation.
 
+### SHAH, V. ###
+
+* Shah, Vina (2017). 'An Examination of Haribhadra’s Aphoristic Text on Jain Yoga, the Yogavimshika, and its Illumination in the Commentary of Yashovijaya'. M.A. thesis. Faculty of Arts and Social Sciences. Camperdown, N.S.W., Australia: University of Sydney. Source: https://ses.library.usyd.edu.au/bitstream/handle/2123/17793/Shah_V_thesis.pdf (accessed: Sunday, August 03, 2025)
+
+**Purport:**<br>
+...
+
 ### SHARMA, S. ###
 
 * Sharma, Shital (2006). 'Restoring Ananda: Philosophy, Aesthetic Experience, and Ritual in Pushti-Marga Vaishnavism'. MA thesis. Faculty of Religious Studies. Montreal, Quebec, Canada: McGill University. ISBN 9780494325612. Source: https://escholarship.mcgill.ca/concern/theses/j098zb349 (accessed: Wednesday, July 23, 2025)
