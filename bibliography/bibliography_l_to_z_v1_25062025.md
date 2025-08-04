@@ -2038,6 +2038,13 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 **Purport:**<br>
 **TODO:** There are many other works of note in this Series outlined in the Frontmatter. They are to be secured and filed in due course. B9HH Tuesday, July 8, 2025.
 
+### STEIN, B. ###
+
+* Stein, Burton (1977). 'Temples in Tamil Country, 1300-1700 A.D.' (pp. 11-45) in *The Indian Economic and Social History Review*, Vol. 14, Issue 1, January, 1977. DOI: https://doi.org/10.1177/001946467701400102 (accessed: Tuesday, August 05, 2025)
+
+**Purport:**<br>
+...
+
 ### STEWART, T. ###
 
 * Stewart, Tony K. (2013). 'Religion in the Subjunctive: Vaishnava Narrative, Sufi Counter-Narrative in Early Modern Bengal' (pp. 52-72) in *The Journal of Hindu Studies*, Vol. 6, Issue 1, May, 2013. Oxford, England, U.K.: Oxford University Press (on behalf of The Oxford Centre for Hindu Studies). DOI: https://doi.org/10.1093/jhs/hit013 (accessed: Monday, July 28, 2025)
