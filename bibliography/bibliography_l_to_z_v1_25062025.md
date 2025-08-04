@@ -2017,6 +2017,13 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 **Purport:**<br>
 ...
 
+### SRINIVASAN, S. ###
+
+* Srinivasan, Shanta (2000). 'Diksha in Pancharatra: With Reference to Important Texts'. Ph.D. dissertation. Department of Sanskrit. Chennai, Tamil Nadu, India: University of Madras. Source: http://hdl.handle.net/10603/295819 (accessed: Monday, August 04, 2025)
+
+**Purport:**<br>
+...
+
 ### STAAL, F. ###
 
 * Staal, Frits (1987).  'The Ineffable Nirguna Brahman' (pp. 41-46) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
