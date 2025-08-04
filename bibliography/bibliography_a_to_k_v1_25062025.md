@@ -193,6 +193,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 **Purport:**<br>
 ...
 
+### AYYAR, V.; *et al.* ###
+
+* Ayyar, V. Venkatasubba (auth.) & Krishnamacharlu, R.B.C.R. (ed.) (1943). 'South Indian Inscriptions Vol. XII \[12]: The Pallavas - With Introductory Notes in English'. Archaeological Survey of India. Madras (Chennai), Tamil Nadu, India: Government Press. Source: https://archive.org/details/in.gov.ignca.34752 (accessed: Monday, August 04, 2025)
+
+**Purport:**<br>
+...
+
 # B #
 
 ### BANERJEA, J. ###
