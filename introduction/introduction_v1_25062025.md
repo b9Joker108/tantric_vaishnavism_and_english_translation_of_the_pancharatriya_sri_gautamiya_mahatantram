@@ -2111,6 +2111,242 @@ Citations:
 [82] Shri. Ramanujacharya – The Greatest Exponent of Shri Vaishnavism ... https://vsktamilnadu.org/personalities/shri-ramanujacharya-the-greatest-exponent-of-shri-vaishnavism-traditions-and-vishishtadvaita-philosophy/
 [83] What Is Pancharatra Of Sri Vaishnavism - Ramanisblog https://ramanisblog.in/2013/09/01/what-is-pancharatra-of-sri-vaishnavism/
 
+That was nonsense. Identify a list of sources and readings of the epigraphy of South India in areas that became Pancharatra strongholds.
+
+Here is a list of major published **sources, readings, and epigraphical series** essential for the study of South Indian inscriptions, especially in areas that became **Pancharatra strongholds** (notably Tamil Nadu, Andhra Pradesh, and Karnataka). These resources will enable you to investigate the presence and institutionalization of Pancharatra ritual, Vaishnavism, and temple culture directly at the epigraphic level.
+
+## Key Epigraphic Compendia
+
+### **A. Published Inscriptions Collections**
+- **South Indian Inscriptions (SII)** — Published by the Archaeological Survey of India; contains inscriptions from Tamil Nadu, Andhra Pradesh, and Karnataka. Some relevant volumes:
+  - SII, Vol. II: Chola inscriptions, including records from Srirangam, Kanchipuram, and other early Vaishnava centers.
+  - SII, Vol. III: Covers Pallava, Chola, Pandya, and Vijayanagara records, including donation and ritual references in temples[1][2][3][4][5].
+  - SII, Vol. XII: Focuses on the Pallavas, with many inscriptions from the Kanchipuram region where Pancharatra practice appears early[4].
+  - SII, Vol. XXIII and others: Inscriptions from Andhra Pradesh and Telangana, including the early Vaishnava and agamic references[6][5].
+
+- **Epigraphia Indica (EI)** — The foundational journal for Indian epigraphy; includes many translated and analyzed South Indian inscriptions with historical introductions and indices for temple donations, agamic practices, and referential evidence for rituals[7][8][9][10][11][12][13].
+
+### **B. Thematic or Regional Studies and Surveys**
+- **"Early History of Vaishnavism in South India"** by S. Krishnaswami Aiyangar[14] — Provides contextual discussion, historical notes, and inscriptional references relating to the spread of Vaishnavism and Pancharatra.
+- **Temple Epigraphy and Ritual Manuals** — Many studies of specific temples (e.g., Srirangam, Kanchipuram, Melkote, Kumbakonam, Tirupati) include appended inscription transcriptions related to Pancharatra rituals and priestly appointments.
+- **Research by Vasundhara Filliozat, T.V. Mahalingam, and other South Indian epigraphists** — Often available in academic journals or regional archaeological bulletins.
+
+### **C. Online and Digital Resources**
+- **Internet Archive Listings** — Many full-text digital copies of "South Indian Inscriptions" and "Epigraphia Indica" volumes are available for public access, with search functions to locate references to "Pancharatra," "Vaishnavism," "Vishnu temples," etc.[6][15][2][1][3][4][5].
+
+- **Tamil Digital Library** — Provides PDF access to scanned ASI volumes, important for research on Tamil Nadu inscriptions[1][2][3][4][5].
+
+## **How to Use These Sources**
+1. **Strongholds to Target**: Focus on inscriptions from the temple cities of Srirangam, Kanchipuram, Melkote, Tirupati, and Kumbakonam.
+2. **Keywords/Terms**: Search for Pancharatra (sometimes spelled Pancaratra, Pancaratra), Vaishnava, Vaikhanasa, Ramanuja, acharya, and related terms (e.g., temple grants/donations, ritual appointees).
+3. **Cross-reference**: Many inscriptions mention the implementation of specific ritual manuals (agama) in temple administration, including transitions from Vaikhanasa to Pancharatra systems, particularly post-Ramanuja[16][17].
+4. **Research Summaries**: Overviews from Wikipedia and historical works (Krishnaswami Aiyangar, for instance) provide summaries of trends and highlight major epigraphic discoveries[18][19][14].
+
+## **Core Reading List**
+| Title | Publisher/Source | Region | Notes |
+|---|---|---|---|
+| South Indian Inscriptions Series (multiple vols.) | Archaeological Survey of India, Indira Gandhi National Centre for the Arts (IGNCA) | Tamil Nadu, Andhra, Karnataka | Essential for temple and donative records[6][15][2][1][3][4][5] |
+| Epigraphia Indica (multiple vols.) | Archaeological Survey of India | Pan-Indian | Search for "Pancharatra", "Vaishnava", "Vishnu temple", and related terms[7][8][9][10][11][12][13] |
+| Early History of Vaishnavism in South India | S. Krishnaswami Aiyangar | South India | Historical and inscriptional analyses[14] |
+| Tamil Digital Library online database | Govt. of Tamil Nadu | Tamil Nadu | Full-text PDFs of ASI volumes[1][2][3][4][5] |
+| Individual temple histories and ASI Reports | Local/Archaeological Survey of India | Srirangam, Tirupati, Melkote, Kanchipuram | For context, rituals, and administrative inscriptions |
+
+These sources form the backbone of scholarly studies of **Pancharatra epigraphy in South India**. With patience and focused keyword searches, these resources will yield primary evidence relating to the institutionalization and proliferation of Pancharatra ritual systems at South Indian temple strongholds.
+
+Citations:
+[1] [PDF] south-indian inscriptions - Tamil Digital Library https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0033355/ACL-TNAL_00853_South_Indian_Inscriptions_Vol_2_1916.pdf
+[2] [PDF] south indian inscriptions https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0057329/ACL-ARCH_00667_South_Indian_inscriptions_Vol_30_2011.pdf
+[3] [PDF] south indian inscriptions vol.3 pt.1 and pt.2 https://indianhistorybooks4.wordpress.com/wp-content/uploads/2015/03/99999990037356-south-indian-inscriptions-vol-3-pt-1-and-pt-2-279p-inscriptions-south-india-english-1987.pdf
+[4] [PDF] South-Indian-inscriptions-Vol-12.pdf - Tamil Heritage https://telibrary.com/wp-content/uploads/2022/10/South-Indian-inscriptions-Vol-12.pdf
+[5] archaeological survey of india - south indian inscriptions https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0057562/ACL-ARCH-00930_South_Indian_inscriptions_Vol_33.pdf
+[6] South Indian Inscriptions Vol.23 : Gai, G.s. - Internet Archive https://archive.org/details/dli.ernet.108289
+[7] Full text of "epigraphia-indica" - Internet Archive https://archive.org/stream/epigraphia-indica/epigraphia-indica-vol-20_djvu.txt
+[8] [PDF] epigraphia-indica-vol-10.pdf - BJP e-Library https://library.bjp.org/jspui/bitstream/123456789/1910/39/epigraphia-indica-vol-10.pdf
+[9] [PDF] EPIGRAPHIA INDICA VOL 7 https://archive.org/download/epigraphiaindica014351mbp/epigraphiaindica014351mbp.pdf
+[10] [PDF] epigraphia indica - The Jain Foundation https://www.jainfoundation.in/JAINLIBRARY/books/epigraphia_indica_vol_02_032556_std.pdf
+[11] [PDF] epigraphia-indica-vol-11.pdf - BJP e-Library https://library.bjp.org/jspui/bitstream/123456789/1910/1/epigraphia-indica-vol-11.pdf
+[12] [PDF] Epigraphia Indica Vol.3 - Zenodo https://zenodo.org/record/3384231/files/EI%203%201894-95.pdf
+[13] [PDF] EPIGRAPHIA INDICA 1953 and 1954 https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0024239/TVA_BOK_0024239_Epigraphia_Indica_Arabic.pdf
+[14] Early history of Vaishnavism in South India https://archive.org/download/earlyhistoryofva00aiyauoft/earlyhistoryofva00aiyauoft.pdf
+[15] South Indian Inscriptions vol.3; pt.3 and pt.4 - Internet Archive https://archive.org/details/in.gov.ignca.21611
+[16] Temple worship and rituals (1 of 5) https://sreenivasaraos.com/2012/09/06/temple-worship-and-rituals-1-of-5/
+[17] What Is Pancharatra Of Sri Vaishnavism - Ramanisblog https://ramanisblog.in/2013/09/01/what-is-pancharatra-of-sri-vaishnavism/
+[18] Vaishnavism https://en.wikipedia.org/wiki/Vaishnavism
+[19] Sri Vaishnavism https://en.wikipedia.org/wiki/Sri_Vaishnavism
+[20] Vaikhanasa https://www.wikiwand.com/en/articles/Vaikhanasa
+[21] Agama Shastra and Temple Worship PDF https://pt.scribd.com/doc/179304222/Agama-Shastra-and-Temple-worship-pdf
+
+
+We were talking Pancharatra!
+
+Thank you for the clarification—let us focus strictly on the transmission of the **Pancharatra** tradition from Kashmir and North India to the South, and the **claim of inscriptional evidence for the migration of Pancharatra teachers** specifically (not Shaiva or general Agamic teachers).
+
+## Inscriptional Evidence of Pancharatra Movement: What Do We Actually Know?
+
+### 1. **The Common Claim**
+- Scholars and some secondary sources frequently **reference inscriptional (epigraphic) evidence** for the movement of Pancharatra (sometimes more generally, Agamic) teachers from Kashmir and North India to South India[1].
+- For example, Vasundhara Filliozat is attributed with the statement that "inscriptional evidence indicates a continuing movement of teachers from Kashmir to the South and that Kashmir is likely to have been the original source of many of the early Shaivite, Tantric, and Sthapatya Agamas"[1].
+- However, these statements, especially in informal venues, rarely **cite specific inscriptions, dates, or personal names**.
+
+### 2. **Search for Specific Pancharatra-Related Inscriptions**
+- **Textual and inscriptional evidence about Pancharatra** is usually indirect: major South Indian Vaishnava temples (e.g., Srirangam, Kanchipuram, Melkote, Tirupati) preserve **inscriptions that confirm the practice** of Pancharatra agama rituals and sometimes mention northern teachers or traditions[2][3][4], but do not usually provide detailed biographical records stating: “This Pancharatra teacher from Kashmir migrated here in year X.”
+- **South Indian inscriptions** confirm the use of Pancharatra ritual manuals, the presence of Pancharatra acharyas (gurus), and royal patronage for Pancharatra agama-based worship, especially from the Chola period onwards[5][4].
+
+#### **What Do We Have?**
+- **Epigraphical Survey volumes** and scholarly introductions typically mention the expansion and institutionalization of Pancharatra rites in South Indian temples, sometimes alluding to their northern origin[3][6].
+- Some Pancharatra texts (e.g., the Lakshmi Tantra, Sattvata Samhita) themselves **recall early associations with Kashmir**—yet these are not inscriptions but textual traditions[7].
+- Certain **temple inscriptions reference teachers or lineages** with northern names or titles, but do not explicitly state “from Kashmir” or “arrived from Kashmir.” Instead, the direction of transmission is often reconstructed from broader historical and literary context[5].
+
+### 3. **Scholarly Consensus & Its Limits**
+- The claim that there is abundant **inscriptional proof of direct movement of Pancharatra acharyas from Kashmir to South India is not currently substantiated by published, cited primary epigraphs**.
+- There is **ample circumstantial evidence**:
+  - Major South Indian Vaishnava temples explicitly adopted Pancharatra rites, generally considered to have northern and possibly Kashmiri roots[8][9][4].
+  - South Indian texts recognize this adoption, especially from the later first millennium CE onward, and some hagiographies suggest teachers from the North[5][4].
+- However, **direct, detailed epigraphs naming individual Pancharatra teachers from Kashmir settling in South India are not featured in standard epigraphical or Vaishnava references**.
+
+## **Conclusion**
+- We do **not currently have specific published inscriptions that explicitly record named Pancharatra teachers migrating from Kashmir to South India**.
+- The scholarly impression of “cultural flow” and teacher migration is drawn from a combination of:  
+  - The northern literary origins of Pancharatra texts.  
+  - The sudden rise of Pancharatra agamic temple ritual in the South.  
+  - The fact that some early teachers are ascribed northern or even Kashmiri connections in much later sources.
+- All available evidence points to an **indirect process**: tradition, ritual, and possibly personnel traveled south, but **the direct “inscriptional evidence” is largely an inferred consensus, not a string of named, dated epigraphs**.
+- If new inscriptions are discovered, they will likely be published in **Epigraphia Indica**, the volumes of the **South Indian Inscriptions** series, or in focused Vaishnava studies—but as of now, citation of specific Pancharatra examples is wanting in both Indian and western scholarly literature.
+
+**If you require references to standard inscriptional collections or further readings to pursue this, I can provide those as well.**
+
+Citations:
+[1] Profound Kashmiri influence on the culture of South India https://such.forumotion.com/t10636-profound-kashmiri-influence-on-the-culture-of-south-india
+[2] AN INTRODUCTION TO THE PANCHARATRA TRADITION https://www.jp-india.org/programmes/an-introduction-to-the-pancharatra-tradition
+[3] Pancharatra Agama Explained: A Clear Introduction - Poojn.in https://www.poojn.in/post/29766/pancharatra-agama-explained-a-clear-introduction
+[4] What Is Pancharatra Of Sri Vaishnavism - Ramanisblog https://ramanisblog.in/2013/09/01/what-is-pancharatra-of-sri-vaishnavism/
+[5] Sri Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Sri_Vaishnavism
+[6] Vedas and Agamas - Ancient Indian Wisdom http://ancientindianwisdom.com/vedas-and-vedic-system/vedas-and-agamas
+[7] 4. Home of Pancaratra https://www.wisdomlib.org/hinduism/essay/diksha-initiation-in-pancharatra/d/doc1458633.html
+[8] Pancharatra - Wikipedia https://en.wikipedia.org/wiki/Pancharatra
+[9] Pancharatra | Vaishnavism, Vedic Rituals, Agamic Texts | Britannica https://www.britannica.com/topic/Pancharatra
+
+
+That was useful. Still filled with far too much conjecture with no watertight sources, but useful. In regards to the cultural flow, transmission and dissemination of the Panchatatra from Kashmir and North India to South India, this interests me greatly and is most important: "Inscriptional evidence indicates a continuing movement of teachers from Kashmir to the South India"?
+
+# The Inscriptional Evidence for Kashmiri Teacher Migration to South India: A Critical Examination
+
+You are absolutely correct to press for specificity regarding the inscriptional evidence. The quote from Vasundhara Filliozat about "inscriptional evidence indicates a continuing movement of teachers from Kashmir to the South" that appears in the forum discussion[1] is indeed problematic in terms of providing concrete, verifiable evidence.
+
+## **The Source and Its Limitations**
+
+The statement appears in what seems to be an informal forum discussion[1] where the author recounts a conversation with Vasundhara Filliozat, the art historian who has worked extensively on Karnataka. The quote reads: "Recently, when I pointed this out to Vasundhara Filliozat, the art historian who has worked on Karnataka, she said that the inscriptional evidence indicates a continuing movement of teachers from Kashmir to the South and that Kashmir is likely to have been the original source of many of the early Shaivite, Tantric, and Sthapatya Agamas."
+
+## **The Problem: Lack of Specificity**
+
+This is precisely the kind of **secondary, unsubstantiated claim** that you rightly identify as conjecture. The forum post provides no specific inscriptions, no dates, no names of teachers, and no verifiable references to primary sources. It's essentially hearsay - albeit from a respected scholar.
+
+## **What Alexis Sanderson Actually Says About Inscriptional Evidence**
+
+More promising is the work of Alexis Sanderson, who has extensively studied inscriptional evidence for early Shaivism. In his scholarly work on early Shaiva literature, Sanderson notes[2]:
+
+- **Epigraphic limitations**: "In some regions, such as the Deccan, the Far South, the Kathmandu valley, and the Khmer realm (Kambujadeśa) in Cambodia and its neighbourhood, the epigraphic record is abundant, while in others, **such as Kashmir, it is sparse or non-existent**."
+
+This is a crucial point - **Kashmir itself has very limited epigraphic evidence**, which makes tracking specific teacher migrations from Kashmir particularly challenging.
+
+## **Available Inscriptional Evidence: What We Actually Know**
+
+### **Pāśupata Teachers (4th Century CE)**
+Sanderson documents the earliest clear inscriptional evidence of Shaiva teachers[2]:
+
+- **Bagh plates (370-379 CE)**: Seven copper-plate grants mentioning Pāśupata officiants and a specific **Pāśupatācārya named Bhagavat Lokodadhi** who established a temple of the Mothers
+- **Mathura pillar inscription (380/381 CE)**: Records **Ārya Uditācārya**, described as the tenth in a teacher-disciple transmission from **Bhagavat Kuśika**
+
+### **Regional Inscriptional Evidence**
+The research shows evidence of **Shaiva teachers moving between regions**, but the specific Kashmir-to-South India connection requires more detailed investigation:
+
+- **Karhad plates (959 CE)**: Record grants to **Gaganasiva**, described as proficient in Śivasiddhāntas, pupil of **Ācarya Īśānaśiva**, head of the **Valkaleśvara Maṭha in Karahāṭa**[3]
+- **Alupa inscription**: Mentions **Gaganasivācārya** described as "an ornament to the spiritual lineage of the sage Durvāsas"[3]
+
+## **The Challenge with Kashmir Shaivism Documentation**
+
+The fundamental challenge is that **Kashmir Shaivism traditions were largely oral**[4], and as one source notes: "Due to the rise and fall of Kashmir over the past eight centuries, the knowledge of Kashmir Shaivism has remained practically hidden from view. As an oral tradition, its teachings have always been passed down by word of mouth, from master to disciple"[4].
+
+Furthermore, **many earlier manuscripts are now extinct**[4], making it difficult to piece together the migration patterns of specific teachers.
+
+## **What We Can Say with Confidence**
+
+Based on the available evidence, we can establish:
+
+1. **Cultural Connections Existed**: There are demonstrable cultural connections between Kashmir and South India in Shaivism, Tantra, and temple architecture[1][5]
+
+2. **Textual Transmission Occurred**: Agamic texts and philosophical systems did move from North to South India, but the specific mechanisms and named individuals require more research
+
+3. **Regional Teacher Networks**: Inscriptional evidence shows extensive networks of Shaiva teachers moving between regions, but specific Kashmir-to-South India routes need better documentation
+
+4. **Institutional Continuity**: The establishment of major Shaiva institutions in South India shows clear connections to northern traditions, but the specific teacher lineages need more concrete documentation
+
+## **Conclusion**
+
+You are correct to demand "watertight sources." The Vasundhara Filliozat quote, while intriguing, represents the kind of **scholarly impression** rather than **documented evidence** that makes historical claims problematic. The actual inscriptional record for specific teachers migrating from Kashmir to South India appears to be much more limited than suggested by that casual forum reference.
+
+This is a perfect example of how **scholarly consensus** can sometimes outpace **documentary evidence**, leading to statements that become accepted without adequate primary source verification. The research on Pancharatra migration would benefit from more systematic examination of inscriptional records, ideally with specific teacher names, dates, and places of origin clearly documented in primary sources.
+
+The absence of such specific evidence doesn't disprove the cultural transmission - it simply means we need to be more cautious about making definitive claims about the **mechanisms** and **specific individuals** involved in that transmission.
+
+Citations:
+[1] Profound Kashmiri influence on the culture of South India https://such.forumotion.com/t10636-profound-kashmiri-influence-on-the-culture-of-south-india
+[2] The Impact of Inscriptions on the Interpretation of Early Śaiva ... - Brill https://brill.com/view/journals/iij/56/3-4/article-p211_3.pdf
+[3] Chapter 13c - Shaiva Mathas and Teachers (during 10th century India) https://www.wisdomlib.org/jainism/book/yasastilaka-and-indian-culture-study/d/doc1474685.html
+[4] Kashmir Shaivism - Lakshmanjoo Academy https://www.lakshmanjooacademy.org/kashmir-shaivism
+[5] How medieval Kashmir became centre of the world - ThePrint https://theprint.in/opinion/how-medieval-kashmir-became-centre-of-the-world-vaishnavism-puranas-and-war/1541407/
+[6] Agama (Hinduism) - Wikipedia https://en.wikipedia.org/wiki/Agama_(Hinduism)
+[7] Genetic and Cultural Reconstruction of the Migration of an Ancient ... https://pmc.ncbi.nlm.nih.gov/articles/PMC4605215/
+[8] Kashmir Shaivism - Wikipedia https://en.wikipedia.org/wiki/Kashmir_Shaivism
+[9] Passages to India: Śaka and Kuṣāṇa Migration Routes in Historical ... https://www.academia.edu/825133/Passages_to_India_%C5%9Aaka_and_Ku%E1%B9%A3%C4%81%E1%B9%87a_Migration_Routes_in_Historical_Contexts
+[10] The Hooli Bṛhanmaṭha and the History of Sanskritic Vīraśaivism https://www.academia.edu/37904746/A_Microhistory_of_a_South_Indian_Monastery_The_Hooli_B%E1%B9%9Bhanma%E1%B9%ADha_and_the_History_of_Sanskritic_V%C4%ABra%C5%9Baivism
+[11] A Brief History of Shaivism – III - Ithihas - WordPress.com https://ithihas.wordpress.com/2022/04/07/a-brief-history-of-shaivism-iii/
+[12] [PDF] Sources of Kashmir History https://gldmdchiranagar.in/pdf/econtent/B.ASem-IVHistory.pdf
+[13] Kashmir Articles by Subhash Kak - Kashmiri Pandit Network https://ikashmir.net/subhashkak/article3.html
+[14] Searching for the Agamas - Part III - Hinduism Today https://www.hinduismtoday.com/magazine/november-1987/1987-11-searching-for-the-agamas-part-iii/
+[15] Early History of Jainism and Migrations | PDF - Scribd https://www.scribd.com/document/466669649/Early-History-of-Jainism-and-Migrations
+[16] Legacy Of Kashmir, The Forgotten Land Of Beauty And Knowledge https://swarajyamag.com/culture/legacy-of-kashmir-the-forgotten-land-of-beauty-and-knowledge-part-i
+[17] Agamas, The Sacred Literature Of Saivism https://www.saivism.net/articles/agamas.asp
+[18] [PDF] India Its Epigraphy, Antiquities Archaeology, Numismatics And ... https://ia600107.us.archive.org/3/items/in.ernet.dli.2015.534029/2015.534029.india-its_text.pdf
+[19] Hansdhwani | While mentioning about Tantra connection of ... https://www.instagram.com/p/CpKZpjYBSqZ/
+[20] The Agamas - The Divine Life Society https://www.dlshq.org/religions/the-agamas/
+[21] [PDF] Journal of Indian History and Culture (JIHC) https://journalcpriir.com/wp-content/uploads/2020/03/journal-articles-25th-issue_bw.pdf
+[22] Legacy of Kashmir, The Forgotten Land of Beauty and Knowledge ... https://pt.scribd.com/document/364621340/legacy-of-kashmir-the-forgotten-land-of-beauty-and-knowledge-part-i-by-subhash-kak-august-06-2016
+[23] Agama Shastra And Temple Worship | sreenivasarao's blogs https://sreenivasaraos.com/2012/09/07/agama-shastra-and-temple-worship/
+[24] Shaivism - Wikipedia https://en.wikipedia.org/wiki/Shaivism
+[25] Kashmir: A Forgotten History – IV - The New Indian Express https://www.newindianexpress.com/opinions/2021/Sep/15/kashmir-a-forgotten-history-ndash-iv-2358818.html
+[26] early vijayanagara - studies in its history & culture https://ia801207.us.archive.org/5/items/in.ernet.dli.2015.219808/2015.219808.Early-Vijayanagara_text.pdf
+[27] Full text of "Journal Of The Epigraphical Society Of India Vol 19 1993 ... https://archive.org/stream/journaloftheepigraphicalsocietyofindiavol191993epigraphicalsocietyofindiamysore/Journal%20of%20The%20Epigraphical%20Society%20of%20India%20Vol%2019%201993%20-%20Epigraphical%20Society%20of%20India%20Mysore_djvu.txt
+[28] (PDF) Re-reading Two Copper Plate Inscriptions of Gopāla II, year 4 https://www.academia.edu/12349592/Re_reading_Two_Copper_Plate_Inscriptions_of_Gop%C4%81la_II_year_4
+[29] Epigraphical Evidence for the History of Atharvavedic Brahmins https://www.academia.edu/49708146/Epigraphical_Evidence_for_the_History_of_Atharvavedic_Brahmins
+[30] [PDF] Untitled - the College of Information https://ci.unt.edu/corsal/sites/default/files/vihangama_jan_feb_2020.pdf
+[31] [PDF] UNIT 1 PRE-STATE TO STATE - Nowgong College https://www.nowgongcollege.edu.in/UploadFiles/Documents/ProfileLgoin/Subtitle/NColge_1373_Political%20Structure%20in%20India.pdf
+[32] A Brief History of Shaivism – II - Ithihas - WordPress.com https://ithihas.wordpress.com/2022/03/27/a-brief-history-of-shaivism-ii/
+[33] [PDF] Studies in Indian Epigraphy https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0018847_Studies_in_Indian_Epigraphy.pdf
+[34] Shiva - Wikipedia https://en.wikipedia.org/wiki/Shiva
+[35] Article 10 | PDF | Social Science - Scribd https://www.scribd.com/document/614594086/Article-10
+[36] The History Of Shaivism In Southern India - Saivism.net https://www.saivism.net/history/sankarasivaism.asp
+[37] Edited by P Chenna Reddy: Books - AbeBooks https://www.abebooks.com/book-search/author/edited-by-p-chenna-reddy/book/
+[38] [PDF] archaeological survey of india - south indian inscriptions https://www.tamildigitallibrary.in/admin/assets/book/TVA_BOK_0057600/ACL-ARCH-00938_South_Indian_inscriptions_Vol_36.pdf
+[39] [PDF] S.Y.B.A. ANCIENT INDIA - Mumbai University https://mu.ac.in/wp-content/uploads/2022/04/SYBA-History-SEM-IV-Paper-III-Ancient-India-from-Earliest-Times-to-1000-A.D.-English-Version.pdf
+[40] Full text of "Corpus Of Sarada Inscriptions Of Kashmir Dr. B. K. Kaul ... https://archive.org/stream/corpusofsaradainscriptionsofkashmirdr.b.k.kauldeambi/Corpus%20of%20Sarada%20Inscriptions%20of%20Kashmir%20-%20Dr.%20B.K.%20Kaul%20Deambi_djvu.txt
+[41] Prof. Alexis Sanderson: Śāktism among the Śaivas (part 1) - YouTube https://www.youtube.com/watch?v=l3A-KYFfcko
+[42] [PDF] The Doctrine of Vibration https://ia600204.us.archive.org/30/items/TheDoctrineOfVibration-MarkDyczkowsky/TheDoctrineOfVibration.AnAnalysisOfTheDoctrinesAndPracticesOfKashmirShaivism.m.dyczkowskidelhi1989600dpilossy.pdf
+[43] Important Inscriptions of Ancient India - Compass by Rau's IAS https://compass.rauias.com/ancient-history/important-inscriptions-ancient-india/
+[44] Ep 49 ~ Shaivism in Kashmir by Alexis Sanderson - YouTube https://www.youtube.com/watch?v=wkKfHLEYM6Y
+[45] Shaivism - Dharmapedia Wiki https://en.dharmapedia.net/wiki/Shaivism
+[46] Lakshmeswar – Inscriptions | Puratattva https://puratattva.in/lakshmeswar-inscriptions/
+[47] [PDF] 36 Saivism and the Tantric Traditions - Angkor Database https://angkordatabase.asia/libs/docs/publications/saivism-and-the-tantric-traditions/Sanderson-Saivism-and-the-Tantric-Traditions.pdf
+[48] [PDF] South India and her Muhammadan invaders https://rarebooksocietyofindia.org/book_archive/196174216674_10155584982716675.pdf
+[49] [PDF] Saiva Age https://telibrary.com/wp-content/uploads/2022/09/Saiva-Ages-by-Sanderson.pdf
+[50] SHAIVA Connections between Tamil Nadu and Bengal, Central India https://www.esamskriti.com/e/Culture/Indian-Culture/SHAIVA-Connections-between-Tamil-Nadu-and-Bengal,-Central-India--1.aspx
+[51] the ghatikä of the twice-born in - south indian inscriptions - jstor https://www.jstor.org/stable/24663307
+[52] [PDF] Śaivism and the Tantric Traditions - OAPEN Library https://library.oapen.org/bitstream/id/00ead885-2d28-40d2-9bee-3b3dab331783/9789004432802.pdf
+[53] Realm of the Written Words: The Indian Epigraphic Records (c. third ... http://www.sahapedia.org/realm-written-words-indian-epigraphic-records-c-third-century-bce-thirteenth-century-ce
+[54] [PDF] The Šaiva Religion among the Khmers - Abhidharma.ru http://www.abhidharma.ru/A/Simvol/Indyizm/Content/0019.pdf
+[55] Beginnings and Growth of Śaiva Monasteries in South India https://www.nomos-elibrary.de/10.5771/9781793622389-19.pdf
+[56] A list of inscriptions of Southern India from about A.D. 500 / by F ... https://nla.gov.au/nla.cat-vn174962
+[57] The Śaiva Religion among the Khmers (Part I) - Persée https://www.persee.fr/doc/befeo_0336-1519_2003_num_90_1_3617
 
 
 
