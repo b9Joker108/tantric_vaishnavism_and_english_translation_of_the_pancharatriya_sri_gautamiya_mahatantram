@@ -1946,6 +1946,175 @@ Thus, the **Pancharatra system**, particularly in its **Sattvata form**, is best
 
 
 
+Bilham, Roger & Bali, Bikram Singh (2014). 'A Ninth Century Earthquake-Induced Landslide and Flood in the Kashmir Valley, and Earthquake Damage to Kashmir’s Medieval Temples' (pp. 79-109) in the *Bulletin of Earthquake Engineering*, Vol. 12, 2014. Dordrecht  Netherlands: Springer Science+Business Media (on behalf of the European Association for Earthquake Engineering). DOI: https://doi.org/10.1007/s10518-013-9504-x (accessed: Monday, August 04, 2025)
+This may be the principal factor in the Pancharatra's relocation to South India from its locus in Kashmir, but I am yet to determine WHY and WHAT LED THEM TO SETTLE, in South India?
+
+Based on my research, I can now provide a comprehensive answer about why the Pancharatra tradition relocated from Kashmir to South India and what led them to settle there.
+
+# The Pancharatra Migration from Kashmir to South India: Causes and Settlement Factors
+
+The relocation of the Pancharatra tradition from its original locus in Kashmir to South India represents a significant chapter in the history of Indian religious movements. The ninth-century earthquake-induced landslide and flood you referenced was indeed a contributing factor, but the migration was influenced by multiple interconnected causes spanning several centuries.
+
+## **Original Kashmir Context and Early Disruptions**
+
+The Pancharatra tradition had deep roots in Kashmir, which served as a major center of Vaishnava learning and spiritual culture[1][2]. Kashmir was considered the home of Pancharatra, with several key texts including the Paushkara Samhita mentioning that important works like the Sattvata, Paushkara, Jayakhya, Lakshmi Tantra, and Ahirbudhnya Samhita were compiled there[3]. The tradition was established in Kashmir by at least the 10th century, with scholars like Vāmanadatta stating he was "born among the Ekāyanas in Kashmir"[4].
+
+The ninth-century earthquake and flood during King Avantivarman's reign (855-883 CE) caused massive devastation[5][6]. This catastrophic event flooded the Kashmir Valley for approximately two years, destroying agricultural land, displacing populations, and likely disrupting the religious and cultural infrastructure that supported the Pancharatra tradition[5][7].
+
+## **Political and Religious Pressures**
+
+Beyond natural disasters, Kashmir faced mounting political instability and religious persecution that made it increasingly inhospitable for Hindu traditions:
+
+**Medieval Islamic Persecution**: The systematic destruction of Hindu temples and persecution of Hindu communities became particularly severe under rulers like Sikandar Shah Miri (1389-1413 CE), known as "Butshikan" (destroyer of idols)[8][9]. This period saw the widespread destruction of temples, forced conversions, and the exodus of Hindu scholars and religious practitioners.
+
+**Recurring Conflicts**: Kashmir experienced repeated cycles of political instability, invasions, and religious conflicts that made it difficult for scholarly and religious traditions to flourish[10][11]. The region's strategic location made it a frequent battleground between competing powers.
+
+## **Why South India Became the Destination**
+
+Several compelling factors made South India an attractive destination for Pancharatra practitioners and teachers:
+
+### **Existing Cultural Connections**
+
+Research reveals profound cultural connections between Kashmir and South India that predated the migration period. As one scholar noted, "there exist some very close connections between Kashmir and South India in the cultural tradition like the worship of Shiva, Pancharatra, Tantra, and the arts"[12]. Inscriptional evidence indicates "a continuing movement of teachers from Kashmir to the South" with Kashmir being "likely to have been the original source of many of the early Shaivite, Tantric, and Sthapatya Agamas"[12].
+
+### **Royal Patronage and Political Stability**
+
+South India during the medieval period offered:
+
+- **Stable Kingdoms**: The Chola, Pandya, Pallava, and later Vijayanagara dynasties provided political stability and royal patronage for religious traditions[13][14]
+- **Temple Building Programs**: These dynasties were actively engaged in temple construction and supported Vaishnava traditions[15]
+- **Brahmin-Friendly Policies**: South Indian rulers showed consistent respect and patronage for Brahmins and religious scholarship[16]
+
+### **Religious and Philosophical Environment**
+
+South India provided an intellectually fertile environment for Pancharatra to flourish:
+
+- **Existing Vaishnava Traditions**: The region already had strong Vaishnava traditions through the Alvar saints and their devotional literature[17][18]
+- **Institutional Support**: Major temples and religious centers were already established and could accommodate Pancharatra practices[17]
+- **Scholarly Community**: There was an existing community of scholars and religious practitioners who could support and develop the tradition[14]
+
+## **The Process of Settlement and Institutionalization**
+
+### **Integration with Local Traditions**
+
+The Pancharatra tradition didn't simply transplant itself to South India but underwent significant adaptation:
+
+- **Synthesis with Alvar Tradition**: The tradition integrated with the Tamil devotional poetry of the Alvars, creating a unique synthesis[17][18]
+- **Temple Worship Systems**: Pancharatra became one of the two main systems of temple worship in South Indian Vishnu temples, alongside the Vaikhanasa system[17]
+- **Regional Variations**: The tradition developed distinct regional characteristics while maintaining its core theological principles[19][20]
+
+### **Key Institutional Developments**
+
+**Sri Ramanuja's Role**: The 11th-century philosopher Ramanuja played a crucial role in systematizing and institutionalizing Pancharatra in South India[21][14]. He:
+- Established Pancharatra ritual systems in major temples
+- Integrated Tamil devotional literature into Sanskrit ritual frameworks
+- Created a stable institutional structure for the tradition's continuation[17]
+
+**Temple Networks**: The tradition became established in major temple complexes like Srirangam, where Pancharatra worship systems were formally adopted[17][18].
+
+## **Preservation and Continuation**
+
+The migration to South India proved successful for the Pancharatra tradition's long-term survival:
+
+- **Textual Preservation**: While many Pancharatra texts were lost in Kashmir, they were preserved and copied in South Indian scriptural centers[22][3]
+- **Ritual Continuity**: The elaborate temple worship systems of South India provided a stable foundation for Pancharatra practices to continue[22][17]
+- **Scholarly Development**: The tradition continued to produce important theological and philosophical works in its new South Indian context[20][14]
+
+## **Conclusion**
+
+The Pancharatra's relocation from Kashmir to South India was driven by a combination of natural disasters, political instability, religious persecution, and the attraction of more favorable conditions in the South. The ninth-century earthquake and flood you referenced was indeed a significant catalyst, but the migration was part of a broader historical process spanning several centuries. The tradition found fertile ground in South India due to existing cultural connections, royal patronage, religious tolerance, and an intellectually vibrant environment that allowed it not just to survive but to flourish and develop into the sophisticated religious and philosophical system we see today.
+
+The successful settlement in South India ensured the Pancharatra tradition's survival and enabled it to become one of the most influential Vaishnava traditions in Indian religious history, demonstrating the remarkable adaptability and resilience of religious traditions in the face of historical challenges.
+
+Citations:
+[1] The wonder that was Kashmir - Pragyata https://pragyata.com/the-wonder-that-was-kashmir/
+[2] How Kashmir Enriched The Religious Diversity Of India - Swarajya https://swarajyamag.com/culture/how-kashmir-enriched-the-religious-diversity-of-india
+[3] 4. Home of Pancaratra https://www.wisdomlib.org/hinduism/essay/diksha-initiation-in-pancharatra/d/doc1458633.html
+[4] [PDF] The Ekāyanaveda in the Pāñcarātra Tradition* Marion Rastelli ... https://www.oeaw.ac.at/fileadmin/Institute/IKGA/PDF/digitales/rastelli_ekayanaveda.pdf
+[5] [PDF] Suyya's Flood: Numerical Models of Kashmir's Medieval Megaflood ... https://par.nsf.gov/servlets/purl/10323672
+[6] A ninth century earthquake-induced landslide and flood in the ... https://link.springer.com/article/10.1007/s10518-013-9504-x
+[7] Suyya's Flood: Numerical Models of Kashmir's Medieval Megaflood ... https://www.lyellcollection.org/doi/abs/10.3389/esss.2021.10040
+[8] Martand Sun Temple - Wikipedia https://en.wikipedia.org/wiki/Martand_Sun_Temple
+[9] Persecution of a thousand years: The untold history of Hindu suffering https://organiser.org/2024/10/20/261030/bharat/persecution-of-a-thousand-years-the-untold-history-of-hindu-suffering/
+[10] Kashmir: The Clash of Identities | Beyond Intractability https://www.beyondintractability.org/casestudy/navlakha-kashmir
+[11] Instability and the threat of insurgency in Kashmir - Australian ... https://www.internationalaffairs.org.au/resource/instability-and-the-threat-of-insurgency-in-kashmir/
+[12] Profound Kashmiri influence on the culture of South India https://such.forumotion.com/t10636-profound-kashmiri-influence-on-the-culture-of-south-india
+[13] How medieval Kashmir became centre of the world - ThePrint https://theprint.in/opinion/how-medieval-kashmir-became-centre-of-the-world-vaishnavism-puranas-and-war/1541407/
+[14] Ramanuja - Dharmapedia Wiki https://en.dharmapedia.net/wiki/Ramanuja
+[15] Vedas and Agamas - Ancient Indian Wisdom http://ancientindianwisdom.com/vedas-and-vedic-system/vedas-and-agamas
+[16] A Complete and Analytical History of Brahmins by Prof (Dr) Ratnesh ... https://www.linkedin.com/pulse/complete-analytical-history-brahmins-prof-dr-ratnesh-dwivedi-ph-d-
+[17] VAIKANASA & PANCHARATRA - Ponniyin Selvan Varalaatru Peravai https://ponniyinselvan.in/forum/discussion/11923/vaikanasa-pancharatra/p1
+[18] Sri Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Sri_Vaishnavism
+[19] Pancharatra Across India: Regional Traditions and Ritual Variations https://www.poojn.in/post/29790/pancharatra-across-india-regional-traditions-and-ritual-variations
+[20] Blurred boundaries between Pāñcarātra ritual communities in South ... https://austriaca.at/0xc1aa5572%200x003b1dde.pdf
+[21] Ramanujacarya and ISKCON | The Vaishnava Voice - WordPress.com https://deshika.wordpress.com/2007/03/23/ramanujacarya-and-iskcon/
+[22] [PDF] Introduction to the Påñcåråtra - SriMatham https://www.srimatham.com/uploads/5/5/4/9/5549439/intro_to_pancaratra.pdf
+[23] “The Philosophy of the Pancharatra: Advaita in Viṣṇuism” by S ... https://www.reddit.com/r/hinduism/comments/1edxf98/the_philosophy_of_the_pancharatra_advaita_in/
+[24] Pancharatra - Wikipedia https://en.wikipedia.org/wiki/Pancharatra
+[25] Panchatantra - Wikipedia https://en.wikipedia.org/wiki/Panchatantra
+[26] Pancharatra | Vaishnavism, Vedic Rituals, Agamic Texts | Britannica https://www.britannica.com/topic/Pancharatra
+[27] Smarta tradition - Wikipedia https://en.wikipedia.org/wiki/Smarta_tradition
+[28] AN INTRODUCTION TO THE PANCHARATRA TRADITION https://www.jp-india.org/programmes/an-introduction-to-the-pancharatra-tradition
+[29] Philosophy Of Pancharatra https://ia801201.us.archive.org/13/items/PhilosophyOfPancharatra/Philosophy%20of%20Pancharatra_text.pdf
+[30] Pancharatra - Bharatpedia https://en.bharatpedia.org/wiki/Pancharatra
+[31] Hinduism - Southeast Asia, Pacific, Religion | Britannica https://www.britannica.com/topic/Hinduism/The-spread-of-Hinduism-in-Southeast-Asia-and-the-Pacific
+[32] Expert on the agamas - Institute for Oriental Study, Thane https://www.orientalthane.com/archaeology/news_2011_02_07_C.htm
+[33] XLVI—The Pancharatra Agamas - Savitri | Library http://savitri.in/library/resources/sanatana-dharma/apr-04-2010
+[34] [PDF] ALL ABOUT HINDUISM - Australian Council Of Hindu Clergy Inc. https://www.australiancouncilofhinduclergy.com/uploads/5/5/4/9/5549439/all_about_hinduism.pdf
+[35] The Early Religious Life of Kashmir https://www.jammukashmirnow.com/Encyc/2021/9/8/The-Early-Religious-Life-of-Kashmir.html
+[36] (DOC) Pancaratra and the Khmer Kings - Academia.edu https://www.academia.edu/71076407/Pancaratra_and_the_Khmer_Kings
+[37] 177 Kashmiri Pandit teachers moved to safer places amid rise in ... https://www.indiatoday.in/india/story/177-kashmiri-pandit-teachers-transferred-from-srinagar-amid-rise-in-targeted-killings-1958256-2022-06-04
+[38] Richard Eaton on the Desecration of Hindu Temples in India https://thediplomat.com/2024/01/richard-eaton-on-the-desecration-of-hindu-temples-in-india/
+[39] Moving to teach in Aotearoa New Zealand https://teachingcouncil.nz/getting-certificated/for-overseas-trained-teachers/moving-to-teach-in-new-zealand/
+[40] The Lost Temples of Ancient KASHMIR || Project SHIVOHAM https://www.youtube.com/watch?v=6usdwGgJ458
+[41] Skill Assessment as a Teacher for migration to Australia https://visa-go.com/professionals/teacher-skills-assessment/
+[42] Suyya's Flood: Numerical Models of Kashmir's Medieval Megaflood ... https://www.lyellcollection.org/doi/10.3389/esss.2021.10040
+[43] Were there medieval Hindu kings who destroyed mosques? - Reddit https://www.reddit.com/r/IndianHistory/comments/198jug2/were_there_medieval_hindu_kings_who_destroyed/
+[44] kashmir temples https://cires1.colorado.edu/~bilham/KashmirTemples/TemplesofKashmir.html
+[45] The Ancient Temples of Kashmir Turned from Marvel to Ruin by ... https://pubs.geoscienceworld.org/ssa/srl/article/90/1/358/567156/The-Ancient-Temples-of-Kashmir-Turned-from-Marvel
+[46] Interstate or overseas teachers | Victorian Institute of Teaching https://www.vit.vic.edu.au/register/categories/interstate-overseas
+[47] 2005 Kashmir earthquake - Wikipedia https://en.wikipedia.org/wiki/2005_Kashmir_earthquake
+[48] Atrocities in Kashmir: Temples Destroyed - Kashmiri Pandit Network https://ikashmir.net/templesdestroyed/8.html
+[49] 177 Kashmiri Pandit Teachers Transferred To Safe Locations Amidst ... https://www.youtube.com/watch?v=aqUHtSorQII
+[50] Understanding and managing earthquake hazard visa viz disaster ... https://www.sciencedirect.com/science/article/pii/S2590061720300016
+[51] Exodus of Kashmiri Hindus - Wikipedia https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus
+[52] Chaturvyuha philosophy of Pancharatra agama http://ancientindianwisdom.com/vedas-and-vedic-system/chaturvyuha-philosophy-of-pancharatra-agama
+[53] [PDF] MOVING ABROAD: THE PLIGHT OF MIGRANT TEACHERS - ijariie https://ijariie.com/AdminUploadPdf/MOVING_ABROAD__THE_PLIGHT_OF_MIGRANT_TEACHERS_ijariie24665.pdf
+[54] [PDF] Viṣṇu As a Hunter: https://journals.akademicka.pl/cis/article/view/1069/936
+[55] Yes, Kashmir Faces Settler-Colonialism — But Not The Kind That ... https://swarajyamag.com/politics/yes-kashmir-faces-settler-colonialism-but-not-the-kind-that-left-liberals-want-you-to-believe
+[56] [PDF] The Trends of Teachers' International Migration from a Developing ... http://www.ijcar.net/assets/pdf/Vol1-No1-September2014/02.pdf
+[57] [PDF] Findings from a longitudinal study of households in Sri Lanka https://www.homeaffairs.gov.au/research-and-stats/files/households-sri-lanka.pdf
+[58] The Resilience of Students with an Immigrant Background - OECD https://www.oecd.org/en/publications/2018/03/the-resilience-of-students-with-an-immigrant-background_g1g8aa3c.html
+[59] Kashmir Articles by Subhash Kak - Kashmiri Pandit Network https://ikashmir.net/subhashkak/article3.html
+[60] [PDF] persistent challenges and promising practices for refugee... https://teachertaskforce.org/sites/default/files/2020-07/266080eng_1.pdf
+[61] Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Vaishnavism
+[62] Vaikuntha Chaturmurti - Wikipedia https://en.wikipedia.org/wiki/Vaikuntha_Chaturmurti
+[63] [PDF] This thesis has been submitted in fulfilment of the ... - ERA https://era.ed.ac.uk/bitstream/handle/1842/7811/Leach2013.pdf?sequence=2&isAllowed=y
+[64] The Mysterious Temple Texts Called Agama - Devdutt Pattanaik https://devdutt.com/the-mysterious-temple-texts-called-agama/
+[65] Africa's only Hindu island - Brown Pundits http://www.brownpundits.com/2018/06/26/africas-only-hindu-island/
+[66] The Kashmiri Hindu Genocide: It's Time to Accept the Bitter Truth ... https://unitedhinducouncil.org/the-kashmiri-hindu-genocide-its-time-to-accept-the-bitter-truth-and-deliver-justice/
+[67] Kashmir's Quiet Resilience And Spirituality Amid Conflict https://religionunplugged.com/news/kashmirs-quiet-resilience-and-spirituality-amid-conflict
+[68] [PDF] A History of India, Third Edition - Defence.lk https://www.defence.lk/upload/ebooks/A%20History%20of%20India.pdf
+[69] The Plight of Kashmiri Pandits – Praxis - Tufts Sites https://sites.tufts.edu/praxis/2023/06/18/the-plight-of-kashmiri-pandits/
+[70] The State of Kashmir's Separatist Insurgency Since 2019 https://newlinesinstitute.org/nonstate-actors/no-normalcy-in-kashmir-the-state-of-kashmirs-separatist-insurgency-since-2019/
+[71] Kashmiri Pandits: Why we never fled Kashmir | News - Al Jazeera https://www.aljazeera.com/news/2011/8/2/kashmiri-pandits-why-we-never-fled-kashmir
+[72] Kashmir conflict - Wikipedia https://en.wikipedia.org/wiki/Kashmir_conflict
+[73] The Past, Present, and Future - Bhakti Movement - Sage Knowledge https://sk.sagepub.com/book/mono/a-history-of-hinduism/chpt/bhakti-movement
+[74] Forgotten destruction of Buddhist sites in India - Muslim Network TV https://www.muslimnetwork.tv/forgotten-destruction-of-buddhist-sites-in-india/
+[75] Kashmiri Secularism: Religious Politics in the Age of Democracy https://www.tandfonline.com/doi/full/10.1080/23801883.2021.1939502
+[76] [PDF] INDIAN CULTURE AND HERITAGE https://ambrishgupta.wordpress.com/wp-content/uploads/2020/05/indian-culture-heritage.pdf
+[77] Persecution of Hindus - Wikipedia https://en.wikipedia.org/wiki/Persecution_of_Hindus
+[78] Pancharatra Agama Explained: A Clear Introduction - Poojn.in https://www.poojn.in/post/29766/pancharatra-agama-explained-a-clear-introduction
+[79] Vaikhanasa - Wikipedia https://en.wikipedia.org/wiki/Vaikhanasa
+[80] Why Sri Ramanuja preferred Paancharaatra over Vaikaanasa? https://www.indiadivine.org/content/topic/1539413-why-sri-ramanuja-preferred-paancharaatra-over-vaikaanasa/
+[81] [PDF] Download Pancharatra Agama PDF - Tirumala Tirupati Devasthanams https://ebooks.tirumala.org/downloads/pancharatragama.pdf
+[82] Shri. Ramanujacharya – The Greatest Exponent of Shri Vaishnavism ... https://vsktamilnadu.org/personalities/shri-ramanujacharya-the-greatest-exponent-of-shri-vaishnavism-traditions-and-vishishtadvaita-philosophy/
+[83] What Is Pancharatra Of Sri Vaishnavism - Ramanisblog https://ramanisblog.in/2013/09/01/what-is-pancharatra-of-sri-vaishnavism/
+
+
+
+
+
 
 I have been able to find no scholarly sources that mention those two in a set of four, other than in a work of Swami Shivananda and I have been able to find no information or agama tied to either agama tradition.
 
