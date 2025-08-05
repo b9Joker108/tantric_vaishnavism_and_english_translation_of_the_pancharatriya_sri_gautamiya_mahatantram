@@ -433,6 +433,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DIMOCK, Jr.; E. ###
+
+* Dimock, Jr.; Edward C. (1963). 'Doctrine and Practice among the Vaishnavas of Bengal' (pp. 106-127) in the *History of Religions*, Vol. 3, No. 1, Summer, 1963. Chicago, Illinois, U.S.A.: The University of Chicago Press. DOI: http://dx.doi.org/10.1086/462474 (accessed: Tuesday, August 05, 2025)
+
+**Purport:**<br>
+...
+
 ### DIMOCK, Jr.; E.; *et al.* ###
 
 * Dimock, Jr.; Edward C. (trans. & comm.); Stewart, Tony K. (gen. ed.) & Witzel, Michael (exec. ed.) (1999). 'Chaitanya Charitamrita of Krishnadasa Kaviraja: A Translation and Commentary'. Harvard Oriental Series: Vol. 56. With an 'Introduction' by Edward C. Dimock, Jr. and Tony K. Stewart. Cambridge, Massachusetts, U.S.A.: Department of Sanskrit and Indian Studies (Harvard University). ISBN 0674002857 (alk. paper). Source: https://archive.org/details/wKZm_chaitanya-charitamrita-of-krishnadasa-kaviraja-by-edward-c-dimock-harvard-orient (accessed: Tuesday, August 05, 2025)
