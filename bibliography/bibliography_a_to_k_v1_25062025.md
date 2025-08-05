@@ -433,6 +433,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DIMOCK, Jr.; E.; *et al.* ###
+
+* Dimock, Jr.; Edward C. (trans. & comm.); Stewart, Tony K. (gen. ed.) & Witzel, Michael (exec. ed.) (1999). 'Chaitanya Charitamrita of Krishnadasa Kaviraja: A Translation and Commentary'. Harvard Oriental Series: Vol. 56. With an 'Introduction' by Edward C. Dimock, Jr. and Tony K. Stewart. Cambridge, Massachusetts, U.S.A.: Department of Sanskrit and Indian Studies (Harvard University). ISBN 0674002857 (alk. paper). Source: https://archive.org/details/wKZm_chaitanya-charitamrita-of-krishnadasa-kaviraja-by-edward-c-dimock-harvard-orient (accessed: Tuesday, August 05, 2025)
+
+**Purport:**<br>
+...
+
 ### DUNDAS, P.; *et al.* ###
 
 * Dundas, Paul (auth).; Hinnells, John & Smart, Ninian (eds.) (2004, 2002, 1992). 'The Jains'. Library of Religious Beliefs and Practices series. Second edition: revised & expanded. (NB: First published 1992 by Routledge. Second rev. & exp. ed. published 2002 by Routledge, London, England, U.K. The 2004 edition is an e-book imprint of the 2002 edition.). London, England, U.K.: Taylor & Francis e-Library (Routledge is an imprint of Taylor & Francis Group). ISBN 0203398270 (Master e-book ISBN).
