@@ -442,6 +442,11 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 
 ### DIMOCK, Jr.; E.; *et al.* ###
 
+* Dimock, Jr.; Edward C. (trans & comm.); Levertov, Denise (trans.) & Chaudhuri, Anju  (illus.) (1967). 'In Praise of Krishna: Songs from the Bengali'. With an 'Introduction' and notes by Edward C. Dimock, Jr. United Nations Education, Scientific and Cultural Organization (UNESCO) Translations Collection of Representative Works: India Series. First edition. Garden City, N.Y., U.S.A.: Anchor Books (Doubleday & Company, Inc.). 
+
+**Purport:**<br>
+...
+
 * Dimock, Jr.; Edward C. (trans. & comm.); Stewart, Tony K. (gen. ed.) & Witzel, Michael (exec. ed.) (1999). 'Chaitanya Charitamrita of Krishnadasa Kaviraja: A Translation and Commentary'. Harvard Oriental Series: Vol. 56. With an 'Introduction' by Edward C. Dimock, Jr. and Tony K. Stewart. Cambridge, Massachusetts, U.S.A.: Department of Sanskrit and Indian Studies (Harvard University). ISBN 0674002857 (alk. paper). Source: https://archive.org/details/wKZm_chaitanya-charitamrita-of-krishnadasa-kaviraja-by-edward-c-dimock-harvard-orient (accessed: Tuesday, August 05, 2025)
 
 **Purport:**<br>
