@@ -1061,6 +1061,195 @@ Citations:
 
 
 
+What about the practicalities, exigencies, contingencies, exceptionalisms, timeframes and means and modalities and nature of the peoples and their skillsets and cultures, that constituted and facilitated the linkages and networks between Kashmir and Nepal?
+
+## The Practical Architecture of Ancient Connectivity: Kashmir-Nepal Trade Networks
+
+The practical infrastructure that facilitated the ancient and medieval linkages between Kashmir and Nepal represented one of history's most sophisticated trans-Himalayan networks, shaped by extraordinary geographical challenges, seasonal contingencies, specialized human communities, and innovative logistics systems. These connections transcended simple commercial exchange to become complex socio-cultural networks that required exceptional skillsets, institutional arrangements, and adaptive strategies to overcome the formidable barriers of the Himalayan massif.
+
+### **Geographical Constraints and Environmental Exigencies**
+
+The Kashmir-Nepal connectivity operated within one of the world's most challenging geographical contexts. **The trans-Himalayan routes required navigation across passes averaging 4,000-5,500 meters elevation, with some exceeding 6,000 meters**[1][2]. **The Zoji La pass connecting Kashmir to Ladakh sits at 3,528 meters, while passes like Niti (5,068m) and Mana (5,610m) in Uttarakhand provided access toward Nepal's trading networks**[1][2][3].
+
+**These routes faced extreme seasonal constraints, typically accessible only from March through November, with winter closures lasting 4-6 months due to heavy snowfall and avalanche danger**[4][1][5]. **During the brief trading season, caravans faced daily temperature variations from below freezing at night to scorching heat during midday, requiring sophisticated equipment and timing strategies**[6][7].
+
+**The terrain itself presented constant hazards: precipitous cliff-side paths, unstable scree slopes, glacier crossings, and river fords that could become impassable within hours due to weather changes**[6][8][9]. **Contemporary accounts describe routes where "in every season, the travellers must go a quarter of a league over ice" and paths so narrow that "pack animals cannot cross the mountains, and practically everything must be carried on men's heads"**[5].
+
+### **Seasonal Rhythms and Operational Timeframes**
+
+**The trans-Himalayan trade operated on rigid seasonal patterns that synchronized with weather cycles, agricultural harvests, and animal breeding schedules**[6][10][11]. **The primary trading season extended from March to October, with peak activity during April-May and September-October when passes were most reliably accessible**[10][11][12].
+
+**Traders typically departed in early spring as soon as passes became navigable, carrying goods accumulated during winter months**[11]. **Return journeys were carefully timed to avoid monsoon disruptions (June-September) in lower altitudes while ensuring passage through high passes before winter closure**[11][12]. **This created intense pressure for rapid movement - caravans covering 15-25 kilometers daily despite extreme terrain and altitude**[11].
+
+**Winter months were crucial preparation periods when traders organized financing, arranged partnerships, negotiated with transport specialists, and assembled equipment and provisions**[6][12]. **Many trading families maintained separate winter residences in lower valleys specifically for this preparation phase**[6].
+
+### **Transport Animals and Logistics Innovations**
+
+**The success of Kashmir-Nepal connectivity depended on sophisticated use of high-altitude adapted pack animals, each suited to specific terrain and elevation zones**[8][13][14]. **Yaks dominated the highest elevations (above 4,000m), capable of carrying 40-60kg loads while functioning efficiently in thin air due to specialized physiological adaptations including enlarged hearts and lungs, modified hemoglobin, and enhanced oxygen utilization**[13][15][16].
+
+**Yaks possessed unique advantages for trans-Himalayan trade: they could break trail through snow and ice, navigate glaciated terrain, survive on minimal fodder during travel, and function as multi-purpose animals providing milk, meat, fiber, and fuel (dried dung) for caravans**[8][13][17]. **Their thick coats and compact body structure enabled operation in temperatures below -40°C**[13][16].
+
+**Mules proved essential for middle elevations (2,000-4,500m), combining the strength of horses with the surefootedness of donkeys**[18][14][9]. **Each mule could carry 80-120kg loads while navigating narrow mountain paths with remarkable stability and endurance**[18][19]. **Mule trains typically operated in groups of 10-15 animals managed by 2-3 handlers, allowing efficient cost distribution**[18].
+
+**The logistics of animal transport required intricate planning**: **fodder had to be carried or cached along routes where natural grazing was unavailable; veterinary care involved traditional treatments for altitude sickness, injuries, and digestive problems; and replacement animals had to be strategically positioned due to high mortality rates from falls, avalanches, and exhaustion**[18][9][20].
+
+### **Human Communities and Specialized Skillsets**
+
+**The Kashmir-Nepal trade networks depended on distinct ethnic communities that developed specialized roles based on geographical positioning, cultural adaptations, and inherited expertise**[6][21][22]. **Each community possessed unique skillsets essential for network functionality**.
+
+#### **Kashmiri Trading Communities**
+
+**Kashmiri merchants operated sophisticated commercial networks extending from Central Asia through the subcontinent**[5][23]. **They developed specialized expertise in high-value, low-bulk commodities: shawl wool from Tibet, saffron from Kashmir valleys, precious stones, medicinal plants, and manufactured textiles**[5][24]. **Kashmiri traders maintained permanent agents in key cities - Leh, Yarkand, Khotan, Lahore, Delhi - creating information networks that enabled strategic timing of shipments and price arbitrage**[5][23].
+
+**The community organized itself into hereditary trading families (kutumbs) that maintained relationships across generations**[5][25]. **These families developed specialized knowledge of: quality assessment for various commodities, currency exchange rates across different regions, legal frameworks governing trade in various territories, and relationships with local officials and transport specialists**[5][25].
+
+#### **Bhotia Caravan Specialists**
+
+**The Bhotia communities of the central Himalayas functioned as professional caravan operators, developing extraordinary expertise in trans-Himalayan logistics**[6][21][26]. **Bhotias possessed unique capabilities: intimate knowledge of multiple route variations allowing response to seasonal and political conditions; linguistic skills in Tibetan, Nepali, Hindi and local dialects essential for negotiations; and specialized techniques for high-altitude survival including food preservation, weather prediction, and emergency procedures**[6][26][27].
+
+**Bhotia families typically owned substantial pack animal herds - often 50-200 animals per family - and operated sophisticated scheduling systems that synchronized with agricultural cycles, religious festivals, and market demands across multiple regions**[6][21]. **They maintained seasonal residences at different altitudes, moving entire households according to trading and pastoral cycles**[6].
+
+#### **Sherpa Transport Networks**
+
+**Sherpa communities developed unparalleled expertise in high-altitude logistics, initially focused on trans-Himalayan trade before transitioning to mountaineering support**[22][28][29]. **Sherpas possessed genetic adaptations for high-altitude performance including enhanced oxygen metabolism, modified blood chemistry, and increased lung capacity**[28][30]. **Beyond physiological advantages, they developed cultural practices optimized for mountain environments: portable housing systems, specialized food preservation techniques, weather forecasting methods, and route-finding skills passed through generations**[22][31][30].
+
+**Sherpa trading operations involved complex multi-generational partnerships where family units specialized in different aspects: route reconnaissance, animal husbandry, commodity assessment, and customer relations**[22][29]. **They maintained detailed oral geographic knowledge covering hundreds of route variations, seasonal patterns, water sources, shelter locations, and hazard zones**[22][28].
+
+#### **Newar Commercial and Artisan Networks**
+
+**Newar communities combined commercial expertise with sophisticated artisan production, creating integrated networks that linked manufacturing with long-distance trade**[32][33]. **Newars developed specializations in: precision crafts (metalwork, jewelry, sculpture) suitable for high-value trade; manuscript production and preservation creating libraries essential for commercial documentation; financial services including money-changing, credit provision, and risk assessment; and diplomatic functions serving as cultural intermediaries between different ethnic and religious communities**[32][33].
+
+**Newar trading guilds maintained permanent establishments in major trading centers while operating mobile units that could respond to seasonal opportunities**[32][33]. **Their urban base in the Kathmandu Valley provided strategic advantages: access to diverse raw materials from different ecological zones, concentration of skilled artisans enabling complex production, and central positioning allowing interaction with routes from multiple directions**[32].
+
+### **Institutional Frameworks and Operational Modalities**
+
+**The Kashmir-Nepal trade networks required sophisticated institutional arrangements to manage the complexities of trans-Himalayan commerce**[5][33][34]. **These institutions operated at multiple scales: family-based trading partnerships, community-level resource management, regional commercial agreements, and inter-state diplomatic arrangements**.
+
+#### **Guild and Community Organization**
+
+**Trading communities organized themselves into guild-like structures (shrenis) that provided: standardized training through apprenticeship systems, quality control mechanisms ensuring reputation maintenance, collective bargaining power with transport providers and local authorities, risk pooling through shared financing of expeditions, and conflict resolution systems for commercial disputes**[33][34][35].
+
+**Kashmir's shawl weaving guilds exemplified this organization**[24]. **Master craftsmen (ustads) maintained workshops employing 10-50 specialists in different aspects of production: wool preparation, dyeing, weaving, and finishing**[24]. **These workshops coordinated with trading guilds that specialized in raw material procurement from Tibet and finished product distribution to markets throughout the subcontinent**[5][24].
+
+#### **Customs and Toll Systems**
+
+**The trade routes required passage through multiple political jurisdictions, each maintaining customs posts and toll collection systems**[5][36]. **Kashmir's routes included major toll points at: Baramulla (controlling access to the valley), strategic passes like Pir Panjal and Zoji La, and border towns with neighboring territories**[5].
+
+**Toll collection involved sophisticated administration**: **customs officials (tehsildars) maintained records of commodity classifications, assessed duties based on value and destination, issued transit passes (rawannas) ensuring safe passage, and coordinated with military posts providing security**[5]. **Major trading families often maintained permanent relationships with customs officials, facilitating expedited processing and reduced duties**[5].
+
+**The revenue from trade tolls supported infrastructure maintenance, security provision, and administrative functions essential for network operation**[5][36]. **This created strong incentives for political authorities to maintain route security and functionality**.
+
+### **Technological Adaptations and Equipment Systems**
+
+**The extreme environments of trans-Himalayan trade required specialized equipment and technological innovations**[8][18][9]. **Transport technology included: specialized pack saddles designed for different animal types and terrain conditions, rope and pulley systems for negotiating cliff faces and river crossings, portable shelter systems enabling survival in extreme weather, and preserved food preparations providing nutrition during extended journeys**[8][18][9].
+
+**Clothing and personal equipment reflected centuries of adaptation: layered clothing systems allowing response to extreme temperature variations, specialized footwear providing traction on ice and rock, protective eyewear preventing snow blindness, and portable fire-making equipment essential for survival**[8][9].
+
+**Navigation technology combined sophisticated oral traditions with practical tools: astronomical knowledge for route-finding during cloudy conditions, weather prediction techniques based on wind patterns and cloud formations, and detailed mental maps passed through generations describing terrain features, water sources, and hazard zones**[6][22].
+
+### **Risk Management and Contingency Planning**
+
+**The inherent dangers of trans-Himalayan trade required comprehensive risk management systems**[6][18][9]. **Physical risks included: avalanches that could destroy entire caravans, altitude sickness affecting both humans and animals, banditry particularly at remote passes and border areas, and equipment failure potentially causing fatal exposure**[8][18][9].
+
+**Commercial risks involved: commodity price fluctuations due to political instability or harvest variations, currency devaluation across different territories, loss of goods due to transport accidents, and delays causing missed market opportunities**[5][23].
+
+**Risk mitigation strategies included**: **diversified commodity portfolios reducing exposure to single market fluctuations, insurance arrangements through community pooling systems, multiple route options allowing response to specific hazards, and strategic alliances with local communities providing emergency assistance**[6][5][23].
+
+### **Adaptation to Political and Economic Changes**
+
+**The trade networks demonstrated remarkable adaptability to changing political and economic conditions**[37][38][12]. **Political disruptions - wars, succession disputes, policy changes - required rapid route adjustments and relationship renegotiation**[37][5]. **Economic shifts - new commodity demands, currency changes, tax policy modifications - necessitated strategy revisions and partnership restructuring**[37][23].
+
+**The transition from barter to monetary exchange systems required: development of currency assessment expertise, establishment of credit networks spanning multiple territories, and creation of risk assessment mechanisms for different political jurisdictions**[5][12]. **Communities that successfully adapted these changes maintained commercial viability, while those unable to adjust faced economic marginalization**[37][12].
+
+### **Legacy and Transformation**
+
+**The practical architecture of Kashmir-Nepal connectivity created lasting impacts extending far beyond commercial exchange**[39][40][41]. **The infrastructure developments - route improvements, bridge construction, shelter facilities - benefited subsequent generations and different types of travelers**[40][41]. **The institutional innovations - guild systems, credit mechanisms, conflict resolution procedures - influenced commercial practices throughout the region**[33][34].
+
+**The human capital development - linguistic skills, cultural knowledge, technical expertise - created cosmopolitan communities that facilitated not only trade but diplomatic, religious, and intellectual exchange**[32][22][30]. **These communities became crucial intermediaries in the broader cultural transmission processes that shaped the development of Himalayan civilization**.
+
+The ancient Kashmir-Nepal trade networks thus represented far more than commercial pathways. They constituted complex socio-technical systems that required extraordinary human adaptations, sophisticated institutional arrangements, and innovative technological solutions to overcome some of the world's most challenging geographical obstacles. **The practical success of these networks depended on the intersection of specialized communities, each contributing unique capabilities to collective enterprises that sustained cultural and economic exchange across the Himalayan barrier for over a millennium**.
+
+Citations:
+[1] MAIN PASSES OF THE HIMALAYAS - Shomish.com https://shomish.com/study-materials.php/main-passes-of-the-himalayas
+[2] 37 Important Mountain Passes in India with Map [State-Wise] https://mapsforupsc.com/important-mountain-passes-in-india/
+[3] Major Mountain Passes in India & Himalayas - PMF IAS https://www.pmfias.com/major-passes-india-himalayas-indian-sub-continent-khyber-pass-gomal-pass-bolan-pass-banihal-pass-shipki-la-nathu-la-jelep-la/
+[4] Trade relations between Central Asia and Kashmir Himalayas ... https://journals.openedition.org/asiecentrale/429?lang=en
+[5] [PDF] TRADE ROUTES IN MUGHAL KASHMIR: A HISTORICAL STUDY https://ijcrt.org/papers/IJCRT2101094.pdf
+[6] [PDF] HIMALAYAN TRADERS - Pahar https://pahar.in/pahar/Books%20and%20Articles/Nepal/1975%20Himalayan%20Traders%20by%20von%20Furer-Haimendorf%20s.pdf
+[7] Seasonal Weather Patterns in Nepal | What to consider for treks https://vajraadventure.com/blog/seasonal-weather-patterns-in-nepal-what-trekkers-should-know
+[8] HJ/51/13 MERCHANTS AND MOUNTAINS - The Himalayan Club https://www.himalayanclub.org/hj/51/13/merchants-and-mountains/
+[9] High Altitude Pack Animals and Their Sorry Fate - Secrets Of The Ice https://secretsoftheice.com/news/2016/12/06/pack-animals/
+[10] End of the Road for Nepal's Traditional Himalayan 'Caravans' https://naharnet.com/stories/en/164726-end-of-the-road-for-nepal-s-traditional-himalayan-caravans
+[11] [PDF] the Bhutanese trade with Tibet and Bengal - Cloudfront.net https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/jbs/pdf/JBS_15_03.pdf
+[12] [PDF] Changing Trade and the Adaptation to Survive in Humla https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=3525&context=isp_collection
+[13] [PDF] Yak's Resilience and Adaptation to High - Online First Article https://researcherslinks.com/uploads/articles/1723466348_PJZ_MH20231201092818_He%20et%20al.pdf
+[14] Pack animal - Wikipedia https://en.wikipedia.org/wiki/Pack_animal
+[15] Transcriptomic Landscape of Yaks Reveals Molecular Pathways for ... https://academic.oup.com/gbe/article/11/1/72/5229345
+[16] The adaptive strategies of yaks to live in the Asian highlands https://www.sciencedirect.com/science/article/pii/S2405654522000294
+[17] Yak - the main Himalayan transportation - YouTube https://www.youtube.com/watch?v=211yK_cnZZo
+[18] Mule trains to mountain roads: the role of working ... - PubMed Central https://pmc.ncbi.nlm.nih.gov/articles/PMC11322082/
+[19] Mules: The AK-47 of Logistics Recommitting to Pack-animals Across ... https://smallwarsjournal.com/2021/05/20/mules-ak-47-logistics-recommitting-pack-animals-across-spectrum-conflict/
+[20] The last straw: taking care of your pack animals https://services.thebmc.co.uk/the-last-straw
+[21] [PDF] Trade And Road Networks In The Eastern Himalayas - IJCRT https://www.ijcrt.org/papers/IJCRT2502518.pdf
+[22] Who are Sherpa : Job | History | Culture - Highland Expeditions https://highlandexpeditions.com/who-are-sherpas/
+[23] [PDF] Trade between Kashmir and Central Asia via Traditional Corridors of ... https://www.macrothink.org/journal/index.php/ijch/article/download/8060/6638
+[24] 709 M. Saleem Beg & Hakim Sameer Hamdani, Craft, Kashmiriyat ... https://www.india-seminar.com/2018/709/709_saleem_&_sameer.htm
+[25] the trade and commerce of kashmir under dogras (1885-1925 ad) https://www.jstor.org/stable/44144780
+[26] the case of the 'Bhotiyas' of the Indo-Chinese border region https://link.springer.com/article/10.1007/s11629-008-0178-9
+[27] “Swoop and Grab Your Rights” | Journal of Asian Studies https://read.dukeupress.edu/journal-of-asian-studies/article/83/4/1001/390614/Swoop-and-Grab-Your-Rights-Conservation-and
+[28] The Sherpa People: Origins, History, Culture, and Life in the Everest ... https://nepalpeakadventure.com/the-sherpa-people/
+[29] A Comparison between Traditional and Current livelihood strategies ... https://www.hilarispublisher.com/open-access/a-comparison-between-traditional-and-current-livelihood-strategies-of-sherpa-and-tamang-communities-in-the-eastern-himalayas-92561.html
+[30] Exploring Sherpa Culture: Discover the Lives of People in the ... https://www.nepalclimbing.com/blog/sherpa-culture-and-people-in-the-everest-region
+[31] Sherpa Culture of Nepal: Food, History, and Traditions https://fulltimeexplorer.com/sherpa-culture-nepal-food-traditions/
+[32] Newar people - Wikipedia https://en.wikipedia.org/wiki/Newar_people
+[33] Forms of artist and artisan organisation in historic India https://garlandmag.com/article/indian-communities/
+[34] The Guild in Modern South Asia* | International Review of Social ... https://www.cambridge.org/core/journals/international-review-of-social-history/article/guild-in-modern-south-asia/D7569A6FADA78282B51C48B18212C7D0
+[35] [PDF] The Indian craftsman https://archive.org/download/indiancraftsman00coomuoft/indiancraftsman00coomuoft.pdf
+[36] Toll castle - Wikipedia https://en.wikipedia.org/wiki/Toll_castle
+[37] [PDF] A Case Study of India's Unofficial Blockade on Nepal - SSRN https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4197326_code4921372.pdf?abstractid=4197326&mirid=1
+[38] India's Neighbourhood Policy Conundrum: A Case of Nepal and Sri ... https://tdhj.org/blog/post/india-neighbourhood-nepal-sri-lanka/
+[39] Nepal's Silk Route: Historical Trade Links and Cultural Exchange https://romantonepali.com/nepals-silk-route-historical-trade-links/
+[40] India's Answer to the Belt and Road: A Road Map for South Asia https://carnegieendowment.org/research/2018/08/indias-answer-to-the-belt-and-road-a-road-map-for-south-asia?lang=en
+[41] Investigating the history of routes, commodities, culture and ... https://advance.sagepub.com/users/927485/articles/1298996-investigating-the-history-of-routes-commodities-culture-and-economic-interactions-of-himalayan-region-and-their-relevance-in-contemporary-india
+[42] [PDF] Exploring the Potential for Economic Development and Cross-LoC ... https://pugwash.org/wp-content/uploads/2018/02/200707_issuebrief_kashmir_yusuf.pdf
+[43] Salt routes and barter caravans in the Himalayan regions of Nepal ... https://www.academia.edu/70570669/Salt_routes_and_barter_caravans_in_the_Himalayan_regions_of_Nepal_and_Tibet_from_an_ethnographical_perspective
+[44] List of mountain passes of India - Wikipedia https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India
+[45] Himalayan power caravan - The Kathmandu Post https://kathmandupost.com/columns/2023/05/04/himalayan-power-caravan
+[46] Himalayas - Wikipedia https://en.wikipedia.org/wiki/Himalayas
+[47] Between China and Nepal: Trans-Himalayan Trade and the Second ... https://escholarship.org/content/qt1nk855wp/qt1nk855wp_noSplash_2dbac890b78b687b1b954ba56fb56ef1.pdf?t=rgvbtu
+[48] Top 12 Mountain Passes in Nepal https://www.nepalhikingteam.com/mountain-passes-in-nepal
+[49] To what extent can trade build peace in Kashmir between India and ... https://peaceforasia.ch/to-what-extent-can-trade-build-peace-in-kashmir-between-india-and-pakistan/
+[50] Himalayas - Trade, Tourism, Agriculture | Britannica https://www.britannica.com/place/Himalayas/Economy
+[51] [PDF] Ladakh Under the Dogra Administration from 1846-1947 https://theacademic.in/wp-content/uploads/2025/02/40.pdf
+[52] Historic Trade Routes and Economic Networks of ... - Sage Advance https://advance.sagepub.com/doi/pdf/10.31124/advance.174859131.18913372/v1
+[53] Sherpa people in Himalaya Region, Climbing ethnic group of Nepal https://sunriseadventuretrek.com/blogs/sherpa-peoples
+[54] Census: Number of Households: Jammu and Kashmir - India - CEIC https://www.ceicdata.com/en/india/census-number-of-households-by-size-jammu-and-kashmir/census-number-of-households-jammu-and-kashmir
+[55] [PDF] Tibetan Trade in Pre-Colonial Northeast India https://gsmp.in/wp-content/uploads/2024/09/10a.pdf
+[56] Mountain agropastoralism: traditional practices, institutions and ... https://pastoralismjournal.springeropen.com/articles/10.1186/s13570-023-00289-1
+[57] A freighter full of Yaks - CargoForwarder Global https://cargoforwarder.eu/2024/06/16/a-freighter-full-of-yaks/
+[58] File:Local Yak transportation - panoramio.jpg - Wikimedia Commons https://commons.wikimedia.org/wiki/File:Local_Yak_transportation_-_this_is_the_10,000_ft_high_altitude_yak_version_-_panoramio.jpg
+[59] Is It Immoral to Use Pack Animals for Trekking? - Sam Woolfe https://www.samwoolfe.com/2018/06/is-it-immoral-to-use-pack-animals-for-trekking.html
+[60] Challenging infrastructural orthodoxies: Political and economic ... https://www.sciencedirect.com/science/article/abs/pii/S0016718521000282
+[61] Yak, the ship of high altitudes rules NE - Daily Pioneer https://www.dailypioneer.com/2023/columnists/yak--the-ship-of-high-altitudes-rules-ne.html
+[62] What It's Like Teaching English to Monks in Nepal - A Little Adrift https://alittleadrift.com/teaching-english/
+[63] Artisans and Master Craftsmen in the Medieval Period - Prepp https://prepp.in/news/e-492-artisans-and-master-craftsmen-in-the-medieval-period-medieval-india-history-notes
+[64] Teaching in Buddhist Monastery - Volunteer World Nepal https://www.volunteerworldnepal.org/program/teaching-in-buddhist-monastery/
+[65] Toll roads in Europe - Wikipedia https://en.wikipedia.org/wiki/Toll_roads_in_Europe
+[66] MA History UNIT 27 Trade and Commerce in the Medieval World ... https://www.studocu.com/in/document/university-of-kashmir/department-of-master-of-arts/ma-history-unit-27-trade-and-commerce-in-the-medieval-world-craft-production/52142758
+[67] Volunteer In Nepal Monastery: A Life Changing Experience To ... https://www.volunteerfdip.org/articles/volunteer-in-nepal-monastery-experience-to-teach-learn-with-buddhist-monks
+[68] Customs & Quarantine - Toll Group https://www.tollgroup.com/solutions/transportation/customs-quarantine
+[69] Kopan Monastery: Home https://kopanmonastery.org
+[70] Toll.no - Corporate - Norwegian Customs - Tolletaten https://www.toll.no/en/corporate
+[71] Course Calendar - Kopan Monastery https://kopanmonastery.org/course-calendar/
+[72] Melbourne toll passes | Linkt https://www.linkt.com.au/accounts-and-passes/passes/melbourne
+[73] [PDF] Business in the Middle Ages: What Was the Role of Guilds? https://www.socialstudies.org/system/files/publications/articles/se_77021364.pdf
+[74] Teaching Monks - Volunteer Nepal - Friends for Asia https://www.friendsforasia.org/teaching-monks-volunteer-nepal/
+[75] The Swiss Vignette: Everything you need to know - https://lostinswitzerland.com/swiss-motorway-vignette/
+[76] Buddhist Monasteries | Volunteer Opportunities in Nepal https://www.buddhistmonasteries.org
+
+
+
+
 "Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
 
 ## Shared Narratives Between Early Vaishnavism and Jainism
