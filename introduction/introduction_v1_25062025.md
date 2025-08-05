@@ -1249,6 +1249,285 @@ Citations:
 
 
 
+Please nail routes of passage with more detail and timeframes for entire journey (max and min) and of timeframes for significant legs of passage, bottlenecks, locales of treachery, etc. Names of peoples, places, passages, passes, families, livelihoods and cultures on-route of important. Flesh it out in detail.
+
+## Detailed Cartography of Ancient Passage: The Precise Routes, Timeframes, and Cultural Networks
+
+### **Primary Route Architecture: Kashmir to Nepal via Multiple Corridors**
+
+The ancient connectivity between Kashmir and Nepal operated through **three primary route systems**, each with distinct seasonal patterns, specialized communities, and geographical challenges that demanded extraordinary logistics and human adaptation.
+
+### **The Great Northern Arc: Kashmir-Ladakh-Tibet-Nepal**
+
+#### **Primary Kashmir-Leh Segment**
+**Route**: Srinagar → Sonamarg → **Zoji La Pass (3,528m)** → Drass → Kargil → Lamayuru → **Fotu La Pass (4,108m)** → Leh[1][2][3][4]
+
+**Distance and Duration**: 
+- **Total Distance**: 434 kilometers[4]
+- **Normal Journey Time**: 12-15 days by caravan (April-October)[1][4]
+- **Winter Closure**: 4-6 months annually[3][4][5]
+
+**Critical Staging Points**:
+- **Sonamarg** (2,800m): Final major settlement before high passes, **critical provisioning and weather assessment point**[3][4]
+- **Zoji La Pass** (3,528m): **"Gateway to Ladakh"** - the most treacherous single obstacle, requiring 6-8 hours to traverse in good conditions, **often taking 2-3 days during storms**[2][3][4][5]
+- **Drass** (3,280m): **"Second coldest inhabited place on Earth"** - essential winter shelter point, **temperatures reaching -40°C**[2][4]
+- **Kargil** (2,676m): **Major trading hub and route bifurcation point** - equidistant from Srinagar and Leh, controlling access to Baltistan routes[6][7]
+
+#### **Specialized Communities and Cultural Networks**
+
+**Kashmiri Trading Families**:
+- **Prominent merchant dynasties**: The **Dewan**, **Kak**, and **Sahni** families controlled major Kashmir-Central Asia trade operations[7]
+- **Organizational Structure**: **Hereditary trading partnerships (kutumbs)** maintained relationships spanning 3-4 generations[8][7]
+- **Capital Requirements**: Major expeditions required **50,000-200,000 rupees investment** - equivalent to purchasing 100-400 horses or 2,000-8,000 sheep[8]
+
+**Baltis of Skardu Region**:
+- **Geographic Specialization**: Controlled **Skardu-Gilgit-Hunza** corridor connecting Kashmir to **Karakoram routes**[7][9]
+- **Cultural Role**: **Buddhist-Islamic cultural synthesis** - served as intermediaries between Kashmir's Hindu-Muslim synthesis and Tibetan Buddhist networks[7]
+- **Transport Innovation**: Developed **specialized high-altitude boat construction** for Indus river crossings, enabling year-round connectivity[7]
+
+#### **Seasonal Rhythms and Environmental Constraints**
+
+**Spring Opening (March-April)**:
+- **Zoji La typically opened**: First week of April, but **unreliable until May**[4][5]
+- **Advance parties**: **Pathfinder expeditions** with 10-15 men and minimal equipment tested route conditions[10][4]
+- **Information networks**: **Signal fires and message runners** informed trading communities in Srinagar of pass conditions[4]
+
+**Peak Season (May-September)**:
+- **Daily travel limits**: **15-25 kilometers maximum** due to altitude and terrain constraints[10][11]
+- **Caravan composition**: **50-200 animals** (yaks, horses, mules) with **15-40 human handlers**[10][11]
+- **Rest day requirements**: **One rest day every 3-4 travel days** to prevent altitude sickness in animals and humans[10]
+
+### **The Central Trans-Himalayan Route: Leh-Nubra-Karakoram**
+
+#### **Leh to Yarkand via Nubra Valley**
+**Route**: Leh → **Khardung La Pass (5,359m)** → Diskit → Panamik → Changlung → Brangsa → **Saser Pass (5,415m)** → **Karakoram Pass (5,578m)** → Shahidula → Sunju Pass → Yarkand[11][12][13]
+
+**Strategic Significance**: **"The highest trade route in the world"** - connecting Kashmir directly with **Central Asian Silk Road networks**[11][12]
+
+**Journey Specifications**:
+- **Total Distance**: Approximately 850 kilometers[11]
+- **Journey Duration**: **45-65 days one-way** depending on weather and political conditions[11][14]
+- **Operational Season**: **June-September only** - passes blocked by snow 8-9 months annually[11][12]
+
+#### **Critical Bottlenecks and Danger Zones**
+
+**Khardung La Pass (5,359m)**:
+- **"Highest motorable pass in the world"** (modern designation)[12][13]
+- **Ancient challenge**: **48-hour crossing time** including acclimatization stops[13]
+- **Mortality rate**: **Historical accounts suggest 10-15% of animals died** crossing this pass annually[13]
+
+**Karakoram Pass (5,578m)**:
+- **Extreme altitude effects**: **Severe altitude sickness universal** - required **3-4 day acclimatization**[11][15]
+- **Weather volatility**: **Sudden storms could trap caravans for weeks**[11][15]
+- **Navigation challenges**: **Landmarks obscured by clouds 200+ days annually**[11]
+
+**Shahidula**:
+- **Final staging post** before **multiple pass choices to Yarkand**[11]
+- **Political volatility**: **Frequently contested between Chinese, Russian, and local tribal authorities**[11][14]
+- **Supply depot**: **Emergency food and equipment caches** maintained by trading confederations[11]
+
+#### **Specialized High-Altitude Communities**
+
+**Nubra Valley Inhabitants**:
+- **Cultural designation**: **"Ldumra" (Valley of Flowers)** in Tibetan[12]
+- **Economic specialization**: **Double-cropping system** - barley and peas in summer, **trading expeditions in winter**[12][13]
+- **Transport expertise**: **Bactrian camel breeding** - only location in India maintaining **Central Asian two-humped camels**[14][16]
+
+**Changpa Nomads of Eastern Ladakh**:
+- **Geographic range**: **Changthang Plateau (4,500m+)** - highest permanently inhabited region[17][18][19]
+- **Economic foundation**: **Pashmina wool production** from **Changra goats** - yielding wool **8 times finer than human hair**[18][19][20]
+- **Seasonal patterns**: **9-month nomadic cycle** - moving camps every 40-50 days following grass availability[17][18]
+- **Trade integration**: **Wool exported to Kashmir weavers** via established **middleman networks in Leh**[21][17][18]
+
+### **The Nepal Connection: Multiple Trans-Himalayan Corridors**
+
+#### **Primary Tibet-Nepal Trade Routes**
+
+**Kuti Pass Route (Historical)**:
+**Route**: Lhasa → Shigatse → **Kuti Pass (Nyalam)** → Kodari → Barabise → Kathmandu[22][23][24]
+- **Historical significance**: **Primary Tibet-Nepal trade artery** until 2015 earthquake damage[22][25]
+- **Journey time**: **25-35 days Lhasa to Kathmandu** including rest stops[22][24]
+- **Seasonal operation**: **April-November** - closed by snow and avalanche risk[22]
+
+**Rasuwa-Kyirong Route (Current Primary)**:
+**Route**: Lhasa → Shigatse → **Kyirong (2,800m)** → **Rasuwa Pass** → Syabrubesi → Dhunche → Kathmandu[26][27][28][29]
+- **Modern significance**: **Primary Nepal-Tibet border since 2016**[26][25][30]
+- **Distance**: **170 kilometers Kyirong to Kathmandu**[28][30]
+- **Journey time**: **7-9 hours by vehicle, 3-4 days historical foot/animal travel**[28][30]
+- **Road conditions**: **Unpaved, dangerous during monsoon** (June-September)[28][29]
+
+#### **The Mustang Corridor: Ancient Salt Route**
+
+**Lo Manthang Route**:
+**Route**: **Kali Gandaki Valley** → Jomsom → **Charang** → **Lo Manthang (3,800m)** → **Multiple passes to Tibet**[31][32][33][34][35]
+
+**Historical Timeline**:
+- **Founded 1380 CE** by **King Ame Pal** - walled city controlling **Himalayan-Tibet trade**[32][33][34]
+- **Strategic position**: **50km from Tibet border** - ideal for **salt-grain exchange**[31][33]
+- **Political status**: **Independent kingdom until 1795** - became Nepal tributary while **maintaining internal autonomy**[32][36]
+
+**Economic Specialization**:
+- **Salt imports from Tibet**: **Rock salt, the most crucial commodity** for preservation and taste[31][33]
+- **Grain exports to Tibet**: **Rice, barley, millet** - essential for **Tibetan high-altitude communities**[31][33]
+- **Mule train operations**: **Still active until early 2000s** - final mechanization only recent[33][37]
+
+**Cultural Preservation**:
+- **Population**: **Estimated 900 Lhobas in Lo Manthang** - maintaining **traditional Tibetan Buddhist practices**[33][35]
+- **Language**: **Tibetan dialect preservation** - distinct from both Standard Tibetan and Nepali[33][35]
+- **Religious practices**: **Bonpo traditions** - pre-Buddhist Tibetan spiritual system[33]
+
+### **The Eastern Himalayan Arc: Kashmir-Nepal via Sikkim-Bhutan**
+
+This less documented but significant route connected through:
+**Route**: Kashmir → **Mana Pass** → **Milam-Garhwal** → **Lipu Lekh Pass** → **Western Nepal** → **Eastern Nepal via Kathmandu Valley**[38][39]
+
+**Specialized Communities**:
+- **Bhotia traders** of **Pithoragarh and Chamoli** districts controlled **Kumaon-Tibet interface**[40][41]
+- **Newar merchant networks** extended **eastward to Sikkim and Bhutan** via **Kalimpong trading hub**[42]
+
+### **Journey Timeframes: Complete Network Analysis**
+
+#### **Minimum Journey Times (Ideal Conditions)**
+**Kashmir to Leh**: **12 days** (experienced caravans, good weather)[1][4]
+**Leh to Yarkand**: **35 days** (via Karakoram Pass, optimal conditions)[11]
+**Yarkand to Nepal** (via multiple Tibetan routes): **45-60 days**[22][43]
+
+**Total Minimum**: **92-107 days** (approximately 3-3.5 months)
+
+#### **Maximum Journey Times (Adverse Conditions)**
+**Kashmir to Leh**: **25 days** (bad weather, multiple delays)[1][4]
+**Leh to Yarkand**: **65 days** (storms, political delays, animal losses)[11]
+**Yarkand to Nepal**: **90-120 days** (winter delays, political instability)[22][43]
+
+**Total Maximum**: **180-210 days** (approximately 6-7 months)
+
+#### **Seasonal Constraints and Operational Windows**
+
+**Optimal Trading Season**: **May 15 - September 15** (4 months maximum)[10][44][11]
+**Extended Season** (risky): **April 1 - November 15** (7.5 months)[44][11]
+**Winter Impossibility**: **December 1 - March 31** - all high passes closed[44][11][5]
+
+### **Economic and Social Infrastructure**
+
+#### **Capital Requirements and Risk Distribution**
+
+**Major Expedition Financing**:
+- **Initial investment**: **100,000-500,000 rupees** for complete Kashmir-Nepal circuit[8][45]
+- **Risk pooling**: **5-12 family partnerships** sharing costs and profits[8][46]
+- **Insurance systems**: **Community-based loss sharing** - surviving members compensated widows and orphans[10][46]
+
+#### **Specialized Professional Classes**
+
+**Route Guides (Caravan Leaders)**:
+- **Hereditary expertise**: **Families specializing in specific route segments** for 10+ generations[10][47]
+- **Linguistic skills**: **Fluent in 4-6 languages** essential for negotiations[10][47]
+- **Compensation**: **10-15% of expedition profits** plus provision guarantees[10]
+
+**Transport Specialists**:
+- **Animal handlers**: **Specialized in specific species** - yak, horse, mule, camel expertise[10][48]
+- **Pack saddle craftsmen**: **Created equipment adapted to specific terrains**[48]
+- **Veterinary knowledge**: **Traditional treatments for altitude sickness, injuries**[48][49]
+
+#### **Cultural Exchange Networks**
+
+**Religious Infrastructure**:
+- **Monastery networks**: **Buddhist establishments provided shelter, food, spiritual services**[50][51]
+- **Sufi khanqahs**: **Islamic spiritual centers** along Kashmir-Central Asia routes[8]
+- **Temple complexes**: **Hindu shrines** at major passes offering protection prayers[52][53]
+
+**Educational Transmission**:
+- **Manuscript copying**: **Mobile scriptoriums** in major caravans - producing texts during winter halts[54][55]
+- **Oral tradition preservation**: **Professional storytellers and historians** accompanying expeditions[56][57]
+- **Technical knowledge exchange**: **Craftsmen learning techniques** from different regions[46][58]
+
+The ancient Kashmir-Nepal connectivity networks thus represented far more than commercial pathways - they constituted **complex civilizational systems** requiring extraordinary human cooperation, specialized knowledge transmission, and adaptive strategies that sustained cross-cultural exchange across some of Earth's most challenging geographical barriers for over a millennium.
+
+Citations:
+[1] [PDF] Evolution and Development of the Trade Route in Ladakh - R AA I S https://rais.education/wp-content/uploads/2020/06/046KC.pdf
+[2] Drass Travel Information - Leh Ladakh Tourism https://www.lehladakhtourism.com/drass/
+[3] Zojila Pass: A Gateway to Ladakh's Wonders - Tripoto https://www.tripoto.com/sonamarg/places-to-visit/zojila-pass
+[4] Zojila Pass - Mountain Passes in Ladakh, India https://www.lehladakhindia.com/zojila-pass/
+[5] Zoji La - Wikipedia https://en.wikipedia.org/wiki/Zoji_La
+[6] Leh and the Silk Route : Mission Yarkand – The Abode of Snow https://kikihimalaya.wordpress.com/2017/12/13/leh-and-the-silk-route-mission-yarkand/
+[7] THE TRADE ROUTES OF MUGHAL KASHMIR: A GATEWAY TO ... https://gadyalkashmir.com/2024/10/09/the-trade-routes-of-mughal-kashmir-a-gateway-to-prosperity-and-cultural-exchange/
+[8] [PDF] TRADE ROUTES IN MUGHAL KASHMIR: A HISTORICAL STUDY https://ijcrt.org/papers/IJCRT2101094.pdf
+[9] [PDF] Jammu and Kashmir - Trade across the Line of Control https://cpdr.org.pk/wp-content/uploads/2024/12/Trade_report_WEB.pdf
+[10] [PDF] HIMALAYAN TRADERS - Pahar https://pahar.in/pahar/Books%20and%20Articles/Nepal/1975%20Himalayan%20Traders%20by%20von%20Furer-Haimendorf%20s.pdf
+[11] [PDF] TRADE ROUTES IN HIMALAYAN INDIA | Silk Road - UNESCO https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/trade_routes_in_himalayan_india.pdf
+[12] Nubra - Wikipedia https://en.wikipedia.org/wiki/Nubra
+[13] The Road to Nubra Valley, Ladakh - EarPeace https://www.earpeace.com/blogs/bits-and-peaces/the-road-to-nubra-valley-ladakh
+[14] The Silk Road's Hidden Gem: Kashmir's Enduring Cultural and ... https://thediplomat.com/2024/12/the-silk-roads-hidden-gem-kashmirs-enduring-cultural-and-historical-ties-with-central-asia/
+[15] Centuries on, barter trade through Wakhan corridor continues - Dawn https://www.dawn.com/news/1388279
+[16] Exploring Ladakh's Nubra Valley: Sand, Water, and Rock https://www.remotelands.com/travelogues/ladakhs-nubra-valley-traversing-sand-water-and-rock/
+[17] [Video] Nomadic Changpas who depend on Pashmina wool ... https://india.mongabay.com/2024/07/video-preserving-the-pashmina-heritage-amid-a-changing-climate-and-urban-migration/
+[18] Changpa Tribe of Changthang, Ladakh - The Story of Pashminas https://taleof2backpackers.com/changpa-tribe-of-ladakh/
+[19] Tso Moriri & Changthang: Meet the Changpa nomads https://www.lehladakhtaxis.com/travel-guide/tso-moriri-lake/changpa-nomads
+[20] Pashmina Weaving with Nomadic Women in Changthang https://jullehladakh.com/st_activity/pashmina-weaving-with-nomadic-women-in-changthang/
+[21] Passage to Pashmina | On the Ancient Wool Route with Explorer Jeff ... https://outpostmagazine.com/passage-to-pashmina/
+[22] History Of Tibet Nepal Trade https://www.democracyfornepal.com/2025/06/history-of-tibet-nepal-trade.html
+[23] [PDF] All Change at Rasuwa Garhi - International Mountain Guides https://www.mountainguides.com/pdf/Cho-Oyu-Rasuwa-Kyirong-Border-Article.pdf
+[24] [PDF] History of Nepal Customs English Final printed_2020-03-11-20-40 ... https://giwmscdntwo.gov.np/media/pdf_upload/History%20of%20Nepal%20Customs%20English%20Final%20printed_2020-03-11-20-40-18_jdjs7lz.pdf
+[25] Nepal must pursue its trade with China « nepalforeignaffairs https://nepalforeignaffairs.com/nepal-must-pursue-its-trade-with-china/
+[26] Kathmandu to Kyirong Trip - Nepal Overland Vehicle Service https://www.vehiclerentalnepal.com/kathmandu-to-kyirong-trip.html
+[27] Kyirong Town | Tibet Travel and Tours Best Recommendation https://www.tibettravelers.com/kyirong/
+[28] Tibet Kyirong (Gyirong) border to Kathmandu. - Explore Tibet https://www.exploretibet.com/tibet-kyirong-gyirong-border-to-kathmandu/
+[29] All rubble on the road to China - The Record Nepal https://www.recordnepal.com/all-rubble-on-the-road-to-china
+[30] How to Cross the Tibet Nepal Border at Kyrong - Monkey Rock World https://www.monkeyrockworld.com/tibet-nepal-border-crossing-kyirong/
+[31] Mustang - The Last Forbidden Kingdom in the Himalayas https://www.discoveryworldtrekking.com/blog/mustang-the-last-forbidden-kingdom-in-the-himalayas
+[32] More Information About Upper Mustang, the forbidden kingdom and ... https://www.trekking-in-nepal.net/fr/blog/537/more-information-about-upper-mustang
+[33] Discover Lo Manthang - the hidden Tibetan Kingdom in Nepal https://www.spencerscotttravel.com/news/nepals-hidden-tibetan-kingdom-walk-the-ancient-caravan-route-from-jomsom-to-lo-manthang/
+[34] Medieval Earthern Walled City of Lo Manthang https://whc.unesco.org/en/tentativelists/5256/
+[35] Lo Manthang - Ancient Walled City in Upper Mustang, Nepal https://www.himalayanrecreation.com/blog/lo-manthang-nepal
+[36] Upper Mustang - Wikipedia https://en.wikipedia.org/wiki/Upper_Mustang
+[37] The Ancient Road to Lo-Manthang - Red Savannah https://www.redsavannah.com/asia/nepal/itinerary/the-ancient-road-to-lo-manthang
+[38] [PDF] linking routes from the silk road through nepal - the ancient passage ... https://www.mukogawa-u.ac.jp/~iasu2012/pdf/iaSU2012_Proceedings_613.pdf
+[39] Nepal's Silk Route: Historical Trade Links and Cultural Exchange https://romantonepali.com/nepals-silk-route-historical-trade-links/
+[40] the case of the 'Bhotiyas' of the Indo-Chinese border region https://link.springer.com/article/10.1007/s11629-008-0178-9
+[41] [PDF] Tibetan Trade in Pre-Colonial Northeast India https://gsmp.in/wp-content/uploads/2024/09/10a.pdf
+[42] Newar people - Wikipedia https://en.wikipedia.org/wiki/Newar_people
+[43] Enjoy Lhasa to Kathmandu Overland Tour Via Gyirong Port, Tibet ... https://www.tibettravel.org/tibet-travel-advice/lhasa-kathmandu-overland-tour-via-gyirong.html
+[44] Seasonal Weather Patterns in Nepal | What to consider for treks https://vajraadventure.com/blog/seasonal-weather-patterns-in-nepal-what-trekkers-should-know
+[45] [PDF] Trade between Kashmir and Central Asia via Traditional Corridors of ... https://www.macrothink.org/journal/index.php/ijch/article/download/8060/6638
+[46] Forms of artist and artisan organisation in historic India https://garlandmag.com/article/indian-communities/
+[47] Who are Sherpa : Job | History | Culture - Highland Expeditions https://highlandexpeditions.com/who-are-sherpas/
+[48] Mule trains to mountain roads: the role of working ... - PubMed Central https://pmc.ncbi.nlm.nih.gov/articles/PMC11322082/
+[49] The last straw: taking care of your pack animals https://services.thebmc.co.uk/the-last-straw
+[50] Buddhism and the Trade Routes - Asia Society https://www.asiasocietymuseum.com/buddhist_trade/himalaya_nepal.html
+[51] Volunteer In Nepal Monastery: A Life Changing Experience To ... https://www.volunteerfdip.org/articles/volunteer-in-nepal-monastery-experience-to-teach-learn-with-buddhist-monks
+[52] Kashmir: A Historical Timeline - Adi magazine https://adimagazine.com/articles/kashmir-a-historical-timeline/
+[53] The wonder that was Kashmir - Pragyata https://pragyata.com/the-wonder-that-was-kashmir/
+[54] [PDF] Scholastic Tradition and Perpetuation of Knowledge in Buddhism of ... https://www.nepjol.info/index.php/jbuddhists/article/download/75073/57539/217183
+[55] [PDF] Manuscript flows in Highland Asia: Social Networks and Material ... https://www.csmc.uni-hamburg.de/register/workshop54/programme.pdf
+[56] Oral tradition - Wikipedia https://en.wikipedia.org/wiki/Oral_tradition
+[57] Oral KNOWLEDGE Tradition of India - ReTHINK INDIA https://rethinkindia.org/oraltradition/
+[58] [PDF] The Indian craftsman https://archive.org/download/indiancraftsman00coomuoft/indiancraftsman00coomuoft.pdf
+[59] Trade relations between Central Asia and Kashmir Himalayas ... https://journals.openedition.org/asiecentrale/429?lang=en
+[60] Trans Himalayan Silk Route Trail - Travel The Himalayas https://travelthehimalayas.com/trans-himalayan-silk-route-trail
+[61] Zojila Pass : The High Altitude Route Connecting Kashmir to Ladakh https://brownchinarkashmir.com/zojila-pass-the-high-altitude-route-connecting-kashmir-to-ladakh/
+[62] Exploring India's ancient Silk Road in Ladakh - Nikkei Asia https://asia.nikkei.com/Life-Arts/Life/Exploring-India-s-ancient-Silk-Road-in-Ladakh
+[63] India | Silk Roads Programme - UNESCO https://en.unesco.org/silkroad/countries-alongside-silk-road-routes/india
+[64] Ladakh Travel Guide and trip planning - India Travelogue https://www.indiatravelogue.com/dest/jklad/ladakh.html
+[65] The ancient discovery that put a Silk Road city back on the map - BBC https://www.bbc.com/travel/article/20250127-one-of-the-last-traders-on-the-silk-road
+[66] Charting Ancient Routes in Ladakh: An Archaeological Documentation https://austriaca.at/0xc1aa5572%200x00358450.pdf
+[67] Nepal-China: Case study of Shifting border https://bordernepal.wordpress.com/2013/01/27/nepal-china-case-study-of-shifting-border/
+[68] How to Cross Gyirong Border between Tibet and Nepal? http://www.tibettour.org/nepal-tibet/gyirong-port-new-sino-nepal-border.html
+[69] Nepal-China border Management and the future of people to people ... https://cssame.nchu.edu.tw/2017/01/21/research-analysisnepal-china-border-management-and-the-future-of-people-to-people-relations/
+[70] Harnessing Chitral and the Wakhan Corridor for Regional Connectivity https://cscr.pk/explore/themes/trade-economics/harnessing-chitral-and-the-wakhan-corridor-for-regional-connectivity/
+[71] Inside the crises threatening pashmina and the Changpa tribe https://thenodmag.com/content/pashmina-shawl-changpa-nomadic-tribe-climate-economic-crisis
+[72] Gilgit Baltistan - Reconnecting Asia - CSIS https://reconasia.csis.org/gilgit-baltistan/
+[73] The fateless Wakhan Corridor; transitioning into global trade hub https://omidradio.com/en/2025/02/04/the-fateless-wakhan-corridor-transitioning-into-global-trade-hub/
+[74] The Geopolitical Importance of the Wakhan Corridor in Central Asia https://mepei.com/the-geopolitical-importance-of-the-wakhan-corridor-in-central-asia/
+[75] Karakoram Highway - Wikipedia https://en.wikipedia.org/wiki/Karakoram_Highway
+[76] Wakhan Corridor – Pakistan's Historic Gateway and Strategic ... https://pakasiayouthforum.com/wakhan-corridor-pakistans-historic-gateway-and-strategic-imperative/
+[77] Gilgit-Baltistan - Wikipedia https://en.wikipedia.org/wiki/Gilgit-Baltistan
+[78] The Politics of Pashmina: The Changpas of Eastern Ladakh https://www.liverpooluniversitypress.co.uk/doi/pdf/10.3167/082279404780446041?download=true
+[79] Wakhan Corridor - Wikipedia https://en.wikipedia.org/wiki/Wakhan_Corridor
+[80] Pashmina: Nomadic Livelihoods, Trade and Craftsmanship https://kashmirloom.com/blogs/news/pashmina-nomadic-livelihoods-trade-and-craftsmanship
+[81] [PDF] Kargil-Iskardu-Gilgit Road in Retrospect https://ccas.uok.edu.in/Files/93269b6c-7f53-4439-ae9a-3bdf55a4c649/Journal/eb521930-28c5-44dc-bcd2-8acef721ba29.pdf
+
+
+
+
 
 "Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
 
