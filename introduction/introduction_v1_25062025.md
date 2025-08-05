@@ -856,6 +856,211 @@ If you would like a more detailed outline of how specific tantric lineages reint
 
 
 
+On the technically ancient Salt and Oil traderoutes of ancient Greater India, the Incense Trail(s) and the later Silk Road(s) were established. In this context, I am intererested in the ancient, old and mediaeval connectivities and historicities of Kashmir and Nepal, as very early, they were both loci of Vaishnava, Vaikhanasa and particularly and importantly of Pancharatra cult activity and both its entry into the historical archaeological record. In both locations, too, emergent scribal culture resulted in the beginning of setting agamas and samhitas, compendiums of oral lore traditions into text. Focus on the nature, modality, impetus and means of connectivity.
+
+## Ancient Connectivities and Historicities: Kashmir and Nepal in the Context of Vaishnava Traditions
+
+The ancient and medieval connectivities between Kashmir and Nepal represent profound networks of cultural, religious, and intellectual exchange that shaped the development of Vaishnava traditions, particularly Pancharatra and Vaikhanasa systems, across the Greater Indian subcontinent. These connections, established along the technically ancient Salt and Oil trade routes and later formalized through the Incense Trail and Silk Road networks, created vibrant corridors of transmission that enabled the flourishing of scribal culture and the systematization of oral lore traditions into textual form.
+
+### **Kashmir as the Northern Epicenter of Pancharatra Development**
+
+Kashmir emerged as a **critical center for early Pancharatra Vaishnava development during the Karkota dynasty (c. 625-855 CE)**[1][2][3]. The region's strategic position along trade routes connecting Central Asia with the Indian plains facilitated not merely commercial exchange, but profound religious and intellectual transformation. Under rulers like Durlabhavardhana and his successors, Kashmir became what historian Ronald Inden describes as a **"Vaishnava center of the world"**[2], where Pancharatra theology was systematically developed and codified.
+
+**The Vishnudharmottara Purana, composed in 8th-century Kashmir, represents one of the most significant early systematizations of Pancharatra doctrine**[2][4]. This text, created for King Vajraditya Chandrapida of the Karkota dynasty, established Kashmir as the authoritative seat for Pancharatra ritual and theology. The geographical importance of this development cannot be overstated—Kashmir's control over Gandhara and its position along the trans-Himalayan trade networks meant that **Pancharatra teachings could flow seamlessly from Kashmir through the mountain passes to Tibet, Nepal, and the broader Himalayan cultural sphere**[5][6].
+
+Archaeological evidence supports this textual testimony. **Lalitaditya Muktapida (725-761 CE) constructed three colossal temples to Pancharatra forms of Vishnu at Parihasapura, temples that were reportedly larger than the famous Martand Sun Temple**[2][4]. These architectural monuments served not merely as religious centers but as **nodes in a vast network of cultural transmission**, where monks, scholars, and merchants from across Central Asia and the Indian subcontinent could encounter systematic Vaishnava doctrine.
+
+### **The Scribal Revolution in Kashmir**
+
+**Kashmir's distinctive manuscript culture, characterized by the use of birch bark and the Sharada script, became the primary medium for preserving and transmitting Pancharatra texts**[7][8]. The **use of birch bark (bhurja-patra) was particularly significant because it allowed for the creation of durable, portable manuscripts that could survive the harsh Himalayan climate**[9][10]. This technological innovation facilitated the spread of Kashmir's religious and philosophical texts across the mountain networks.
+
+**Kashmiri scholars explicitly understood themselves as preserving and transmitting Pancharatra doctrine**[1][11]. As noted in early Pancharatra texts, **"the kashmirAcharyas of mahAbala paNDita's school and vidyAraNya yati cite a number of formulae of pA~ncharAtra vaiShNavism"**[1]. The **Vihagendra Samhita and Sanatkumara Samhita, preserved in Kashmir, contained detailed explanations of the five-night ritual cycle that gave Pancharatra its name**[1].
+
+The **Pauskara Samhita specifically mentions that the Sattvata, Pauskara, Jayakhya, Lakshmi Tantra, and Ahirbudhnya Samhita were compiled in Kashmir**[11]. This systematic compilation represents a **transformation of oral lore traditions into authoritative textual collections**, marking Kashmir's emergence as the **scriptural center of the Pancharatra movement**.
+
+### **Nepal's Role as Cultural Gateway and Preservation Center**
+
+**Nepal's position along the ancient trade routes linking India with Tibet, China and surrounds, made it a crucial transmission point for both Vaishnava and Buddhist traditions**[12][13][14]. The **Kathmandu Valley served as a vital cultural transfer point** where traders, monks, and scholars would pause during seasonal changes, creating opportunities for extensive cultural exchange[14].
+
+**By the 5th-6th centuries CE, Indian traders were regularly traveling to the Kathmandu Valley, which lay across one of the main pathways linking India with Tibet**[14]. This geographic positioning made Nepal a **natural conduit for the transmission of religious texts, ritual practices, and scholarly traditions between the Indian plains and the Tibetan plateau**.
+
+### **The Development of Vaikhanasa Traditions in Nepal**
+
+While Kashmir became the center for Pancharatra development, **Nepal emerged as an important locus for Vaikhanasa tradition preservation and transmission**[15][16]. The **Vaikhanasa Agama, representing one of the most ancient Vaishnava traditions, found fertile ground in Nepal's manuscript culture**[15][17]. 
+
+**The Vaikhanasa tradition's emphasis on Vedic continuity and its resistance to purely textual authority made it particularly suitable for preservation in Nepal's mixed oral-textual culture**[15][18]. Unlike Pancharatra, which underwent systematic theological development, **Vaikhanasa maintained stronger connections to earlier Vedic ritual practices while adapting to temple-based worship**[15][16].
+
+### **Scribal Networks and Manuscript Transmission**
+
+**Nepal's manuscript culture became extraordinarily sophisticated, with Buddhist and Hindu scribes creating one of the world's great repositories of Sanskrit literature**[19][20]. The **tradition of copying manuscripts became an act of merit, leading to the creation of vast manuscript collections**[19]. **Each Buddhist family possessed at least one manuscript due to religious significance, creating a distributed preservation network**[19].
+
+**The development of Nepal as a manuscript center was facilitated by waves of scholarly migration**[19]. **Indian Buddhist monks fleeing invasions brought texts and established scriptoriums, while Tibetan merchants and pilgrims commissioned copies of texts for transport to Tibetan monasteries**[19]. This created a **dynamic network where oral traditions were continuously being transformed into textual form**.
+
+**Newar Buddhist scholars became particularly renowned for their scribal skills and scholarly accomplishments**[19]. **From the 11th-14th centuries, this represented the golden age of Newar Buddhist scholarship, during which vast quantities of Sanskrit Buddhist texts were preserved that would otherwise have been lost**[19].
+
+### **Connectivity Networks and Trade Route Integration**
+
+**The ancient trade networks connecting Kashmir and Nepal were far more complex than simple commercial exchange**[12][21][13]. **The "Trans-Himalayan Silk Road" represented the first Silk Road in human history, predating the more famous routes associated with Marco Polo by several centuries**[21].
+
+**Three major passages through Nepal connected with Silk Road networks**[12]:
+- **The route through Mustang, connecting with West Tibet and the Brahmaputra valley**
+- **The Jumla-Humla route during the Khas Malla Empire**  
+- **The eastern route through the Kathmandu Valley to Tibet**
+
+**These routes facilitated not merely the movement of goods but the circulation of ideas, texts, and religious practices**[12][13]. **Buddhist pilgrims and scholars left the Silk Road at Kashgar or Khotan to travel through the Karakoram to reach Buddhist sites in Nepal and India**[12].
+
+**Kashmir's strategic control over passes connecting to these networks meant that Kashmiri religious and philosophical developments could reach Nepal relatively quickly**[5][13]. Similarly, **Nepal's position as the gateway between Tibet and India meant that developments in Vaishnava practice could flow northward into Tibetan cultural spheres**.
+
+### **The Impetus for Textual Compilation**
+
+**The transformation of oral lore traditions into textual form was driven by several interconnected factors**[1][11][19]. **The expansion of trade networks created demand for portable, standardized versions of religious and philosophical teachings**[12][13]. **Merchants, diplomats, and religious figures needed access to authoritative texts that could be consulted during travel**.
+
+**The establishment of scribal communities in both Kashmir and Nepal created the technical capacity for large-scale manuscript production**[7][19][8]. **The development of birch bark and palm leaf manuscript technologies enabled the creation of durable texts suitable for transport across difficult terrain**[9][10][22].
+
+**Royal patronage played a crucial role in systematizing oral traditions**[2][19]. **Kashmir's Karkota rulers actively promoted Pancharatra development as part of their imperial project**, while **Nepal's rulers supported manuscript production as a form of religious merit and cultural prestige**[19].
+
+### **Modalities of Cultural Transmission**
+
+**The transmission of Vaishnava traditions between Kashmir and Nepal operated through multiple modalities**[23][24][25]. **Monastic networks created systematic channels for the exchange of texts and teachings**[23]. **Buddhist monasteries along trade routes served as libraries, scriptoriums, and centers of learning where traditions from different regions could interact**[14].
+
+**Artisan networks also facilitated cultural transmission**[24]. **Newar craftsmen traveled to Tibet and brought back artistic and architectural influences, while Kashmiri artists worked on projects throughout the Himalayan region**[24]. **These artisan exchanges carried religious iconography, ritual practices, and theological concepts across cultural boundaries**.
+
+**Pilgrimage networks created regular channels for religious exchange**[23][14]. **Pilgrims traveling between sacred sites carried texts, learned practices, and transmitted oral teachings across vast distances**. **The integration of Vaishnava pilgrimage sites into broader Buddhist pilgrimage networks created opportunities for sustained interaction between different religious traditions**.
+
+### **The Nature of Scribal Transformation**
+
+**The transition from oral to textual transmission represented a fundamental transformation in how religious knowledge was conceived, preserved, and transmitted**[26][27][28]. **In the Indian context, oral transmission was not merely a practical necessity but a philosophical commitment to the power and purity of spoken truth**[26][29].
+
+**The decision to commit oral traditions to writing represented a significant shift in religious authority and practice**[30][29]. **Texts like the Pancharatra Samhitas and Vaikhanasa Agamas preserved not merely the content of oral teachings but attempted to systematize and standardize practices that had previously existed in multiple regional variations**[1][15][11].
+
+**This textual systematization enabled the creation of authoritative versions that could be transmitted across cultural and linguistic boundaries**[31][32]. **Sanskrit served as the lingua franca for this transmission, allowing Kashmiri theological developments to be understood and adapted in Nepal, Tibet, and other regions**[19][23].
+
+### **Long-term Historical Impact**
+
+**The ancient connectivities between Kashmir and Nepal in the development of Vaishnava traditions had profound long-term consequences for the religious and cultural development of the broader Himalayan region**[23][24]. **The systematic development of Pancharatra theology in Kashmir and its transmission through Nepal to Tibet helped establish distinctively Himalayan forms of Vaishnava practice**.
+
+**The manuscript traditions established in this period created the foundation for later developments in Tibetan Buddhism and Himalayan Hindu practice**[23][33]. **The preservation networks developed by Newar Buddhist scholars ensured the survival of texts that would otherwise have been lost during the Islamic invasions of northern India**[19][25].
+
+**The trade route networks that facilitated these early exchanges continued to shape cultural and religious development well into the medieval period**[21][34][35]. **Even as political circumstances changed, the fundamental patterns of cultural transmission established during this early period continued to influence religious and intellectual development across the region**.
+
+The ancient connectivities between Kashmir and Nepal thus represent far more than simple trade relationships or cultural borrowing. They demonstrate the **creation of integrated networks of religious, intellectual, and cultural transmission that transformed oral lore traditions into systematic textual traditions while maintaining the spiritual power and authenticity of the original teachings**. These networks established **Kashmir and Nepal as twin poles of Vaishnava development**, with Kashmir serving as the **theological center for Pancharatra systematization** and Nepal functioning as the **preservation and transmission hub** that ensured these traditions could spread throughout the broader Himalayan cultural sphere.
+
+Citations:
+[1] Notes on early pAncharAtra vaiShNavism - mAnasa-taraMgiNI https://manasataramgini.wordpress.com/2006/03/27/notes-on-early-pancharatra-vaishnavism/
+[2] How medieval Kashmir became centre of the world - ThePrint https://theprint.in/opinion/how-medieval-kashmir-became-centre-of-the-world-vaishnavism-puranas-and-war/1541407/
+[3] The wonder that was Kashmir - Pragyata https://pragyata.com/the-wonder-that-was-kashmir/
+[4] How medieval Kashmir became the centre of the world - YouTube https://www.youtube.com/watch?v=74MToXKJYTw
+[5] India | Silk Roads Programme - UNESCO https://en.unesco.org/silkroad/countries-alongside-silk-road-routes/india
+[6] Gandharan Buddhism - Wikipedia https://en.wikipedia.org/wiki/Gandharan_Buddhism
+[7] [PDF] Śāradā Goddess, Learning, Script. On the Sanskrit manuscript ... https://www.csmc.uni-hamburg.de/research/lectures-and-events/workshop-programme-2020-03-06.pdf
+[8] [PDF] Learning to Conserve a Kashmiri Birch Bark Manuscript https://cool.culturalheritage.org/coolaic/sg/bpg/annual/v35/bpga35-08.pdf
+[9] [PDF] Gandhāran Scrolls: Rediscovering an Ancient Manuscript Type https://stefanbaums.com/publications/baums_2014_3.pdf
+[10] Ancient Indian Writing Materials: Birch Bark and Palm Leaf https://lis.academy/preservation-conservation-of-library-material/ancient-indian-writing-materials/
+[11] 4. Home of Pancaratra https://www.wisdomlib.org/hinduism/essay/diksha-initiation-in-pancharatra/d/doc1458633.html
+[12] [PDF] linking routes from the silk road through nepal - the ancient passage ... https://www.mukogawa-u.ac.jp/~iasu2012/pdf/iaSU2012_Proceedings_613.pdf
+[13] The roots and routes of Himalayan Art | Silk Roads Programme https://en.unesco.org/silkroad/knowledge-bank/roots-and-routes-himalayan-art
+[14] Buddhism and the Trade Routes - Asia Society https://www.asiasocietymuseum.com/buddhist_trade/himalaya_nepal.html
+[15] Vaikhanasa Agama (वैखानस-आगमः) - Dharmawiki https://dharmawiki.org/index.php/Vaikhanasa_Agama_(%E0%A4%B5%E0%A5%88%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%B8-%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%83)
+[16] Vaikhanasa - Wikipedia https://en.wikipedia.org/wiki/Vaikhanasa
+[17] Agama (Hinduism) - Wikipedia https://en.wikipedia.org/wiki/Agama_(Hinduism)
+[18] A note on the vaikhAnasa tradition - mAnasa-taraMgiNI https://manasataramgini.wordpress.com/2006/02/16/a-note-on-the-vaikhanasa-tradition/
+[19] [PDF] Scholastic Tradition and Perpetuation of Knowledge in Buddhism of ... https://www.nepjol.info/index.php/jbuddhists/article/download/75073/57539/217183
+[20] Chapter 3 Nepal - BUDDHIST BOOK ILLUMINATIONS https://www.navinkumar.com/content/books/manuscripts1988/chapter3.html
+[21] Trans-Himalayan Silk Road: An untold story https://thehimalayantimes.com/opinion/trans-himalayan-silk-road-untold-story
+[22] Birch bark manuscript - Wikipedia https://en.wikipedia.org/wiki/Birch_bark_manuscript
+[23] [PDF] An Analysis of Indo-Tibetan Relations in the Early Medieval Era https://www.ijfmr.com/papers/2025/3/49002.pdf
+[24] Nepal's Silk Route: Historical Trade Links and Cultural Exchange https://romantonepali.com/nepals-silk-route-historical-trade-links/
+[25] Indo-Nepal Relations in Medieval Nepal - Itihasaa https://itihasaa.com/indo-nepal/indo-nepal-relations-in-medieval-nepal/
+[26] Language in Ancient India - Penn Arts & Sciences http://ccat.sas.upenn.edu/~haroldfs/540/handouts/indiapol/node5.html
+[27] Oral tradition - Wikipedia https://en.wikipedia.org/wiki/Oral_tradition
+[28] The Oral Style of the R̥gveda - Oral Tradition Journal https://oraltradition.org/the-oral-style-of-the-r%CC%A5gveda/
+[29] Oral KNOWLEDGE Tradition of India - ReTHINK INDIA https://rethinkindia.org/oraltradition/
+[30] [PDF] Orality and Textuality in the Indian Context - Sino-Platonic Papers https://www.sino-platonic.org/complete/spp049_india_oral_transmission.pdf
+[31] Pancaratra Agama Texts : Miscellaneous : Free Download, Borrow ... https://archive.org/details/pancaratra-agamas
+[32] [PDF] Manuscript flows in Highland Asia: Social Networks and Material ... https://www.csmc.uni-hamburg.de/register/workshop54/programme.pdf
+[33] Programs - Buddhist Digital Resource Center https://www.bdrc.io/programs/
+[34] Revisiting the Himalayan Silk Road - Travel The Unknown https://www.traveltheunknown.com/p/himalayan%20silk%20road%20blog
+[35] The Silk Road Traders Who Traveled From Kathmandu to Lhasa https://www.sixthtone.com/news/1009606/the-silk-road-traders-who-traveled-from-kathmandu-to-lhasa
+[36] Vaikhanasa Agama | PDF | Vaishnavism | Vishnu - Scribd https://www.scribd.com/doc/175714467/Vaikhanasa-Agama
+[37] “The Philosophy of the Pancharatra: Advaita in Viṣṇuism” by S ... https://www.reddit.com/r/hinduism/comments/1edxf98/the_philosophy_of_the_pancharatra_advaita_in/
+[38] Pancharatra - Wikipedia https://en.wikipedia.org/wiki/Pancharatra
+[39] Vaikhanasa, Vaikhānasa, Vaikhāṇasa: 19 definitions - Wisdom Library https://www.wisdomlib.org/definition/vaikhanasa
+[40] Vaishnavism - Wikipedia https://en.wikipedia.org/wiki/Vaishnavism
+[41] Tantra – Agama – Part Two – Agama - sreenivasarao's blogs https://sreenivasaraos.com/2012/10/12/tantra-agama-part-two-agama-2/
+[42] Old Salt Route - Wikipedia https://en.wikipedia.org/wiki/Old_Salt_Route
+[43] Bower Manuscript - Wikipedia https://en.wikipedia.org/wiki/Bower_Manuscript
+[44] History of the Salt Way https://www.saltwayactivitygroup.org.uk/history
+[45] Written Artefacts of Nepal: Preservation and Documentation https://www.csmc.uni-hamburg.de/nepal/news/2022-07-20-preserving-written-artefacts-nepal.html
+[46] The Salt Roads: The Lifeblood of Ancient Trade - The Archaeologist https://www.thearchaeologist.org/blog/the-salt-roads-the-lifeblood-of-ancient-trade
+[47] kashmir-manuscripts - Shaiva Yoga http://shaivayoga.com/kashmir-manuscripts.html
+[48] NA | National Archives of Nepal http://narchives.gov.np/Archival.aspx
+[49] The salt routes - Magazine Dichecibo6.it https://www.dichecibo6magazine.it/en/the-salt-routes/
+[50] [PDF] KASHMIRI MARSIYA (ELEGY) MANUSCRIPTS https://digitalcommons.unl.edu/context/libphilprac/article/3321/viewcontent/auto_convert.pdf
+[51] Digital documentation of endangered medieval manuscripts in ... https://eap.bl.uk/project/eap790
+[52] The Salt Road—Nearly Forgotten Trade Route Between Itoigawa ... https://www.morethantokyo.com/the-salt-road/
+[53] Three Ancient Manuscripts from Tholing in the Tucci Collection ... https://austriaca.at/0xc1aa5572%200x00358444.pdf
+[54] Salt road - Wikipedia https://en.wikipedia.org/wiki/Salt_road
+[55] Scribes, editors, & librarians https://tst-project.github.io/cordier/
+[56] Walking the Deckle Edge: Scribe or Author? Jayamuni and the ... https://journal.equinoxpub.com/BSR/article/view/13726
+[57] Incense Route - Madain Project (en) https://madainproject.com/incense_route
+[58] Kashmir: A Historical Timeline - Adi magazine https://adimagazine.com/articles/kashmir-a-historical-timeline/
+[59] Some notes on the shaiva temple celebrations and an excursus on ... https://manasataramgini.wordpress.com/2013/01/20/some-notes-on-the-shaiva-temple-celebrations-and-an-excursus-on-the-fishing-diving-and-hunting-festivals-of-rudra/
+[60] Incense trade route - Wikipedia https://en.wikipedia.org/wiki/Incense_trade_route
+[61] Kashmir | History, People, Conflict, Map, & Facts | Britannica https://www.britannica.com/place/Kashmir-region-Indian-subcontinent
+[62] Incense Route - Desert Cities in the Negev https://whc.unesco.org/en/list/1107/
+[63] Ancient History of Kashmir :Prehistoric to Medieval Times https://brighterkashmir.com/ancient-history-of-kashmir-prehistoric-to-medieval-times
+[64] [PDF] Documentation of the International Incense Route through Jordan ... https://www.laiesken.net/arqueologia/archivo/2025/AI5516.pdf
+[65] Kashmir Before Islam - Devdutt Pattanaik https://devdutt.com/kashmir-before-islam/
+[66] The Frankincense Trail: Follow Oman's ancient caravan trade route https://www.signatureluxurytravel.com.au/frankincense-trail-omans-ancient-caravan-trade-route/
+[67] [PDF] Sources of Kashmir History https://gldmdchiranagar.in/pdf/econtent/B.ASem-IVHistory.pdf
+[68] The Incense Trade Route, by Sterenn Le Maguer-Gillon https://www.wadidawkah.com/blogs/news/the-incense-trade-route-by-sterenn-le-maguer-gillon
+[69] History of Kashmir - Wikipedia https://en.wikipedia.org/wiki/History_of_Kashmir
+[70] [PDF] A Comprehensive Analysis of Shaiva, Vaishnava, and Shakta ... https://papers.ssrn.com/sol3/Delivery.cfm/5165893.pdf?abstractid=5165893&mirid=1
+[71] Incense Route - Livius.org https://www.livius.org/articles/place/incense-route/
+[72] Jammu and Kashmir (princely state) - Wikipedia https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(princely_state)
+[73] Modern Nepali Oral Transmissions of Vetālapañcaviṃśati Stories to ... https://brill.com/view/journals/phen/6/1-2/article-p70_4.xml?language=en
+[74] [PDF] INDIA'S LIMITED TRADE CONNECTIVITY WITH SOUTH ASIA https://www.brookings.edu/wp-content/uploads/2020/05/Trade-Policy-Brief.pdf
+[75] Echoes in the Wind: The Decline of Limbu Mundhum and Oral Epic ... https://thewondernepal.com/articles/echoes-in-the-wind-the-decline-of-limbu-mundhum-and-oral-epic-traditions/
+[76] [PDF] Chapter 3 ASEAN-India Connectivity: An Indian Perspective https://www.eria.org/CHAPTER%203%20%20ASEAN%20-%20India%20Connectivity%20An%20Indian%20Perspective.pdf
+[77] Karkota dynasty - Wikipedia https://en.wikipedia.org/wiki/Karkota_dynasty
+[78] A Tentative History of the Sanskrit Grammatical Traditions in Nepal ... https://www.academia.edu/80540715/A_Tentative_History_of_the_Sanskrit_Grammatical_Traditions_in_Nepal_through_the_Manuscript_Collections
+[79] India's Global Connectivity & Transport Network https://www.shapernet.in/2021/03/indias-global-connectivity-transport.html
+[80] Indian History Part 47 KASHMIR: A KINGDOM APART Section I https://sanukay.wordpress.com/2016/01/08/indian-history-part-47-kashmir-a-kingdom-apart-part-i-the-karkota-dynasty/
+[81] [PDF] Authority and Agency in Ritual and Legal Speeches in the Himalayas https://journal.oraltradition.org/wp-content/uploads/files/articles/30ii/02_30.2.pdf
+[82] Bolstering our ties with India | Australian Government Department of ... https://www.dfat.gov.au/geo/india/bolstering-our-ties-india
+[83] VAISHNAVISM IN KASHMIR DURING THE TIME OF THE KARKOTAS https://www.jstor.org/stable/44158593
+[84] Preserving Nepal's Oral History, Grandparents to Children https://www.readglobal.org/190-grandparents-stories/
+[85] Indian Ocean trade connections: characterization and commercial ... https://www.nature.com/articles/s40494-020-00425-9
+[86] Disappearing Oral Proverbs and Storytelling Traditions https://thewondernepal.com/articles/disappearing-oral-proverbs-and-storytelling-traditions-the-fading-voice-of-cultural-memory/
+[87] The Early Religious Life of Kashmir https://www.jammukashmirnow.com/Encyc/2021/9/8/The-Early-Religious-Life-of-Kashmir.amp.html
+[88] [PDF] Oral Sources: A Reflection of contemporary Nepalese society1 https://www.nepjol.info/index.php/hj/article/download/35431/27720/103120
+[89] RBSI - Essay: Legacy Of Kashmir, The Forgotten Land Of Beauty ... https://www.rarebooksocietyofindia.org/postDetail.php?id=196174216674_10157101185311675
+[90] [PDF] Buddhism in Kashmir: From the lens of Chinese travelers https://www.socialstudiesjournal.com/archives/2024/vol6issue1/PartA/6-1-1-276.pdf
+[91] The Tradition of the Palm Leaf Manuscripts - Mypalmleaf https://mypalmleaf.com/the-palm-leaf-manuscripts/
+[92] Buddhist Rock Carvings in the Context of the Early Silk Roads https://link.springer.com/chapter/10.1007/978-3-030-00728-7_20
+[93] Gandhara - Wikipedia https://en.wikipedia.org/wiki/Gandhara
+[94] Buddhism and its spread along the Silk Road https://silk-road.com/artl/buddhism.shtml/
+[95] Medieval history of Nepal - Wikipedia https://en.wikipedia.org/wiki/Medieval_history_of_Nepal
+[96] Silk Road Sites in India - UNESCO World Heritage Centre https://whc.unesco.org/en/tentativelists/5492/
+[97] Chapter 18 Inventing the Pothi: The Adoption and Spread of a New ... https://brill.com/display/book/edcoll/9789004438224/BP000022.xml?language=en
+[98] [PDF] Ancient and Medieval Nepal https://himalaya.socanth.cam.ac.uk/collections/journals/kailash/pdf/kailash_16_0102_04.pdf
+[99] Gandhara - Hyecho's Journey - University of Michigan https://hyecho-buddhist-pilgrim.asian.lsa.umich.edu/gandhara.php
+[100] [PDF] Tradition of Palm Leaf Manuscripts in Orissa - E-Magazine....::... https://magazines.odisha.gov.in/Orissareview/2009/Jan/engpdf/43-46.pdf
+[101] Full text of "Agama And Silpa" - Internet Archive https://archive.org/stream/in.ernet.dli.2015.134660/2015.134660.Agama-And-Silpa_djvu.txt
+[102] Buddhist Texts Research Collaboration - The University of Sydney https://www.sydney.edu.au/arts/our-research/research-projects/buddhist-texts-research-group.html
+[103] [PDF] Ancient Bhartiya Communication in a Contemporary Context https://jcoma.com/index.php/JCM/article/download/78/66
+[104] Agama: Significance and symbolism https://www.wisdomlib.org/concept/agama
+[105] Buddhist Digital Resource Center: Home https://www.bdrc.io
+[106] THE PĂDMASAMHITĂ IN THE PĀNCARĀTRA - TRADITION - jstor https://www.jstor.org/stable/43927278
+[107] Sacred Art Sixteen Scripts, Thirteen Scribes & Five Hours at ... https://oxfordinterfaithforum.org/blog/scribal-art-sixteen-scripts-thirteen-scribes-and-five-hours-one-world-festival-ashmolean-museum/
+[108] [PDF] The Role of Oral Traditions in Shaping Indian Literary Narratives https://tlhjournal.com/uploads/products/19.n-r-gopal-article.pdf
+[109] Agamas | Raganuga Prem Bhakti - WordPress.com https://raganugaprembhakti.wordpress.com/agama/
+[110] From Birch Bark to Digital Data: Recent Advances in Buddhist ... - jstor https://www.jstor.org/stable/j.ctt1vw0q4q
+[111] Agamas - Vanamali https://blog.vanamaliashram.org/blog/agamas
+
+
+
+
 "Narayana was originally a non-Vedic tribal deity worshipped by Dravidian or tribal communities, known also as Bhagavata because he bestowed good fortune (bhagya) on his devotees, who returned this with devoted worship (bhakti)." If this is the case, how do vary early Vaishnava and Jaina Dharmas share so much that other Dharmic Traditions do not? For eg.: Nine Baladevas of which Balaram is then last and Nine Vasudevas of which the last is Vasudeva-Krishna? This is just a case in point, there are so much more!
 
 ## Shared Narratives Between Early Vaishnavism and Jainism
