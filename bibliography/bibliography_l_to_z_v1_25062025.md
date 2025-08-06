@@ -1136,6 +1136,13 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 **Purport:**<br>
 ...
 
+### PATTERSON, J. ###
+
+* Patterson, Jessica (2017). "Enlightenment, Empire and Deism: Interpretations of the 'Hindoo Religion' in the Work of East India 'Company Men', 1760-1790". Ph.D. dissertation. Faculty of Humanities: School of Arts, Languages and Cultures. Manchester, England, U.K.: The University of Manchester. Source: https://research.manchester.ac.uk/en/studentTheses/enlightenment-empire-and-deism-interpretations-of-the-hindoo-reli (accessed: Wednesday, August 06, 2025)
+
+**Purport:**<br>
+...
+
 ### PAUWELS, H. ###
 
 * Pauwels, Heidi R. M. (1996). 'Krishna's Round Rance Reconsidered: Hariram Vyas's Hindi Ras-Panchadhyayi'. Centre of South Asian Studies, School of Oriental and African Studies (SOAS), University of London: London Studies on South Asia, Vol. 12. (NB: First published in 1996 by Curzon Press, Richmond, Surrey, England, U.K.). Padstow, Cornwall, Great Britain (U.K.): TJ Press (Padstow) Ltd. ISBN 0700704264.
