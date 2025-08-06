@@ -478,6 +478,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 
 # E #
 
+### EDGLEY, R. ###
+
+* Edgley, Rosie (2022). 'Krishna's Person and Pedagogy: In the Gita Commentaries of Shankara, Shridhara and Madhusudana'. Ph.D. dissertation. Faculty of Humanities: School of Arts, Languages and Cultures. Manchester, England, U.K.: The University of Manchester. Source: https://research.manchester.ac.uk/en/studentTheses/krsnas-person-and-pedagogy-in-the-gita-commentaries-of-samkara-sr (accessed: Wednesday, August 06, 2025)
+
+**Purport:**<br>
+...
+
 ### af EDHOLM, K. ###
 
 * af Edholm, Kristoffer (2014). 'Rajyashri: Royal Splendour in the Vedas and the Epics'. Masters Thesis in the History of Religions. Department of Ethnology, History of Religions and Gender Studies. Religionshistoriska avdelningen. Stockholm, Sweden: 'Stockholms Universitet \[Swedish; English: Stockholm University]'. Source: https://www.diva-portal.org/smash/get/diva2:798030/FULLTEXT01.pdf (accessed: Saturday, July 12, 2025)
