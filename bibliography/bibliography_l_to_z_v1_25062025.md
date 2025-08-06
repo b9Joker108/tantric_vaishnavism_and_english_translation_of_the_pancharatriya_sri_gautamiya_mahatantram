@@ -2045,6 +2045,13 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 **Purport:**<br>
 ...
 
+### STEWART, C. ###
+
+* Stewart, Charles (1813). 'The History of Bengal: From the First Mohammedan Invasion Until the Virtual Conquest of that Country by the English A.D. 1757'. London, England, U.K.: Black Parry & Co. Source: https://archive.org/details/in.gov.ignca.9370 (accessed: Wednesday, August 06, 2025)
+
+**Purport:**<br>
+...
+
 ### STEWART, T. ###
 
 * Stewart, Tony K. (1985). 'The Biographical Images of Krisna-Chaitanya: A Study in the Perception of Divinity'. Ph.D. dissertation. Chicago, Illinois, U.S.A.: University of Chicago.
