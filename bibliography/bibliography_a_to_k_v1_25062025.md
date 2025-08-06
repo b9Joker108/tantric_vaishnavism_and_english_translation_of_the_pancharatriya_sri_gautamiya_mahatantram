@@ -202,6 +202,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BALASUBRAMANIAN, R. ###
+
+* Balasubramanian, Rajangam (2011). 'Vaishnava Agamas and Vishnu Images in the Government Museum, Chennai'. Ph.D. dissertation. Department of Sanskrit. Chennai, Indian: Ramakrishna Mission Vivekananda College (University of Madras). Source: http://hdl.handle.net/10603/295795 (accessed: Thursday, August 07, 2025) 
+
+**Purport:**<br>
+...
+
 ### BANERJEA, J. ###
 
 * Banerjea, Jitendranath (1942). 'The Holy Pañcavīras of the Vṛṣṇis' (pp. 65-68) in the *Indian Society of Oriental Art \[Calcutta]*, Vol. X \[10], 1942.
