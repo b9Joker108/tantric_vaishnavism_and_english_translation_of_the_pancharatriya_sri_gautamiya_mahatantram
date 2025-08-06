@@ -440,6 +440,11 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+* Dimock, Jr.; Edward C. (1966). 'The Place of Hidden Moon: Erotic Mysticism in the Vaishnava Sahajiya Cult of Bengal'. Chicago, Illinois, U.S.A.: The University of Chicago Press. 
+
+**Purport:**<br>
+...
+
 ### DIMOCK, Jr.; E.; *et al.* ###
 
 * Dimock, Jr.; Edward C. (trans & comm.); Levertov, Denise (trans.) & Chaudhuri, Anju  (illus.) (1967). 'In Praise of Krishna: Songs from the Bengali'. With an 'Introduction' and notes by Edward C. Dimock, Jr. United Nations Education, Scientific and Cultural Organization (UNESCO) Translations Collection of Representative Works: India Series. First edition. Garden City, N.Y., U.S.A.: Anchor Books (Doubleday & Company, Inc.). 
