@@ -2047,6 +2047,11 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 
 ### STEWART, T. ###
 
+* Stewart, Tony K. (2010). 'The Final Word: The Chaitanya Charitamrita and the Grammar of Religious Tradition'. With a 'Preface: Reconstructing the Life of a Text' dated 2007. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195392722.
+
+**Purport:**<br>
+Stewart spend circa twenty-five (25) years working on the English rendering of the Sri Chaitanya Charitamrita (SCC) into English. Dimock spent circa fifty (50) years on it by memory. Dimock commenced it well-before Hidden Moon and long after Maharajji's English rendering, done with a consortium of disciples. This work is Stewart's mature scholarly position on the SCC.
+
 * Stewart, Tony K. (2013). 'Religion in the Subjunctive: Vaishnava Narrative, Sufi Counter-Narrative in Early Modern Bengal' (pp. 52-72) in *The Journal of Hindu Studies*, Vol. 6, Issue 1, May, 2013. Oxford, England, U.K.: Oxford University Press (on behalf of The Oxford Centre for Hindu Studies). DOI: https://doi.org/10.1093/jhs/hit013 (accessed: Monday, July 28, 2025)
 
 **Purport:**<br>
