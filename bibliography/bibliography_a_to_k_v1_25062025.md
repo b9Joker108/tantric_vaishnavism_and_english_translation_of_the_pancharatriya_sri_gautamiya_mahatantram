@@ -301,12 +301,19 @@ This work is particularly rare and unusual in the Vaikhanasa canon, as it is not
 **Purport:**<br>
 ...
 
-### Bhattacharya, S. ###
+### BHATTACHARYA, S. ###
 
 * Bhattacharya, Suresh Chandra (1995). 'Vaishnavism in Eastern India'. University of Calcutta Center of Advanced Study in Ancient Indian History & Culture. (NB: Proceedings of Inter-University Seminar on Vaishnavism in Eastern India.). Calcutta, West Bengal, India: Firma KLM Private (under the auspices of University of Calcutta, Calcutta, India). ISBN 9788171020263.
 
 **Purport:**<br>
 As yet, not secured.
+
+### BHATTACHARYA, V.; *et al.* ###
+
+* Bhattacharya, V. Raghunatha Chakravarti \[Sanskrit: पं. वि. रघुनाथचक्रवर्तिभट्टाचार्यः ; IAST: paṇḍita v. raghunātha-cakravartī-bhaṭṭācāryaḥ] (ed.) & Kavi, M. Ramakrishna \[Sanskrit: श्री म. रामकृष्णकविः ; IAST: śrī m. rāmakṛṣṇakaviḥ] (ed.) (1943). 'Sri Samurta-Archana-Adhi-Karanam of Maharshi Atri \[Sanskrit: समूर्तार्चनाधिकरणम् ; IAST: samūrtārcanādhikaranam; English: 'Treatise on Iconic Image Worship']. Sri Venkateshwara Oriental Series: Vol. 6 and Series edited by Prof. P.V. Ramanujaswami. Tirupati, India: Tirumala Tirupathi Devasthana (TTD) Press (on behalf of the Sri Venkateshwara Oriental Institute, Tirupati). Source: https://archive.org/details/in.ernet.dli.2015.382823 (accessed: Thursday, August 07, 2025) 
+
+**Purport:**<br>
+A very significant Vaikhanasa agama on image worship attributed to Maharshi Atri.
 
 ### BHATTACHARYYA, N. ###
 
