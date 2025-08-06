@@ -2047,6 +2047,11 @@ Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Form
 
 ### STEWART, T. ###
 
+* Stewart, Tony K. (1985). 'The Biographical Images of Krisna-Chaitanya: A Study in the Perception of Divinity'. Ph.D. dissertation. Chicago, Illinois, U.S.A.: University of Chicago.
+
+**Purport:**<br>
+Not yet secured. UoC seem to have removed their items from ProQuest and require exhorbitant fees to liberate a copy from archives. This work has rarely been cited. It is functionally buried. All that work and it never enters open discourse. Such a shame.l
+
 * Stewart, Tony K. (2010). 'The Final Word: The Chaitanya Charitamrita and the Grammar of Religious Tradition'. With a 'Preface: Reconstructing the Life of a Text' dated 2007. First edition. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195392722.
 
 **Purport:**<br>
