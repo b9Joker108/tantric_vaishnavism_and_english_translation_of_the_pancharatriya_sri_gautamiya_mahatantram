@@ -440,7 +440,12 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
-* Dimock, Jr.; Edward C. (1966). 'The Place of Hidden Moon: Erotic Mysticism in the Vaishnava Sahajiya Cult of Bengal'. Chicago, Illinois, U.S.A.: The University of Chicago Press. 
+* Dimock, Jr.; Edward C. (1966). 'The Place of Hidden Moon: Erotic Mysticism in the Vaishnava-Sahajiya Cult of Bengal'. Chicago, Illinois, U.S.A.: The University of Chicago Press. 
+
+**Purport:**<br>
+...
+
+* Dimock, Jr.; Edward C. (1989, 1966). 'The Place of Hidden Moon: Erotic Mysticism in the Vaishnava-Sahajiya Cult of Bengal'. With a 'Foreword' by Wendy Doniger dated 1989. With a 'Note to the 1989 Edition' by E.C. Dimock, Jr., dated 1989. Paperback edition. (NB: First published in 1966 by The University of Chicago Press.). Chicago, Illinois, U.S.A.: The University of Chicago Press. ISBN 0226152375 (pbk.: alk. paper)
 
 **Purport:**<br>
 ...
