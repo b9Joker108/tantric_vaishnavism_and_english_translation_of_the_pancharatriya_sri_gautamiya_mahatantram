@@ -1846,6 +1846,13 @@ The phrase "beyond the boundaries of the parallel" in this context refers to the
 3. Beyond the Boundaries: This involves looking at the broader context and implications of these parallels. It means examining how the borrowed text has been adapted, modified, or integrated into the new context, and understanding the wider transmission and transformation of the text.
 In essence, it's about moving from simply identifying direct textual matches to understanding the broader historical, cultural, and doctrinal implications of these textual interactions. This approach helps in discerning the deeper layers of textual transmission and adaptation that go beyond the immediate parallels.
 
+### SARBADHIKARY, S. ###
+
+* Sarbadhikary, Sukanya (2015). 'The Place of Devotion: Sitting and Experiencing Divinity in Bengal-Vaishnavism'. South Asia Across the Disciplines Vol. 23. Oakland, California, U.S.A.: University of California Press. ISBN 9780520962668 (ebook). DOI: http://dx.doi.org/10.1525/luminos.2 (accessed: Wednesday, August 06, 2025)
+
+**Purport:**<br>
+...
+
 ### SARDELLA, F.; *et al.* ###
 
 * Sardella, Ferdinando & Wong, Lucian (eds.) (2020). 'The Legacy of Vaishnavism in Colonial Bengal'. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
