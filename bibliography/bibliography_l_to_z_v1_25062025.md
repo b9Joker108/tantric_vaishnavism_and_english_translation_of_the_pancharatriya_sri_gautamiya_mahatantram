@@ -2246,6 +2246,13 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 
 # W #
 
+### WALTER, K. ###
+
+* Walter, Kurt J. (2015). 'Sacred Trees Among the Tamil People of South India' (pp. 47-65) in Kallinen, Timo (ed.) (2015). *Suomen Antropologi: Journal of the Finnish Anthropological Society*, Vol. 40, No. 1, Spring, 2015. Helsinki, Finland: University of Helsinki. Source: https://journal.fi/suomenantropologi/article/view/60346 (accessed: Friday, August 08, 2025)
+
+**Purport:**<br>
+...
+
 ### WEDEMEYER, C. ###
 
 * Wedemeyer, Christian K. (2012, 2008). 'Locating Tantric Antinomianism: An Essay Toward an Intellectual History of the ‘Practices/Practice Observance’ (Caryā/Caryāvrata)' (NB: ‘Terms of Art’ in Indian Esoteric Buddhism Contributions to a Panel at the XVth (15th) Congress of the International Association of Buddhist Studies, Atlanta, 23-28 June, 2008.). (pp. 349-420) in Kellner, Birgit & Krasser, Helmut (eds.); *et al.* (2012). *JIABS: Journal of the International Association of Buddhist Studies*, Vol. 34, No. 1-2, 2011 (2012). Madison, Wisconsin, U.S.A.: International Association of Buddhist Studies. Source: https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/10607 (accessed: Tuesday, July 15, 2025) 
