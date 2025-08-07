@@ -951,6 +951,13 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+### OKITA, K. ###
+
+* Okita, Kiyokazu (2017) 'Quotation, Quarrel and Controversy in Early Modern South Asia: Appayya Dikshita and Jiva Gosvami on Madhva’s Untraceable Citations' (pp. 255-279) in Freschi, Elisa & Maas, Philipp A. (eds.) (2017). *Adaptive Reuse: Aspects of Creativity in South Asian Cultural History*. 'Treatises on the Knowledge of the Orient: Vol. 101 \[English; German: Abhandlungen für die Kunde des Morgenlandes. Band 101]': edited by Florian C. Reiter. (NB: In English, but publication details are in the German.). Wiesbaden, Hesse, Germany: Harrassowitz Verlag (on behalf of the 'German Oriental Society \[English; German: Deutsche Morgenländische Gesellschaft]'). ISBN 9783447195867 (pdf). DOI: 10.26530/oapen_623411. Source: http://library.oapen.org/handle/20.500.12657/31886 (accessed: Thursday, August 07, 2025) 
+
+**Purport:**<br>
+...
+
 ### OKITA, K; *et al.* ###
 
 * Okita, Kiyokazu & Lutjeharms, Rembert (eds.) (2024). ‘The Building of Vrindavana: Architecture, Theology, and Practice in an Early Modern Pilgrimage Town’. Brill’s Indological Library Vol. 57. Leiden, The Netherlands: Koninklijke Brill NV (incorporates the imprints Brill, Brill Nijhoff, Brill Schoningh, Brill Fink, Brill Mentis, Brill Wageningen Academic, Vandenhoeck & Ruprecht, Bohlau and V&R Unipress). ISBN 9789004686779 (ebook). Source: https://archive.org/details/okita-kiyokazu-lutjeharms-rembert-eds.-2024.-building-of-vrindavana-architecture (accessed: Wednesday, August 07, 2024)
