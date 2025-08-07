@@ -90,7 +90,7 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 **Purport:**<br>
 ...
 
-### Adluri, S. ###
+### ADLURI, S. ###
 
 * Adluri, Sucharita (2014). 'Shabda Pramana as a Theological Category in Vedanta Desika's Tattvamuktakalapa' (pp. 54–69) in the *Journal of Hindu Studies*, Vol. 7, Issue 1. Oxford, England, U.K.: Oxford Academic (Oxford University Press and The Oxford Centre for Hindu Studies). Source: https://archive.org/details/adluri-sucharita-2014.-shabda-pramana-as-a-theological-category-in-vedanta-desikas-tattvamuktakalapa (accessed: Thursday, August 22, 2024)
 
