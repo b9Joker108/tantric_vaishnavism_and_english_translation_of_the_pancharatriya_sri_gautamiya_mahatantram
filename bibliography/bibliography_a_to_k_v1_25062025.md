@@ -391,6 +391,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### CHATTOPADHYAYA, S. ###
+
+* Chattopadhyaya, Sudhakar (1962). 'The Evolution of Theistic Sects in Ancient India upto the time of Shankara-Acharya'. Calcutta, West Bengal, India: Progressive Publishers. Source: https://ia601402.us.archive.org/21/items/in.ernet.dli.2015.128140/2015.128140.Theistic-Sects-In-Ancient-India_text.pdf (accessed: Friday, August 08, 2025)
+
+**Purport:**<br>
+...
+
 ### COLAS, G. ###
 
 * Colas, Gérard (2010). 'Vaishnava Samhitas \[IAST: Vaiṣṇava Saṃhitās]' (pp. 153-167) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). *Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939. Source: https://www.academia.edu/33497294/Vaiṣṇava_Saṃhitās (accessed: Friday, July 11, 2025)
