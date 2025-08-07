@@ -526,6 +526,13 @@ A respendent piece of work.
 **Purport:**<br>
 ...
 
+### FRESCHI, E.; *et al.* ###
+
+* Freschi, Elisa & Maas, Philipp A. (eds.) (2017). 'Adaptive Reuse: Aspects of Creativity in South Asian Cultural History'. 'Treatises on the Knowledge of the Orient: Vol. 101 \[English; German: Abhandlungen für die Kunde des Morgenlandes. Band 101]': edited by Florian C. Reiter. (NB: In English, but publication details are in the German.). Wiesbaden, Hesse, Germany: Harrassowitz Verlag (on behalf of the 'German Oriental Society \[English; German: Deutsche Morgenländische Gesellschaft]'). ISBN 9783447195867 (pdf). DOI: 10.26530/oapen_623411. Source: http://library.oapen.org/handle/20.500.12657/31886 (accessed: Thursday, August 07, 2025) 
+
+**Purport:**<br>
+...
+
 # G #
 
 ...
