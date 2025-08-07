@@ -109,6 +109,11 @@ This is an important work. Sri Ramanujacharya is the first attested unambigously
 **Purport:**<br>
 ...
 
+* Adluri, Vishwa (2018). 'Philosophical Aspects of Bhakti in the Narayaniya' (pp. 127-154) in Brodbeck, Simon; Bowles, Adam & Hiltebeitel, Alf (eds.) (2018). *The Churning of the Epics and Puranas: Proceedings of the Epics and Puranas Section at the 15th World Sanskrit Conference*. Darya Ganj, New Delhi, India: Dev Publishers & Distributors. ISBN 9789381406854. Source: https://archive.org/details/alduri-vishwa-2018.-philosophical-aspects-of-bhakti-in-the-narayaniya (accessed: Friday, August 08, 2025)
+
+**Purport:**<br>
+...
+
 ### AGRAWALA, P. ###
 
 * Agrawala, Prithvi K. (1977). 'Early Indian Bronzes'. Indian civilisation series: Vol. 11. Varanasi, Uttar Pradesh, India: Prithvi Prakashan. 
@@ -360,6 +365,13 @@ This is very useful. **TODO:** Harvest bibliography.
 ### BRINKHAUS, H. ###
 
 * Brinkhaus, Horst (1992). 'Early Developmental Stages of the Vishnupradurabhava Lists' (pp. 101-110) in the *Vienna Journal of South Asian Studies \[English; German: Wiener Zeitschrift für die Kunde Südasiens] - Supplement: Proceedings of the VIIIth \[8th] World Sanskrit Conference, Vienna, 1990*, 1992, Vol. 36. Postgasse 7, Vienna, Austria: Austrian Academy of Sciences Press. Source: https://www.jstor.org/stable/24010811 (accessed: Thursday, July 24, 2025)
+
+**Purport:**<br>
+...
+
+### BRODBECK, S.; *et al.* ###
+
+* Brodbeck, Simon; Bowles, Adam & Hiltebeitel, Alf (eds.) (2018). 'The Churning of the Epics and Puranas: Proceedings of the Epics and Puranas Section at the 15th World Sanskrit Conference'. Darya Ganj, New Delhi, India: Dev Publishers & Distributors. ISBN 9789381406854.
 
 **Purport:**<br>
 ...
