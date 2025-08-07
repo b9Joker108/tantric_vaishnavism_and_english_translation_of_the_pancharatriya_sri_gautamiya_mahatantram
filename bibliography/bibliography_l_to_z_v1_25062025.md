@@ -2230,6 +2230,13 @@ Veeraragavan, Dr. A. \[Tamil: முனைவர் ஆ. வீரராகவ�
 **Purport:**<br>
 ...
 
+### VENKATACHARI, K.; *et al.* ###
+
+* Venkatachari, K.K.A. \[Tamil: கே. கே. ஏ. வெங்கடாச்சாரி ; IAST: Kē. Kē. Ē. Veṅkaṭācāri] (trans.) & Smith, H. Daniel \[Tamil: எச். டேனியல் ஸ்மித் ; IAST: H. Ḍēniyal Smitt] (auth.) (1967). 'Pancaratranul Vilakkam \[Tamil: பாஞ்சராத்திர நூல் விளக்கம் ; IAST: pāñcarātra nūl viḷakkam; English: 'Panorama of Pañcarātra Literature']. Madras (Chennai), India: 'Hoe & Co. \[Tamil: ஹோ அண்ட் கோ ; IAST: hō anṭụ kō]. Source: https://books.google.com/books/about/Pāñcarātra_nūl_viḷakkam.html?id=kD9CzwEACAAJ (accessed: Friday, August 08, 2025)
+
+**Purport:**<br>
+I am not sure exactly which work of Smith that this is a Tamil translation of. As yet, not secured.
+
 ### VIDYABHUSHANA, B.; *et al* ###
 
 * Vidyabhushana, Sri Baldeva \[Sanskrit: श्री-बलदेव-विद्याभूषण ; IAST: śrī-baladeva-vidyābhūṣaṇa] (auth.); Gaurapada-dasa \[alt. Charles A. Filion] (trans.) & Matsya-Avatara-dasa (ed.) (2015). '\[Sri] Sahitya-Kaumadi: A Complete Treatise on Sanskrit Poetics \[Sanskrit: श्री-साहित्य-कौमुदी ; śrī-sāhitya-kaumudī]'. Loi Bazar, Vrindavan, Uttar Pradesh, India: Rasbihari Lal & Sons. ISBN 9788184030402. Source: https://www.wisdomlib.org/hinduism/book/sahitya-kaumudi-by-baladeva-vidyabhushana (accessed: Saturday, July 12, 2025)
