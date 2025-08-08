@@ -1,4 +1,4 @@
-# Naimisha-Aranya #
+# Sri Naimisha-Aranya Dhama #
 
 Please tell me all about the Vaishnava Divya-Deha: Naimisāraṇya, in great detail, from as many perspectives, traditional and contemporary knowledge areas, academic disciplines and ontological domains as possible. All salient terms should be rendered in appropriate Indic scripts, with IAST, academic and lay pronunciation, attestations, deep linguistic analysis, root, etymology, polysemy, etc. Remember deep Animism is fundamental and primary to the Vaishnava context and be sure this is foregrounded and endemic to the presentation. Academic register and prestige dialect.
 
@@ -287,3 +287,8 @@ Citations:
 [100] Sri Naavaay Mugundha Perumal Temple Divya Desam https://blessingsonthenet.com/indian-temple/id/381/sri-naavaay-mugundha-perumal-temple-divya-desam
 [101] Sarvajnapeetha (comprehensive) (Book) - Nithyanandapedia https://nithyanandapedia.org/wiki/Sarvajnapeetha_(comprehensive)_(Book)
 [102] On the typology and the worship status of sacred trees with a special ... https://pmc.ncbi.nlm.nih.gov/articles/PMC1500805/
+
+
+# References #
+
+* Walter, Kurt J. (2015). 'Sacred Trees Among the Tamil People of South India' (pp. 47-65) in Kallinen, Timo (ed.) (2015). *Suomen Antropologi: Journal of the Finnish Anthropological Society*, Vol. 40, No. 1, Spring, 2015. Helsinki, Finland: University of Helsinki. Source: https://journal.fi/suomenantropologi/article/view/60346 (accessed: Friday, August 08, 2025)
