@@ -417,6 +417,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### CHAUDHURY, P. ###
+
+* Chaudhury, Pravas Jivan (1965). 'The Theory of Rasa' (pp. 145-149) in Chaudhury, Pravas Jivan (ed.) (1965). *The Journal of Aesthetics and Art Criticism: Supplement to the Oriental Issue - 'The Aesthetic Attitude in Indian Aesthetics'*, Vol. 24, No. 1, Autumn, 1965. Hoboken, New Jersey, U.S.A.: Wiley (on behalf of The American Society for Aesthetics, Department of Philosophy, Temple University, Philadelphia, Pennsylvania, U.S.A.). Source: https://www.jstor.org/stable/428204 (accessed: Saturday, August 09, 2025) 
+
+**Purport:**<br>
+...
+
 ### COLAS, G. ###
 
 * Colas, Gérard (2010). 'Vaishnava Samhitas \[IAST: Vaiṣṇava Saṃhitās]' (pp. 153-167) in Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). *Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts*. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939. Source: https://www.academia.edu/33497294/Vaiṣṇava_Saṃhitās (accessed: Friday, July 11, 2025)
