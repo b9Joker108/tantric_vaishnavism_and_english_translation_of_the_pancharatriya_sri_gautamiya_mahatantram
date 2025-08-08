@@ -417,6 +417,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### CHAUDHARY, R.; *et al.* ###
+
+* Chaudhary, Dr. Raghava Prasad \[Hindi: डॉ० राघवप्रसाद चौधरी ; IAST: ḍǒ. rāghavaprasāda cāuḍharī] (ed.) & Tripathi, Dr. G.C. \[Hindi: डॉ० गयाचरण त्रिपाठी ; IAST: ḍǒ. gayācaraṇa tripāṭhī] (gen. ed.) (1981). 'Bhagava Tantram \[Sanskrit: भार्गवतन्त्रम् (पाञ्चरात्रागमग्रन्थः); IAST: bhārgavatantram (pañcārātrāgama-granthaḥ)]: A Pancharatra-Agama Text'. Ganganath Jha Kendriya Sanskrit Vidyapeetha Text Series \[Hindi: गंगानाथ झा केन्द्रीय संस्कृत विद्यापीठ ग्रन्थमाला ; IAST: gaṃgānātha jhā kēndriya saṃskṛta vidyāpīṭha granthamālā]: 'No. 8 \[Hindi: अष्टमप्रसूनम् ; IAST: aṣṭamaprasūnam]'. With a 'Foreword' in English by G.C. Tripathi dated 1981. (NB: Text in Sanskrit set in Devanagari.). 'Allahabad \[Hindi: इलाहाबाद ; IAST: Ilāhābād]', India: 'Rashtriya Sanskrit Sansthan \[Hindi: राष्ट्रियसंस्कृतसंस्थानम् ; IAST: rāṣṭrīya-saṃskṛta-saṃsthānam]' ('under the auspices of the Ministry of Education, Government of India, New Delhi, India \[Hindi: केन्द्रीय शिक्षामन्त्रालयस्याङ्गभूतम् ; IAST: kēndrīya śikṣāmantrālayasya-aṅgabhūtam]'). ISBN 9789383135202. Source: https://archive.org/details/LfGA_bhargava-tantra-no.-8-ganga-nath-campus (accessed: Saturday, August 09, 2025) 
+
+**Purport:**<br>
+According to the Narayana Swami Parampara devotee Catalogue, this Pancharatra agama is supposed to be on the oldest tier, first set in text in Northern India in the very early mediaeval period from circa 4th century C.E. It has received little-to-no academic treatment in English or any other European language as far as I can ascertain.
+
 ### CHAUDHURY, P. ###
 
 * Chaudhury, Pravas Jivan (1965). 'The Theory of Rasa' (pp. 145-149) in Chaudhury, Pravas Jivan (ed.) (1965). *The Journal of Aesthetics and Art Criticism: Supplement to the Oriental Issue - 'The Aesthetic Attitude in Indian Aesthetics'*, Vol. 24, No. 1, Autumn, 1965. Hoboken, New Jersey, U.S.A.: Wiley (on behalf of The American Society for Aesthetics, Department of Philosophy, Temple University, Philadelphia, Pennsylvania, U.S.A.). Source: https://www.jstor.org/stable/428204 (accessed: Saturday, August 09, 2025) 
