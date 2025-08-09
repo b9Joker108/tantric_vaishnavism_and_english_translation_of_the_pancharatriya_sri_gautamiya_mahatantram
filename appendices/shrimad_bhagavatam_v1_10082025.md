@@ -1,8 +1,8 @@
 # Shrimad Bhagavatam #
 
-I feel this work requires a dedicated Shrimad Bhagavatam annexure. I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours but I tracked one source of it to the footnote annotation of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' Bengali commentary to Shloka 514 of the Antya  'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32)
+I feel this work requires a dedicated Shrimad Bhagavatam annexure. I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours but I tracked one source of it to the footnote annotation of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx) Bengali commentary to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
 
-
+```
 ভাগবতে যাঁহার প্রবেশাধিকার আছে, 
 bhāgabate yām̐hāra praveśādhikāra āche,
 তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; 
@@ -11,6 +11,7 @@ tinī jānena ye, śrīmad-bhāgabat'i sakala pramāṇa-śiromaṇi;
 emanki, mūrkhajana-o śrīmad-bhāgabatera śaraṇa grahaṇa karile, 
 তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয়।
 tām̐hāra citte bhāgabatera sphūrti haya|  
+```
 
 This is the Gaudiya Bhashya commentary in Bengali of Sri Shrila Bhaktivedanta Saraswati Thakura to Sri Chaitanya Bhagavata 3.3.514:  https://archive.org/download/CBBSSTAntya/CB-BSST-Antya-03.pdf
 
