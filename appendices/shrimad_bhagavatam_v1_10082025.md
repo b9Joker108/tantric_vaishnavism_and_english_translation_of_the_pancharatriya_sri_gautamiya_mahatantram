@@ -1,16 +1,21 @@
 # Shrimad Bhagavatam #
 
+I feel this work requires a dedicated Shrimad Bhagavatam annexure. I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours but I tracked one source of it to the footnote annotation of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' Bengali commentary to Shloka 514 of the Antya  'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32)
+
 
 ভাগবতে যাঁহার প্রবেশাধিকার আছে, 
 bhāgabate yām̐hāra praveśādhikāra āche,
 তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; 
-tinī jānen ye, śrīmad-bhāgabat-i sakala pramāṇa-śiromaṇi; 
+tinī jānena ye, śrīmad-bhāgabat'i sakala pramāṇa-śiromaṇi; 
 এমনকি, মূর্খজনও শ্রীমদ্ভাগবতের শরণ গ্রহণ করিলে, 
 emanki, mūrkhajana-o śrīmad-bhāgabatera śaraṇa grahaṇa karile, 
 তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয়।
-tām̐hāra citte bhāgabatera sphūrti haya.  
+tām̐hāra citte bhāgabatera sphūrti haya|  
 
-This is the Gaudiya Bhashya commentary of Sri Shrila Bhaktivedanta Saraswati Thakura to Sri Chaitanya Bhagavata 3.3.514:  https://www.wisdomlib.org/hinduism/book/chaitanya-bhagavata/d/doc1110136.html This is going to be my point of entry into my survey of the Bhagavatam. Please check rendering and IAST, reference, amplify, critique.
+This is the Gaudiya Bhashya commentary in Bengali of Sri Shrila Bhaktivedanta Saraswati Thakura to Sri Chaitanya Bhagavata 3.3.514:  https://archive.org/download/CBBSSTAntya/CB-BSST-Antya-03.pdf
+
+https://www.wisdomlib.org/hinduism/book/chaitanya-bhagavata/d/doc1110136.html This is going to be my point of entry into my survey of the Bhagavatam. Please check rendering and IAST, reference, amplify, critique.
+
 
 ## Analysis of the Bengali Text and IAST Transliteration
 
