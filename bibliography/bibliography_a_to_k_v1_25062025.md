@@ -376,6 +376,13 @@ This is very useful. **TODO:** Harvest bibliography.
 **Purport:**<br>
 ...
 
+### BROWN, S. ###
+
+* Brown, Sara Black (2021). 'From Meditation to Bliss: Achieving the Heights of Progressive Spiritual Energy through Kirtan Singing in American Gaudiya Vaishnava Hinduism' (pp. 1-23) in MacLachlan, Dr. Heather (ed.) (2021). *Religions: Special Issue - Music in World Religions*, Vol. 12, Issue 8, No. 600, August, 2021. Basel, Switzerland: MDPI (Multidisciplinary Digital Publishing Institute). DOI : https://doi.org/10.3390/rel12080600 (accessed: Saturday, August 09, 2025)
+
+**Purport:**<br>
+...
+
 ### BURTON, A. ###
 
 * Burton, Adrian P. (2000). 'Temples, Texts, and Taxes: the Bhagavad-Gita and the Politico-Religious Identity of the Chaitanya Sect - an Archival and Textual Investigation into the Text and Times of the Sarartha-Varshini Commentary on the Bhagavad-Gita by Vishvanatha Chakravarti'. Ph.D. dissertation. Canberra, A.C.T., Australia: The Australian National University (ANU). 
