@@ -4,7 +4,7 @@ I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus t
 
 > "In the Gauṟīya Vaiṣṇava system the Śrīmadbhāgavata is accepted as the highest authority (Pramāṇa Cakravartī Cūṟāmaṇi)."
 
-**Refer:** Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
+**Refer:** Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit. College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
 
 I have heard it said in oral discourse a number of times that the Bhagavatam is the 'Crest-Jewell' (IAST: cūṟāmaṇi) of 'scriptural authority', here rendered as 'Chakravarti' (IAST: cakravartī) and denoting the principal 'authoritative source of knowledge' or 'pramana' (pramana), according to the Acharya Sangha Parampara Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours, but I tracked at least one (1) source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Sri Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx), Bengali commentary, to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
 
