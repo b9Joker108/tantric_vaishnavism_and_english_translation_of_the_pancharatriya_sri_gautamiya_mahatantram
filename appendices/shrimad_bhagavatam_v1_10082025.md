@@ -1,27 +1,21 @@
 # Shrimad Bhagavatam #
 
-I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus to commence it was incited by an uncited paranthesis in the opening of Volume I of the doctoral dissertation of [Shrimati Prem Lata Sharma](https://en.wikipedia.org/w/index.php?title=Prem_Lata_Sharma&oldid=1282551983) (1954: p. 1):
+I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus to commence it was incited by an uncited parenthetic interlinear annotation in the opening of Volume I of the doctoral dissertation of [Shrimati Prem Lata Sharma](https://en.wikipedia.org/w/index.php?title=Prem_Lata_Sharma&oldid=1282551983) (1954: p. 1):
 
 > "In the Gauṟīya Vaiṣṇava system the Śrīmadbhāgavata is accepted as the highest authority (Pramāṇa Cakravartī Cūṟāmaṇi)."
 
+**Refer:** Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
 
-Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
+I have heard it said in oral discourse a number of times that the Bhagavatam is the 'Crest-Jewell' (IAST: cūṟāmaṇi) of 'scriptural authority', here rendered as 'Chakravarti' (IAST: cakravartī) and denoting the principal 'authoritative source of knowledge' or 'pramana' (pramana), according to the Acharya Sangha Parampara Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours, but I tracked at least one (1) source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Sri Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx), Bengali commentary, to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
 
-I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin.
-
-
-It took me a number of hours but I tracked one source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx) Bengali commentary to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
-
-
-ভাগবতে যাঁহার প্রবেশাধিকার আছে, <br>
-bhāgabate yām̐hāra praveśādhikāra āche, <br>
-তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; <br>
-tinī jānena ye, śrīmad-bhāgabat'i sakala pramāṇa-śiromaṇi; <br>
-এমনকি, মূর্খজনও শ্রীমদ্ভাগবতের শরণ গ্রহণ করিলে, <br>
-emanki, mūrkhajana-o śrīmad-bhāgabatera śaraṇa grahaṇa karile, <br>
-তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয়। <br>
-tām̐hāra citte bhāgabatera sphūrti haya| <br>
-
+> ভাগবতে যাঁহার প্রবেশাধিকার আছে, <br>
+> bhāgabate yām̐hāra praveśādhikāra āche, <br>
+> তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; <br>
+> tinī jānena ye, śrīmad-bhāgabat'i sakala pramāṇa-śiromaṇi; <br>
+> এমনকি, মূর্খজনও শ্রীমদ্ভাগবতের শরণ গ্রহণ করিলে, <br>
+> emanki, mūrkhajana-o śrīmad-bhāgabatera śaraṇa grahaṇa karile, <br>
+> তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয়। <br>
+> tām̐hāra citte bhāgabatera sphūrti haya| <br>
 
 This is the Gaudiya Bhashya commentary in Bengali of Sri Shrila Bhaktivedanta Saraswati Thakura to Sri Chaitanya Bhagavata 3.3.514:  https://archive.org/download/CBBSSTAntya/CB-BSST-Antya-03.pdf
 
