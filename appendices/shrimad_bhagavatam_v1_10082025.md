@@ -1,6 +1,6 @@
 # Shrimad Bhagavatam #
 
-I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus to commence it was incited by an uncited paranthesis in the opening of Volume I of the doctoral dissertation of Shrimati Premlata Sharma (1954: p. 1):
+I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus to commence it was incited by an uncited paranthesis in the opening of Volume I of the doctoral dissertation of [Shrimati Prem Lata Sharma](https://en.wikipedia.org/w/index.php?title=Prem_Lata_Sharma&oldid=1282551983) (1954: p. 1):
 
 > "In the Gauṟīya Vaiṣṇava system the Śrīmadbhāgavata is accepted as the highest authority (Pramāṇa Cakravartī Cūṟāmaṇi)."
 
