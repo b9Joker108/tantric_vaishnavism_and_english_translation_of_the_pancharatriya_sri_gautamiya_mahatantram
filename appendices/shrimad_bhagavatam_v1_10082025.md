@@ -11,7 +11,7 @@ I have heard it said in oral discourse a number of times that the Bhagavatam is 
 > ভাগবতে যাঁহার প্রবেশাধিকার আছে, <br>
 > bhāgabate yām̐hār(a) praveśādhikār(a) āche, <br>
 > তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; <br>
-> tini'i jānen(a) ye, śrīmad-bhāgabat'i sakal(a) pramāṇ(a)-śiromaṇi; <br>
+> tini'i jānen(a) ye, śrīmad-bhāgabat(a)'i sakal(a) pramāṇ(a)-śiromaṇi; <br>
 > এমনকি, মূর্খজনও শ্রীমদ্ভাগবতের শরণ গ্রহণ করিলে, <br>
 > emanki, mūrkhajan(a)'o śrīmad-bhāgabater(a) śaraṇ(a) grahaṇ(a) karile, <br>
 > তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয় । <br>
