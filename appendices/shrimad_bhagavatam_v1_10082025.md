@@ -1022,3 +1022,65 @@ If you wish, I can create a visual diagram or flowchart illustrating this taxono
 
 Would you like me to prepare that?
 
+I take ubridge at Satyanarayan's collapsure of his interpertive and curatorial reading, directly upon both the only Devanagari and its IAST, without a diplomatic exemplar. But, I appreciate his expressed reservations as to possible excessive length of his presentation on a few occasions, explaining his brevity.
+
+Your criticism is astute and reflects a keen editorial and philological sensibility.
+
+**Satyanarayan Dasa’s practice**—presenting an *interpretive/curatorial reading*, *with modern punctuation and editorial divisions*, directly applied to both his Devanāgarī and IAST “Sanskrit,” **without first providing a diplomatic (manuscript-faithful) base text**—is indeed problematic from a textual-critical and paleographical perspective. Your objection is not only reasonable; it finds strong support in best practices of textual scholarship.
+
+***
+
+## Why Your Objection is Justified
+
+### 1. **Loss of Textual Layering and Transparency**
+- By **collapsing the interpretive layer into the only presentation of the Sanskrit**, Satyanarayan essentially *pre-digests* the text, embedding his own editorial decisions (punctuation, segmentation, sometimes even reading order or implied emphasis) **as if they were intrinsic to the Sanskrit itself**.
+- For critical readers or future editors, this makes it **impossible to distinguish** between what is Jīva Gosvāmī’s original phrasing and what is Satyanarayan’s imposed structure.
+
+### 2. **Obliteration of Manuscript/Lithograph Witness**
+- Without a **diplomatic transliteration**—one that is word-for-word, punctuation-free, mirroring original orthography as closely as possible—the raw material for independent reconstruction or stemmatic comparison is erased. Scholars and advanced readers are denied the option to “see with their own eyes.”
+
+### 3. **IAST Not a Neutral Layer in This Model**
+- Applying interpretive punctuation and segmentation even to the IAST transliteration of “Sanskrit” means the IAST ceases to be a **neutral transmission medium**; instead, it encodes all editorial decisions, sometimes masking points where the original conflation or ambiguity might be significant.
+- For anyone seeking to move “from IAST to manuscript” or Devanāgarī, or to cross-check readings, this editorial baked-in approach is an obstacle, not an aid.
+
+***
+
+## What Satyanarayan Did Right
+
+That said, your **appreciation of his candor**—his explanation, at times, that he was aiming for brevity or clarity (and that too much expansion would risk unwieldy length)—is well placed. This is a **didactic and practical consideration**, and, for many in his audience, the absolute fidelity of the original isn't the primary concern; readability and pedagogic value are.
+
+His **expressed reservations** about not wanting the edition to become too long (by providing both diplomatic and interpretive layers, or annotating every minute feature) shows a degree of editorial consciousness and a certain humility about space and audience fatigue.
+
+***
+
+## Best-Practice Model (What Should Be Done)
+
+A robust scholarly edition (especially for classics like *Tattva-sandarbha*) should ideally present:
+
+1. **Diplomatic Text** (Devanāgarī, optionally with manuscript sigla)
+    - Pure Sanskrit, running text, little or no punctuation, as per manuscript/lithograph/first print edition.
+
+2. **Separate IAST Transcription of the Diplomatic Text**
+    - Still neutral and faithful, *without editorial punctuation*.
+
+3. **Edited/Interpretive Presentation (“Normalized Text” or “Reading Text”)**
+    - Editorially punctuated, modernized, and, if useful, paragraphed or segmented for clarity—with all interventions clearly signalled or even visually distinguished.
+
+4. **Extensive Footnotes and Critical Apparatus**
+    - Where editorial choices, manuscript variants, interpretation points, and ambiguous spots are acknowledged and justified.
+
+This approach creates **transparency** and allows any reader—from the manuscript scholar to the philosophical interpreter—to work at the level they need.
+
+***
+
+## Conclusion
+
+Your stance is both **critically defensible** and hermeneutically informed:  
+- **Lament**: Collapsing editorial/interpretive choices into the “main” text (Devanāgarī or IAST) suppresses the ability to reconstruct and check the original or to re-interpret in light of paleographic evidence.
+- **Appreciation**: Recognizing the editorial judgment and constraints of audience and length, as Satyanarayan himself sometimes explains, shows a balanced regard for practical realities and clarity of intent.
+
+If you wish to advance these standards in your own work, feel free to request a demonstration:  
+—I can prepare a passage from *Tattva-sandarbha* at all three layers (diplomatic, neutral IAST, interpretive/reading edition) so you or your readers can see the difference concretely.
+
+Would you like me to provide such a trifold comparative example from Anuccheda 22.16?
+
