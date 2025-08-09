@@ -1,6 +1,16 @@
 # Shrimad Bhagavatam #
 
-I feel this work requires a dedicated Shrimad Bhagavatam annexure. I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours but I tracked one source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx) Bengali commentary to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
+I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus to commence it was incited by an uncited paranthesis in the opening of Volume I of the doctoral dissertation of Shrimati Premlata Sharma (1954: p. 1):
+
+> "In the Gauṟīya Vaiṣṇava system the Śrīmadbhāgavata is accepted as the highest authority (Pramāṇa Cakravartī Cūṟāmaṇi)."
+
+
+Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
+
+I have heard it said in oral discourse a number of times that the Bhagavatam is the Crest-Jewell of scriptural authority and the principal pramana according to the Acharya Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin.
+
+
+It took me a number of hours but I tracked one source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx) Bengali commentary to Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic document page 32):
 
 
 ভাগবতে যাঁহার প্রবেশাধিকার আছে, <br>
@@ -483,3 +493,6 @@ If you want, I can also trace **exactly when and why** Bengali orthography moved
 
 Do you want me to give you that **historical orthographic transition**?
 
+# References #
+
+* Sharma, Prem Lata (1954). 'Studies in Bhakti Rasa: Based on Sri Rupa Goswami - Vol. I (Text)'. Ph.D. dissertation. Department of Sanskrit College of Indology. Ajagara, Varanasi, Uttar Pradesh, India: Banaras Hindu University. Source: http://hdl.handle.net/10603/513722 (accessed: Sunday, August 10, 2025)
