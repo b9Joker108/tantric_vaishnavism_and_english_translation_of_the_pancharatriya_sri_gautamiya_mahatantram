@@ -9,13 +9,13 @@ I feel this work requires a dedicated Shrimad Bhagavatam annexure. The impetus t
 I have heard it said in oral discourse a number of times that the Bhagavatam is the 'Crest-Jewell' (IAST: cūṟāmaṇi) of 'scriptural authority', here rendered as 'Chakravarti' (IAST: cakravartī) and denoting the principal 'authoritative source of knowledge' or 'pramana' (pramana), according to the Acharya Sangha Parampara Siddhanta of the Gaudiya Vaishnava Sampradaya. I did not know its point of origin. It took me a number of hours, but I tracked at least one (1) source of it to the footnote annotation of a facsimile of an unknown edition of Sri Shrila Bhaktivedanta Sarasvati's 'Sri Gaudiya Bhashya' (Bengali: xxx ; IAST: xxx), Bengali commentary of [Sri Vrindavana Dasa Thakura's](https://en.wikipedia.org/w/index.php?title=Chaitanya_Bhagavata&oldid=1288535592#Vrindavana_Dasa_Thakura) (1507-1589 CE), ['Sri Chaitanya Bhagavata' ](https://en.wikipedia.org/w/index.php?title=Chaitanya_Bhagavata&oldid=1288535592) (Bengali: xxx ; IAST: xxx), to [Shloka 514 of the 'Final Canto' (Bengali: অন্ত্যখণ্ড ; IAST: antya-khaṇḍa), 'Chapter Three' (Bengali: তৃতীয় অধ্যায় ; IAST: xxx), p. 983 (Bengali: ৯৮৩; electronic facsimile document p. 32)](https://archive.org/download/CBBSSTAntya/CB-BSST-Antya-03.pdf):
 
 > ভাগবতে যাঁহার প্রবেশাধিকার আছে, <br>
-> bhāgabate yām̐hāra praveśādhikāra āche, <br>
+> bhāgabate yām̐hār(a) praveśādhikār(a) āche, <br>
 > তিনিই জানেন যে, শ্রীমদ্ভাগবতই সকল প্রমাণ-শিরোমণি; <br>
-> tinī jānena ye, śrīmad-bhāgabat'i sakala pramāṇa-śiromaṇi; <br>
+> tini'i jānen(a) ye, śrīmad-bhāgabat'i sakal(a) pramāṇ(a)-śiromaṇi; <br>
 > এমনকি, মূর্খজনও শ্রীমদ্ভাগবতের শরণ গ্রহণ করিলে, <br>
-> emanki, mūrkhajana-o śrīmad-bhāgabatera śaraṇa grahaṇa karile, <br>
-> তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয়। <br>
-> tām̐hāra citte bhāgabatera sphūrti haya| <br>
+> emanki, mūrkhajan(a)'o śrīmad-bhāgabater(a) śaraṇ(a) grahaṇ(a) karile, <br>
+> তাঁহার চিত্তে ভাগবতের স্ফূর্তি হয় । <br>
+> tām̐hār(a) citte bhāgabater(a) sphūrti hay(a) | <br>
 
 This is the Gaudiya Bhashya commentary in Bengali of Sri Shrila Bhaktivedanta Saraswati Thakura to Sri Chaitanya Bhagavata 3.3.514:  https://archive.org/download/CBBSSTAntya/CB-BSST-Antya-03.pdf
 
