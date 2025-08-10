@@ -553,6 +553,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 A respendent piece of work.
 
+### ELGOOD, H. ###
+
+* Elgood, Heather (auth.) & Hinnells, John (ed.) (2000, 1999). 'Hinduism and the Religious Arts'. Religion and The Arts Series. Paperback edition. (NB: First published in 1999.). London, England, U.K.: Cassell. ISBN 0304707392 (pbk).
+
+**Purport:**<br>
+...
+
 ### ESCHMANN, A.; *et al.* ###
 
 * Eschmann, Anncharlott; Kulke, Hermann & Teipathi, Gaya Charan (eds.) (1986, 1978). 'The Cult of Jagannath and the Regional Tradition of Orissa'. South Asian Studies No. VIII \[8]. South Asia Interdosciplinary Regional Research Programme: Orissa Research Project. (NB: First published in 1978 and an imprint in 1986.). With an 'In Memoriam: Anncharlott Eschmann (1941-1977)' by H. Kulke and G.C. Tripathi. Darya Ganj, New Delhi, India: Manohar Publications. Source: https://archive.org/details/thecultofjagannathandtheregionaltradionoforissaaeschmannhkulkegctripathi1986 (accessed: Friday, July 25, 2025)
