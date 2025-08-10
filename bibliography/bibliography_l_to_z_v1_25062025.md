@@ -2118,6 +2118,13 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 # T #
 
+### TAYLOR, S. ###
+
+* Taylor, Sarah Perce (2016). 'Aesthetics of Sovereignty: The Poetic and Material Worlds of Medieval Jainism'. Ph.D. dissertation. South Asia Regional Studies. Pennsylvania, Philadelphia, U.S.A.: University of Pennsylvania. Source: https://core.ac.uk/download/pdf/76395582.pdf (accessed: Sunday, August 10, 2025)
+
+**Purport:**<br>
+...
+
 ### THOORAN, M.; *et al.* ###
 
 * Thooran, M.P. Periyasaamy \[Tamil: எம். பி. பெரியாசாமி தூரன் ; IAST: Eṃ. Pi. Periyāsāmi Tūran], *et al.* (eds.) (1954). 'The Tamil Encyclopedia' \[Tamil: தமிழ்க் கலைக்களஞ்சியம் ; IAST: tamiḻk kalaikkaḷañciyam]. (Note: Printed set of ten volumes initially published in 1954 onwards and published online digitally in 2018.). Chennai, India: 'Tamil Development Academy' \[Tamil: தமிழ் வளர்ச்சிக் கழகம் ; IAST: Tamiḻ Vaḷarccik Kaḻakam]'. Source: http://bit.ly/4eDmwIY (accessed: Tuesday, October 01, 2024)
