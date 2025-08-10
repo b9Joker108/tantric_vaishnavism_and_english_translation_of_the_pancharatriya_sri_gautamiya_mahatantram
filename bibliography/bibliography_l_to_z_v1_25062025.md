@@ -2120,7 +2120,7 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 ### TAYLOR, S. ###
 
-* Taylor, Sarah Perce (2016). 'Aesthetics of Sovereignty: The Poetic and Material Worlds of Medieval Jainism'. Ph.D. dissertation. South Asia Regional Studies. Pennsylvania, Philadelphia, U.S.A.: University of Pennsylvania. Source: https://core.ac.uk/download/pdf/76395582.pdf (accessed: Sunday, August 10, 2025)
+* Taylor, Sarah Pierce (2016). 'Aesthetics of Sovereignty: The Poetic and Material Worlds of Medieval Jainism'. Ph.D. dissertation. South Asia Regional Studies. Pennsylvania, Philadelphia, U.S.A.: University of Pennsylvania. Source: https://core.ac.uk/download/pdf/76395582.pdf (accessed: Sunday, August 10, 2025)
 
 **Purport:**<br>
 ...
