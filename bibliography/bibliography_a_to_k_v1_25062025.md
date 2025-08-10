@@ -708,6 +708,13 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 **Purport:**
 ...
 
+### HÜSKEN. U. ###
+
+* Hüsken, Ute (2001). 'Pure or Clean?' (pp. 85-96) in Das, Rahul Peter & Emmerick, Ronald Eric (eds.) (2001). *Traditional South Asian Medicine (formerly the 'Journal of the European Ayurvedic Society')*, Vol. 6, 2001. Weisbaden, Hesse, Germany: Dr. Ludwig Reichert Verlag. Source: https://www.academia.edu/5729200/Pure_or_Clean (accessed: Sunday, August 10, 2025)
+
+**Purport:**
+...
+
 # I #
 
 ...
