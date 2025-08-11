@@ -2227,6 +2227,12 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 **Purport:**<br>
 ...
 
+### VARADACHARI, V. ###
+
+* Varadachari, Dr. V. (1982). 'Agamas and South Indian Vaishnavism'. With a 'Foreword' by S.S. Raghavachar dated 1981, Mysore. With a 'Publisher's Note' by M.C. Krishnan dated 1982. First edition. Triplicane, Madras (Channai), Tamil Nadu, India: Prof. M. Rangacharya Memorial Trust. Source: https://archive.org/details/AgamaAndVaishnavism (accessed: Tuesday, August 12, 2025)
+
+**Purport:**<br>
+This work is INVALUABLE for our purposes. **TODO:** Investigate Varadachari.
 
 ### VAUDEVILLE, C. ###
 
