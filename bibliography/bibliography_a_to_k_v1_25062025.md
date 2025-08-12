@@ -414,7 +414,7 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 **Legend/Key:**
 
-**†:** Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/august_v1_13082025.md#wednesday-august-13-2025--months-beginning (accessed: Wednesday, August 13, 2025)
+**^†:** Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/august_v1_13082025.md#wednesday-august-13-2025--months-beginning (accessed: Wednesday, August 13, 2025)
 
 ### BURTON, A. ###
 
