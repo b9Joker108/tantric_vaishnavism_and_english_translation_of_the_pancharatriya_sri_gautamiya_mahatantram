@@ -402,10 +402,15 @@ I will lean on this volume heavily to support various platforms to defend my que
 **Purport:**<br>
 ...
 
-* Burchett, Patton E. (2019c). '\[Chapter] 1: The Tantric Age - Tantra and Bhakti in Medieval India' (pp. 1-26) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper).
+* Burchett, Patton E. (2019c). '\[Chapter] 1: The Tantric Age - Tantra and Bhakti in Medieval India' (pp. 29-63) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper).
 
 **Purport:**<br>
 They cite and stand on a 'Tantric Age' but don't interrogate and qualify it. Though they cite, they fail to site their establishement: by taking the auspices and orient to lines-of-sight and then architect according to topology of the discourse and the nature of its environmental flows, processes and process-flows, which should all have been done prior to turning the sod and setting down their bloodied and blessed foundations in a tentatively determined 'Tantric Age'. They commence their building with undue and unsound haste and with no clear manifest and hence, it destabilizes their position and premise from the outset. I feel I intend to proffer a loose sequence of circa five (5) primary -- though likely quite a number more of sub-aspects -- given tantric periods or discrete continua, that in a decentralized way, are related to each other and not necessarily in discrete linear spatio-temporal flows and relationships. I feel that the Himalayan Tantric doxological systems have manifest virtues, as they were the products of many minds, differing perspectives and an indeterminate bounty of hands and yet they are of their own Jyotish's Triumvirate of Time, Place and Circumstance and a given set of 'Causes and Conditions' in the Pratityasamutpada sensibility and require protracted and engaged reworking in order to be positioned well into our presently greater and more substantial perspective from an extensive and ranging discourse of innunerable voices, into a Pan-lineal-inclusivity, of sorts, yet formulated from a contemporary framework and modelling. Digital Humanities: interrogating, visualising and reporting data of given suite of corpora is key. Methodology, yet to be determined.
+
+* Burchett, Patton E. (2019d). '\[Chapter] 2: Sultans, Saints, and Songs - Persianate Culture, Sufism, and Bhakti in Sultanate India' (pp. 64-98) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper).
+
+**Purport:**<br>
+It was in incidental reading herein, whilst preparing this citation in passing, that I came to appreciate the accomplished lyrical wordsmith of Burchett and their artisanal grammatical crafting and fine turn-of-phrase that transcends the purely mercenary *cum* functional humdrum and stock academic register and elevates the prose experience of non-fiction reading to the rarefied pleasure of poetry: a 'Bhakt\[h]i' sensibility invested in Old World 'Cræft'.
 
 ### BURTON, A. ###
 
