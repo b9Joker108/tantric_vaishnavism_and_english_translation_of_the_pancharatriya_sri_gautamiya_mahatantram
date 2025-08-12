@@ -410,7 +410,7 @@ They cite and stand on a 'Tantric Age' but don't interrogate and qualify it. Tho
 * Burchett, Patton E. (2019d). '\[Chapter] 2: Sultans, Saints, and Songs - Persianate Culture, Sufism, and Bhakti in Sultanate India' (pp. 64-98) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper).
 
 **Purport:**<br>
-It was in incidental reading herein, whilst preparing this citation in passing, that I came to appreciate the accomplished lyrical wordsmith of Burchett and their artisanal grammatical crafting and fine turn-of-phrase that transcends the purely mercenary *cum* functional humdrum and stock academic register and elevates the prose experience of non-fiction reading to the rarefied pleasure of poetry: a 'Bhakt\[h]i' sensibility invested in Old World 'Cræft'.
+It was in incidental reading herein, whilst preparing this citation in passing, that I came to appreciate the accomplished lyrical wordsmith of Burchett and their artisanal grammatical crafting and fine turn-of-phrase that transcends the purely mercenary *cum* functional humdrum and stock academic register and elevates the prose experience of non-fiction reading to the rarefied pleasure of poetry: a 'Bhakt\[h]i' sensibility invested in Old World ['Cræft'](https://en.wiktionary.org/w/index.php?title=cr%C3%A6ft&oldid=84710142).
 
 ### BURTON, A. ###
 
