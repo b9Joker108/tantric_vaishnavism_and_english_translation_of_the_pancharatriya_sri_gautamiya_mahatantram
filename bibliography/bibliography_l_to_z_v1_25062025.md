@@ -1413,6 +1413,13 @@ I was hoping for a dedicated work on the Candi of Indonesia in English. I also h
 **Purport:**<br>
 ...
 
+### RAMESH, K. ###
+
+* Ramesh, Dr. K.V. (ed.) (1992). 'Epigraphia Indica: Vol. XLII \[42], 1977-78'. First edition. New Delhi, India: Archaeological Survey of India (Government of India). ASIN B00E42SDIG. Source: https://archive.org/details/in.gov.ignca.79622/mode/2up (accessed: Tuesday, August 12, 2025)
+
+**Purport:**<br>
+Refer in this volume: Sankaranarayanan, S. (1992). 'No. 11 -- Guntupalli Pillar Inscription of Shalankayana Nandivarman (1 Plate)', pp. 75-95. This is RE: the currently first attested epigraphical inscriptions in South India where the Pancharatra-Bhagavata tradition enter the archaeological record.
+
 ### RAMESH, M. ###
 
 * Ramesh, M.S. (2000, 1992). '108 Vaishnava Divya Desams: Vol. 1 - Divya Desams in Tondai Nadu (A descriptive study of 23 well known Vaishnavite shrines of Tondai Nadu)'. Reprint of first edition. T.T.D. Religious Publications Series №412. (Note: The first edition was published in 1992.). Tirupati, Tamil Nadu, India: Tirumala Tirupati Devasthanams. Source: https://archive.org/details/108-vaishnavite-divya-desams-vol-1-by-dr-m-s-ramesh-in-english (accessed: Saturday, August 03, 2024)
