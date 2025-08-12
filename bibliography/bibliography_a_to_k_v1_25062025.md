@@ -214,6 +214,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BALOGH, D.; *et al.* ###
+
+* Balogh, Daniel & Griffiths, Arlo (2019-2025). 'DHARMA Project (European Research Council - ERC: no. 809994): The Domestication of "Hindu" Asceticism and the Religious Making of South and Southeast Asia Project (Hyper Articles en Ligne: HAL ID: hal-03763 086, Version 1)', 'Task Force B (TFB) - Early Inscriptions of Andhradesha (EIAD): tfb-eiad-epigraphy, ID: DHARMA_INSEIAD00164. Version: 2025-06-21. DHARMA Project Database (online edition; refer: https://dharmalekha.info). Source: https://github.com/erc-dharma/tfb-eiad-epigraphy (accessed: Tuesday, August 12, 2025)
+
+**Purport:**<br>
+This project has many moving parts and a larger auspice. I have only documented the Early Inscriptions of Andhradesha (EIAD), as of August 2025, as it particularly interests me due to: Griffiths, Arlo & Tournier, Vincent (eds.) (2025). 'Pillar from Guṇṭupalli: Reign of Nandivarman II, year 4 or 44 \[Ref.: Huma-Num EIAD 164]'. It seems like, when TFB went to do the site inspection for EIAD 164, it could neither be found, nor subquently located with the assistance of the appropriate Indian authorities, which is vexacious and confounding. Also, Griffiths and Tournier in assembing their evergreen online critical edition critical apparatus and architecture, lamented that they were working from commercially published images, for the interested public and not the profesionally produced qualitative upstream ducumentary artefacts and pressings of the inscriptions, used for initial assessement and publication. It seams they have their own evocations of my Apte Dissertation Dilemma!
+
 ### BALASUBRAMANIAN, R. ###
 
 * Balasubramanian, Rajangam (2011). 'Vaishnava Agamas and Vishnu Images in the Government Museum, Chennai'. Ph.D. dissertation. Department of Sanskrit. Chennai, Indian: Ramakrishna Mission Vivekananda College (University of Madras). Source: http://hdl.handle.net/10603/295795 (accessed: Thursday, August 07, 2025) 
