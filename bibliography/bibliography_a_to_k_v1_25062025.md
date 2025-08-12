@@ -643,6 +643,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 **TODO:** Fix this citation after Hastings details are copied across.
 
+### GRIFFITHS, A.; *et al.* ###
+
+* Griffiths, Arlo & Tournier, Vincent (eds.) (2025). 'Pillar from Guṇṭupalli: Reign of Nandivarman II, year 4 or 44 \[Ref.: Huma-Num EIAD 164]'. (unpaginated) in Balogh, Daniel & Griffiths, Arlo (2019-2025). 'DHARMA Project (European Research Council - ERC: no. 809994): The Domestication of "Hindu" Asceticism and the Religious Making of South and Southeast Asia Project (Hyper Articles en Ligne: HAL ID: hal-03763 086, Version 1)', 'Task Force B (TFB) - Early Inscriptions of Andhradesha (EIAD): tfb-eiad-epigraphy, ID: DHARMA_INSEIAD00164. Version: 2025-06-21. DHARMA Project Database (online edition; refer: https://dharmalekha.info). Source: https://dharmalekha.info/texts/INSEIAD00164 (accessed: Tuesday, August 12, 2025). Source: https://github.com/erc-dharma/tfb-eiad-epigraphy (accessed: Tuesday, August 12, 2025)
+
+**Purport:**<br>
+This record of the salient transcription is the principal forum, an evergreen/living document on the DHARMA Project's (European Research Council - ERC: no. 809994) new website: https://dharmalekha.info (accessed: Tuesday, August 12, 2025). NB: I intuit (but lack surety) that they have a structural separation of concerns, being: TFA (Task Force A), being a cohort for the Archaeological/Anthropological onsite fieldwork and assessement of sites, artefacts and cultural tokens and TFB (Task Force B) being the administrative, database, data-management and digital humanities cohort.
+
 ### GUENTHER, H. ###
 
 * Guenther, Herbert (ed., trans. & annot.) (1996). 'Longchenpa's The Full-Fledged Khyung-Chen \[Garuda] Bird \[Tibetan: ཁྱུང་ཆེན་གཤོག་རྫོགས ; EWTS: khyung chen gshog rdzogs]: An Essay in Freedom as the Dynamics of Being'. Tokyo, Japan: The International Institute for Buddhist Studies of ICABS (The International College for Advanced Buddhist Studies). ISBN 4906267385.
