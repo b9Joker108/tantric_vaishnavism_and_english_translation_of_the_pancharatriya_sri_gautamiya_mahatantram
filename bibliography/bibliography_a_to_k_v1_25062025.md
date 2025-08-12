@@ -410,7 +410,11 @@ They cite and stand on a 'Tantric Age' but don't interrogate and qualify it. Tho
 * Burchett, Patton E. (2019d). '\[Chapter] 2: Sultans, Saints, and Songs - Persianate Culture, Sufism, and Bhakti in Sultanate India' (pp. 64-98) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper).
 
 **Purport:**<br>
-It was in incidental reading herein and whilst preparing this citation in passing and rote, that I came to appreciate the accomplished and lyrical wordsmith of Burchett and their artisanal setting of grammar and well-nested and fine *turn-of-phrase* that transcends the purely mercenary-*cum*-functional humdrum and stock *academic* (NB: collapsed polysemy) register of *rank-and-file* Académie and elevates (or sublimates) the standard reading and prosaic droll of non-fiction, to a beatified and rare pleasure of unexpected poetry: a 'Bhakt\[h]i' *\[arch.]* sensibility [guilt](https://en.wiktionary.org/w/index.php?title=guilt&oldid=85411168#Etymology_4) *\[obs.]* in Old World ['Cræft'](https://en.wiktionary.org/w/index.php?title=cr%C3%A6ft&oldid=84710142). In contrapuntal, my work is *affected* (NB: collapsed polysemy).
+It was in incidental reading herein and whilst preparing this citation in passing and rote, that I came to appreciate the accomplished and lyrical wordsmith of Burchett and their artisanal setting of grammar and well-nested and fine *turn-of-phrase* that transcends the purely mercenary-*cum*-functional humdrum and stock *academic* (NB: collapsed polysemy) register of *rank-and-file* Académie† and elevates (or sublimates) the standard reading and prosaic droll of non-fiction, to a beatified and rare pleasure of unexpected poetry: a 'Bhakt\[h]i' *\[arch.]* sensibility [guilt](https://en.wiktionary.org/w/index.php?title=guilt&oldid=85411168#Etymology_4) *\[obs.]* in Old World ['Cræft'](https://en.wiktionary.org/w/index.php?title=cr%C3%A6ft&oldid=84710142). In contrapuntal, my work is *affected* (NB: collapsed polysemy).
+
+**Key:**
+
+**†:** Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/august_v1_13082025.md#wednesday-august-13-2025--months-beginning (accessed: Wednesday, August 13, 2025)
 
 ### BURTON, A. ###
 
