@@ -416,6 +416,31 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 **^†:** Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/august_v1_13082025.md#wednesday-august-13-2025--months-beginning (accessed: Wednesday, August 13, 2025)
 
+* Burchett, Patton E. (2019e). '\[Chapter] 3: Akbar's New World: Mughals and Rajputs in the Rise of Vaishnava Bhakti' (pp. 99-126) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
+* Burchett, Patton E. (2019f). '\[Chapter] 4: Between Bhakti and Shakti: Religious Sensibilities Among the Ramanandis of Galta' (pp. 129-168) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
+* Burchett, Patton E. (2019g). '\[Chapter] 5: Nath Yogis and Ramanandi Bhaktas - Styles of Yoga and Asceticism in North India' (pp. 169-194) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
+* Burchett, Patton E. (2019h). '\[Chapter] 6: Agradas and the Circulation of Mughal Bhakti - Formations of Bhakti Community' (pp. 195-236) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
+* Burchett, Patton E. (2019i). '\[Chapter] 7: Yogis and Tantra-Mantra in the Poetry of the Bhakti Saints' (pp. 239-275) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
 ### BURTON, A. ###
 
 * Burton, Adrian P. (2000). 'Temples, Texts, and Taxes: the Bhagavad-Gita and the Politico-Religious Identity of the Chaitanya Sect - an Archival and Textual Investigation into the Text and Times of the Sarartha-Varshini Commentary on the Bhagavad-Gita by Vishvanatha Chakravarti'. Ph.D. dissertation. Canberra, A.C.T., Australia: The Australian National University (ANU). 
