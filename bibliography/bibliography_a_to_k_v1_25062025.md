@@ -441,6 +441,16 @@ It was in incidental reading herein and whilst preparing this citation in passin
 **Purport:**<br>
 ...
 
+* Burchett, Patton E. (2019j). '\[Chapter] 8: The Triumphs of Devotion - The Sufi Inflection of Early Modern Bhakti' (pp. 276-304) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
+* Burchett, Patton E. (2019k). 'Conclusion: Bhakti Religion and Tantric Magic' (pp. 305-311) in Burchett, Patton E. (2019a). *A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India*. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper). 
+
+**Purport:**<br>
+...
+
 ### BURTON, A. ###
 
 * Burton, Adrian P. (2000). 'Temples, Texts, and Taxes: the Bhagavad-Gita and the Politico-Religious Identity of the Chaitanya Sect - an Archival and Textual Investigation into the Text and Times of the Sarartha-Varshini Commentary on the Bhagavad-Gita by Vishvanatha Chakravarti'. Ph.D. dissertation. Canberra, A.C.T., Australia: The Australian National University (ANU). 
