@@ -932,6 +932,354 @@ In a broader world-historical context, Vedic aniconism is part of a cross-cultur
 
 **In summary, the Period of Vedic Aniconic India is not merely an absence or prelude to something else—it is a fully realized, philosophically rigorous, and culturally generative epoch that has left an indelible mark on the development of Indian civilization and religious thought, resonating through history and into the present.**
 
+
+
+Re: Aniconic, Mezzoconic, Iconic and Figurative and image worship: What are all the traditions, etic and emic terms for each, that are in the: Pre-Vedic, Extra-Vedic, Early Vedic, Middle Vedic, Late Vedic, Post-Vedic, and Vedantic stages, importantly all the non-Vedic Tantric Agamas. The Agamic and Shramanic traverse the aniconic to iconic boundary, but did the iconic birth from the aniconic or was its birth extra-aniconic?
+
+Here is a comprehensive breakdown of the **traditions, etic and emic terms** associated with aniconic, mezzoconic, iconic, figurative, and image worship across the Pre-Vedic, Extra-Vedic, Vedic, Post-Vedic, Vedantic, Agamic (Tantric), and Shramanic religious landscapes of India. I also address whether the iconic arose from the aniconic or had an independent ("extra-aniconic") birth.
+
+***
+
+## 1. Pre-Vedic (Indus Valley Civilization, c. 3000–1700 BCE)
+
+- **Traditions & Cults (Aniconic & Proto-Figurative):**
+  - Fertility cults, Mother-goddess cults, Vegetation/tree worship (e.g., pipal).
+  - Worship of animals (bulls, serpents), and phallic symbols (proto-linga).
+  - *No clear anthropomorphic images as central icons*, but figurines exist for practical/magical rather than devotional purposes[1][2][3].
+- **Etic/Emic Terms:**
+  - Terms are reconstructed by scholars: “aniconic”, "proto-iconic", "symbolic", "spirit tablets".
+  - Indigenous emic terms lost; later texts refer to these as "yaksas", "nagas" (spirits/energies)[3].
+- **Mode:** Sacred spaces (groves), altars, stones under trees.
+
+***
+
+## 2. Extra-Vedic (Tribal, Folk & Non-mainstream)
+
+- **Traditions:**
+  - Animism, spirit cults, local deities (grama devata), village goddesses.
+  - Sacred stones (sila), trees, animal representations.
+- **Etic/Emic Terms:**
+  - Aniconic: "yata", "yaksha-puja", "naga-puja".
+  - Non-Vedic deities assimilated as "yaksha", "naga", "grama devata"[3][4].
+- **Mode:** Localized, focus on presence rather than form.
+
+***
+
+## 3. Early Vedic (c. 1500–1000 BCE)
+
+- **Traditions:**
+  - Strictly aniconic: Ritual fire (Agni), soma (drink), natural powers (Indra, Varuna)[5][2][6][7].
+  - Nature personified but *not* imaged.
+- **Etic/Emic Terms:**
+  - "Yajna" (sacrifice), "devata" (deity), "prakriti" (nature).
+  - External terms: "henotheism", "kathenotheism" (academic terms)[5].
+
+***
+
+## 4. Middle Vedic (c. 1000–800 BCE)
+
+- **Traditions:**
+  - Still primarily aniconic; philosophical reflection increases (Aranyaka literature).
+  - Use of *symbolic objects* (e.g., altars, fire, soma, swastika as symbol)[8][9].
+- **Etic/Emic Terms:**
+  - "Rta" (cosmic order), "symbola" (used in scholarship for signs/symbols).
+
+***
+
+## 5. Late Vedic (c. 800–500 BCE)
+
+- **Traditions:**
+  - Early Upanishadic thought—more abstract, less focus on ritual images.
+  - Some **incipient figurative references** but no central image cults[2][6].
+- **Etic/Emic Terms:**
+  - "Brahman" (universal principle).
+  - "Puja" (develops later into image worship), "pratima" (statue/image)[10].
+
+***
+
+## 6. Post-Vedic & Vedantic (500 BCE onwards)
+
+- **Traditions:**
+  - Consolidation of philosophical schools (Vedanta, Samkhya, etc.).
+  - Image worship ("murti-puja") emerges for practical devotion; debated in philosophy[10][11][6].
+- **Etic/Emic Terms:**
+  - "Murti", "pratima", "arcana", "vigraha"—all terms for deity images.
+  - "Pratika-upasana" (symbolic worship), "Saguna" vs "Nirguna Brahman" (with/without attributes)[11].
+  - Advaita Vedanta downplays image worship as secondary but not wholly opposed[11].
+
+***
+
+## 7. Non-Vedic Tantric (Agamic) Traditions
+
+- **Traditions:**
+  - **Agamic (Tantra, Shaiva, Vaishnava, Shakta Agamas):**
+    - Combine Vedic mantras/Yajnas with Tantric ritual and iconographic schemes.
+    - Ritualistic focus on consecration and detailed worship of images[12][13].
+    - Emphasize both aniconic symbols (linga, yantra) and highly iconic forms (multi-armed deities).
+    - Temple worship formalized via Agamas/Tantras.[12]
+- **Etic/Emic Terms:**
+  - "Agama", "Tantra", "pratishtha" (installation), "bimba", "yantra", "murti", "shilpa-shastra" (icon-making manual).
+  - Specific iconographic terms: "Chala" (mobile images), "Achala" (fixed images), "Yantra" (geometric diagram), "Linga" (phallic symbol as aniconic or abstract)[12][13].
+
+***
+
+## 8. Shramanic Traditions (Buddhist, Jain)
+
+- **Traditions:**
+  - Early **Buddhist/Jain**: Aniconic phase (symbols: stupa, wheel, empty seat, tree)[14][15].
+  - Later: Iconic phase (anthropomorphic images of Buddha, Tirthankaras), strong didactic/teaching function.
+  - Regional styles: Gandhara, Mathura, Amaravati schools for figuration[14][15].
+- **Etic/Emic Terms:**
+  - Buddhist: "pratima" (image), "chaitya" (shrine), "stupa" (mound relic).
+  - Jain: "tirthankara pratima", "ayagapata" (votive tablet).
+
+***
+
+## 9. Transition: Aniconic to Iconic—Birth of Iconic from Aniconic or Extra-Aniconic?
+
+- The **iconic** in Indian religion **emerged both as an evolution of aniconic forms and as an incorporation of extra-aniconic (external/artisanal, Hellenistic, and local folk) influences**:
+  - **Internal Growth:** Vedic aniconic symbols (e.g., linga, fire altars) became concretized into anthropomorphic forms, particularly as forms of *Saguna* (embodied) worship gained prominence in Bhakti (devotional) traditions[12][14][4].
+  - **External/Extra-Aniconic:** The direct import and adaptation of figurative and narrative models (from folk, tribal, and Hellenistic/Gandharan sources—especially for Buddhist and Jain images) created an "extra-aniconic" basis for image worship. Iconic did not arise in a vacuum from aniconic alone but from a confluence[14][4].
+  - **Agamic and Shramanic Traditions:** Traversed aniconic-iconic boundaries deliberately; both approaches are acknowledged, sometimes combined in ritual and doctrine[12][13].
+
+***
+
+## Summary Table: Traditions and Terminology by Period/School
+
+| Period/School           | Modes     | Terms (Etic/Emic)                | Image Worship Character    |
+|------------------------|-----------|-----------------------------------|---------------------------|
+| Pre-Vedic              | Aniconic, Proto-fig. | Yaksha, Naga, Tree, Sila         | Absent; symbolic/animist  |
+| Extra-Vedic/Folk       | Aniconic  | Grama devata, Yaksha, Naga        | Localized, non-anthropic  |
+| Early Vedic            | Aniconic  | Yajna, Devata                     | Ritual/sacrificial/nature |
+| Middle Vedic           | Symbolic  | Rta, Swastika                     | Symbolic, indirect        |
+| Late Vedic             | Abstract  | Brahman, Pratima (incipient)      | Minimal, philosophical    |
+| Post-Vedic/Vedantic    | Mixed     | Murti, Arcana, Vigraha            | Accepted, often debated   |
+| Tantric/Agamic         | Iconic/Anic.| Murti, Yantra, Pratishtha, Linga | Central to worship        |
+| Buddhist/Jain (Shram.) | An.iconic/Iconic | Stupa, Pratima, Chaitya, Ayagapata | Gradual, regionally inflected |
+
+***
+
+**In summary:** India’s rich iconographic tradition traverses and interweaves the aniconic and iconic, with etic (scholarly) and emic (insider/doctrinal) terminology reflecting both continuity and transformation across eras. Iconic worship was not only born from aniconic roots but was also shaped by extra-aniconic, artisanal, and cross-cultural influences, emerging fully only in concert with regional, doctrinal, and material developments[3][12][14].
+
+Citations:
+[1] Religion in the Pre-Vedic Age (c3000-1700 BC) https://marbaniang.wordpress.com/2015/05/16/religion-in-the-pre-vedic-age-c3000-1700-bc/
+[2] Aniconic Forms: Definition, History & Cultural Perspectives https://www.aprearthouse.com/blogs/art-conservation/aniconic-forms-in-art
+[3] Pre-Vedic Traditions.... | PDF | Vaishnavism | Puranas - Scribd https://www.scribd.com/document/558830316/pre-vedic-traditions
+[4] From the Aniconic To The Iconic: The Folk God Transform, While ... https://www.jawharsircar.com/articles/from-the-aniconic-to-the-iconic-the-folk-gods-transform-while-dharma-resists.html
+[5] Early Vedic Period (1500 - 1000 BCE): Economy, Social Life https://www.nextias.com/blog/early-vedic-period/
+[6] 03 IMAGE-WORSHIP IN HINDUISM (May 1945) https://vk.rkmm.org/s/vkm/m/vedanta-kesari-1945/a/03-image-worship-in-hinduism-may-1945
+[7] Hindu deities https://smarthistory.org/hindu-deities/
+[8] [PDF] Vedic Symbols https://ia801600.us.archive.org/1/items/vedic-symbols-pranav-pandya/vedic-symbols-pranav-pandya.pdf
+[9] Vedic Period, Early and Later Vedic Period (1500 - 600 BCE) https://vajiramandravi.com/upsc-exam/vedic-period/
+[10] Image worship: Significance and symbolism https://www.wisdomlib.org/concept/image-worship
+[11] Advaita and Imagery: Sankara on Devotional Objects, and as ... https://arcjournal.library.mcgill.ca/article/download/735/750
+[12] Agama Shastra And Temple Worship https://sreenivasaraos.com/2012/09/07/agama-shastra-and-temple-worship/
+[13] Agama (Hinduism) https://en.wikipedia.org/wiki/Agama_(Hinduism)
+[14] Transcending Symbolism: The Transformation of Buddhist Art ... https://indiantempless.in/2025/07/24/transcending-symbolism-the-transformation-of-buddhist-art-from-aniconism-to-iconography/
+[15] The Buddha: Aniconic and Iconic Representation https://meral.edu.mm/record/5626/files/The%20Buddha%20Aniconic%20and%20Iconic%20Representation.pdf
+[16] Vedas - Wikipedia https://en.wikipedia.org/wiki/Vedas
+[17] Post-vedic literature - (Intro to Hinduism) - Fiveable https://library.fiveable.me/key-terms/introduction-hinduism/post-vedic-literature
+[18] Idolatry https://en.wikipedia.org/wiki/Idolatry
+[19] Vedic Literature: Types, Importance & More - NEXT IAS https://www.nextias.com/blog/vedic-literature/
+[20] Historical Vedic religion - Dharmapedia Wiki https://en.dharmapedia.net/wiki/Historical_Vedic_religion
+
+
+
+
+# The Emergence and Development of Iconic and Image-Based Religious Representation and Worship in Greater India: Underrepresented Regions and the Innovation of the Iconic
+
+---
+
+## Introduction
+
+The evolution of iconic and image-based religious representation in Greater India is an intricate and multi-layered phenomenon, intertwined with ecological, social, and sectarian histories. While mainstream Indological scholarship has traced image worship in classical India through its powerful urban polities and canonical Sanskrit traditions, the story of the “iconic” is far older and far richer, populated as much by village deities, grove guardians, sacred trees, yakshas, wells, and local goddesses as by the grand temples of major empires. The journey from oral lore and animistic cults to sophisticated Agamic traditions—especially Vaikhanasa and Pancharatra systems—unfolds across an enormous geographic continuum, including often-overlooked or underrepresented regions such as Kashmir, Nepal, Bengal, Bangladesh, South India, and Sri Lanka.
+
+Equally foundational in this development is the intersection between householder religiosity, village-level practices, shastric sciences, and artisanal mathematics, which, collectively, generated both the iconographic forms and the social infrastructure necessary to produce, install, and maintain sacred images. This report addresses each of these currents, giving special attention to the earliest attested appearances—oral, archaeological, and textual—of village deities, goddesses, sacred trees, groves, nagas, yakshas, and sacred wells. The dynamic role of Agamic traditions and the emergence of specific theistic deities—including Hayagriva, Narasimha, Sri, Lakshmi, Vishnu, Narayan, Balarama, and Vasudeva—are explored in both their mainstream and marginal expressions, including the points of intersection with Jain traditions. In so doing, the report demonstrates how iconic forms found their roots in the folk, the local, and the subaltern, even as they reached philosophical and ritual maturity in sectarian theistic Vedanta, Agamic compendia, and the technical sciences of image-making.
+
+---
+
+## Regional Developments
+
+### Kashmir: The Sacred Landscape and Its Iconic Stratigraphy
+
+Sacred groves, lakes, and springs have long formed the ecological and spiritual substratum of Kashmiri religiosity. These “Upvan,” “Nandan Van,” “Vatika,” and “Vraksha Vatika” are venerated as abodes of gods, goddesses, and supernatural beings and are closely interlinked with indigenous traditions of the Kashmiri Pandits and other communities[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.dailyexcelsior.com/hallowed-groves-of-kashmir-repositories-of-ecological-heritage/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1"). Specific trees and bodies of water—like the deodar (Devdaru), associated with Shiva; the chinar (Boen), identified with the Mother Goddess Bhawani; and mulberry trees, considered the abodes of bhairavas and yakshas—carry both folkloric and shastric sanctions. Equally, high-altitude lakes like Sheshnag, Vishnu Sar, and Manasbal have been worshipped as the seats of naga deities, with the Manasbal Lake geographically and mythically tied to the snake queen goddess Mansa Devi.
+
+Kashmir’s oral traditions, such as the story of the serpent king Nagrai and the princess Heemal, capture the syncretic mix of naga, goddess, and local spirit cults, while cave shrines and island groves like Braeri Maej serve as ritual centers where village deities and ancestral spirits are propitiated[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.thetalentedindian.com/against-silence-the-oral-tradition-of-kashmir/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://frontline.thehindu.com/books/oral-traditions-kashmir-conflict-cultural-resistance/article69841687.ece?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3"). The regular invocation of such beings at community festivals (e.g., Navreh, the Kashmiri new year) and household rituals (e.g., Shivratri) testifies to the embeddedness of these cults in local life.
+
+In recent years, archaeological discoveries, such as the 2025 unearthing of a cache of ancient stone idols (Shivlings and deity panels) beneath the sacred Karkoot Nag spring in Anantnag, have confirmed the presence of image worship—most notably Shiva and Vishnu—in Kashmir dating back at least to the Karkota dynasty (7th–9th centuries CE)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://arkeonews.net/kashmirs-forgotten-temple-shivlings-and-ancient-idols-found-beneath-sacred-spring/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://jammuvirasat.com/ancient-hindu-idols-emerge-during-shrine-excavation-in-kashmir/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5"). The site’s association with naga deities and its function as a dual shrine (Shaiva and Vaishnava) highlight its pivotal role in the cross-fertilization of folk and orthodox traditions.
+
+---
+
+### Nepal: Goddess and Yaksha Worship, and the Iconic Turn
+
+Nepal’s rich history intertwines the symbolic, the oral, and the iconic in unique ways. Archaeological finds from the Licchavi period (c. 200–879 CE), including dated copper and stone images, mark the transition from ancestral, effigy-based worship to anthropomorphic, iconic representation. A notable example is the 742 CE copper image of Indra from Kathmandu, which preserves both the ancestral function (as a sky-deity and agricultural protector) and the emergent formality of icon-worship[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/43548740/Three_Licchavi_Period_Sculptures_Under_One_Roof_The_Solomon_Family_Collection_of_Nepalese_Art_Part_One?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6"). Likewise, the 5th-century Trivikrama Vishnu relief from Changu Narayan temple expresses a theological transition toward cosmological motifs (e.g., sky-lion faces), ultimately reflecting the influence of early Vaishnavite Agamic symbolism.
+
+Local festivals like Indra Jatra maintain oral and performative traditions, employing scarecrow-like effigies (bumkhya) that predate Hindu influence and serve as both ancestral and fertility icons. These oral forms, deeply embedded in the Kathmandu Valley’s seasonal calendar, were gradually transformed into formal images and then installed in temple settings.
+
+Yaksha and Yakshi veneration, originally tied to agricultural and protective functions, persisted in Nepalese culture and are attested in both epigraphic sources and ritual festivals, testifying to a complex layering of indigenous and Sanskritic religious vocabulary[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://archive.org/stream/in.ernet.dli.2015.108426/2015.108426.Yaksha-Cult-And-Iconography_djvu.txt?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://link.springer.com/article/10.1007/s10781-014-9250-7?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "8").
+
+---
+
+### Bengal and Bangladesh: Groves, Goddesses, and Wells
+
+Sacred groves (than) are pervasive in rural Bengal, where local goddesses—Swarga Bauri, Sitala, Manasa, and Devimani—are venerated through both oral lore and physical architecture, often in temple-groves managed collectively by tribal and peasant communities[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ir.vidyasagar.ac.in/jspui/bitstream/123456789/1138/2/6.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.researchgate.net/profile/Supatra-Sen/publication/341150379_SACRED_GROVES_OF_WEST_BENGAL_AN_OVERVIEW_SUPATRA_SEN/links/5eb108d592851cb267741cab/SACRED-GROVES-OF-WEST-BENGAL-AN-OVERVIEW-SUPATRA-SEN.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10"). These groves, sometimes thousands of years old and possibly of pre-Vedic origin, serve as both biodiversity hotspots and community ritual centers. Annual events, such as Paus Sankranti and Durga Puja, mark the rhythmic cycle of village life, reinforcing group cohesion and the sacred status of groves and their tutelary deities.
+
+Oral traditions of the snake goddess Manasa and the disease goddess Sitala intersect with material practices such as the conservation of medicinal and sacred plants within groves. In some localities, fierce Tantric goddesses (e.g., Byaghrasini) are honored without image, emphasizing an older icon-less oral and ritual heritage that would later yield to image-based worship.
+
+In Bangladesh, step wells (baolis) have been discovered at sites such as Mahasthangarh, Yogir Bhavan, and the Fakir Chand Vaisnava Gosai Ashram, where wells and adjacent shrines serve not only utilitarian and healing functions but also sacred purposes[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://arfjournals.com/image/catalog/Journals%20Papers/JHAA/No%202%20%282021%29/5_Abul%20Hasem.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/77625434/INTO_THE_BAOLIS_STEP_WELLS_OF_BANGLADESH?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12"). Some wells are associated with Natha and Vaisnava traditions, revealing a syncretic blend of shakta, vaishnava, and folk elements.
+
+---
+
+### South India: Village Deities, Sacred Trees, and the Naga-Yaksha Axis
+
+South Indian religious ecology is defined by a dense web of village deities (gramadevatas), sacred trees, nagas, and yaksha shrines. Many of these cults predate Brahmanical and even Buddhist-Jain incursions and represent survivals of Dravidian animistic religion[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://magikindia.com/en/ayyanar-the-rural-temples-of-tamil-nadu/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://thrillingtravel.in/terracotta-horse-temple-ayyanar-temple-chettinad.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14"). Village goddesses such as Mariamman (associated with disease, rain, and fertility) are central to the religious and social landscape; her idol at Samayapuram is famously crafted from sand and herbal extracts and maintains healing powers, circumventing regular abhishekam in favor of unique, localized rituals[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Mariamman_Temple,_Samayapuram?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://cultureandheritage.org/mariamman-temple-samayapuram-trichy?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "16").
+
+Ayyanar, another major gramadevata, is worshipped alongside terracotta horses and elephants offered by potter-artisans (velars), highlighting the ritual centrality of image-making as a householder and community practice, not a monastic one. Shrines for nagas and yakshas, especially around village perimeters and wells, further reinforce the entwined destinies of folk and orthodox cults.
+
+Terracotta icon production, annual festivals like Maha Magam, and integration with sacred trees (bangles tied to their branches for fertility) indicate the deep intersection of ecological praxis, artisanal mathematics (e.g., in horse-making), and popular religiosity[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://thrillingtravel.in/terracotta-horse-temple-ayyanar-temple-chettinad.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14").
+
+---
+
+### Sri Lanka: Yakshi, Indigenous Goddesses, and the Vedda Heritage
+
+Sri Lanka’s mythic and archaeological record attests to a complex process of goddess and yakshi worship, rooted in the island’s ancient history. The Mahavamsa chronicles the presence and veneration of female yakshis such as Dasi Yakshi and Chethiya Yakshi during the pre-Buddhist period (4th century BCE), where shrines were constructed by King Pandukabhaya in recognition of their influence and cultic power[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ceylontoday.lk/2024/12/27/yakshi-deities-of-early-sri-lanka/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17"). Such cults involved the construction of abodes at Anuradhapura and other strategic locations, indicating both royal and popular sponsorship.
+
+The indigenous Vedda communities, with a heritage predating Indo-Aryan migration, maintain animistic, oral, and ritual practices centered on ancestor spirits (nae yaku) and forest goddesses (Kande Yakka), as well as symbolic veneration of sacred plants and trees[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.lanka.guide/sri-lankan-vedda-people-the-indigenous-guardians-of-sri-lankas-forest-heritage/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "18")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.heritageuniversityofkerala.com/JournalPDF/Volume8.2/33.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "19"). Their syncretic participation in local Hindu festivals (e.g., those of Murugan and Valli) further illustrates the permeability between indigenous, folk, and imported forms of iconic worship.
+
+---
+
+## Village Deities, Goddesses, Sacred Trees, Groves, Naga and Yaksha Cults: Earliest Attestations
+
+The emergence and persistence of village deities, goddesses, sacred trees, groves, naga and yaksha worship are attested across a variety of oral, archaeological, and textual records, often predating the grand temples and Agamic formalism typically emphasized in mainstream accounts.
+
+**Earliest Attested Appearances Table**
+
+| Region         | Cult Element                    | Evidence Type                | Approximate Date/Attestation                    | Description & Analysis                                                              |
+|----------------|--------------------------------|------------------------------|-------------------------------------------------|-------------------------------------------------------------------------------------|
+| Kashmir        | Sacred Groves, Naga Shrines     | Oral, Folklore, Archaeology  | Pre-Vedic - Karkota period (7th–9th c. CE)      | Living traditions, mythic genealogies; Karkoot Nag idols; groves, naga springs      |
+| Kashmir        | Goddess (Chinar etc.)           | Oral Lore, Puranic, Ritual   | Pre-Vedic through modern                        | Chinar as Bhawani; mulberry as Bhairava-yaksha; Satisar and Sapt Rishi legends     |
+| Kashmir        | Nagrai (Serpent King)           | Folk ballad, Shrine          | Living oral tradition                           | Ballad and river-spring shrine near Shopian                                         |
+| Nepal          | Goddess Indra effigy            | Oral, Archaeology, Inscribed | Pre-Hindu Indra Jatra, 742 CE copper statue     | Effigy cults; transition to metal/stone images (Licchavi period)                    |
+| Nepal          | Trivikrama Vishnu               | Stone sculpture, Epigraph    | 467 CE                                          | Cosmological iconography; convergence with Pancharatra form                         |
+| Bengal         | Swarga Bauri (grove goddess)    | Oral, Temple, Ritual         | Ongoing, pre-colonial, possibly pre-Vedic       | Swarga Baurir Than: maintained grove, brick temple, oral festival traditions        |
+| Bengal/BD      | Sitala, Manasa, Dharma Thakur   | Oral, SG Ritual, Sacred Trees| Late medieval, with pre-Vedic roots             | Worship in garam-than, manasa-than shrines; no idol in some cases, Tantric legacy   |
+| Bangladesh     | Sacred wells, stepwells (baoli) | Oral, Archaeology, Legend    | 18th–19th c. CE buildings, older lore           | Healing, immortality lore; adjacent temples to local deities, Natha/Vaisnava links  |
+| South India    | Mariamman                       | Oral, Ritual, Idol           | Living tradition, idol history (17th–18th c. CE squadron) | Samayapuram, sand/clay/herbal idol, unique householder worship modalities  |
+| South India    | Ayyanar, Karuppusamy            | Oral, Terracotta Figures     | Ongoing, terracotta horse offerings, pre-Vedic cultic status | Potters as ritual shaman-artisans, boundary gods with pre-Mahabharata roots         |
+| South India    | Naga, Yaksha shrines            | Archaeology, Ritual          | Nagarjunakonda, Mathura; early centuries CE     | Yaksha-toranas, snake stones, shrine architecture                                   |
+| Sri Lanka      | Dasi Yakshi, Chethiya Yakshi    | Mahavamsa, Archaeology       | 4th century BCE                                 | Royally sanctioned shrines, indigenous goddess cults; pre-Buddhist survivals        |
+| Sri Lanka      | Vedda ancestral ritual (nae yaku)| Oral ritual, Forest objects  | Living, prehistoric origins                     | Tree, lime, coconut rituals, ancestor cult, forest goddess worship                  |
+
+This distribution reveals a picture where village and householders—rather than elite or monastic figures—are the principal innovators and preservers of iconic forms, sometimes integrating, sometimes resisting, Sanskritic and Agamic standardization.
+
+---
+
+## Agamic Traditions: Vaikhanasa, Pancharatra (Bhagavata, Sattvata, Ekayana) and the Image Cult
+
+### Origins and Doctrinal Underpinnings
+
+#### Vaikhanasa Agama
+
+Vaikhanasa, initially a tradition of forest-dwelling ascetics, became one of the principal Vaishnava Agamas in South India[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://archive.org/details/v-aikhanasa-iconography?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "20")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Vaikhanasa?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "21"). By the 8th–10th centuries CE, Vaikhanasas are confirmed by inscriptional and textual evidence as temple priests and ritual compilers, especially trusted with the management of Vishnu temples in Tamil Nadu, Andhra, and Karnataka. Their core distinction is the worship of Vishnu as arcavatara—in iconic, temple-based form—with elaborate procedures of image-embodiment (samurtarcana), homa, and ablution. The emphasis on the “movable” (utsava) and “immovable” (mula) forms of Vishnu as the focus of ritual attention, and the claim to preserve Taittiriya Shakha vedic rites, set the group apart.
+
+Vaikhanasa texts, such as the Vaikhanasa Kalpasutra and Marichi Samhita, locate image-worship as an extension of fire-ritual (yajna), transposed to the temple setting, and integrating complex geometric patterns, proportion theory, and daily ritual cycles. The doctrines detail iconography, mantra, ritual purification, and the inclusion of householders and non-monastic practitioners in the ongoing cultus.
+
+#### Pancharatra: Bhagavata, Sattvata, Ekayana
+
+The Pancharatra movement, traceable to the late 3rd century BCE, synthesizes Vedic and Bhakti currents around the figure of Narayana/Vishnu and is preserved in over 200 Samhitas, of which the Bhagavata, Sattvata, Ekayana, and Jayakhya are prominent[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Pancharatra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "22")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/definition/bhagavata?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/concept/sattvata-tantra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "24")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://archive.org/details/in.ernet.dli.2015.496308?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25"). The movement’s signature innovation is the doctrine of emanations (Vyuha theory: Vasudeva, Sankarshana/Balarama, Pradyumna, Aniruddha), which transitions the formless Absolute into worshippable, iconic forms suitable for temple and household installation.
+
+Pancharatra Agamic texts elaborate detailed iconography (e.g., the Vaikuntha Chaturmurti), codify the Panchakala (fivefold daily acts including worship of icons—Archa), and stipulate that worship is accessible to all, not just renunciates. Consecration rituals in Pancharatra literature emphasize the sanctification of images via breath (prana-pratistha), detailed proportions (rupa-lakshana), and a blend between mathematical theory, aesthetic philosophy, and practical craft. The Sattvata Tantra, for example, foregrounds ritual purity and Vaishnavite theology, while the Ekayana tradition, later absorbed in mainstream Vaishnavism, also influences early Jain and Buddhist imagery.
+
+---
+
+### Image Innovation and Sectarian Synthesis
+
+From the Gupta period onward, Pancharatra influence is attested in temple complexes across the Deccan and Tamil country. South Indian Chola and Pallava temples combined Vaikhanasa and Pancharatra ritual forms, sometimes co-existing, sometimes competing, sometimes being reconciled by authorities such as Ramanuja and Vedanta Desika[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://hindu.mythologyworldwide.com/the-life-of-saint-ramanuja-a-spiritual-icon/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "26")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://iep.utm.edu/ramanuja/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27"). Ramanuja’s standardization of temple service and his explicit integration of Pancharatra doctrines in the Sri Vaishnava tradition mark a crucial point of philosophical and ritual convergence.
+
+Jainism also absorbed and repurposed Pancharatra imagery, especially in the case of Vasudeva and Balarama, whose images—with characteristic ploughs, maces, and serpent motifs—are found in Mathura region inscriptions, coins, and Jain canonical texts[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Balarama?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "28"). The cross-fertilization of the vasudeva icon between Jain, Buddhist, and Vaishnavite contexts further illustrates the porous boundaries of devotional and image-based innovation.
+
+---
+
+## Emergence of Specific Deities and Iconographies
+
+### Hayagriva
+
+The horse-headed deity Hayagriva, rare in the mainline Vedic tradition, emerges as an important figure in the Pancharatra and Vaikhanasa Agamas as the personification of knowledge and the vanquisher of ignorance (and/or demon Madhu-Kaitabha)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.shutterstock.com/search/hayagriva-image?image_type=illustration&citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "29")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Hayagriva_%28Buddhism%29?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "30"). Hayagriva’s icon is well-attested in Chola-period reliefs and is described in Hayashirsha Samhita (a Pancharatra text), with additional acceptances in Vajrayana Buddhist and Jain contexts, reflecting a widespread “iconic drift” from sect to sect.
+
+### Narasimha
+
+The lion-man Narasimha, already present in the Puranic literature, receives major ritual and iconographic attention in both Vaikhanasa and Pancharatra compendia. Relief panels from Mamallapuram (Mahishasuramardini Mandapa), Thanjavur, and other South Indian temples show the translation of the narrative form into highly specific, often ferocious, icons with scripturally mandated attributes (e.g., multiple arms, weapons)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://puratattva.in/mamallapuram-mahishasuramardini-mandapa/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "31")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://tirupatidarshanpackagefromchennai.com/trip/mahishasuramardini-cave-temple-in-mahabalipuram/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "32").
+
+### Lakshmi/Sri and Vishnu/Narayan
+
+Lakshmi and Sri’s image worship becomes prominent in the South Indian Agamic and Vedantic traditions, who, following Vaikhanasa doctrine, treat her as equal to Vishnu and essential for cosmic preservation and grace[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://iep.utm.edu/ramanuja/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27"). Formal iconographies, as described in Vishnu dharmottara purana and the Marichi Samhita, specify her positioning, attributes (lotus, elephants), and mutual presence with Vishnu and his avatars.
+
+### Vasudeva, Balarama, and Bhagavata Imagery
+
+Vasudeva-Krishna and Baladeva (Balarama) are among the oldest image-based divinities, with archaeological evidence from punch-marked coins and Indo-Greek issues (2nd-century BCE) and reliefs from Mathura and Jain caves in Ellora depicting the two with their signature attributes (mace, plough, serpent/Ananta)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Balarama?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "28"). Immergence manuscripts (e.g., Sattvata Tantra), icon guides (Padma Samhita, Paushkara Samhita), and ritual textual attestations confirm the diffusion and innovation of these forms in both Jain and Vaishnavite communities. The Bhagavata tradition, as systematized in the Gita and subsequent literature, radicalizes the accessibility and universality of both Vasudeva and Balarama.
+
+---
+
+## Shastric Sciences, Artisanal Mathematics, and the Iconic Worldview
+
+### Theoretical Frameworks
+
+The production of religious icons in Greater India, particularly from the early medieval period onward, reflects an advanced synthesis of shastric science (shilpa shastra), geometry, and artisanal skill. Iconometry, proportion theory (tala-mana), and canonical mathematical forms are developed in texts like the Manasara, Mayamata, and Shilparatna, integrating Vedic cosmology and mathematical reasoning into the very bodies of deities[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Shilpa_Shastras?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "33")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.divyakala.com/shilpa-shastra-course?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "34").
+
+Artisans—often from hereditary but sometimes heterodox backgrounds—received training in geometry, measurement, and material science (including knowledge of bronze, terracotta, stone, and herbal clays). The making of the Mariamman idol from sand, clay, and herbs at Samayapuram, or the terra-cotta horses for Ayyanar at the hands of village potters, exemplifies the fusion of local resource knowledge with formalized tradition[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Mariamman_Temple,_Samayapuram?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://thrillingtravel.in/terracotta-horse-temple-ayyanar-temple-chettinad.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14").
+
+The design of shrines, wells, and even sacred groves follows prescriptions that blend ecological propriety, cosmological alignment, and ritual efficacy. The making of stepwells (baolis) in Bangladesh, with their architectural complexity and sacred adjacency, similarly bespeaks a tradition in which “space” is constructed as much through sacred geometry as through collective labor[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/77625434/INTO_THE_BAOLIS_STEP_WELLS_OF_BANGLADESH?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+
+### Householders, Guilds, and the Democratization of Icon-Making
+
+Unlike the strictly priestly or monastic spheres, it is clear that much of the innovation and maintenance of iconic forms lies with landed householders, guilds, and village communities rather than with renunciates or urban elites. Sacred groves and shrines in Bengal are managed and protected by collective taboo and inherited oral sanction; Maramma and Ayyanar idols are commissioned by householders, and craftspeople (velars, potters, carpenters) possess specialized, sometimes hereditary, sometimes open, training. Charity, guild law, and kingly patronage provided further institutional grounding for the proliferation of images[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.researchgate.net/profile/Supatra-Sen/publication/341150379_SACRED_GROVES_OF_WEST_BENGAL_AN_OVERVIEW_SUPATRA_SEN/links/5eb108d592851cb267741cab/SACRED-GROVES-OF-WEST-BENGAL-AN-OVERVIEW-SUPATRA-SEN.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Shilpa_Shastras?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "33").
+
+The ability of artisans to produce, install, and periodically renew village icons (e.g., painting annual yaksha images in Jain traditions, recreating terracotta horses annually for Ayyanar), as well as to innovate in response to community demand and ecological context, is a key facet of the iconic tradition’s persistence and adaptability.
+
+---
+
+## The Worldview and Religious Transformation of Householders and Villages
+
+The evidence is overwhelming that iconic image worship in Greater India is not merely a top-down imposition of urban, Brahmanical, or monastic orthodoxy. Rather, it is the result of a centuries-long, dialogic process in which householder devotion, village ritual, oral tradition, and artisanal mathematics intersected with—and at times redirected—the evolutionary course of religious art and practice. Sacred groves, tree veneration, naga and yaksha shrines, terracotta and stone icons, wells and ponds—all are loci of collective and participatory religiosity, deeply invested in worldly concerns (health, fertility, rain, crops, protection).
+
+While Agamic traditions such as Vaikhanasa and Pancharatra provided the theoretical and procedural spine of iconic image-worship, it is the subaltern strata—householders, village women, artisan castes, and tribal communities—that built, maintained, and innovated upon these frameworks. The technical sciences, far from being the preserve of priests or intellectuals, were embedded in artisanal guilds, household craft, and oral transmission.
+
+---
+
+## Table: Earliest Attested Appearances of Key Deities/Cult Elements (Oral, Archaeological, Textual)
+
+| Deity/Cult Element       | Region         | Oral Lore            | Archaeological Evidence            | Textual Record                                   |
+|--------------------------|---------------|----------------------|------------------------------------|--------------------------------------------------|
+| Nagrai (Serpent King)    | Kashmir       | Ballad, proverbs     | River spring shrine (Shopian)      | Not in canonicals; folk-based                    |
+| Yaksha/Yakshi            | Nepal/Kashmir/Sri Lanka | Myths, festival effigies | Mathura, Yaksha statues, cave art | Rig Veda, Puranas, Mahavamsa Mahayana            |
+| Goddess (e.g., Rantas)   | Kashmir/Nepal | Oral, proverbs, folk | None specific                      | Later Tantric, Agamic works                      |
+| Sacred Trees/Groves      | Bengal/Kashmir/All regions | Proverbs, rituals  | Symbolic motifs, groves, temple sites | Vedic, Puranic, Agamic, shilpa shastra texts     |
+| Hayagriva                | South India/Nepal | Not cited           | Chola/Chalukya sculpture           | Pancharatra: Hayashirsha, Sattvata Samhita       |
+| Narasimha                | South India    | Chola legends        | Reliefs, temples (Thanjavur, Mamallapuram) | Vaikhanasa and Pancharatra Agamas          |
+| Vasudeva/Balarama        | Mathura/Bengal | Jain/Bhagavata lore  | Stone reliefs, punch-marked coins  | Bhagavata Purana, Jain canonical texts           |
+| Lakshmi/Sri              | All            | Ritual, household    | Temple-bronze, Pancharatra icons   | Vaikhanasa, Bhagavad Purana, Agamic references   |
+| Mariamman/Mariamman      | Tamil Nadu     | Oral, festival songs | Temple idol (sand/herbal), village shrines | Regional oral/liturgy, Samayapuram legends |
+| Ayyanar                  | Tamil Nadu/Sri Lanka | Oral, ritual     | Terracotta horses, village ponds   | Local lore, indirect in epics                    |
+| Swarga Bauri            | Bengal         | Oral, annual rituals | Grove temple, brick built          | None canonical; local sthalapuranas              |
+| Dasi Yakshi              | Sri Lanka      | Mahavamsa story      | Shrine site (Anuradhapura)         | Mahavamsa                                       |
+| Kande Yakka              | Sri Lanka Vedda| Ritual chants        | None specified                     | Vedda oral corpus                                |
+| Sacred Wells (Amrita Sagar, Kanach Kua) | Bangladesh/North Bengal | Local lore, festival | Baoli structures, temple ruins  | Ethnographic reports                             |
+
+---
+
+## Conclusion: Rethinking the Iconic in Greater India
+
+The emergence and development of image worship and iconic religious representation in Greater India is—as revealed above—a cumulative process shaped by ecoliteracy, householder practice, artisanal knowledge, regional tradition, and sectarian synthesis. In Kashmir, Nepal, Bengal, Bangladesh, South India, and Sri Lanka, the earliest cults centered not on abstracted philosophies but on tangible places, groves, trees, wells, and local spirits; their oral traditions, materialized in idols and shrines, formed the groundwork upon which later Agamic and Vedantic iconification built.
+
+The genius of the Vaikhanasa and Pancharatra Agamas lay in their ability to canonize, refine, and propagate image worship—creating both a template for pan-subcontinental religious art and a system that was, at its heart, open to innovation by householders and artisans. Image worship's skills—geometry, metallurgy, herbal science, proportion theory—belonged as much in the village as in the temple, as much to the potter and the smith as to the priest and the king.
+
+Ultimately, it was the religious worldview of householders and village communities—grounded in ecological reverence, communal labor, and oral transmission—that continuously re-generated the icon in South Asian religion. The iconic, thus, is not simply a product of monastic or scriptural invention, but a living, ever-evolving reflection of the creativity, fears, needs, and aspirations of a plural, localized, and often subaltern religiosity, shaping and being shaped by the land and its people.
+
+---
+
+
+
+
 There is layer upon layer of susequent theologising and hermeneutics from manifold quarters and positions, but in the earlist Vedic layers, Brahman and Prajapati (Brahma) (deity) are fundamentally linked. Brahman is the ground of the unmanifest about which nothing positive can be said, only defined by that which it is not, but it is also the ultimate ground of that which is manifest. But, the immediate ground of that which is manifest, is Brahma or Prajapati, glossed 'The Progenitor' or 'The Demiurge', and His four (4) faces demarcate Him as Kshetrabhu, the ground of the cosmic manifestation, of that which is manifest. Only later would Samkya bring in Purusha (Brahman) and Prakriti, where Prakriti later synchronised with Shakti.
 
 In the earliest Vedic and Upanishadic layers, **Brahman** is conceptualized as the ineffable, ultimate ground of reality—*the unmanifest, that which transcends all differentiation and cannot be positively defined, only described in terms of what it is not* (neti-neti)[1][2][7]. **Brahma**, as the four-faced creator deity, emerges later in Vedic cosmological thought as the proximate or *immediate ground* of manifestation, serving as the active principle through which the cosmos is made manifest from the unmanifest[3].
@@ -951,6 +1299,11 @@ Citations:
 [5] The Supreme Brahman is a Person https://www.ccdas.net/p/the-supreme-brahman-is-a-person
 [6] Brahman in Hinduism | Beliefs & Significance - Lesson - Study.com https://study.com/academy/lesson/brahmanism-beliefs-evolution-into-early-hinduism.html
 [7] Brahman - Routledge Encyclopedia of Philosophy https://www.rep.routledge.com/articles/thematic/brahman/v-1
+
+
+
+
+
 
 
 
