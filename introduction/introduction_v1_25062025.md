@@ -2071,6 +2071,79 @@ The transition from aniconic to iconic religious expression in ancient Greater I
 
 
 
+
+Much has been written on the auspicious marks of the Buddha and their iconography, but not necessarily their plastic timeline. As the plastic Jaina shrivatsa is attested in the 2nd century BCE, does  this pre-empt the extensive and detailed auspicious marks of the Samyaksambuddha?
+
+The question asks whether the plastic (sculptural) attestation of the Jaina Shrivatsa in the 2nd century BCE pre-empts the extensive and detailed auspicious bodily marks (lakshanas) of the Samyaksambuddha (the Fully Enlightened Buddha).
+
+Here is a detailed, evidence-grounded analysis based on the plastic timeline and iconographic history of these auspicious marks:
+
+***
+
+## 1. Plastic Timeline and Archaeological Evidence of the Jaina Shrivatsa
+
+- The **Shrivatsa symbol on Jaina Tirthankaras** is archaeologically attested from **the 2nd century BCE**, especially at sites like **Mathura (Kankali Tila)**, where sculptural reliefs and votive tablets show this chest emblem clearly as a distinctive mark of auspiciousness and spiritual knowledge.
+- This early explicit **plastic depiction of Shrivatsa firmly grounds its historic presence in early Indian religious art at least by the late Mauryan or Sunga periods**.
+
+## 2. Plastic Timeline of the Buddha’s Auspicious Marks (Lakshanas)
+
+- The **32 or 80 lakshanas (auspicious marks) of the Buddha** are well detailed in canonical texts such as the *Lakkhana Sutta*, part of the Pali Canon, and later commentaries.
+- However, **the earliest anthropomorphic images of the Buddha** with these detailed marks in sculptural form **only appear around the 1st century CE**, especially in the Greco-Buddhist art of Gandhara and the Mathura school.
+- Before this, the **early Buddhist art was largely aniconic (2nd century BCE to ~1st century CE)**, expressing the Buddha's presence symbolically through stupas, footprints, empty thrones, the Dharma wheel, and the Bodhi tree, but **not through detailed human representation or iconic marks**.
+- Concrete **plastic depictions of the Buddha bearing specific auspicious marks develop comparatively late, well after the Shrivatsa’s plastic attestation on Jaina figures**.
+
+## 3. Summary of the Comparative Plastic Chronology
+
+| Tradition      | Earliest Plastic Evidence of Distinguished Marks | Approximate Time Period | Nature of Representation                       |
+|----------------|--------------------------------------------------|------------------------|-----------------------------------------------|
+| Jain Shrivatsa | Shrivatsa chest mark on Tirthankaras              | 2nd century BCE        | Clear, explicit iconographic chest emblem    |
+| Buddha Lakshanas | Anthropomorphic images bearing one or more auspicious marks | 1st century CE onwards | Gradual sculptural depiction starts; earlier aniconic symbolism |
+
+## 4. Interpretation and Conclusion
+
+- The **Jaina plastic Shrivatsa predates the earliest sculptural forms of the Buddha showing detailed auspicious marks** by several centuries.
+- Early Buddhist representations were intentionally aniconic; the Buddha’s sacred body marks remained textual or symbolic rather than sculptural for a long period.
+- The **rich and detailed set of auspicious bodily marks of the Buddha became standardized in sculpture only with the emergence of anthropomorphic Buddhist art in the early centuries CE**, influenced by Greco-Roman and Indian craft traditions.
+- Therefore, the **plastic evidence shows that the Jaina Shrivatsa is indeed earlier than the detailed plastic auspicious marks of the Samyaksambuddha.**
+- The Buddha’s marks existed as a well-established *conceptual* and *textual* system before their sculptural manifestation, differing from the Jain case where the Shrivatsa was depicted plastically quite early.
+
+***
+
+## Additional Notes on Symbolic Transmission
+
+- This timing difference corresponds with the divergent artistic conventions of Jainism and Buddhism: Jainism adopted anthropomorphic images earlier, while Buddhism emphasized symbolic and aniconic modes in its initial phase.
+- The eventual appearance of Buddha’s auspicious marks in sculpture is part of the wider evolution of Buddhist iconography around the turn of the millennium.
+
+***
+
+If you want, I can provide a more detailed survey of specific archaeological sites, dates, and artistic schools related to the Buddha’s auspicious marks and early Jain sculptural tradition.
+
+***
+
+### Sources
+
+1. Buddhist symbolism and early aniconic to iconic art transition - Wikipedia (Buddhist symbolism)[1]
+2. Earliest Jaina Shrivatsa sculptures in Mathura - archaeological surveys and Jain art history  
+3. Analysis of the 32 auspicious marks (Lakshanas) of the Buddha and their historical artistic manifestations[3]
+
+***
+
+In conclusion, **the plastic Jaina Shrivatsa does pre-empt the extensive and detailed plastic auspicious marks of the Samyaksambuddha, which appear notably later in Buddhist art history.**
+
+Citations:
+[1] Buddhist symbolism - Wikipedia https://en.wikipedia.org/wiki/Buddhist_symbolism
+[2] The Eight Auspicious Signs - Mandala Publications - FPMT https://fpmt.org/mandala/archives/mandala-for-2014/july/eight-auspicious-signs/
+[3] 32 Marks of the Buddha | Nan Tien Temple https://www.nantien.org.au/en/buddhism/knowledge-buddhism/32-marks-buddha
+[4] The Eight Auspicious Symbols - Tibetan Monks - Salisbury University https://www.salisbury.edu/academic-offices/liberal-arts/cultural-affairs/monks-residency/eight-symbols.aspx
+[5] Buddhist (Symbols) Iconography and Ritul objects - BuddhaNet https://www.buddhanet.net/e-learning/history/symbols/
+[6] Ashtamangala - Wikipedia https://en.wikipedia.org/wiki/Ashtamangala
+[7] [PDF] Buddhism: Symbols, Art, and Aesthetics https://www.edu.gov.mb.ca/k12/docs/support/world_religions/buddhism/symbols.pdf
+[8] Buddhist Studies: The Eight Auspicious Symbols http://www.buddhistelibrary.org/buddhism-online/history/b8symbol.htm
+[9] Auspicious mark: Significance and symbolism https://www.wisdomlib.org/concept/auspicious-mark
+[10] Buddhist Symbols |Guide to the Symbols of Buddhism http://www.buddhistsymbols.org
+
+
+
 I just read that the Shrivasta is evident on the chests of Jaina Tirthankara and possibly other Jaina deities. I did not know this and I do not know the spatio-temporal specificity and historically nested examples. It is often only said to be evident on the chest of Bhagavan Sri Krishna. This makes me wonder of its early possible representation on the chest of Vasudeva (who synchronised with Krishna) and Balarama that are part of a Jaina-Bhagavata-Panchara continuum that I have not found explained anywhere. It kind of points to  Jaina-Bhagavata-Panchara and related traditions being more porous than is generally conveyed.
 
 Your observation about the **Shrivatsa** symbol appearing on the chests of Jaina Tirthankaras is indeed accurate and reveals fascinating intersections between Jaina, Bhagavata, and Pancharatra traditions that are often overlooked in standard religious discourse.
@@ -3333,7 +3406,225 @@ Citations:
 
 
 
+# The Earliest Attestations of the Deity Narasingha (Narasimha):  
+## Oral Lore, Literary Texts, and the Plastic Record Before the Narasihagatha
 
+---
+
+## Introduction
+
+The lion-headed avatar of Vishnu—*Narasingha* (alternatively Nrisimha, Narasimha, Narasinga, etc.)—is one of Hinduism’s most powerful and distinctive divinities. Widely revered as an incarnation embodying both protection and destruction, Narasingha’s mythic slaying of the demon Hiranyakashipu to save his devotee Prahlada has been foundational in Vaishnavism and Indian religious culture. Yet, the question of Narasingha’s earliest attestations—across oral lore, textual traditions, and the material (plastic) record—remains a highly complex subject, entailing the interwoven histories of Vedic, Upanishadic, Itihasic, Puranic, regional, agamic, and sectarian sources, as well as artistic and epigraphic evidence.
+
+This report systematically surveys the earliest credible references and representations of Narasingha *prior to the composition of the Narasihagatha* (the "Verses about a Lion-Man," known from early Buddhist tradition), and examines the spatial-temporal distribution and religious significance of these attestations. Special attention is given to the often-overlooked oral devotional usages in the Vaikhanasa and Pancharatra traditions, the debated positioning of Upanishadic and Itihasic notices vis-à-vis Puranic and Agamic elaborations, and comparative "lion-man" references in Buddhist and even extra-Indian sources. A comprehensive, cross-media summary table accompanies the narrative, and each record is extensively contextualized and analyzed.
+
+---
+
+## I. Oral Lore: Pre-Textual Devotional Tradition
+
+### 1. Vaikhanasa Tradition
+
+**Background and Historical Development:**  
+The Vaikhanasa tradition emerges from pre-classical forest-dwelling ascetics devoted to Vishnu. The oldest references to the Vaikhanasa are found in the *Manava Dharmashastra*, which discusses the vanaprastha (forest-dweller) stage and mentions a “Vaikhanasa rule”—an ascetic community predating much of classical Hinduism, possibly extending well before the common era[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Vaikhanasa?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1").
+
+**Devotional Practice and Iconography:**  
+Vaikhanasa ritual manuals (*samhitas*)—such as the *Vaikhanasa Kalpasutra* and *Sri Vaikhanasa Bhagavad Shastra* (from the 4th century CE onward)—elevate four aspects of Vishnu (Purusha, Satya, Achyuta, Aniruddha), prescribe the worship of his *arcāvatāra* (iconic forms), and give procedures for image worship that, in many regional sites, focus specifically on Narasingha. The *Marichi Samhita* gives clear precedence to *archana* (service to images) as the main mode of worship, foreshadowing temple-centric devotion[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Vaikhanasa?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ramanuja.org/sri/BhaktiListArchives/Article?p=nov2002/0001.html&citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").
+
+**Temples and Oral Cultus:**  
+Many South Indian temples under Vaikhanasa Agama usage—such as the *Yogananda Lakshmi Narasimha Swamy* at Mattapalli or *Sri Lakshmi Narasimha Swamy* at Vedadri and Mangalagiri—trace their rituals and oral legend to Vaikhanasa origins[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://kalyangeetha.wordpress.com/2018/03/23/map-of-narasimha-narasingh-temples/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Vaikhanasa?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1"). Oral myths relate the appearance of self-revealed Narasimha images in caves, worshipped by sages and later by kings, with traditions persisting through Guru-Shishya parampara (teacher-disciple lineage)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://kalyangeetha.wordpress.com/2018/03/23/map-of-narasimha-narasingh-temples/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+### 2. Pancharatra Tradition
+
+**Scriptural Context and Ritual Development:**  
+Pancharatra is another ancient Vaishnava tradition, organizing its doctrines and practices in a vast corpus of samhitas, many with unclear but deep antiquity. The Pancharatra tradition, according to *Shatapatha Brahmana* and references in the *Mahabharata* (Narayaniya, XII.335-351), was already regarded as a Vedic-compatible system for Vishnu-worship before the turn of the Common Era[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Pancharatra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.vedadhara.com/pancharatra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5").
+
+**Mantra and Iconic Focus:**  
+Pancharatra exemplars such as the *Ahirbudhnya Samhita* center on Narasimha as supreme, providing elaborate rituals, meditation techniques, and mantra systems specifically devoted to the lion-man deity[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://sameedh.com/ahirbudhnya-samhita/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.vedadhara.com/pancharatra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5"). Distinctive mantras like “*Om Namo Bhagavate Narasimhaya*” and liturgical forms such as the *Narasimha Kavacham* figure strongly in oral community praxis[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.ramana-maharshi.org/narasimha-the-man-lion-avatara-of-vishnu/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.vedadhara.com/pancharatra?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5").
+
+**Sectarian Networks and Sthala Puranas:**  
+Temples like Simhachalam and Ahobilam, though shaped in later periods, retain strong Pancharatra influence in their ritual styles, and local oral literature reflects the enduring centrality of Narasingha in the religious consciousness of the South[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Varaha_Lakshmi_Narasimha_temple,_Simhachalam?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "8")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://mystreal.com/temples/andra-pradesh/simhachalam-temple/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ahobilamrooms.com/ahobilam-temple-history-the-sacred-land-of-lord-narasimha/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10").
+
+### 3. Folk Legends, Temple Myths, and Regional Devotion
+
+**Diversity of Oral Expression:**  
+Regional folk legends in Andhra Pradesh, Karnataka, Tamil Nadu, and Himachal Pradesh document unique oral variations of the Narasingha myth—ranging from staged performances to healing cults, exorcism rituals, and community festivals[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://kalyangeetha.wordpress.com/2018/03/23/map-of-narasimha-narasingh-temples/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3"). Narratives often highlight divine interventions, supernatural phenomena at sacred sites (e.g., celestial music on full-moon nights at Simhachalam), and miracles attributed to the lion-headed god[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://mystreal.com/temples/andra-pradesh/simhachalam-temple/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9").
+
+**Village Deity Integration:**  
+In the Western Himalayas, the “Nar Singh Veer” of Mandi stands as a local guardian, and Mandiyali folklore relates experiences with the deity, blending mythic and social spheres in narrative performance. These accounts, circulated independently of Brahminical textuality, may substantially antedate scriptural codification.
+
+---
+
+## II. Literary Sources Across Epochs
+
+### 1. Vedic Antecedents: Proto-Lion Imagery and Mythological Roots
+
+**Direct Vedic Reference?:**  
+Scholarly consensus holds there is *no explicit, unequivocal lion-man (Narasimha) in the Vedic Samhitas*[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.peepultree.world/livehistoryindia/story/intersections/narasimha-origins-of-indias-lion-god?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12"). However, *Rigveda* 1.154 lauds Vishnu as a “wild beast, dreadful, prowling, mountain-roaming,” which, while not a man-lion motif, suggests a “terrible” and animal aspect possibly foundational to later iconography[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.peepultree.world/livehistoryindia/story/intersections/narasimha-origins-of-indias-lion-god?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13").
+
+**Brāhmaṇa Correlates:**  
+Certain Vedic myths, such as Indra’s slaying of the demon Namuci (cf. *Shatapatha Brāhmaṇa* 12.7.3.1–3), involve invulnerability conditions “neither by day nor night, neither by wet nor dry,” a motif subsequently reworked in the Narasingha legend (Hiranyakashipu’s boon). This “legalistic loophole” device is thus a classical Vedic inheritance, even if the specific man-lion ontology emerges later.
+
+### 2. Upanishadic Mentions: Philosophical Thematization and Mantra
+
+**Nrisimha Tapaniya Upanishad:**  
+This *Atharvavedic* Upanishad, certainly composed before the 7th century CE (evidenced by citation in Gaudapada's works), synthesizes Upanishadic non-dualism with avataric theology by equating *Atman*, *Om*, and Narasimha. The *Nrisimha Mantra* is central, described as “the king of all mantras,” whose recitation brings immortality and yogic perfection. The text describes Narasimha as both golden-red and black, half-lion, half-human, and philosophically embodies the power of illusion (maya)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Nrisimha_Tapaniya_Upanishad?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.vyasaonline.com/nrisimha-tapini-upanishad/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15").
+
+**Integration with Vaikhanasa and Pancharatra Lore:**  
+Recent scholarship argues the Upanishadic Narasimha is less a product of textual innovation and more a culmination of antecedent oral devotional practice from Vaikhanasa and Pancharatra streams[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.vyasaonline.com/nrisimha-tapini-upanishad/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Nrisimha_Tapaniya_Upanishad?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14").
+
+### 3. Itihasa References: Ramayana and Mahabharata
+
+**Ramayana:**  
+Multiple sources—scholarly and oral—affirm that the *Valmiki Ramayana* contains explicit mentions of Narasimha. These include metaphors likening Rama to a lion in battle, references to Sita’s protection by Narasimha, and, more crucially, allusions to Narasimha’s pillar-emergence (stambha) and the assurance that Vishnu is omnipresent, including in pillars[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esamskriti.com/e/Culture/Indian-Culture/Narasimha-in-Kamba-Ramayana-1.aspx?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "16").
+
+**Mahabharata:**  
+While not detailing the full myth, the *Mahabharata*’s *Vishnu Sahasranama* stotra opens with sobriquets such as “Narasimha-vapuḥ,” affirming the priority of the lion-man avatar in the eulogy of Krishna and Vishnu. Bhishma extols a deity with the destructive claws emblematic of Narasimha, not Krishna per se.
+
+**Harivamsa:**  
+This early supplement to the *Mahabharata* extensively references Narasimha, framing him among the “highest of gods” and tying his worship to early pan-Indian piety[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13").
+
+### 4. Puranic Attestations: Major and Regional (Upapuranas and Variant Narratives)
+
+**Canonical Puranas:**  
+Virtually every major Purana—*Vishnu*, *Bhagavata*, *Agni*, *Brahmanda*, *Vayu*, *Brahma*, *Matsya*, *Padma*, *Linga*, *Skanda*, *Kurma*, and *Siva*—repeats, elaborates, or regionalizes the Narasimha myth[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha_Purana?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "18").  
+Notably, the *Vishnu* and *Bhagavata Puranas* (c. 350–700 CE) provide the now-standard narrative: Hiranyakashipu’s boon, his tyrannical reign, Prahlada’s unwavering devotion, Narasimha’s emergence at dusk on the palace threshold, and the demon’s death at the avatar’s claws. The *Matsya Purana* lists Narasimha among the Upapuranas, showing early and widespread canonical status[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471561.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "19").
+
+**Upapuranas and Local Variants:**  
+The *Narasimha Purana*, dated with a core in the late 5th century CE, is an upapurana devoted solely to the lion-man, with sections elaborating his worship, genealogies, and praise, and also embedding older legend cycles. Regional Upapuranas like the *Brahmanda Purana* sometimes present alternate versions, e.g., where Prahlada’s presence is minimized or omitted, or where the “lion among men” rather than the hybrid is foregrounded—indicating the myth’s dynamic accretion and transmission[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17").
+
+**Sangam and Tamil Versions:**  
+The *Paripatal* (c. 300 BCE–300 CE), part of early Tamil Sangam literature, vividly describes Narasimha tearing open Hiranyakashipu and garlanding himself with entrails—a near-classical retelling[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13"). The *Kamba Ramayana* (Kamban’s version, c. 12th century CE) adapts the narrative powerfully for Tamil religious experience, vividly dramatising Prahlada’s innocence and Narasimha’s terrifying ferocity[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esamskriti.com/e/Culture/Indian-Culture/Narasimha-in-Kamba-Ramayana-1.aspx?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "16").
+
+**References in Vedic Appendices and Dharma Literature:**  
+Mentions in *Taittiriya Aranyaka*, *Chandogya Upanishad*, and *Apastamba Dharmasutra* situate Purana-like oral traditions within, or adjacent to, the Vedic canon[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17").
+
+### 5. Buddhist Lion-Man References
+
+**Bauddhadharma Lion Symbolism:**  
+Numerous early Buddhist texts and iconography refer to the Buddha as “*Shakyasimha*”—the Lion of the Shakyas—whose throne is supported by lions, and whose teaching is “the lion’s roar.” However, these references are clearly symbolic, not mythological or ontological, and do not appear to involve the composite, therianthropic man-lion structure essential to the Narasimha myth. The Buddha’s “lion jaw,” “lion’s voice,” and “lion’s stride” are cultural metaphors for royal courage and doctrinal power[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://tibetanbuddhistencyclopedia.com/en/index.php/Lion_Symbolism?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "20")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Shakyasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "21").
+
+**Lion-Man in Mahayana Buddhism:**  
+“Mahayana Bodhisattva Lion-Man,” as found in certain Mahayana texts, is likewise a symbol for courage and spiritual strength, representing the Bodhisattva’s path rather than a mythic deity or avatar[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/concept/lion-man?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "22").
+
+**Possible Cross-Influences and Convergence:**  
+While Buddhists utilized the lion for symbolic regal and teaching purposes, there is no direct evidence for a Buddhist man-lion hybrid deity echoing the full Narasingha myth before the Narasihagatha (which itself, as shown later, is a poetic text praising the Buddha or a “lion-man” by metaphor, not a mythical incarnation)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/Narasihagatha.htm?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23").
+
+**Mesopotamian Parallels:**  
+An intriguing but likely non-Indian precursor is the Sumerian "lion" metaphor invoked in the world's oldest love poem (Istanbul #2461 Tablet, Nippur, 21st century BCE), where a king is termed a “lion, dear to my heart”—showing the ancient role of the lion as a symbol of strength and desire, though still remote from the later man-lion of Indian theism[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/List_of_oldest_documents?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "24").
+
+---
+
+## III. The Plastic (Material) Record: Archaeological, Artistic, and Epigraphic Evidence
+
+### 1. Early Narrative Sculpture and Iconography
+
+**Mathura School:**  
+The earliest firmly datable images of Narasimha emerge from Mathura, Uttar Pradesh, and are conventionally traced to the 2nd–4th centuries CE. The Philadelphia Museum of Art houses a Mathura sandstone relief (c. 4th century CE) showing a seated, two-armed Narasimha, with Hiranyakashipu on his lap (the earliest known narrative depiction), replete with the Kaustubha jewel and dynamic composition[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11"). Narrative panels from Mathura, Garhwa (Uttar Pradesh), and Eran (Madhya Pradesh) detail both simple cultic and complex killing scenes, with iconographical development visible across time[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11").
+
+**Gupta Era Evolution:**  
+By the 5th century CE, full-fledged cult statues emerge, with standing, long-maned, two-armed forms, such as those at Eran and Tigowa, as well as four-armed types with complex iconographic programs. The Deogarh Dashavatara Temple and Mathura museums contain further forms in relief and in the round[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11").
+
+**Regional Variants and Expansion:**  
+In Andhra Pradesh, unique variants—such as at Kondamotu—depict a squatting, fully theriomorphic lion with human arms bearing Vaisnava emblems, flanked by heroes (“viras”), arguably a local vision of Narasimha.  
+By the 8th–10th centuries, images proliferate across India, with the Ahobilam and Simhachalam sites realizing the most elaborate forms of the *Nava Narasimha* (nine iconic manifestations)[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://indiabeyondcurry.com/2025/08/03/lord-narsimha-temples-scriptures/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "26")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://kalyangeetha.wordpress.com/2018/03/23/map-of-narasimha-narasingh-temples/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Varaha_Lakshmi_Narasimha_temple,_Simhachalam?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "8")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ahobilamrooms.com/ahobilam-temple-history-the-sacred-land-of-lord-narasimha/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10").
+
+### 2. Epigraphic and Numismatic Witnesses
+
+**Stone and Copperplate Inscriptions:**  
+The *Sripura stone inscription* of Mahasivagupta Balarjuna (8th century) invokes Narasingha, describing the demon’s terror at Narasingha’s claws, and narrates his slaying with powerful poetic imagery. Gaya and Khajuraho inscriptions use appellations such as Purushottama (the Supreme Person) and Purushasimha ("man-lion") in praise of Vishnu’s Narasingha form, and note offerings and temple dedications[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.radha.name/news/general-news/epigraphic-evidence-of-narasimha-avatara?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/history/essay/sripura-archaeological-survey/d/doc1149485.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "28").
+
+**Coins and Royal Imagery:**  
+Kushan-era coins, and later coins of the Gupta rulers, depict or are dedicated to Narasimha, showing his adoption as a royal and state deity. The material culture thus evidences both ritualistic and socio-political appropriations of the lion-man as a symbol of protection and sovereignty[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25").
+
+### 3. Terracotta, Bronze, and Temple Architecture
+
+**Terracotta Images:**  
+Archaeological finds from Kaushambi and Mathura include terracotta representations of the lion-man, with some candidates for early, non-canonical iconography, although precise dating is uncertain, and some may only be post-Gupta[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.ebay.com.au/itm/205528857157?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "29")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://picclick.com.au/Lord-Vishnu-Narasimha-Antique-Vintage-Terracotta-Pottery-Statue-266782936549.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "30")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.originalbuddhas.com/catalog/antique-terracotta-narasimha-statue-from-india-3830-21?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "31").
+
+**Bronze Figurines:**  
+Bronzes from Mirpur-Khas and associated with domestic cults show small-scale, portable icons of Narasimha intended for household shrines, mirroring wider Vaishnava statuette types and contributing to the proliferation of Narasimha worship into domestic religiosity[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25").
+
+**Temple Networks:**  
+Architectural forms centralize Narasimha as the presiding deity in major South Indian temples—e.g., Ahobilam, Simhachalam, Mattapalli—where elaborate complexes and annual festivals, sometimes centered on mysterious features like the hidden (submerged) feet of the deity, reinforce the mythic and ritual engagement with Narasimha. Intricate narrative sculptural programs and bilingual inscriptions, found from the 11th century onward, guarantee the temple’s and deity’s ongoing visibility and ritual centrality[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://mystreal.com/temples/andra-pradesh/simhachalam-temple/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://kalyangeetha.wordpress.com/2018/03/23/map-of-narasimha-narasingh-temples/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.whatshot.in/delhi-ncr/top-10-narasimha-temples-in-india-every-devotee-must-visit-c-45817?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "32")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ahobilamrooms.com/ahobilam-temple-history-the-sacred-land-of-lord-narasimha/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10").
+
+---
+
+## IV. Regional and Spatial-Temporal Distribution of Early Attestations
+
+**North India:**  
+Earliest plastic (artistic) and literary records (Mathura, Eran, Dashavatara) are concentrated in the Gangetic plain, but iconography spreads rapidly after the Gupta era across central and western India, with influential centers developing at Khajuraho (Madhya Pradesh), Osian (Rajasthan), and elsewhere[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/Gupta_art?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11").
+
+**South India:**  
+Oral and agamic traditions—Vaikhanasa and Pancharatra—are most alive in Andhra Pradesh, Telangana, and Tamil Nadu, with the oldest continuous temple usage at sites like Ahobilam and Simhachalam. Regional Puranas and Upapuranic texts often adapt classical narratives to local topography and ritual needs, indicating robust transmission and innovation[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ahobilamrooms.com/ahobilam-temple-history-the-sacred-land-of-lord-narasimha/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://mystreal.com/temples/andra-pradesh/simhachalam-temple/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17").
+
+**Western and Himalayan Regions:**  
+The figure of Narasimha as a local “veer” (heroic deity) is embedded in folkways from Odisha and the Western Himalayas, evident in the living Mandiyali traditions and in Odiya scriptural and ritual records[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.radha.name/news/general-news/epigraphic-evidence-of-narasimha-avatara?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27").
+
+---
+
+## V. Summary Table: Earliest Known Attestations of Narasingha Before the Narasihagatha
+
+| Medium / Tradition          | Specific Reference / Artifact      | Date / Period         | Region(s) / Site                  | Description / Significance                                                        |
+|-----------------------------|------------------------------------|-----------------------|------------------------------------|------------------------------------------------------------------------------------|
+| **Vedic Literature**        | Rigveda 1.154                      | c. 1200 BCE           | Pan-Indian                         | Vishnu as wild lion; possible proto-motif, not explicit man-lion form             |
+| **Brāhmaṇa Literature**     | Shatapatha Brāhmaṇa 12.7.3.1–3     | c. 800 BCE            | Pan-Indian                         | Indra kills Namuci with “neither-nor” boon; thematic precursor                    |
+| **Upanishad**               | Nrisimha Tapaniya Upanishad        | Pre-7th c. CE         | Pan-Indian (Sanskritic)            | Identifies Narasimha with Atman, Brahman, Om; man-lion discussed in mantra         |
+| **Itihasa (Ramayana)**      | Valmiki Ramayana, Kamba Ramayana   | Epic-Puranic          | Pan-Indian, Tamil Nadu             | Several explicit mentions, especially of the pillar-emergence                      |
+| **Itihasa (Mahabharata)**   | Vishnu Sahasranama, Harivamsa      | Epic-Puranic          | Pan-Indian                         | Opening salutation to “Narasimha-vapuḥ,” naming and glorifying lion-man            |
+| **Puranic (Canonical)**     | Vishnu, Bhagavata, Matsya, etc.    | 350–900 CE            | Pan-Indian                         | Elaborates full narrative; standardizes mythos and iconography                     |
+| **Upapurana (Narasimha Purana)** | Narasimha Purana               | c. late 5th c. CE     | Pan-Indian, South India            | Text exclusive to Narasimha, worship, iconography; early devotional focus           |
+| **Regional Literature**     | Paripatal (Tamil)                  | 300 BCE–300 CE        | Tamil Nadu                         | Early poetic retelling; detailed mythic and iconographic imagery                   |
+| **Oral Tradition (Vaikhanasa/Pancharatra)** | Extant ritual and myth  | Uncertain, ancient    | South India, Andhra, Tamil Nadu    | Pre-agamic devotional practices at main transitional sites                          |
+| **Sculpture (Mathura/Eran)**| Philadelphia Narasimha Relief, cult statues | 4th–5th c. CE  | Mathura (UP), Eran (MP)            | Oldest securely dated narrative and cultic images                                  |
+| **Sculpture (Andhra Pradesh)** | Kondamotu panel                 | c. 4th c. CE          | Kondamotu, AP                      | Squatting lion with human arms, earliest regional iconic depiction                 |
+| **Sculpture & Bronze**      | Terracotta (Kaushambi), bronzes    | Gupta/post-Gupta      | Kaushambi, Mirpur-Khas             | Household shrine statuary, expanding devotional accessibility                      |
+| **Inscriptions / Epigraphy**| Sripura Stone, Khajuraho, Ajmer    | 8th–10th c. CE        | Chhattisgarh, Rajasthan, Odisha    | Inscriptions invoking Narasingha, temple dedications, origin mythodule             |
+| **Temple Architecture**     | Ahobilam, Simhachalam, Mattapalli  | Established by 10th c. CE | Andhra Pradesh, Telangana      | Nine temples (Nava Narasimha), sandalwood paste (Simhachalam), hidden feet myth    |
+| **Buddhist Lion-Man**       | Shakyasimha (Lion of the Shakyas)  | Symbolic (6th c. BCE onward)| India, Nepal, Tibet          | Buddha as “lion” symbol, throne supported by lions, but no hybrid deity             |
+| **Mesopotamian**            | Istanbul #2461 (Sumerian)          | 2031 BCE              | Nippur, Mesopotamia                | Earliest lion-imagery in devotional poetry, not man-lion hybrid                    |
+
+---
+
+## VI. The Narasihagatha and the Question of Terminus Ante Quem
+
+The *Narasihagatha*, a small cluster of Pali verses addressed to a “lion (nara-sīha) of a man,” is often cited in Buddhist contexts as one of the earliest known references to a lion-man. But content analysis shows that this is a metaphor for the Buddha—praised for his bravery, regal virtue, or voice—not a mythic hybrid entity, and lacks any association with the slaying-of-the-demon mythos at the heart of Narasimha. Instead, it reflects the deep Indo-Iranian tradition of the lion as royal, virile, and spiritual archetype[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/Narasihagatha.htm?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://en.wikipedia.org/wiki/List_of_oldest_documents?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "24").
+
+What is decisive, then, is that all major textual, oral, and plastic evidence for a *theological, mythic, and ritual lion-man* in India—*before the Narasihagatha*—is non-Buddhist and arises within the evolving field of Vedic, Upanishadic, Puranic, Vaikhanasa, Pancharatra, and regional devotional cultures.
+
+Hence, the *terminus ante quem* for the development of the Narasimha cult and its iconography must be set at the latest by the late 5th century CE (Narasimha Purana), and for the plastic record to at least the 4th century CE (Philadelphia Narasimha relief), if not earlier for folk and oral roots[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471561.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "19")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.explorehinduheritage.in/public/pdf/Narsimha%20Purana/Narasimha%20Purana%20%28Joshi%29.pdf?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.academia.edu/3995355/Man_and_Man_Lion_The_Philadelphia_Narasimha?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.radha.name/news/general-news/epigraphic-evidence-of-narasimha-avatara?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27"). The cognate Buddhist and extraneous records, while symbolically significant, do not constitute direct precedents[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/Narasihagatha.htm?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23").
+
+---
+
+## Conclusion: The Significance of Early Narasingha Attestations
+
+The myth, icon, and cult of Narasingha are the product of complex, multi-layered processes of oral tradition crystallizing into literary canon and then into artistic-ritual facticity. The “man-lion” motif emerges not as a sudden invention, but as an intersection of Vedic cosmology, forest yogic asceticism, sectarian theology, regional devotional innovation, and political ideology. From the “lion” as wild beast in the Rigveda, through the philosophical meditations of the Upanishads, the battle metaphors and boons of the Itihasa, the formative dramatizations of the Puranas and Tamil poetry, to the tangible sanctuaries and murtis of the Gupta and post-Gupta era, Narasingha’s presence is at once mythic and historical—forever shifting yet always enduring.
+
+Critically, Vaikhanasa and Pancharatra traditions are shown to encode orally transmitted rites, mantras, and concepts of the “lion-man” that predate their agamic codification, and likely inform both the textual and sculptural record. The Upanishadic and Puranic notices, while more recent than the earliest oral layers, provide the theological infrastructure for the avatar’s later diffusion and reformulation—locally, regionally, and trans-sectarian. Buddhist and extra-Indian “lion-man” references stand as reminders of the cross-cultural universality of lion-ideals, but the mythologem of Narasingha as an avatar of Vishnu is distinctively South Asian, metrically interweaving the folk and philosophical, the metaphysical and the militant.
+
+This report demonstrates that by the time of the *Narasihagatha*, the figure of Narasingha had already become indelibly etched into the Indian cultural, spiritual, and artistic consciousness—its earliest roots traceable not to a single source, but to a broad, continuous, pan-Indian current of mythic imagination and devotional ingenuity.
+
+---
+
+## Table: Schematic Overview of Early Narasingha Attestations Across Media and Regions
+
+| Medium/Tradition          | Reference/Artifact/Tradition             | Date/Evidence                | Region                    | Analytical Notes                                      |
+|---------------------------|------------------------------------------|------------------------------|---------------------------|------------------------------------------------------|
+| Vedic Myth                | Rigveda 1.154                            | c. 1200–1000 BCE             | Pan-Indian                | Proto-lion attributes of Vishnu, no man-lion form     |
+| Vedic Brāhmaṇa            | Shatapatha Brāhmaṇa 12.7.3.1–3           | c. 800–600 BCE               | North India               | Motif of loophole-slain demon precursor to Narasimha  |
+| Upanishad                 | Nrisimha Tapaniya Upanishad              | Pre-7th c. CE                | Sanskritic, India-wide    | Man-lion as Atman/Oṃ, mantra system                   |
+| Itihasa                   | Valmiki/Kamba Ramayana, Mahabharata      | c. 400 BCE–400 CE            | Pan-Indian, S. India      | Pillar emergence, divine protection, stotra           |
+| Puranic                   | Vishnu/Bhagavata/Narasimha Purana        | 350–500 CE+                  | Pan-Indian/South India    | Definitive mythic narrative, ritual elaboration        |
+| Tamil Classical           | Paripatal, Kamba Ramayana                | 300 BCE–1200 CE              | Tamil Nadu                | Local poetic, performative, and theological integration|
+| Vaikhanasa/Pancharatra    | Ritual, oral, and temple tradition        | Uncertain/ancient            | South India, Andhra       | Pre-agamic ritual and mythic oral tradition            |
+| Sculpture                 | Mathura, Eran, Kondamotu, Kaushambi       | c. 4th–6th c. CE             | North and South India     | Oldest narrative and cult images, regional variants    |
+| Inscriptions/Epigraphy    | Sripura, Khajuraho, Gaya                 | 8th–10th c. CE               | Central, Eastern India    | Ritual and icon reverence, temple dedications          |
+| Terracotta/Bronze         | Kaushambi, Mirpur-Khas                    | 5th–6th c. CE+               | North India, Sindh        | Portable cultic images, non-elite devotional spread    |
+| Temple & Ritual           | Ahobilam, Simhachalam, Mattapalli         | 10th c. CE onwards           | Andhra Pradesh, TN        | Complex iconography, oral-inspired festivals           |
+| Buddhist Symbolism        | Shakyasimha, Man-Lion as Buddha image     | 6th c. BCE–CE                | India, Nepal, Tibet       | Metaphoric lion, not hybrid deity                     |
+| Sumerian Lion Metaphor    | Istanbul #2461, Lion in Devotion          | c. 2031 BCE                  | Nippur/Near East          | Extra-Indian symbol, no hybrid form                    |
+
+---
+
+**In sum, the pre-Narasihagatha landscape of Narasingha is an intricate tapestry—crosshatched by myth, oral performance, mantra, temple practice, and artistic expression—whose earliest roots respond as much to regional devotional invention as to pan-Indian cosmological speculation, surviving today in every prayer, every pillar, and every sanctuary dedicated to the lion-man who bridges the human and the transcendent.**
 
 
 
