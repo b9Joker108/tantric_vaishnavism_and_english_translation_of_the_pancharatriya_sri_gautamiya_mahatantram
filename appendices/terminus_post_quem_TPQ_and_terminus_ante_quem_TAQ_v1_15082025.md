@@ -666,3 +666,630 @@ Caveat: in historical disciplines we usually don’t assume the “true” date 
 
 If you want, I can sketch a little “engineering‑style” diagram that re‑labels the axes with TPQ/TAQ so you’ve got a visual bridge between the metrology and chronology senses.
 
+
+Yes — though not always with the Latin tags visible, the concept of terminus post quem and terminus ante quem is absolutely part of folkloristics and ethnology.  
+Folklore researchers often need to bracket when a given tale, song, custom, or material tradition could have arisen, spread, or fallen out of use, and they work with the same “earliest possible / latest possible” architecture you see in archaeology or manuscript studies.
+
+---
+
+📚 How the concept appears in Folkloric Studies
+
+| Application | TPQ/TAQ Logic in Action | Typical Evidence |
+|-------------|------------------------|------------------|
+| Earliest attestation of a motif | First datable recording, publication, or mention of a folktale, proverb, or song sets the TPQ for its documented circulation. | Manuscripts, early printed chapbooks, antiquarian collections, traveller’s accounts. |
+| Latest possible date for an “authentic” form | A change in performance context, vocabulary, or setting noted in ethnographic records can mark a TAQ for the earlier form. | Field recordings, collector’s notebooks, festival programmes. |
+| Material culture in folk practice | Introduction of a tool, costume, or design element provides a TPQ for that element’s appearance in ritual/celebration. | Costume studies, museum collections with secure provenance. |
+| Geographic spread of variants | TPQs from earliest datable variants in each region, TAQs from evidence of later replacement or suppression. | Comparative motif catalogues, linguistic mapping of variants. |
+| Intertextual borrowing | A ballad line demonstrably quoting a known literary work (itself datable) gives a TPQ for that version’s composition. | Poetic analysis, cross‑referencing with historical events. |
+
+---
+
+🛠 Conventions you’ll see
+
+- In Anglophone folklore journals, scholars often write out earliest attestation / latest attestation rather than TPQ/TAQ, to keep prose accessible.
+- In comparative and more technical studies (especially those intersecting with medieval studies or ethnomusicology), you do sometimes see TPQ/TAQ in apparatus, tables, or footnotes — particularly where the evidence is bibliographic or archaeological.
+- For motif indexes (like Aarne–Thompson–Uther), the principle is embedded in how ranges of evidence are reported: earliest securely dated source, latest secure source, with uncertainty discussed.
+- When drawing transmission diagrams for tales or songs, the bounds are sometimes shown visually as bars or shaded ranges — just as in archaeology.
+
+---
+
+🌏 Why it’s useful to folklorists
+
+- Dating oral tradition’s move into fixed form — when something migrates from purely oral performance to print or recording.
+- Correlating tradition change with historical events — political reforms, migrations, religious shifts often explain why a motif appears/disappears between TPQ and TAQ.
+- Separating “antiquity” claims from evidence — helps disentangle romanticized origin myths from the documentary record.
+- Integrating interdisciplinary data — e.g., aligning ballad spread with archaeological or linguistic datings.
+
+---
+
+If you like, I can put together a discipline‑bridging chart showing how TPQ/TAQ can be consistently formatted when you’re working across folklore, archaeology, and textual scholarship — so your notation doesn’t have to change when your object of study shifts from a temple frieze to a folksong.
+
+
+
+Absolutely — in Oral Lore research, the logic behind terminus post quem (TPQ) and terminus ante quem (TAQ) is woven into how scholars date and contextualize stories, songs, and performances that circulate without a fixed written form. The trick is adapting those archaeological‑sounding ideas to traditions whose life is in people and performance, not stone or paper.
+
+---
+
+🎙 How TPQ/TAQ works for oral traditions
+
+| Context in Oral Lore | What sets the TPQ | What sets the TAQ | Evidence types |
+|----------------------|------------------|------------------|----------------|
+| Earliest secure performance record | First verifiable field recording, ethnographic transcript, or participant testimony with a known date. | — | Audio archives, collector’s logs, published songbooks. |
+| Motif or linguistic element | Introduction of a loanword, neologism, or cultural reference datable in the wider culture. | Its disappearance or replacement by another form. | Linguistic analysis, sociohistorical timelines. |
+| Topical references in the lore | Mention of an event, figure, technology, or place only existing after a certain date. | Event becomes obsolete or is replaced in re‑tellings. | Historical correlation, variant comparison. |
+| Performance context | First time a ritual, festival, or venue is documented to host that lore item. | Last known appearance in that original context. | Festival programmes, visual documentation, oral histories. |
+| Inter‑tradition borrowings | Allusion to a datable song, proverb, or literary line from another tradition. | Subsequent suppression, censorship, or adaptation. | Comparative folkloristics, cross‑genre analysis. |
+
+---
+
+✨ Why this matters to oral‑centric studies
+
+- Anchoring the “floating gap” — oral traditions often telescope time; TPQ/TAQ helps pin them to real-world anchors.  
+- Tracking change across performance generations — you can see when a song’s lyrics shift to reflect new political realities, giving a TAQ for the older lyric set.  
+- Testing authenticity claims — if a “time‑immemorial” tale contains a brand‑name product or modern slang, the TPQ instantly snaps into focus.  
+- Aligning oral and written traditions — especially when a story later enters manuscript or print, so dating flows both ways.
+
+---
+
+If you’d like, I can sketch you a cross‑domain TPQ/TAQ reference sheet that aligns oral lore, textual, and material culture examples side by side — handy when your scope runs from a chanted mantra to an inscribed stele. That way your dating notation stays consistent, even as your object of study shifts. both ways.
+
+---
+
+If you’d like, I can sketch you a cross‑domain TPQ/TAQ reference sheet that aligns oral lore, textual, and material culture examples side by side — handy when your scope runs from a chanted mantra to an inscribed stele. That way your dating notation stays consistent, even as your object of study shifts.
+
+
+
+Here’s a cross‑domain TPQ/TAQ quick‑reference you can keep by your side when moving between oral lore, textual, and material culture projects — so your dating logic and notation stay consistent even as the evidence type changes.
+
+---
+
+📊 TPQ / TAQ: Oral – Textual – Material Culture
+
+| Evidence Domain | Typical TPQ Trigger (Earliest Possible Date) | Typical TAQ Trigger (Latest Possible Date) | Notes on Usage & Notation |
+|-----------------|----------------------------------------------|---------------------------------------------|---------------------------|
+| Oral Lore / Performance Studies | First verifiable field recording, ethnographic transcript, or participant testimony with a secure date; topical reference to a datable event or object in the performance. | Last documented performance in original form/context; replacement of topical references; disappearance from repertoires. | In prose: spell out “earliest attested” / “latest attested” for accessibility; in tables, TPQ 1954 / TAQ 1972 is acceptable. |
+| Textual Tradition / Manuscript Studies | Earliest datable witness (ms. copy, inscription, printed edition); quotation in another securely dated work. | Latest secure quotation, cataloguing, or translation before loss or alteration of the text. | In apparatus: place abbreviations before dates for alignment (TPQ c. 1450). In running commentary, expand: “…after 1450 (terminus post quem)…”. |
+| Material Culture / Archaeology / Art History | Datable object within a layer (coin, pottery type, diagnostic artifact); stylistic element first appearing in a known period. | Overlying feature or context with known date; stylistic change superseding earlier type; destruction layer. | Use TPQ/TAQ in find‑lists and strat tables. Always tie bound to method: TPQ 1204 (coin) / TAQ 1230 (rebuild). |
+
+---
+
+🖋 Formatting Consistency
+
+- In tabular or apparatus form: keep TPQ/TAQ before the date — it behaves like c., fl., r. and stays scannable.
+- In prose: expand the Latin (or translate) after the date for reader flow, especially in interdisciplinary publications.
+- Evidence tag: note the basis for each bound (TPQ 1204 [epigraphic] or TPQ 1204 (coin hoard)).
+- Era systems: tie the qualifier to the era explicitly: TPQ Śaka 1126 to prevent mis‑read in mixed‑calendar corpora.
+
+---
+
+🛠 Practical AI/Data‑Vis Adaptation
+
+When you bridge domains into databases, scripts, or visualisations:
+
+- Store bounds as notBefore / notAfter fields plus a display_string for human use.
+- Include evidenceType (oral, manuscript, material) so visuals can use different glyphs or colours.
+- In visual timelines, render oral‑lore bounds as lighter/“fuzzier” bars to signal oral tradition’s fluidity; textual/material as sharper‑edged ranges.
+
+---
+
+If you’d like, I can mock up a one‑page wall chart that visually maps these three evidence streams to a common horizontal “terminus band” diagram — so at a glance you and collaborators can see how a folksong, its first printed text, and an associated festival costume all interlock in the same TPQ/TAQ framework. quotation, cataloguing, or translation before loss or alteration of the text. | In apparatus: place abbreviations before dates for alignment (TPQ c. 1450). In running commentary, expand: “…after 1450 (terminus post quem)…”. |
+| Material Culture / Archaeology / Art History | Datable object within a layer (coin, pottery type, diagnostic artifact); stylistic element first appearing in a known period. | Overlying feature or context with known date; stylistic change superseding earlier type; destruction layer. | Use TPQ/TAQ in find-lists and strat tables. Always tie bound to method: TPQ 1204 (coin) / TAQ 1230 (rebuild). |
+
+---
+
+🖋 Formatting Consistency
+
+- In tabular or apparatus form: keep TPQ/TAQ before the date — it behaves like c., fl., r. and stays scannable.
+- In prose: expand the Latin (or translate) after the date for reader flow, especially in interdisciplinary publications.
+- Evidence tag: note the basis for each bound (TPQ 1204 \[epigraphic] or TPQ 1204 (coin hoard)).
+- Era systems: tie the qualifier to the era explicitly: TPQ Śaka 1126 to prevent mis‑read in mixed‑calendar corpora.
+
+---
+
+🛠 Practical AI/Data-Vis Adaptation
+
+When you bridge domains into databases, scripts, or visualisations:
+
+- Store bounds as notBefore / notAfter fields plus a display_string for human use.
+- Include evidenceType (oral, manuscript, material) so visuals can use different glyphs or colours.
+- In visual timelines, render oral-lore bounds as lighter/“fuzzier” bars to signal oral tradition’s fluidity; textual/material as sharper-edged ranges.
+
+---
+
+If you’d like, I can mock up a one-page wall chart that visually maps these three evidence streams to a common horizontal “terminus band” diagram — so at a glance you and collaborators can see how a folksong, its first printed text, and an associated festival costume all interlock in the same TPQ/TAQ framework.
+
+
+Let’s enrich that principle into a fully‑fledged style convention so it works as a precision instrument rather than just a passing habit.
+
+---
+
+🎯 The Principle
+Always tie each chronological bound to the evidential basis that defines it.  
+This keeps TPQ/TAQ from becoming abstract numbers floating in space; it roots them in why those limits are valid.
+
+> Example: TPQ 1204 (coin) / TAQ 1230 (rebuild)
+
+Here, a coin sets the earliest‑possible date, and a documented rebuild fixes the latest‑possible date.
+
+---
+
+📐 Why it’s good scholarly hygiene
+1. Source transparency — The reader knows exactly what artefact, context, or observation generated the bound.
+2. Methodological rigour — It’s a reminder that dates are inferred from evidence, not self‑evident.
+3. Disambiguation — Same numeric bound can arise from different evidence types; tagging prevents confusion.
+4. Cross‑discipline intelligibility — An archaeologist, epigrapher, and folklorist can read your table and instantly understand the anchor without domain‑specific guesswork.
+5. Aid to verification — Future researchers can revisit the specific item or dataset to confirm/refine the bound.
+
+---
+
+🛠 Notation Conventions
+
+| Element | Convention | Examples |
+|---------|------------|----------|
+| Order | Qualifier → Date → (Evidence) | TPQ 1450 (watermark) |
+| Parentheses | Round brackets for terse evidence tags; avoid prose in‑line | TAQ 1588 (fire) |
+| Evidence tag form | Use concise noun phrase; lower case unless proper noun | (coin), (rebuild), (Rajendra I regnal yr 12) |
+| Multiple bases | Separate with semicolons or commas | TPQ 950 (pottery; inscription) |
+| Uncertain evidence | Add ? after tag or bound | TPQ c. 950 (pottery?) |
+| Era/calendar | Keep inside bound if tied to that evidence | TAQ Śaka 1126 (inscription) |
+
+---
+
+📊 Cross‑Domain Examples
+
+- Archaeology: TPQ 1204 (coin hoard) / TAQ 1230 (foundation trench).
+- Palaeography: TPQ c. 1450 (watermark) / TAQ 1473 (catalogue entry).
+- Oral lore: TPQ 1954 (field recording) / TAQ 1972 (last festival performance).
+- Folklore‑text interface: TPQ 1878 (first printed ballad) / TAQ 1905 (variant in child’s notebook).
+- Epigraphy: TPQ Vikrama 1006 (inscription) / TAQ Vikrama 1012 (overstruck coin).
+
+---
+
+💡 Best‑practice refinements
+- Define your evidence codes in a sigla list or legend if you use terse abbreviations.
+- Stay consistent in tag syntax across the entire work — e.g., always (material) rather than sometimes (by material evidence) and sometimes (mtrl).
+- In digital records, split into:
+  - notBefore: 1204, evidenceType: coin
+  - notAfter: 1230, evidenceType: rebuild
+  - This keeps your display string human‑friendly and your metadata parse‑friendly.
+
+---
+
+If you like, I can mock up a “terminus annotation key” template you can drop into any catalogue, table, or critical apparatus so every bound in your project automatically carries its method tag without you reinventing the wheel each time. Would that be useful?
+
+
+Here’s a ready‑to‑adapt YAML front‑matter cheat sheet you can use to carry TPQ/TAQ metadata — plus the other bibliographic/context fields you’re likely to juggle — in any plain‑text‑friendly environment (Markdown, Jekyll/Hugo sites, static‑site generators, TEI preprocessing, or for passing to scripts/AI parsers).
+
+---
+
+📄 YAML Front-Matter Conventions
+
+```yaml
+
+--- delimits start/end of YAML in many systems (Markdown, SSGs, etc.)
+---
+id: MS-048                            # unique record identifier
+title: "Inscription commemorating rebuild"
+creator:
+  - name: "Beauford"
+  - role: editor
+collection: "Vasantgarh Inscriptions"
+location:
+  site: "Vasantgarh"
+  region: "Rajasthan, India"
+  coordinates: [24.938, 72.387]
+calendar: proleptic_gregorian         # or 'saka', 'vikrama', etc.
+dating:
+  not_before: 1204                    # TPQ
+  not_after: 1230                     # TAQ
+  tpq_basis: "coin hoard"
+  taq_basis: "foundation rebuild"
+  precision: year
+  certainty: high
+  era_original:
+    system: "Śaka"
+    value: 1126
+    script: "IAST"
+description: >
+  Stone inscription set into the east wall, referencing the
+  recent rebuilding of the shrine.
+evidence:
+  - type: epigraphic
+  - type: numismatic
+bibliography:
+  - author: "Smith, J."
+    year: 1984
+    title: "Survey of Vasantgarh"
+    journal: "Epigraphia Indica"
+    volume: 42
+    pages: "123–145"
+rights: CC BY 4.0
+provenance:
+  recorded_by: "A. Epigrapher"
+  recorded_on: 2025-08-15
+notes: |
+  TPQ/TAQ always tied to evidential method in parentheses for apparatus and tables.
+---
+```
+
+---
+
+🔹 Key Conventions
+
+- Three dashes (---) at top and bottom delimit YAML in Markdown/SSG contexts; omit the closing fence if your processor doesn’t require it (some stop at first blank line).
+- Lower‑case keys for machine‑friendliness; snake_case for multi‑word keys.
+- Group related data under nested maps (dating, location) to keep semantic cohesion.
+- Typed arrays for multiple entries (e.g. multiple creators, evidence types).
+- Explicit TPQ/TAQ basis so bounds never float free from their evidential anchors — mirrors your “TPQ 1204 (coin) / TAQ 1230 (rebuild)” scholarly convention.
+- Calendar + era_original fields preserve both normalized and source dating.
+- precision and certainty can be controlled‑vocabulary enums for downstream scripts/visualisations.
+- Folded (>) vs literal (|) blocks: use > for paragraph‑flow text; | for preserving line breaks (quotations, apparatus).
+
+---
+
+🛠 Parsing & AI‑Readiness
+
+- Flat + nested hybrid gives both human legibility and easy pathing for YAML/JSON parsers (dating.notbefore, dating.tpqbasis).
+- No free‑form TPQ/TAQ strings in machine keys — always break into explicit fields so code can sort, compare, and visualise without regex guesswork.
+- For visual timelines, your scripts can lift notbefore/notafter and tag them with tpqbasis/taqbasis in tooltips.
+
+---
+
+If you’d like, I can produce a companion JSON Schema that validates this front‑matter — enforcing that any notbefore must have a tpqbasis, and any notafter must have a taqbasis — so your whole corpus stays consistent whether it’s folklore, manuscript, or material culture data.
+
+Here’s a ready‑to‑adapt YAML front‑matter cheat sheet you can use to carry TPQ/TAQ metadata — plus the other bibliographic/context fields you’re likely to juggle — in any plain‑text‑friendly environment (Markdown, Jekyll/Hugo sites, static‑site generators, TEI preprocessing, or for passing to scripts/AI parsers).
+
+---
+
+📄 YAML Front‑Matter Conventions
+
+```yaml
+
+--- delimits start/end of YAML in many systems (Markdown, SSGs, etc.)
+---
+id: MS-048                            # unique record identifier
+title: "Inscription commemorating rebuild"
+creator:
+  - name: "Beauford"
+  - role: editor
+collection: "Vasantgarh Inscriptions"
+location:
+  site: "Vasantgarh"
+  region: "Rajasthan, India"
+  coordinates: [24.938, 72.387]
+calendar: proleptic_gregorian         # or 'saka', 'vikrama', etc.
+dating:
+  not_before: 1204                    # TPQ
+  not_after: 1230                     # TAQ
+  tpq_basis: "coin hoard"
+  taq_basis: "foundation rebuild"
+  precision: year
+  certainty: high
+  era_original:
+    system: "Śaka"
+    value: 1126
+    script: "IAST"
+description: >
+  Stone inscription set into the east wall, referencing the
+  recent rebuilding of the shrine.
+evidence:
+  - type: epigraphic
+  - type: numismatic
+bibliography:
+  - author: "Smith, J."
+    year: 1984
+    title: "Survey of Vasantgarh"
+    journal: "Epigraphia Indica"
+    volume: 42
+    pages: "123–145"
+rights: CC BY 4.0
+provenance:
+  recorded_by: "A. Epigrapher"
+  recorded_on: 2025-08-15
+notes: |
+  TPQ/TAQ always tied to evidential method in parentheses for apparatus and tables.
+---
+```
+
+---
+
+🔹 Key Conventions
+
+- Three dashes (---) at top and bottom delimit YAML in Markdown/SSG contexts; omit the closing fence if your processor doesn’t require it (some stop at first blank line).
+- Lower-case keys for machine-friendliness; snake-case for multi-word keys.
+- Group related data under nested maps (dating, location) to keep semantic cohesion.
+- Typed arrays for multiple entries (e.g. multiple creators, evidence types).
+- Explicit TPQ/TAQ basis so bounds never float free from their evidential anchors — mirrors your “TPQ 1204 (coin) / TAQ 1230 (rebuild)” scholarly convention.
+- Calendar + era_original fields preserve both normalized and source dating.
+- precision and certainty can be controlled‑vocabulary enums for downstream scripts/visualisations.
+- Folded (>) vs literal (|) blocks: use > for paragraph‑flow text; | for preserving line breaks (quotations, apparatus).
+
+---
+
+🛠 Parsing & AI‑Readiness
+
+- Flat + nested hybrid gives both human legibility and easy pathing for YAML/JSON parsers (dating.notbefore, dating.tpqbasis).
+- No free‑form TPQ/TAQ strings in machine keys — always break into explicit fields so code can sort, compare, and visualise without regex guesswork.
+- For visual timelines, your scripts can lift notbefore/notafter and tag them with tpqbasis/taqbasis in tooltips.
+
+---
+
+If you’d like, I can produce a companion JSON Schema that validates this front-matter — enforcing that any notbefore must have a tpqbasis, and any notafter must have a taqbasis — so your whole corpus stays consistent whether it’s folklore, manuscript, or material culture data.
+
+
+JSON schema and YAML key conventions for TPQ/TAQ metadata
+
+Below is an enforceable JSON Schema for your TPQ/TAQ front‑matter plus pragmatic conventions for YAML keys (including multi‑word cases), followed by ready‑to‑use examples.
+
+---
+
+JSON Schema for TPQ/TAQ front‑matter
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/terminus-frontmatter.schema.json",
+  "title": "Terminus Front-Matter",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "creator": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "role": { "type": "string" }
+        },
+        "required": ["name"],
+        "additionalProperties": false
+      }
+    },
+    "collection": { "type": "string" },
+    "location": {
+      "type": "object",
+      "properties": {
+        "site": { "type": "string" },
+        "region": { "type": "string" },
+        "coordinates": {
+          "type": "array",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2
+        }
+      },
+      "additionalProperties": false
+    },
+    "dating": {
+      "type": "object",
+      "properties": {
+        "not_before": {
+          "oneOf": [
+            { "type": "integer", "minimum": -9999, "maximum": 9999 },
+            { "type": "string", "pattern": "^-?\\d{4}(-\\d{2}(-\\d{2})?)?$" }
+          ],
+          "description": "Earliest possible date (TPQ). Year or ISO 8601 date."
+        },
+        "not_after": {
+          "oneOf": [
+            { "type": "integer", "minimum": -9999, "maximum": 9999 },
+            { "type": "string", "pattern": "^-?\\d{4}(-\\d{2}(-\\d{2})?)?$" }
+          ],
+          "description": "Latest possible date (TAQ). Year or ISO 8601 date."
+        },
+        "tpq_basis": { "type": "string", "minLength": 1 },
+        "taq_basis": { "type": "string", "minLength": 1 },
+        "precision": {
+          "type": "string",
+          "enum": ["day", "month", "year", "decade", "quarter-century", "century"]
+        },
+        "certainty": { "type": "string", "enum": ["high", "medium", "low"] },
+        "calendar": {
+          "type": "string",
+          "enum": [
+            "proleptic_gregorian",
+            "julian",
+            "saka",
+            "vikrama",
+            "hijri",
+            "buddhist_be",
+            "regnal",
+            "custom"
+          ]
+        },
+        "era_original": {
+          "type": "object",
+          "properties": {
+            "system": { "type": "string" },
+            "value": {
+              "oneOf": [
+                { "type": "integer" },
+                { "type": "string" }
+              ]
+            },
+            "script": { "type": "string" }  / e.g., IAST, Devanagari, Bengali /
+          },
+          "additionalProperties": false
+        },
+        "edtf": {
+          "type": "string",
+          "pattern": "^(\\.?\\.?|-?\\d{4}([\\-\\/]\\d{2}([\\-\\/]\\d{2})?)?)(\\/|$)"
+        },
+        "basis": { "type": "string" },          / optional global rationale /
+        "evidence": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "provenance": {
+          "type": "object",
+          "properties": {
+            "assertedBy": { "type": "string" },
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+            }
+          },
+          "additionalProperties": false
+        },
+        "display_string": { "type": "string" }
+      },
+      "required": ["calendar"],
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": { "required": ["not_before"] },
+          "then": { "required": ["tpq_basis"] }
+        },
+        {
+          "if": { "required": ["not_after"] },
+          "then": { "required": ["taq_basis"] }
+        },
+        {
+          "anyOf": [
+            { "required": ["not_before"] },
+            { "required": ["not_after"] }
+          ]
+        },
+        {
+          "if": { "required": ["notbefore", "notafter"] },
+          "then": {
+            "properties": {
+              "not_before": { "$ref": "#/$defs/BoundValue" },
+              "not_after": { "$ref": "#/$defs/BoundValue" }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "required": ["id", "title", "dating"],
+  "additionalProperties": false,
+  "$defs": {
+    "BoundValue": {
+      "oneOf": [
+        { "type": "integer" },
+        { "type": "string" }
+      ]
+    }
+  }
+}
+```
+
+---
+
+YAML key conventions (including multi‑word keys)
+
+- Preferred casing:  
+  - snake_case for keys is the most interoperable across JSON, Python, JavaScript, and query languages.  
+  - Avoid hyphens in machine‑faced keys: kebab-case forces quoting or bracket access in many languages.  
+  - Lowercase enums/identifiers for predictability.
+
+- Multi‑word keys (when unavoidable):  
+  - Quote them: "date of issue": "1901-06-01".  
+  - Mirror with a machine alias so code never depends on spaced keys:  
+    - "date of issue": "1901-06-01" and dateofissue: "1901-06-01".  
+  - Document the aliasing rule once in your style guide (e.g., “spaced keys are display-only; snake_case keys are canonical”).
+
+- Ambiguous scalars and typing:  
+  - Quote ISO‑like dates ("2025-08-15") to avoid legacy YAML 1.1 timestamp coercion in some parsers.  
+  - Quote identifier‑like numbers (shelfmarks, catalogue nos.) so they don’t become integers.  
+  - Avoid yes/no/on/off unquoted in YAML 1.1 environments; prefer true/false or quote: "yes".
+
+- Reserved/special characters:  
+  - Keep keys to a–z 0–9 _ where possible.  
+  - If you must include punctuation, always quote the key.
+
+- Consistent grouping:  
+  - Keep time semantics under a single dating map; do not scatter not_before at top level in some records and nested in others.  
+  - Use short, stable field names; don’t encode prose in keys.
+
+---
+
+Valid YAML example (schema‑compliant)
+
+```yaml
+---
+id: MS-048
+title: "Inscription commemorating rebuild"
+creator:
+  - name: "Beauford"
+    role: editor
+collection: "Vasantgarh Inscriptions"
+location:
+  site: "Vasantgarh"
+  region: "Rajasthan, India"
+  coordinates: [24.938, 72.387]
+dating:
+  calendar: proleptic_gregorian
+  not_before: 1204
+  tpq_basis: "coin hoard"
+  not_after: 1230
+  taq_basis: "foundation rebuild"
+  precision: year
+  certainty: high
+  era_original:
+    system: "Śaka"
+    value: 1126
+    script: "IAST"
+  edtf: "1204/1230"
+  evidence: ["epigraphic", "numismatic"]
+  provenance:
+    assertedBy: "A. Epigrapher"
+    date: "2025-08-15"
+  display_string: "TPQ 1204 (coin hoard) / TAQ 1230 (rebuild); Śaka 1126"
+---
+```
+
+---
+
+Typical pitfalls and how to avoid them
+
+- Missing evidential basis for a bound:  
+  - Fix: Always pair notbefore with tpqbasis and notafter with taqbasis. The schema enforces this.
+
+- Mixed placement of calendar info:  
+  - Fix: Keep calendar inside dating. If you must carry a global default at the top level, name it default_calendar and document the precedence.
+
+- Hyphenated keys causing code friction:  
+  - Fix: Use era_original not era-original. If external vocabularies require hyphens, store them in a value, not the key.
+
+- Date coercion surprises:  
+  - Fix: Quote full dates and ambiguous scalars. Prefer integers for bare years (e.g., 1204) to keep numeric sorting trivial.
+
+---
+
+Interop patterns for code, parsing, and data‑vis
+
+- Display construction (deterministic, no regex):
+  - Rule: displaystring = "TPQ " + notbefore + " (" + tpqbasis + ")" + (" / TAQ " + notafter + " (" + taqbasis + ")" if notafter else "") + (eraoriginal ? "; " + eraoriginal.system + " " + era_original.value : "")
+
+- Timeline viz fields:  
+  - Required: notbefore, notafter (or open interval), precision, certainty, tpqbasis, taqbasis, calendar.  
+  - Tooltip: display_string, evidence, provenance.assertedBy.
+
+- Programmatic checks (pre‑viz):
+  - Bounds order: ensure notbefore ≤ notafter when both present.  
+  - Open intervals: generate EDTF as 1204/.. or ../1230 for missing bounds.  
+  - Precision coercion: if precision=century and notbefore=1100, auto‑set notafter=1199 if omitted and label as inferred.
+
+---
+
+Optional aliasing for external labels (if you must keep spaced keys)
+
+If you need human-facing display labels for UI/export while keeping machine-safe keys:
+
+```yaml
+field_labels:
+  title: "Display Title"
+  dating.not_before: "Earliest possible date (TPQ)"
+  dating.not_after: "Latest possible date (TAQ)"
+  dating.tpq_basis: "Evidence for TPQ"
+  dating.taq_basis: "Evidence for TAQ"
+```
+
+- Best practice: Keep labels in a separate map (field_labels) or external i18n resource. Do not overload data keys with presentation concerns.
+
+---
+
+If you want, I can also supply a minimal test suite (a handful of JSON/YAML fixtures) that exercise edge cases: open intervals, BCE years, mixed calendars, century-precision spans, and oral-lore evidence tags — so your validator and viz pipelines have canonical examples to run against.
