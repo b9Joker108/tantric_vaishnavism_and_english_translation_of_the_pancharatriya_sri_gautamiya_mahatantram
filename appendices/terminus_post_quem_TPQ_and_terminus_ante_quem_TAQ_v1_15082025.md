@@ -1571,3 +1571,347 @@ field_labels:
 ---
 
 If you want, I can also supply a minimal test suite (a handful of JSON/YAML fixtures) that exercise edge cases: open intervals, BCE years, mixed calendars, century‑precision spans, and oral‑lore evidence tags — so your validator and viz pipelines have canonical examples to run against.
+
+
+TPQ/TAQ validation fixtures and conventions
+
+Below is a compact, ready‑to‑use test suite (JSON and YAML) to validate and exercise your TPQ/TAQ schema across edge cases: open intervals, BCE, mixed calendars, century precision, oral‑lore evidence, regnal systems, and failure modes. Each fixture targets a specific behavior in your validators and pipelines.
+
+---
+
+Test matrix
+
+| Fixture | Purpose | Expected |
+|---|---|---|
+| jsonvalid01 | Simple Gregorian year bounds with evidential bases | Pass |
+| jsonvalid02 | ISO dates (year‑month‑day), mixed evidence | Pass |
+| jsonvalid03 | Open interval TPQ only + EDTF open | Pass |
+| jsonvalid04 | Open interval TAQ only + EDTF open | Pass |
+| jsonvalid05 | BCE year (proleptic Gregorian), integer form | Pass |
+| jsonvalid06 | Century precision with inferred TAQ | Pass |
+| jsonvalid07 | Oral‑lore evidence types | Pass |
+| jsonvalid08 | Regnal calendar with era_original text | Pass |
+| yamlvalid01 | YAML front‑matter style with Saka era preserved | Pass |
+| yamlvalid02 | Multiple creators, coordinates, provenance | Pass |
+| invalid01 | Missing taqbasis while not_after present | Fail |
+| invalid_02 | Missing calendar in dating | Fail |
+| invalid_03 | Bad date string (“325 BCE” literal) | Fail |
+| invalid04 | Hyphenated key notafter → schema mismatch | Fail |
+| logicalflag01 | Bounds reversed (TPQ > TAQ): schema may pass, flag in logic | Pass schema / Fail logical check |
+
+> Tip: Treat “logicalflag01” as a two‑stage test: schema validation first, then a domain rule (notbefore ≤ notafter).
+
+---
+
+JSON fixtures (valid)
+
+```json
+{
+  "id": "jsonvalid01",
+  "title": "Temple rebuild inscription",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 1204,
+    "tpq_basis": "coin hoard",
+    "not_after": 1230,
+    "taq_basis": "foundation rebuild",
+    "precision": "year",
+    "certainty": "high",
+    "edtf": "1204/1230",
+    "evidence": ["epigraphic", "numismatic"],
+    "provenance": {"assertedBy": "A. Epigrapher", "date": "2025-08-15"},
+    "display_string": "TPQ 1204 (coin hoard) / TAQ 1230 (rebuild)"
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid02",
+  "title": "Subphase floor with sealed jar",
+  "dating": {
+    "calendar": "julian",
+    "not_before": "1321-04-10",
+    "tpq_basis": "terminus from sealed coin dated 1321-04-10",
+    "not_after": "1330-12-31",
+    "taq_basis": "overlying burn layer",
+    "precision": "day",
+    "certainty": "medium",
+    "edtf": "1321-04-10/1330-12-31",
+    "evidence": ["stratigraphic", "numismatic"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid03",
+  "title": "Wooden icon (stylistic onset only)",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 950,
+    "tpq_basis": "first appearance of diagnostic motif",
+    "precision": "decade",
+    "certainty": "low",
+    "edtf": "950/..",
+    "evidence": ["stylistic"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid04",
+  "title": "Earlier liturgical refrain (terminus ad quem)",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_after": 1473,
+    "taq_basis": "latest manuscript lacking added doxology",
+    "precision": "year",
+    "certainty": "medium",
+    "edtf": "../1473",
+    "evidence": ["manuscript"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid05",
+  "title": "Hoard terminus in Classical layer",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": -325,
+    "tpq_basis": "latest coin in hoard",
+    "precision": "year",
+    "certainty": "medium",
+    "edtf": "-0325/..",
+    "evidence": ["numismatic"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid06",
+  "title": "Copyist's hand dated to 12th century",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 1100,
+    "tpq_basis": "palaeographic typology",
+    "not_after": 1199,
+    "taq_basis": "century bound (inferred)",
+    "precision": "century",
+    "certainty": "low",
+    "edtf": "1100/1199",
+    "evidence": ["palaeographic"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid07",
+  "title": "Festival chant variant",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 1954,
+    "tpq_basis": "first field recording",
+    "not_after": 1972,
+    "taq_basis": "last performance in original ritual",
+    "precision": "year",
+    "certainty": "medium",
+    "edtf": "1954/1972",
+    "evidence": ["oral", "ethnographic"]
+  }
+}
+```
+
+```json
+{
+  "id": "jsonvalid08",
+  "title": "Royal grant dated by regnal years",
+  "dating": {
+    "calendar": "regnal",
+    "not_before": 3,
+    "tpq_basis": "ruler's regnal year 3",
+    "not_after": 6,
+    "taq_basis": "ruler's regnal year 6",
+    "precision": "year",
+    "certainty": "medium",
+    "evidence": ["documentary"],
+    "era_original": {
+      "system": "Harṣa regnal",
+      "value": "yrs 3–6",
+      "script": "IAST"
+    },
+    "display_string": "TPQ yr 3 (Harṣa) / TAQ yr 6 (Harṣa)"
+  }
+}
+```
+
+---
+
+YAML fixtures (valid)
+
+```yaml
+---
+id: yamlvalid01
+title: "Inscription with dual calendars"
+dating:
+  calendar: proleptic_gregorian
+  not_before: 1204
+  tpq_basis: "coin hoard"
+  not_after: 1230
+  taq_basis: "foundation rebuild"
+  precision: year
+  certainty: high
+  era_original:
+    system: "Śaka"
+    value: 1126
+    script: "IAST"
+  edtf: "1204/1230"
+  evidence: ["epigraphic", "numismatic"]
+---
+```
+
+```yaml
+---
+id: yamlvalid02
+title: "Manuscript with watermark evidence"
+creator:
+  - name: "Beauford"
+    role: editor
+  - name: "A. Paleographer"
+    role: contributor
+location:
+  site: "Bhagalpur"
+  region: "Bihar, India"
+  coordinates: [25.25, 86.98]
+dating:
+  calendar: proleptic_gregorian
+  not_before: 1450
+  tpq_basis: "watermark Briquet 1234"
+  not_after: 1473
+  taq_basis: "earliest catalogue entry"
+  precision: year
+  certainty: medium
+  edtf: "1450/1473"
+  evidence: ["palaeographic", "bibliographic"]
+provenance:
+  recorded_by: "C. Cataloguer"
+  recorded_on: "2025-08-15"
+---
+```
+
+---
+
+Invalid fixtures (schema should fail)
+
+```json
+{
+  "id": "invalid_01",
+  "title": "Missing TAQ basis",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 1204,
+    "tpq_basis": "coin hoard",
+    "not_after": 1230
+    / taq_basis missing -> must fail /
+  }
+}
+```
+
+```json
+{
+  "id": "invalid_02",
+  "title": "Missing calendar",
+  "dating": {
+    "not_before": 950,
+    "tpq_basis": "stylistic onset"
+    / calendar missing -> must fail /
+  }
+}
+```
+
+```json
+{
+  "id": "invalid_03",
+  "title": "Bad date literal",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": "325 BCE",
+    "tpq_basis": "latest coin in hoard"
+    / not_before string violates ISO pattern -> must fail /
+  }
+}
+```
+
+```yaml
+---
+id: invalid_04
+title: "Hyphenated key causing mismatch"
+dating:
+  calendar: proleptic_gregorian
+  not-before: 1204     # wrong key; schema expects not_before
+  tpq_basis: "coin hoard"
+  not_after: 1230
+  taq_basis: "rebuild"
+
+-> must fail because not_before is missing; additionalProperties also rejects unknown keys
+---
+```
+
+---
+
+Logical check fixture (schema pass, domain rule fail unless checked)
+
+```json
+{
+  "id": "logicalflag01",
+  "title": "Reversed bounds (should be flagged by logic)",
+  "dating": {
+    "calendar": "proleptic_gregorian",
+    "not_before": 1350,
+    "tpq_basis": "coin hoard",
+    "not_after": 1204,
+    "taq_basis": "foundation rebuild",
+    "precision": "year",
+    "certainty": "medium",
+    "edtf": "1350/1204",
+    "evidence": ["numismatic", "architectural"]
+  }
+}
+```
+
+> Add a post‑schema rule in your pipeline: if both bounds present, reject when notbefore > notafter.
+
+---
+
+Quick validation hints
+
+- JSON validation: Use any Draft 2020‑12 validator (e.g., Python jsonschema, Ajv). Ensure you enable format/regex checks.
+- YAML validation: Parse YAML to JSON (e.g., PyYAML, js-yaml), then run the same JSON Schema. Keep year‑only values as integers and full dates as quoted strings.
+- Domain rules beyond schema:  
+  - Bound order: notbefore ≤ notafter.  
+  - Precision coherence: if precision = century and both bounds present, they should bracket a full century (e.g., 1100/1199).  
+  - Open intervals: if only one bound, generate EDTF 1204/.. or ../1230 downstream.
+
+---
+
+Minimal pseudo‑tests (language‑agnostic)
+
+```text
+ASSERT schema.validate(jsonvalid01) == true
+ASSERT schema.validate(jsonvalid05) == true
+ASSERT schema.validate(invalid_01) == false
+ASSERT schema.validate(invalid_02) == false
+ASSERT schema.validate(invalid_03) == false
+ASSERT schema.validate(invalid04yamlasjson) == false
+ASSERT schema.validate(logicalflag01) == true
+ASSERT logicalrule(notbefore <= notafter in logicalflag_01) == false
+```
+
+---
+
+If you’d like, I can bundle these into a repo‑style layout (schema + fixtures + a tiny runner in Python or Node) so you and collaborators can run one command to validate and generate a timeline preview from the passing fixtures.
