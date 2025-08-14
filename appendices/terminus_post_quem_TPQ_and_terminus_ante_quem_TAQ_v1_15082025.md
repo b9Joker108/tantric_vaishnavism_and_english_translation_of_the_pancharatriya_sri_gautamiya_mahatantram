@@ -1915,3 +1915,190 @@ ASSERT logicalrule(notbefore <= notafter in logicalflag_01) == false
 ---
 
 If you’d like, I can bundle these into a repo‑style layout (schema + fixtures + a tiny runner in Python or Node) so you and collaborators can run one command to validate and generate a timeline preview from the passing fixtures.
+
+
+Bounding subjectivity in “certainty” and making it verifiable
+
+You’re right to be unsettled. “Low/medium/high” can be mushy unless they’re tied to explicit, checkable criteria. Below is a compact framework that keeps your judgments transparent, reproducible, and contestable without pretending to spurious precision.
+
+---
+
+Problem statement
+
+- Ambiguity: “Low/medium/high” mean different things across disciplines and even within teams.  
+- Opacity: Readers can’t see why a bin was chosen or how to challenge it.  
+- Drift: Criteria shift over time without versioning, breaking longitudinal consistency.  
+- Compute friction: Coarse bins don’t interoperate well with AI parsing or data‑viz unless backed by structured features.
+
+---
+
+Confidence model
+
+Use a two‑layer approach: an auditable feature set drives an ordinal bin. Optionally map bins to numeric ranges for analytics, but keep the bin authoritative.
+
+- Layer 1 — Evidential features (stored explicitly):
+  - Evidence count: number of independent lines of evidence.
+  - Independence: whether lines are methodologically independent (e.g., numismatic vs palaeographic).
+  - Quality: chain of custody, dating resolution, calibration/typology maturity.
+  - Consistency: internal agreement among lines (no contradictions vs qualified tension).
+  - Specificity: how tightly each line constrains the bound (day/month/year/century).
+  - Vulnerability: clear alternative explanations present/absent.
+  - Replicability: likelihood that another expert could reproduce the bound from the same sources.
+
+- Layer 2 — Derived confidence bin:
+  - Low: preliminary, single line, weak control on dating system or open contradictions.
+  - Medium: one strong line or two moderate lines, no unresolved contradictions, replicable.
+  - High: two or more independent strong lines, tight resolution, well-documented provenance, no credible contrary evidence.
+
+- Optional numeric band (for analytics only):
+  - Low: 0.30–0.59; Medium: 0.60–0.84; High: 0.85–0.97.  
+  - Never publish the exact number as a claim; keep it internal to dashboards.
+
+---
+
+Operational rubric
+
+| Bin | Minimum evidential configuration | Required documentation | Allowed uses |
+|---|---|---|---|
+| Low | 1 line of evidence of moderate/low quality OR conflicting evidence unresolved | Basis: short rationale; Source IDs/links; Assessor/date; Known risks | Exploratory viz; flagged preliminary in apparatus; avoid hard constraints in synthesis. |
+| Medium | 1 strong line OR 2 moderate lines; no active contradiction; replicable method | Low‑bin docs + Method citation/typology; Repro steps | Standard apparatus, catalogues, cautious synthesis; suitable for TAQ/TPQ bracketing. |
+| High | ≥2 independent strong lines (e.g., coin hoard + rebuild inscription); tight precision; clean provenance | Medium‑bin docs + Independence statement; Provenance chain; Quality checks | Authoritative bracketing; foundation for downstream modeling and cross‑domain alignment. |
+
+> Independence statement example: “Numismatic TPQ (latest coin 1204) and architectural TAQ (documented rebuild 1230) derive from distinct measurement families.”
+
+---
+
+Data model adjustments
+
+Augment your current schema to keep “certainty” defensible and machine‑actionable.
+
+- New fields (within dating):
+  - evidence_lines: array of structured items
+    - type: controlled term (epigraphic, numismatic, palaeographic, stylistic, stratigraphic, oral, bibliographic, radiocarbon, regnal, linguistic).
+    - independent_of: list of other indices to declare independence or linkage.
+    - quality: enum {weak, moderate, strong}.
+    - specificity: enum {day, month, year, decade, century}.
+    - source_ref: URIs/shelfmarks/IDs.
+    - rationale: brief warrant.
+  - contradictions: array of pointers to contrary evidence with note on resolution status.
+  - replicability: enum {low, medium, high}.
+  - confidence_bin: enum {low, medium, high}.  (replaces bare “certainty”)
+  - confidence_score: number (0–1), optional, derived.
+  - confidencepolicyversion: string (e.g., “TPQTAQ‑CONF‑v1.2”).
+  - assessor: person/role/ORCID; assessed_on: ISO date.
+
+- Example (YAML):
+  ```yaml
+  dating:
+    calendar: proleptic_gregorian
+    not_before: 1204
+    tpq_basis: "coin hoard"
+    not_after: 1230
+    taq_basis: "foundation rebuild"
+    evidence_lines:
+      - type: numismatic
+        quality: strong
+        specificity: year
+        source_ref: "Hoard: VG-12; Coin: Gadh.1204"
+        rationale: "Latest coin date 1204 seals sublayer."
+      - type: architectural
+        quality: strong
+        specificity: year
+        source_ref: "Insc: VG-REBUILD-1230"
+        rationale: "Rebuild dedication 1230 terminates earlier fabric."
+        independent_of: [0]      # independent from numismatic line
+    contradictions:
+      - source_ref: "Stylistic survey 19xx"
+        note: "Suggests c. 12th–13th; broad, not contradictory."
+    replicability: high
+    confidence_bin: high
+    confidence_score: 0.92
+    confidencepolicyversion: "TPQTAQ-CONF-v1.2"
+    assessor: "ORCID:0000-0002-1234-5678"
+    assessed_on: "2025-08-15"
+  ```
+
+- Rule‑based derivation (illustrative):
+  - High: ≥2 evidence_lines with quality=strong AND independence declared; no active contradictions; specificity ≥ year.
+  - Medium: (quality=strong AND specificity ≥ year) OR (≥2 moderate lines without contradiction).
+  - Low: else.
+
+---
+
+Governance and verification
+
+- Codebook: Maintain a short, versioned codebook defining each evidence type and what counts as weak/moderate/strong. Include 2–3 canonical examples per bin.
+- Calibration sessions: Periodically blind‑rate a small shared sample; compute inter‑rater agreement (e.g., Cohen’s κ). Update the codebook when κ drops.
+- Provenance trail: Always record assessor, assessedon, confidencepolicy_version. Retain prior assessments rather than overwriting; show a change log.
+- Contestability: Allow a “challenge” note linking to contrary evidence; require a resolution note and, if unresolved, degrade bin automatically to “medium.”
+- Machine checks: Implement automated validators:
+  - Evidence sufficiency: confidence_bin cannot be “high” unless independence is declared between ≥2 strong lines.
+  - Contradiction handling: if contradictions array includes unresolved items, cap bin at “medium.”
+  - Precision gating: cap bin when specificity is “century” and only one line exists.
+
+---
+
+Communication and rendering
+
+- In apparatus: “TPQ 1204 (coin hoard) / TAQ 1230 (rebuild) \[confidence: high; independent lines: numismatic + architectural; policy v1.2].”
+- In prose: “Well‑attested, on numismatic and architectural grounds; earliest 1204, latest 1230.” Avoid naked “high certainty” without the grounds.
+- In data‑viz: Encode bin with color intensity; show evidence icons (e.g., coin, column) and independence tick in tooltip; display policy version.
+- For AI parsing: Keep the bin and the structured evidence_lines close to the bounds; avoid free‑text only. Expose assessor and policy version for audit.
+
+---
+
+If you want, I can fold these additions into your JSON Schema (with machine rules expressed as JSON Schema annotations plus a companion linter), and supply a two‑page codebook template with ready‑filled examples for numismatic, palaeographic, oral, and epigraphic lines.
+
+
+Right — I dropped it in as if it were self-evident. Let me close that loop.
+
+In the context of the “certainty” discussion and the schema we were shaping, a bin is a category or discrete slot in a classification scheme into which you deliberately sort records according to pre-set criteria. It’s borrowed from statistics and data-science jargon (“binning”), where continuous values are grouped into labelled intervals, but it’s also long-standing editorial shorthand in textual and archaeological work for an ordinal “bucket” of cases.
+
+Here, your confidence_bin is the term-of-art for the named, bounded class representing a band of evidential confidence. For example:
+
+- low bin = anything meeting the “single weak/moderate line, contradictions unresolved” rule,
+- medium bin = meets “one strong or two moderate lines, no contradictions” rule,
+- high bin = meets “two+ strong independent lines, tight resolution” rule.
+
+It’s a bin because:
+- it’s discrete (a record is in one bin at a time, even if it sits near a threshold),
+- it’s defined by a rubric/codebook, not by someone’s intuition on the day,
+- it’s stable across the corpus so you can count, filter, and compare bins without recalculating from raw evidence every time.
+
+The advantage of speaking in terms of bins rather than free adjectives is that:
+- you can document the boundary conditions for each bin,
+- disagreements become about whether a case meets the conditions, not about the meaning of “medium”,
+- you can map bins to numerical ranges internally without ever publishing spurious decimals.
+
+If you want, I can draft a one-page “bin definition table” you can embed in your project’s style guide so that “low/medium/high” aren’t subjective labels but auditable, reproducible containers for your TPQ/TAQ confidence assessments.
+
+
+
+Here’s the one‑page “bin definition” table you can drop straight into your style guide, with the addenda folded in so the whole thing is self‑contained, auditable, and reproducible.
+
+---
+
+📏 TPQ/TAQ Confidence Bins — Definition Table
+
+| Confidence Bin | Boundary Conditions | Description | Minimum Evidential Configuration |
+|--------------------|-------------------------|-----------------|---------------------------------------|
+| Low            | Fails to meet “medium” criteria; typically 1 line of weak/moderate quality, unresolved contradictions, broad specificity (≥ century) | Preliminary, likely to change with further evidence; use with caution in synthesis | ≥ 1 evidence line; quality = weak/moderate; specificity = century/decade; contradictions unresolved |
+| Medium         | Meets at least one strong line or two moderate lines; no active contradictions; replicable method | Generally reliable with some uncertainty; suitable for apparatus and cautious synthesis | ≥ 1 strong or ≥ 2 moderate lines; specificity ≥ year; provenance documented; contradictions resolved or none present |
+| High           | ≥ 2 independent strong lines; tight precision (year/month/day); clean provenance; no credible contrary evidence | Highly reliable and validated; can anchor cross‑domain alignment | ≥ 2 strong, independent lines; specificity ≥ year; independence declared; provenance chain complete; contradictions absent |
+
+---
+
+🔍 Addenda — Using Bins Well
+
+1. Codebook control: Maintain a short, versioned codebook defining each evidence type and what counts as weak/moderate/strong, with 2–3 canonical examples per bin.
+2. Audit trail: Every bin assignment must record assessor, date, and confidencepolicyversion. Keep prior assessments; don’t overwrite.
+3. Calibration: Periodically blind‑rate a shared sample and compute inter‑rater agreement (e.g., Cohen’s κ). Update the codebook if agreement drops.
+4. Contestability: Allow “challenge” notes linking to contrary evidence; unresolved challenges should automatically cap bin at medium.
+5. Visualization: Map bins to distinct visual encodings (e.g., color intensity) and show evidence icons in tooltips; include policy version in legends.
+
+---
+
+In practice:  
+When you write TPQ 1204 (coin hoard) / TAQ 1230 (rebuild) [confidence: high], that “high” isn’t a hunch — it’s shorthand for “meets the high‑bin rubric in policy vX.Y, with two strong independent lines, year‑level precision, and no contradictions.” That makes it defensible in print, parseable in data, and intelligible in a chart.
+
+If you’d like, I can now merge this table and addenda into your JSON/YAML schema as enumerated values with embedded $comment fields, so the bin definitions travel with the data itself.
