@@ -1908,6 +1908,13 @@ In essence, it's about moving from simply identifying direct textual matches to 
 **Purport:**<br>
 ...
 
+### SAROJA, G. ###
+
+* Saroja, G.V. (1989). '\[Chapter] 5: Earliest References to the Bhakti Concept' (pp. 58-61) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### SASTRY, S.; *et al.* ###
 
 * Sastry, Sri Sadhu Subrahmanya (auth.) & Reddy, Sri S. 'Gopi' Krishna (ed.) (1981). 'Tirupati Sri Venkatesvara'. T.T.D. Religious Series No. 107. With a 'Foreword' by Sri P.V.R.K. Prasad. Tirupati, Andhra Pradesh, India: Tirumala Tirupati Devasthanams (T.T.D.: Sri P.V.R.K. Prasad).
