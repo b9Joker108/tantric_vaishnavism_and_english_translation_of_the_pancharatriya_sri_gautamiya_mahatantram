@@ -715,6 +715,13 @@ Reviewed by H., E. J. (1928).
 **Purport:**<br>
 ...
 
+### MUKHARYA, P. ###
+
+* Mukharya, P.S. (1989). '\[Chapter] 11: Sant Prannath and the Pranami Sect' (pp. 113-126) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### MUKHERJEA, S. ###
 
 * Mukherjea, Sushil (1989). ‘Historicity of Lord Jagannatha’. Centre For Humanist Studies. First edition. Calcutta, India: Minerva Associates (Publications) Pvt. Ltd. ISBN 818519517X. Source: xxx
