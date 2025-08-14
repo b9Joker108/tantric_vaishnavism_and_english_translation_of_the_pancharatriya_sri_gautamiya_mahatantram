@@ -341,6 +341,13 @@ As yet, not secured.
 **Purport:**<br>
 A very significant Vaikhanasa agama on image worship attributed to Maharshi Atri.
 
+### BHATTACHARYYA, M. ###
+
+* Bhattacharyya, Manjula (1989). '\[Chapter] 9: Medieval Bhakti Movements in Gujarat' (pp. 97-105) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### BHATTACHARYYA, N. ###
 
 * Bhattacharyya, Narendra Nath (ed.) (1989a). 'Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume'. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
