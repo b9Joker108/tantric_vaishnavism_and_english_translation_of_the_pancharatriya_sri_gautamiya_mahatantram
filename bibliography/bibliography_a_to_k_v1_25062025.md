@@ -578,6 +578,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 **Purport:**<br>
 Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be dispensed with and could not locate a facsimile or digital edition.
 
+### DESHPANDE, U. ###
+
+* Deshpande, Uma S. (1989). '\[Chapter] 10: Narasimha Mehta: Saint-Poet from Gujarat' (pp. 106-112) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### DEVA, B. ###
 
 * Deva, B. Chaitanya (1973). 'An Introduction to Indian Music'. Patiala House, New Delhi, India: Publications Division (Ministry of Information & Broadcasting, Government of India).  
