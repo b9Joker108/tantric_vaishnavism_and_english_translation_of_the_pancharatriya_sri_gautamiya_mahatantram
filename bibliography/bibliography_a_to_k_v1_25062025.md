@@ -471,6 +471,13 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 ...
 
+### CHHABRA, G. ###
+
+* Chhabra, G.S. (1989). '\[Chapter] 3: Guru Nanak's Concept of God' (pp.36-46) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### CHAKRAVARTI, P. ###
 
 * Chakravarti, Pulinbihari (1952). 'Origin and Development of the Samkhya System of Thought'. Calcutta Sanskrit Series No. XXX \[30]. First edition. Calcutta, West Bengal, India: Metropolitan Printing & Publishing House Ltd.
