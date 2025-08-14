@@ -1,4 +1,4 @@
-# Latin Expressions 'Terminus Post Quem' and 'Terminus Ante Quem' #
+# Latin Expressions 'Terminus Post Quem' (TPQ) and 'Terminus Ante Quem' (TAQ)#
 
 ## Introduction
 
