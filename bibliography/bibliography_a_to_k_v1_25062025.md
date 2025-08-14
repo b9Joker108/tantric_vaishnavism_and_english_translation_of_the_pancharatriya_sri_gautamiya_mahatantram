@@ -838,6 +838,13 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 **Purport:**
 ...
 
+### JAIN, J. ###
+
+* Jain, Jagdishchandra (1989). '\[Chapter] 6: The Medieval Bhakti Movement: Its Influence on Jainism ' (pp. 62-73) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**
+...
+
 ### JAISWAL, S.; *et al.* ###
 
 * Jaiswal, Shubham; Agrawal, Avlokita & Raman, Geethanjali (eds.) (2019). 'Genesis of Stupas' (pp. 205-213) in Agrawal, Avlokita & Gupta, Rajat (eds.) (2019). *Revisiting the Role of Architecture for 'Surviving' Development: 53ʳᵈ International Conference of the Architectural Science Association*. Melbourne, Victoria, Australia: Architectural Science Association (ANZAScA). 
