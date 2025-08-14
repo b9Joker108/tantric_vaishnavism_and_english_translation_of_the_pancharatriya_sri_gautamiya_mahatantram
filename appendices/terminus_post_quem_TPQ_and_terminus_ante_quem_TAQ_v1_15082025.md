@@ -1293,3 +1293,281 @@ field_labels:
 ---
 
 If you want, I can also supply a minimal test suite (a handful of JSON/YAML fixtures) that exercise edge cases: open intervals, BCE years, mixed calendars, century-precision spans, and oral-lore evidence tags — so your validator and viz pipelines have canonical examples to run against.
+
+
+JSON schema and YAML key conventions for TPQ/TAQ metadata
+
+Below is an enforceable JSON Schema for your TPQ/TAQ front‑matter plus pragmatic conventions for YAML keys (including multi‑word cases), followed by ready‑to‑use examples.
+
+---
+
+JSON Schema for TPQ/TAQ front‑matter
+
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/terminus-frontmatter.schema.json",
+  "title": "Terminus Front-Matter",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "creator": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "role": { "type": "string" }
+        },
+        "required": ["name"],
+        "additionalProperties": false
+      }
+    },
+    "collection": { "type": "string" },
+    "location": {
+      "type": "object",
+      "properties": {
+        "site": { "type": "string" },
+        "region": { "type": "string" },
+        "coordinates": {
+          "type": "array",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2
+        }
+      },
+      "additionalProperties": false
+    },
+    "dating": {
+      "type": "object",
+      "properties": {
+        "not_before": {
+          "oneOf": [
+            { "type": "integer", "minimum": -9999, "maximum": 9999 },
+            { "type": "string", "pattern": "^-?\\d{4}(-\\d{2}(-\\d{2})?)?$" }
+          ],
+          "description": "Earliest possible date (TPQ). Year or ISO 8601 date."
+        },
+        "not_after": {
+          "oneOf": [
+            { "type": "integer", "minimum": -9999, "maximum": 9999 },
+            { "type": "string", "pattern": "^-?\\d{4}(-\\d{2}(-\\d{2})?)?$" }
+          ],
+          "description": "Latest possible date (TAQ). Year or ISO 8601 date."
+        },
+        "tpq_basis": { "type": "string", "minLength": 1 },
+        "taq_basis": { "type": "string", "minLength": 1 },
+        "precision": {
+          "type": "string",
+          "enum": ["day", "month", "year", "decade", "quarter-century", "century"]
+        },
+        "certainty": { "type": "string", "enum": ["high", "medium", "low"] },
+        "calendar": {
+          "type": "string",
+          "enum": [
+            "proleptic_gregorian",
+            "julian",
+            "saka",
+            "vikrama",
+            "hijri",
+            "buddhist_be",
+            "regnal",
+            "custom"
+          ]
+        },
+        "era_original": {
+          "type": "object",
+          "properties": {
+            "system": { "type": "string" },
+            "value": {
+              "oneOf": [
+                { "type": "integer" },
+                { "type": "string" }
+              ]
+            },
+            "script": { "type": "string" }  / e.g., IAST, Devanagari, Bengali /
+          },
+          "additionalProperties": false
+        },
+        "edtf": {
+          "type": "string",
+          "pattern": "^(\\.?\\.?|-?\\d{4}([\\-\\/]\\d{2}([\\-\\/]\\d{2})?)?)(\\/|$)"
+        },
+        "basis": { "type": "string" },          / optional global rationale /
+        "evidence": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "provenance": {
+          "type": "object",
+          "properties": {
+            "assertedBy": { "type": "string" },
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+            }
+          },
+          "additionalProperties": false
+        },
+        "display_string": { "type": "string" }
+      },
+      "required": ["calendar"],
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": { "required": ["not_before"] },
+          "then": { "required": ["tpq_basis"] }
+        },
+        {
+          "if": { "required": ["not_after"] },
+          "then": { "required": ["taq_basis"] }
+        },
+        {
+          "anyOf": [
+            { "required": ["not_before"] },
+            { "required": ["not_after"] }
+          ]
+        },
+        {
+          "if": { "required": ["notbefore", "notafter"] },
+          "then": {
+            "properties": {
+              "not_before": { "$ref": "#/$defs/BoundValue" },
+              "not_after": { "$ref": "#/$defs/BoundValue" }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "required": ["id", "title", "dating"],
+  "additionalProperties": false,
+  "$defs": {
+    "BoundValue": {
+      "oneOf": [
+        { "type": "integer" },
+        { "type": "string" }
+      ]
+    }
+  }
+}
+```
+
+---
+
+YAML key conventions (including multi‑word keys)
+
+- Preferred casing:  
+  - snake_case for keys is the most interoperable across JSON, Python, JavaScript, and query languages.  
+  - Avoid hyphens in machine‑faced keys: kebab-case forces quoting or bracket access in many languages.  
+  - Lowercase enums/identifiers for predictability.
+
+- Multi‑word keys (when unavoidable):  
+  - Quote them: "date of issue": "1901-06-01".  
+  - Mirror with a machine alias so code never depends on spaced keys:  
+    - "date of issue": "1901-06-01" and dateofissue: "1901-06-01".  
+  - Document the aliasing rule once in your style guide (e.g., “spaced keys are display-only; snake_case keys are canonical”).
+
+- Ambiguous scalars and typing:  
+  - Quote ISO‑like dates ("2025-08-15") to avoid legacy YAML 1.1 timestamp coercion in some parsers.  
+  - Quote identifier‑like numbers (shelfmarks, catalogue nos.) so they don’t become integers.  
+  - Avoid yes/no/on/off unquoted in YAML 1.1 environments; prefer true/false or quote: "yes".
+
+- Reserved/special characters:  
+  - Keep keys to a–z 0–9 _ where possible.  
+  - If you must include punctuation, always quote the key.
+
+- Consistent grouping:  
+  - Keep time semantics under a single dating map; do not scatter not_before at top level in some records and nested in others.  
+  - Use short, stable field names; don’t encode prose in keys.
+
+---
+
+Valid YAML example (schema‑compliant)
+
+```yaml
+---
+id: MS-048
+title: "Inscription commemorating rebuild"
+creator:
+  - name: "Beauford"
+    role: editor
+collection: "Vasantgarh Inscriptions"
+location:
+  site: "Vasantgarh"
+  region: "Rajasthan, India"
+  coordinates: [24.938, 72.387]
+dating:
+  calendar: proleptic_gregorian
+  not_before: 1204
+  tpq_basis: "coin hoard"
+  not_after: 1230
+  taq_basis: "foundation rebuild"
+  precision: year
+  certainty: high
+  era_original:
+    system: "Śaka"
+    value: 1126
+    script: "IAST"
+  edtf: "1204/1230"
+  evidence: ["epigraphic", "numismatic"]
+  provenance:
+    assertedBy: "A. Epigrapher"
+    date: "2025-08-15"
+  display_string: "TPQ 1204 (coin hoard) / TAQ 1230 (rebuild); Śaka 1126"
+---
+```
+
+---
+
+Typical pitfalls and how to avoid them
+
+- Missing evidential basis for a bound:  
+  - Fix: Always pair notbefore with tpqbasis and notafter with taqbasis. The schema enforces this.
+
+- Mixed placement of calendar info:  
+  - Fix: Keep calendar inside dating. If you must carry a global default at the top level, name it default_calendar and document the precedence.
+
+- Hyphenated keys causing code friction:  
+  - Fix: Use era_original not era-original. If external vocabularies require hyphens, store them in a value, not the key.
+
+- Date coercion surprises:  
+  - Fix: Quote full dates and ambiguous scalars. Prefer integers for bare years (e.g., 1204) to keep numeric sorting trivial.
+
+---
+
+Interop patterns for code, parsing, and data‑vis
+
+- Display construction (deterministic, no regex):
+  - Rule: displaystring = "TPQ " + notbefore + " (" + tpqbasis + ")" + (" / TAQ " + notafter + " (" + taqbasis + ")" if notafter else "") + (eraoriginal ? "; " + eraoriginal.system + " " + era_original.value : "")
+
+- Timeline viz fields:  
+  - Required: notbefore, notafter (or open interval), precision, certainty, tpqbasis, taqbasis, calendar.  
+  - Tooltip: display_string, evidence, provenance.assertedBy.
+
+- Programmatic checks (pre‑viz):
+  - Bounds order: ensure notbefore ≤ notafter when both present.  
+  - Open intervals: generate EDTF as 1204/.. or ../1230 for missing bounds.  
+  - Precision coercion: if precision=century and notbefore=1100, auto‑set notafter=1199 if omitted and label as inferred.
+
+---
+
+Optional aliasing for external labels (if you must keep spaced keys)
+
+If you need human‑facing display labels for UI/export while keeping machine‑safe keys:
+
+```yaml
+field_labels:
+  title: "Display Title"
+  dating.not_before: "Earliest possible date (TPQ)"
+  dating.not_after: "Latest possible date (TAQ)"
+  dating.tpq_basis: "Evidence for TPQ"
+  dating.taq_basis: "Evidence for TAQ"
+```
+
+- Best practice: Keep labels in a separate map (field_labels) or external i18n resource. Do not overload data keys with presentation concerns.
+
+---
+
+If you want, I can also supply a minimal test suite (a handful of JSON/YAML fixtures) that exercise edge cases: open intervals, BCE years, mixed calendars, century‑precision spans, and oral‑lore evidence tags — so your validator and viz pipelines have canonical examples to run against.
