@@ -277,6 +277,13 @@ With the play of scripts and dialectical variation, as well as different transli
 **Purport:**<br>
 This article and the volume within which it is inset, would be most useful for our purposes. Unfortunately, as yet, I have been unable to secure either. Useful direct quotations from it, along with its arguments and position are given voice in Ahmad (2017).
 
+### MAJUMDAR, B. ###
+
+* Majumdar, Bimanbehari (1989). '\[Chapter] 1: Religion of Love - The Early Medieval Phase (c. AD 700-1486)' (pp. 1-16) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### MAJUMDAR, R. ###
 
 * Majumdar, Ramesh Chandra (1956). 'Evolution of Religio-Philosophic Culture in India' (pp. 31–62) in Bhattacharyya, Haridas (ed.) (1956). *The Cultural Heritage of India: Vol. 4, The Religions*. With a Publisher's Note by Swami Nityaswarupananda. With a Preface by Suniti Kumar Chatterji. With an Introduction by Bharataratna Bhagavan Das. (Note: First edition of 3 volumes published in 1937. Second edition of 5 volumes, revised and enlarged.). Calcutta, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
