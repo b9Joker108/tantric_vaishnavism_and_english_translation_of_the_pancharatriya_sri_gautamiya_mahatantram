@@ -1,6 +1,6 @@
 # Jainadharma #
 
-This following quote in an endnote from Jain (1989: p. xxx): 
+This following quote in an endnote from Jain (1989: p. 72, Endnote No. 17): 
 
 > "See Sukumar Dutt, op. cit., pp. 239f. There has been a tradition of Mahavira's image carved in his life-time (jivantasvami-pratima) recorded in the Svetambara Jain canonical literature, but the tradition, in absence of any concrete proof, does not seem to hold good. Dr. U.P. Shah in his Studies in Jain Art p. 4, however identifies this image with a bronze of jivantasvami-pratima from Akota, now in Baroda Museum." 
 
