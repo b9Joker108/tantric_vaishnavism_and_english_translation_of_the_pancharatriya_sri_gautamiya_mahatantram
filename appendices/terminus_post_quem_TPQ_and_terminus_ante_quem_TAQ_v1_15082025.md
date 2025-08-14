@@ -2028,7 +2028,7 @@ Augment your current schema to keep “certainty” defensible and machine‑act
 Governance and verification
 
 - Codebook: Maintain a short, versioned codebook defining each evidence type and what counts as weak/moderate/strong. Include 2–3 canonical examples per bin.
-- Calibration sessions: Periodically blind‑rate a small shared sample; compute inter‑rater agreement (e.g., Cohen’s κ). Update the codebook when κ drops.
+- Calibration sessions: Periodically blind-rate a small shared sample; compute inter-rater agreement (e.g., Cohen’s κ). Update the codebook when κ drops.
 - Provenance trail: Always record assessor, assessedon, confidencepolicy_version. Retain prior assessments rather than overwriting; show a change log.
 - Contestability: Allow a “challenge” note linking to contrary evidence; require a resolution note and, if unresolved, degrade bin automatically to “medium.”
 - Machine checks: Implement automated validators:
@@ -2041,13 +2041,13 @@ Governance and verification
 Communication and rendering
 
 - In apparatus: “TPQ 1204 (coin hoard) / TAQ 1230 (rebuild) \[confidence: high; independent lines: numismatic + architectural; policy v1.2].”
-- In prose: “Well‑attested, on numismatic and architectural grounds; earliest 1204, latest 1230.” Avoid naked “high certainty” without the grounds.
-- In data‑viz: Encode bin with color intensity; show evidence icons (e.g., coin, column) and independence tick in tooltip; display policy version.
-- For AI parsing: Keep the bin and the structured evidence_lines close to the bounds; avoid free‑text only. Expose assessor and policy version for audit.
+- In prose: “Well-attested, on numismatic and architectural grounds; earliest 1204, latest 1230.” Avoid naked “high certainty” without the grounds.
+- In data-viz: Encode bin with colour intensity; show evidence icons (e.g., coin, column) and independence tick in tooltip; display policy version.
+- For AI parsing: Keep the bin and the structured evidence_lines close to the bounds; avoid free-text only. Expose assessor and policy version for audit.
 
 ---
 
-If you want, I can fold these additions into your JSON Schema (with machine rules expressed as JSON Schema annotations plus a companion linter), and supply a two‑page codebook template with ready‑filled examples for numismatic, palaeographic, oral, and epigraphic lines.
+If you want, I can fold these additions into your JSON Schema (with machine rules expressed as JSON Schema annotations plus a companion linter), and supply a two-page codebook template with ready-filled examples for numismatic, palaeographic, oral, and epigraphic lines.
 
 
 Right — I dropped it in as if it were self-evident. Let me close that loop.
@@ -2099,6 +2099,83 @@ Here’s the one‑page “bin definition” table you can drop straight into yo
 ---
 
 In practice:  
-When you write TPQ 1204 (coin hoard) / TAQ 1230 (rebuild) [confidence: high], that “high” isn’t a hunch — it’s shorthand for “meets the high‑bin rubric in policy vX.Y, with two strong independent lines, year‑level precision, and no contradictions.” That makes it defensible in print, parseable in data, and intelligible in a chart.
+When you write TPQ 1204 (coin hoard) / TAQ 1230 (rebuild) \[confidence: high], that “high” isn’t a hunch — it’s shorthand for “meets the high-bin rubric in policy vX.Y, with two strong independent lines, year-level precision, and no contradictions.” That makes it defensible in print, parseable in data, and intelligible in a chart.
 
 If you’d like, I can now merge this table and addenda into your JSON/YAML schema as enumerated values with embedded $comment fields, so the bin definitions travel with the data itself.
+
+Got it — we can’t leave quality as a free-floating adjective the way we had it earlier.  
+If it’s going to live alongside confidence_bin in your TPQ/TAQ data, it needs the same sort of policy-anchored definition so it’s bound to explicit, checkable criteria.
+
+---
+
+🔹 Defining the quality bin
+
+Term-of-art: here, quality refers to the strength of an individual evidence line, not the overall record.  
+Where confidence_bin is the composite outcome across all lines, quality is a per-line or line-item property that feeds into that outcome.
+
+---
+
+1. Controlled vocabulary
+
+```yaml
+quality: weak | moderate | strong
+```
+Each value is defined in a versioned Evidence Quality Policy document, similar to your confidence codebook.
+
+---
+
+2. Boundary conditions
+
+| Value | Definition | Indicative features | Examples |
+|-----------|----------------|-------------------------|--------------|
+| weak | Evidence is indirect, poorly preserved, low resolution, or from a method with high inherent uncertainty; susceptible to alternative explanations | Single dependent source; broad dating (century/quarter‑century); poor documentation/provenance | Stylistic dating with no parallels; oral testimony decades after the event |
+| moderate | Evidence is direct but singular, or indirect but supported by auxiliary data; acceptable resolution; provenance adequate but not impeccable | One independent line of decent resolution; dating to decade/year; supporting but not decisive | Watermark type with broad usage span; coin typology with partial legend |
+| strong | Evidence is direct, well-preserved, high‑resolution, from a mature method, with clear provenance; resistant to alternative interpretations | Multiple matches; dating to exact year/month/day; fully documented chain of custody; method has low error rate | Dated inscription in situ; coin with clear mint date and contextually sealed deposit |
+
+---
+
+3. Policy metadata
+
+Add to each dataset:
+
+```yaml
+qualitypolicyversion: "EVIDQUAL-v1.0"
+```
+
+…and keep the “EVIDQUAL” policy in your project docs with:
+
+- Definitions table (as above)
+- Discipline-specific exemplars for each quality level
+- Procedures for upgrading/downgrading a quality rating when new evidence emerges
+
+---
+
+4. Recording in data
+
+Per‑evidence line:
+
+```yaml
+evidence_lines:
+  - type: numismatic
+    quality: strong
+    specificity: year
+    source_ref: "Hoard: VG-12"
+    rationale: "Latest coin date 1204 seals sublayer."
+  - type: architectural
+    quality: moderate
+    specificity: year
+    source_ref: "Insc: VG-REBUILD-1230"
+    rationale: "Rebuild dedication 1230 terminates earlier fabric."
+```
+
+---
+
+5. Verification workflow
+
+- Calibration: As with confidence_bin, have multiple assessors rate a sample and check inter-rater agreement.
+- Audit fields: assessor, assessedon, qualitypolicy_version per evidence line.
+- Transparency: In publications, you can display the quality alongside the basis — e.g., TPQ 1204 (coin hoard, strong).
+
+---
+
+If you’d like, I can integrate this quality definition and qualitypolicyversion into the JSON Schema we built earlier, so quality is an enum tied to that policy and cannot be populated without a declared version. That locks the value to your agreed rubric and makes every assignment reproducible.
