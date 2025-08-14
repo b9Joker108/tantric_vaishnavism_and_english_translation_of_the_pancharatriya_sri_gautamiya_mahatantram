@@ -145,6 +145,13 @@ As yet, I have not been able to secure a copy.
 **Purport:**<br>
 ...
 
+### AHLUWALIA, M. ###
+
+* Ahluwalia, M.S. (1989). '\[Chapter] 7: Baba Shaikh Farid: A Harbinger of Hindu-Muslim Unity' (pp. 74-82) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### AHMAD, K. ###
 
 * Ahmad, Khalid Bashir (2017). 'Kashmir: Exposing the Myth Behind the Narrative'. New Delhi, India: SAGE Publications India Pvt. Ltd. ISBN 9789386062802 (paperback). Source: https://archive.org/details/khalid-bashir-book-dr-ashraf (accessed: Tuesday, September 10, 2024)
