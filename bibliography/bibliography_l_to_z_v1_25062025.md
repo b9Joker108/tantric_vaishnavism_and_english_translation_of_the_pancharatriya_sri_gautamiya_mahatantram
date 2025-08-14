@@ -1651,6 +1651,13 @@ The Sri Vamadeva Samhita may or may not be technically Pancharatriya. Its status
 **Purport:**<br>
 ...
 
+### RAY, N. ###
+
+* Ray, Niharranjan (1989). '\[Chapter] 2: The Concept of Sahaj in Guru Nanak’s Theology and its Antecedents' (pp.17-34) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### RAY, S. ###
 
 * Ray (alt. Rai/Roy), Sunul Chandra (1970, 1957). 'Early History and Culture of Kashmir'. With a Foreward by Sardar K.M. Panikkar. Second revised edition. (Note: First edition published in 1957.). New Delhi, India: Munshiram Manoharlal. Source: https://archive.org/details/in.ernet.dli.2015.131574 (accessed: Friday, August 30, 2024)
