@@ -769,7 +769,12 @@ This record of the salient transcription is the principal forum, an evergreen/li
 
 ### GUPTA, B. ###
 
-* Gupta, B.D. \[Bhagwan Das] (1989). '\[Chapter] 11: Sant Prannath and the Pranami Sect' (pp. 113-126) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+* Gupta, B.D. \[Bhagwan Das] (1989a). '\[Chapter] 11: Sant Prannath and the Pranami Sect' (pp. 113-126) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
+* Gupta, B.D. \[Bhagwan Das] (1989b). '\[Chapter] 12: Pranami Sampradaya of Bundelkhand ' (pp. 127-135) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
 
 **Purport:**<br>
 ...
