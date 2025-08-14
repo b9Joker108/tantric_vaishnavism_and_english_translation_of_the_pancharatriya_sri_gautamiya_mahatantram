@@ -1264,6 +1264,13 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 **Purport:**<br>
 ...
 
+### QURESHI, H. ###
+
+* Qureshi, Hamid Afaq (1989). '\[Chapter] 8: Nature and Roots of Islamic Bhakti Movement and Syed Ashraf Jahangir Samnani' (pp. 83-96) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 # R #
 
 ### RADDOCK, E. ###
