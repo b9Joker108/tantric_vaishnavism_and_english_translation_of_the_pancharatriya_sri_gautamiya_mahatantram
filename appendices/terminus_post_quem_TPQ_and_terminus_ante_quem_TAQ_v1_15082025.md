@@ -254,3 +254,415 @@ Nevertheless, these concepts are not without their conceptual fragility; real-wo
 Their enduring legacy lies in their elegant formalization of uncertainty—a Latin legacy that, wedded to the needs of modern scholarship, continues to scaffold the architecture of our understanding of the past and our efforts to systematize knowledge across time, cultures, and disciplines.
 
 ---
+
+
+In most academic style guides and specialist usage, the abbreviation for the Latin expression comes before the date it qualifies:
+
+> TPQ 1204 — terminus post quem is 1204  
+> TAQ 1350 — terminus ante quem is 1350
+
+Why the abbreviation precedes the date
+- Logical reading order: You’re signalling the kind of date before you give the number, so the reader instantly knows how to interpret it — “this is the earliest possible date” or “this is the latest possible date.”
+- Shorthand for apparatus and tables: In excavation reports, stemmata, or critical editions, putting TPQ/TAQ first keeps columns aligned and makes skimming easier when multiple limits are given.
+- Analogy with other scholarly dating codes: Abbreviations like c. (circa), fl. (floruit), or r. (regnavit/reigned) always come before the date. TPQ/TAQ is treated the same way.
+- Avoids syntactic ambiguity: Placing “TPQ” or “TAQ” after the date can make it look like part of a catalogue number, not a chronological qualifier.
+
+---
+
+Variants and exceptions
+- Narrative prose: When written out in full, Latin or English form often follows the date in parentheses for smoother reading, e.g.,  
+  > “The inscription must postdate the ruler’s accession in 1193 (terminus post quem).”
+- Tables/figures: TPQ/TAQ almost always precede the date for quick scanning.
+- Multiple bounds: Sometimes you’ll see a compact range like “TPQ 1204 / TAQ 1350” to bracket an event or artefact.
+
+Here’s a compact cross‑disciplinary reference you can keep at hand — each row shows how TPQ (terminus post quem) and TAQ (terminus ante quem) are positioned, plus the stylistic logic behind it. I’ve tuned the examples toward contexts you’re likely to work in, so they’re ready for apparatuses, captions, or footnotes.
+
+| Discipline / Context | Abbrev. placement | Example | Notes |
+|---|---|---|---|
+| Archaeology / Epigraphy (catalogue or find‑list) | Before date | TPQ 1204 ; TAQ 1350 | Matches other qualifiers (c., r., fl.); keeps tables scannable. |
+| Manuscript stemma (apparatus criticus) | Before date | TPQ ca. 1450 / TAQ 1473 | Stacks neatly with other sigla; date limits jump out at a glance. |
+| Numismatics (coin catalogue) | Before date | TAQ 325 BCE | Avoids confusion with series or hoard numbers; aligns with c., post‑c. |
+| Narrative art‑historical prose | After date in full phrase | …after 1193 (terminus post quem) | Reads more fluidly in running text; Latin in italics in most style guides. |
+| Epigraphic translation note | Before date | TPQ Śaka 1126 | Works with era names or regnal years; abbreviation prevents misreading as era qualifier. |
+| Palaeographic dating in captions | Before date | TAQ late 12th c. | Signals limit clearly, especially when multiple hands or strata are described. |
+
+---
+
+Tip for your own practice:  
+If your apparatus or caption already uses plenty of abbreviations (sigla, shelfmarks, line numbers), leading with TPQ/TAQ harmonizes the “scan rhythm” for the reader — their eye catches the qualifier first, then parses the number. In prose, feel free to shift the expansion to where it supports narrative flow.
+
+If you like, I can also prepare a mini style‑card showing TPQ/TAQ alongside c., fl., and regnal indicators in both Gregorian and era‑based systems, so you have a one‑look guide when moving between epigraphic and manuscript contexts.
+
+For your fields — archaeology, paleography, manuscript studies, Indic epigraphy, iconography — putting TPQ/TAQ before the date in apparatuses, tables, and captions is the clearest and most conventional, while in flowing discussion you can position the phrase where it reads most naturally. Would you like me to draft you a short table showing discipline-specific citation examples?
+
+
+Here’s a mini style‑card you can drop straight into your working notes — it lines TPQ/TAQ up with other dating qualifiers you’re likely to juggle in archaeological catalogues, paleographic tables, critical apparatuses, and iconographic captions.
+
+---
+
+📜 Mini Style‑Card: Dating Qualifiers in Scholarly Apparatus
+
+| Qualifier | Meaning | Placement | Example (Gregorian) | Example (Era‑based) | Notes / Conventions |
+|---|---|---|---|---|---|
+| TPQ (terminus post quem) | Earliest possible date | Before date | TPQ 1204 | TPQ Śaka 1126 | Signals “no earlier than…”; aligns with c., fl. positioning for scannability in lists/tables. |
+| TAQ (terminus ante quem) | Latest possible date | Before date | TAQ 1350 | TAQ Śaka 1272 | Signals “no later than…”; keeps boundaries visually distinct in tight layouts. |
+| c. (circa) | Approximate date | Before date | c. 950 | c. Vikrama 1006 | Often paired with TPQ/TAQ for bracketing ranges: TPQ c. 950. |
+| fl. (floruit) | Period of activity | Before date(s) | fl. 1180–1210 | — | Used for people/artists; typically mid‑range dates. |
+| r. (regnavit) | Years of reign | Before date(s) | r. 1066–1087 | r. Śaka 988–1009 | Key in epigraphic contexts; can anchor TPQ/TAQ for events tied to that reign. |
+| a quo (terminus a quo) | Starting point of span | Before date | a quo 1193 | — | More common in legal or canonical contexts; overlaps with TPQ. |
+| ad quem (terminus ad quem) | Ending point of span | Before date | ad quem 1347 | — | Overlaps with TAQ; sometimes preferred in philology or theology. |
+
+---
+
+🖋 Style & Integration Tips
+- Apparatus & captions → Put the qualifier before the date for instant recognition and neat alignment.
+- Flowing prose → Expand to the full Latin (or an English gloss) after the date if you want smoother rhythm:  
+  “…completed after 1204 (terminus post quem)…”  
+- Era conversion → When mixing Gregorian and era‑based dates, keep the qualifier tied to the date it governs to avoid misreading.
+- Combined bounds → Use solidus (/) or en dash for compact ranges: TPQ 1204 / TAQ 1350 or 1204 ≤ x ≤ 1350.
+- Critical editions → Define TPQ/TAQ once in your sigla list, then use freely in apparatus footnotes without italics.
+
+---
+
+If you like, I can prepare an expanded reference sheet showing TPQ/TAQ notation side‑by‑side in five different style‑guide formats (Chicago, MHRA, APA, epigraphic, and TEI‑XML) so you can move seamlessly between archaeological reports, manuscript editions, and digital cataloguing without re‑inventing the wheel. Would that be useful for your toolkit right now?### 🖋 Style & Integration Tips
+- Apparatus & captions → Put the qualifier before the date for instant recognition and neat alignment.
+- Flowing prose → Expand to the full Latin (or an English gloss) after the date if you want smoother rhythm:  
+  “…completed after 1204 (terminus post quem)…”  
+- Era conversion → When mixing Gregorian and era‑based dates, keep the qualifier tied to the date it governs to avoid misreading.
+- Combined bounds → Use solidus (/) or en dash for compact ranges: TPQ 1204 / TAQ 1350 or 1204 ≤ x ≤ 1350.
+- Critical editions → Define TPQ/TAQ once in your sigla list, then use freely in apparatus footnotes without italics.
+
+---
+
+If you like, I can prepare an expanded reference sheet showing TPQ/TAQ notation side-by-side in five different style-guide formats (Chicago, MHRA, APA, epigraphic, and TEI‑XML) so you can move seamlessly between archaeological reports, manuscript editions, and digital cataloguing without re-inventing the wheel. Would that be useful for your toolkit right now?
+
+
+
+Perfect — here’s your expanded reference sheet showing terminus post quem (TPQ) and terminus ante quem (TAQ) notation across five common style ecosystems. I’ve pulled in conventions you’re likely to hit when moving between excavation reports, manuscript editions, epigraphic corpora, and digital catalogue work.
+
+---
+
+📑 TPQ / TAQ Cross‑Style Quick Reference
+
+| Style Guide / Context | Abbrev. Placement | Italicization | Example (Gregorian) | Example (Era‑based) | Notes & Discipline Fit |
+|---|---|---|---|---|---|
+| Chicago Manual of Style (hist./arch. monographs) | Before date in apparatus; after date in prose | Italicize Latin phrase in prose; abbrev. in roman | Apparatus: TPQ 1204 / TAQ 1350<br>Prose: “…after 1204 (terminus post quem)…” | Apparatus: TPQ Śaka 1126 | Chicago prefers clarity in apparatus, italics in narrative. Standard for archaeology, art history, religious studies. |
+| MHRA (philology, medieval studies) | Before date in notes/tables | Italicize full form on first use; abbrev. thereafter | Note: TPQ c. 1450, TAQ 1473 | TPQ Vikrama 1006 | MHRA indexes all Latin in foreign words list; be consistent. Favoured in palaeography, critical editions. |
+| APA 7 (anthropology, linguistics) | Before date in tables; gloss in prose | No italics for common scholarly Latin in abbrev. form | Table: TPQ AD 900 | TAQ Śaka 1050 | In text: “…earliest date (TPQ; terminus post quem) is AD 900.” Useful in ethnography, motif analysis, linguistics. |
+| Epigraphic / Archaeological (ICAHM, CIL-style) | Before date in all listings | Latin terms often in small caps in print; abbrev. in roman | TPQ A.D. 325 | TPQ Gupta yr 156 | Prioritises scan‑friendly sigla; consistent across excavation logs, coin hoards, inscription corpora. |
+| TEI-XML / Digital Humanities | Attribute value or element content | No italics; machine-readable | <date notBefore="1204" notAfter="1350" cert="high"> | <date notBefore="1126saka"> | Use @notBefore for TPQ, @notAfter for TAQ; enables computational filtering, timeline viz. |
+
+---
+
+🖋 Integration Pointers
+- Apparatus & Tables: Lead with TPQ/TAQ for rapid parsing, especially when paired with c., fl., r.
+- Flowing Prose: Place the expanded Latin or English gloss after the date if you want a smoother read; italicize Latin per style rules.
+- Ranges: Compact bracketing is best in apparatus: TPQ 1204 / TAQ 1350 or 1204 ≤ x ≤ 1350.
+- Era Systems: Tie qualifier directly to the era/date it governs to avoid ambiguity in mixed systems.
+- Digital Interoperability: In TEI or similar schemas, resist “TPQ” strings — use semantic attributes for machine actionability.
+
+---
+
+If you’d like, I can build you a dual‑column “conversion crib” mapping TPQ/TAQ phrasing between formal Latin, plain English, and XML/metadata attributes — so you can lift the right form instantly whether you’re drafting a footnote, a database entry, or a catalogue card. It would slot neatly into your working toolkit for both analogue and digital projects. Would you like me to add that?
+
+
+
+Digital humanities conventions for TPQ/TAQ
+
+This expands TPQ/TAQ into machine‑actionable patterns that travel cleanly between critical apparatus, catalogues, linked data, AI parsing, and data‑viz. The anchor principle: store semantics (earliest/latest bounds) once, render TPQ/TAQ as needed.
+
+- Core idea: TPQ = earliest bound; TAQ = latest bound. Persist as explicit fields, not embedded strings.
+- Calendar clarity: Declare the calendar/era and normalization method every time (Julian/Gregorian/proleptic, Śaka, Vikrama, regnal, Hijri).
+- Precision & certainty: Track precision (year/month/day) and certainty (high/medium/low) separately from bounds.
+- Dual representation: Keep both a normalized machine value (ISO 8601/EDTF) and a human‑readable display string (“TPQ 1204 / TAQ 1350; Śaka 1126”).
+
+---
+
+Encoding patterns in TEI‑XML and EpiDoc
+
+Use TEI’s native date attributes; avoid literal “TPQ/TAQ” in content. Record original era alongside normalized.
+
+- Minimal event with bounds
+  `xml
+  <date notBefore="1204" notAfter="1350" when-custom="Śaka 1126"
+        calendar="#proleptic-gregorian" datingMethod="#epigraphic-internal"
+        cert="high" resp="#editor1">TPQ 1204 / TAQ 1350 (Śaka 1126)</date>
+  `
+
+- Palaeographic dating with precision and notes
+  `xml
+  <origDate notBefore="1150" notAfter="1199" evidence="palaeography"
+            precision="year" calendar="#julian" cert="medium">
+    late 12th c. (palaeographic TPQ/TAQ)
+  </origDate>
+  `
+
+- Era‑based explicit modeling
+  `xml
+  <date notBefore-when="1204" notAfter-when="1350"
+        notBefore-custom="Śaka 1126" calendar="#saka">
+    TPQ Śaka 1126 / TAQ 1350
+  </date>
+  `
+
+- Stand‑off dating for items vs events
+  `xml
+  <event xml:id="insc-engraving">
+    <date notBefore="1193" notAfter="1199" resp="#epigrapher"/>
+  </event>
+  <bibl>
+    <date ref="#insc-engraving"/>
+  </bibl>
+  `
+
+- Recommended attributes
+  - notBefore / notAfter: machine bounds.
+  - when / from / to: use when a single known point or explicit span exists.
+  - calendar / datingMethod: point to controlled identifiers (URIs) for calendar and method.
+  - precision / cert / resp: granularity, confidence, responsibility.
+  - when-custom / notBefore-custom / notAfter-custom: store original era phrase.
+
+---
+
+Linked data mappings (RDF, CIDOC CRM, W3C Time)
+
+Model bounds as intervals; avoid opaque strings.
+
+- W3C Time ontology (generic)
+  `turtle
+  :Event a time:Interval ;
+    time:hasBeginning [ a time:Instant ;
+      time:inXSDDate "1204-01-01"^^xsd:date ] ;
+    time:hasEnd [ a time:Instant ;
+      time:inXSDDate "1350-12-31"^^xsd:date ] ;
+    skos:note "TPQ/TAQ based on inscriptional evidence"@en .
+  `
+
+- CIDOC CRM (heritage/archaeology)
+  `turtle
+  :Event a crm:E5_Event ;
+    crm:P4hastime-span [
+      a crm:E52_Time-Span ;
+      crm:P82abeginofthebegin "1204-01-01"^^xsd:date ;
+      crm:P82bendoftheend "1350-12-31"^^xsd:date ;
+      crm:P3hasnote "TPQ coin hoard; TAQ terminates with ruler's death"@en
+    ] .
+  `
+
+- JSON‑LD sketch (schema.org + TIME)
+  `json
+  {
+    "@context": {
+      "time": "http://www.w3.org/2006/time#",
+      "schema": "http://schema.org/"
+    },
+    "@type": "time:Interval",
+    "schema:name": "Inscription engraving",
+    "time:hasBeginning": { "time:inXSDDate": "1204-01-01" },
+    "time:hasEnd": { "time:inXSDDate": "1350-12-31" },
+    "schema:identifier": "TPQ 1204 / TAQ 1350",
+    "schema:temporalCoverage": "1204/1350"
+  }
+  `
+
+- EDTF for intervals and ambiguity
+  - Closed interval: 1204/1350
+  - Approximate/uncertain: 1204~/1350?
+  - Open interval (TAQ only): ../1350
+  - Open interval (TPQ only): 1204/..
+  - BCE caution: use negative years in proleptic Gregorian (e.g., -0325).
+
+---
+
+JSON and database schemas for parsing and reporting
+
+Favor explicit fields; keep display separate from computation. Include era and normalization.
+
+- Compact JSON schema
+  `json
+  {
+    "date_display": "TPQ 1204 / TAQ 1350; Śaka 1126",
+    "bounds": { "notBefore": "1204", "notAfter": "1350" },
+    "edtf": "1204/1350",
+    "precision": "year",
+    "certainty": "high",
+    "calendar": "proleptic_gregorian",
+    "originalEra": { "system": "Śaka", "value": 1126, "script": "IAST" },
+    "evidence": ["coin hoard", "ruler accession"],
+    "basis": "epigraphic internal",
+    "provenance": { "assertedBy": "J. Doe", "date": "2025-08-15" }
+  }
+  `
+
+- Relational columns (CSV/DB)
+  - id: unique key
+  - notbefore / notafter: ISO date or year integers
+  - edtf_interval: EDTF string
+  - precision: enum {year, month, day, century}
+  - certainty: enum {high, medium, low}
+  - calendar: enum/URI
+  - erasystem / eravalue / era_script: textual era capture
+  - evidence / basis: controlled vocab or URI
+  - display_string: human‑readable (“TPQ 1204 / TAQ 1350”)
+
+- Controlled vocab recommendations
+  - basis: {epigraphic-internal, palaeographic, stylistic, stratigraphic, numismatic, documentary, radiocarbon}
+  - calendar: {proleptic_gregorian, julian, saka, vikrama, hijri, regnal}
+  - precision: {day, month, year, decade, quarter-century, century}
+
+---
+
+AI parsing and extraction guidance
+
+Design for deterministic parsing; supply training cues and unambiguous keys.
+
+- Authoring for AI
+  - Explicitness: Use “TPQ 1204 / TAQ 1350” or “notBefore=1204; notAfter=1350” near the entity they qualify.
+  - One concept per line: Avoid cramming dates, sigla, and shelfmarks in a single unstructured sentence.
+  - Gloss on first use: “earliest (TPQ)” and “latest (TAQ)” help large models map synonyms.
+
+- Lexical mapping to capture in NER/rules
+  - TPQ synonyms: “after,” “no earlier than,” “postdates,” “terminus a quo,” “from at least,” “subsequent to.”
+  - TAQ synonyms: “before,” “no later than,” “by,” “ante quem,” “pre‑,” “at the latest,” “prior to.”
+  - Ambiguity flags: “around,” “circa,” “probably,” “before or after,” “between … and …” → treat as spans with lower confidence.
+
+- Regex starters (expand per corpus)
+  - Abbrev. forms:
+    `
+    \b(TPQ|TAQ)\s([\-]?\d{1,4})(?:\s(BCE|BC|CE|AD))?
+    `
+  - Era forms (Indic):
+    `
+    \b(Śaka|Saka|Vikrama|Gupta(?:\s+yr)?)\s*(\d{1,4})
+    `
+  - English cues:
+    `
+    \b(no\s+earlier\s+than|after|postdates)\s+(\d{3,4})
+    \b(no\s+later\s+than|by|before|at\s+the\s+latest)\s+(\d{3,4})
+    `
+
+- Normalization rules
+  - Calendars: If unknown, store as text and do not silently convert; add a task for calendrical normalization.
+  - BCE/zero year: Use proleptic Gregorian with negative years; no year 0.
+  - Precision: If only century known, store precision=century, and compute an internal interval (e.g., 1100/1199) for viz.
+
+---
+
+Scripting and reporting examples
+
+Provide both human and machine outputs; keep transformation logic transparent in notebooks/scripts.
+
+- Deriving a display string from bounds
+  `python
+  def tpqtaqdisplay(notbefore=None, notafter=None, era=None):
+    parts = []
+    if not_before:
+      parts.append(f"TPQ {not_before}")
+    if not_after:
+      parts.append(f"TAQ {not_after}")
+    if era:
+      parts.append(f"({era})")
+    return " / ".join(parts)
+
+-> "TPQ 1204 / TAQ 1350 (Śaka 1126)"
+  `
+
+- Building an EDTF interval
+  `python
+  def to_edtf(nb, na, approx=False, uncertain=False):
+    prefix = "~" if approx else ""
+    suffix = "?" if uncertain else ""
+    left = f"{nb}{prefix}" if nb else ""
+    right = f"{na}{suffix}" if na else ""
+    if nb and na: return f"{left}/{right}"
+    if nb and not na: return f"{left}/.."
+    if na and not nb: return f"../{right}"
+    return ""
+  `
+
+- CSV reporting columns (example row)
+  `
+  id,notbefore,notafter,edtf,precision,certainty,calendar,display_string
+  MS-048,1204,1350,1204/1350,year,high,proleptic_gregorian,"TPQ 1204 / TAQ 1350"
+  `
+
+---
+
+Data‑visualization patterns for uncertainty and bounds
+
+Represent intervals explicitly; avoid misleading point dots unless clearly marked as midpoints.
+
+- Interval bars: Draw from TPQ to TAQ; choose a faint fill or gradient to indicate uncertainty.
+- Point + whiskers: Use midpoint as a dot, with whiskers to bounds; tooltips show TPQ/TAQ and evidence.
+- Stacked strata: For multi‑evidence items, layer bars with different textures (e.g., stratigraphic vs palaeographic).
+- Density timelines: For large sets, render bounds as kernel densities; annotate modal periods.
+- Legends: Include a legend mapping styles to evidence type (numismatic, palaeographic, etc.).
+- Vega‑Lite snippet
+  `json
+  {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"name": "items"},
+    "mark": "rule",
+    "encoding": {
+      "x": {"field": "not_before", "type": "temporal"},
+      "x2": {"field": "not_after"},
+      "y": {"field": "label", "type": "nominal"},
+      "color": {"field": "evidence", "type": "nominal"}
+    }
+  }
+  `
+
+- Tooltip fields: Include display_string, evidence, certainty, precision, calendar.
+
+---
+
+Edge cases and recommendations
+
+- Only TPQ or only TAQ known
+  - Storage: Leave the other bound null; use open EDTF (1204/.. or ../1350).
+  - Viz: Render a bar to or from the axis edge; style distinctively (e.g., arrowhead).
+
+- Mixed calendars/eras
+  - Practice: Store original era text and the normalized conversion with a calendar identifier and datingMethod.
+  - Auditability: Record who normalized and when (resp, provenance).
+
+- Regnal years
+  - Model: Store regnal system and ruler URI; compute normalized bounds downstream.
+  - Example: ruler="Harṣa"@uri, regnalfrom=3, regnalto=6, calendar="regnal-harsa".
+
+- Ambiguous prose in sources
+  - Rule: If text says “by 1350,” treat as TAQ 1350; “after 1204,” TPQ 1204; “around 1200,” use c. and a low‑certainty span (e.g., 1190/1210).
+
+- Display vs data
+  - Separation: Never parse the display string back into data in pipelines; it is for humans. Persist structured fields.
+
+- Validation checklist
+  - Bounds order: notBefore ≤ notAfter.
+  - Precision coherent with values: if precision=century, use whole‑century bounds.
+  - Calendar required: always set calendar.
+  - Confidence present: set certainty and basis/evidence.
+
+---
+
+If you’d like, I can tailor a drop‑in JSON Schema (with validation rules and enums) plus a TEI ODD fragment that enforces @notBefore/@notAfter and @calendar for your corpora, and generate a couple of ready‑to‑use Vega‑Lite specs for manuscript vs epigraphic timelines.
+
+
+
+Exactly — if you think in the “weights-and-measures” sense of tolerance as a permitted departure from a nominal specification, TPQ/TAQ function very much like a chronometric tolerance band.
+
+In metrology you might say nominal diameter 10 mm ± 0.2 mm — that’s a target with an allowable spread. In terminus logic there’s no “target” moment in the middle, but instead two limit specifications:
+
+- TPQ (terminus post quem) ≈ the minimum bound: nothing can date earlier than this point. It’s the “greater-than or equal to” side of the tolerance.
+- TAQ (terminus ante quem) ≈ the maximum bound: nothing can date later than this point. It’s the “less-than or equal to” side.
+
+When you have both, the result is a permissible date range within which the actual event/production/use must fall — exactly analogous to the band within upper and lower tolerance limits in engineering drawings.
+
+Why the analogy works as a term‑of‑art:
+- Both are about constraint specification: the limits are imposed by evidence (archaeological context, paleographic features, stratigraphy) in the same way physical tolerances are imposed by material or functional constraints.
+- Both imply measurement uncertainty: the true value is somewhere inside, but you may not be able to resolve it more finely without new evidence or tighter calibration.
+- In both, over‑running either bound falsifies the fit: a shaft > 10.2 mm won’t fit; an artefact dated earlier than TPQ violates the known evidence.
+
+Caveat: in historical disciplines we usually don’t assume the “true” date is centered between TPQ and TAQ — the distribution can be skewed by deposition lags, copying delays, or transmission gaps. So it’s safer to treat these termini as absolute limit specifications, not as symmetrical ± tolerances.
+
+If you want, I can sketch a little “engineering‑style” diagram that re‑labels the axes with TPQ/TAQ so you’ve got a visual bridge between the metrology and chronology senses.
+
