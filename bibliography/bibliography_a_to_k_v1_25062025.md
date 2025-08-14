@@ -767,6 +767,13 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 **TODO:** Investigate publication listing of entire Indo-Asian series.
 
+### GUPTA, B. ###
+
+* Gupta, B.D. \[Bhagwan Das] (1989). '\[Chapter] 11: Sant Prannath and the Pranami Sect' (pp. 113-126) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### GUPTA, V. ###
 
 * Gupta, Vinay Kumar (2019). 'Chapter 4: Vrishnis in Ancient Art and Literature' (pp. 69-90) in Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). *Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research*. New Delhi, India: Aryan Books International. ISBN 9788173056321. Source: https://www.researchgate.net/publication/336771184_Vrishnis_in_Ancient_Literature_and_Art (accessed: Saturday, July 26, 2025)
