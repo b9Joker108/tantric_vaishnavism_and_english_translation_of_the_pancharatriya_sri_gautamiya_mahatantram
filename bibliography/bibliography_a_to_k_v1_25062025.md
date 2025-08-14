@@ -908,6 +908,13 @@ As yet, not secured.
 **Purport:**<br>
 Why? The discourse of Tantra was mediated into the English and the languages of Europe through the medium of **their** context. This is only a part of that context.
 
+### KOHLI, M. ###
+
+* Kohli, Manorama (1989). '\[Chapter] 4: Guru Nanak and the Bhakti Movement: Convergence and Divergence' (pp. 47-58) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### KRISHNA, D.; *et al.*
 
 * Krishna, Daya; Lath, Mukund & Krishna, Francine E. (eds.) (2000). 'Bhakti: A Contemporary Discussion - Philosophocal Explorations in the Bhakti Tradition'. Indian Council of Philosophical Research. Tughlabad Institutional Area, Vayusenabad, New Delhi, N.C.T., India: Indian Council of Philosophical Research. ISBN 8185636443. 
