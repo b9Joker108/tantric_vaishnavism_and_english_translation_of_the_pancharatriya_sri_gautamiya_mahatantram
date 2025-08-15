@@ -766,6 +766,11 @@ Without reservation, I determine this a watershed work in the literature. I lean
 
 ### MUMME, P. ###
 
+* Mumme, Patricia Y. (1987). 'Grace and Karma in Nammalvar's Salvation' (pp. 257-266) in the *Journal of the American Oriental Society*, Vol. 107, No. 2, April-June, 1987. University of Michigan, Ann Arbor, Michigan, U.S.A.: American Oriental Society (University of Michigan). Source: https://www.jstor.org/stable/602834 (accessed: Friday, August 15, 2025)
+
+**Purport:**<br>
+...
+
 * Mumme, Patricia Y. (1988). ‘The Sri-Vaishnava Theological Dispute: Manavalamamuni and Vedanta Deshika’. Madras, Tamil Nadu, India: New Era Publications (S. Srinivasan & N.S. Raghavan). Source: https://archive.org/details/svtd_pm (accessed: Sunday, June 16, 2024)
 
 **Purport:**<br>
