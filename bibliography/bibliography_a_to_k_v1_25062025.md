@@ -795,6 +795,13 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 ...
 
+### GUPTA, S.; *et al.* ###
+
+* Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). 'Hindu Tantrism'. 'Handbook of Oriental Studies' \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+This is a very important volume as it subsumes a more tham rudimentary literature review of Tantra. 
+
 ### GUPTA, V. ###
 
 * Gupta, Vinay Kumar (2019). 'Chapter 4: Vrishnis in Ancient Art and Literature' (pp. 69-90) in Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). *Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research*. New Delhi, India: Aryan Books International. ISBN 9788173056321. Source: https://www.researchgate.net/publication/336771184_Vrishnis_in_Ancient_Literature_and_Art (accessed: Saturday, July 26, 2025)
