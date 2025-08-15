@@ -2349,10 +2349,24 @@ This contains a useful professional and biographical survey of Srinivasan and li
 
 ### WHITE, D. ###
 
+* White, David Gordon (2000b). 'Introduction - Tantra in Practice: Mapping a Tradition' (pp. 3-38) in White, David Gordon (ed.) & Lopez, Jr.; Donald S. (series ed.) (2000a). *Tantra in Practice*. Princeton Readings in Religion series. Princeton, New Jersey, U.S.A.: Princeton University Press. ISBN 0691057788 (cloth: alk.paper). 
+
+**Purport:**<br>
+...
+
 * White, David Gordon (2006). 'Digging Wells while Houses Burn? Writing Histories of Hinduism in a Time of Identity Politics' (pp. 104–131) in *History and Theory: Theme Issue 45, Religion and History*, Vol. 45, №4, December, 2006. Hoboken, New Jersey, U.S.A.: Wiley (for Wesleyan University). Source: https://archive.org/details/white-david-gordon-2006.-digging-wells-while-houses-burn-writing-histories-of-hi (accessed: Monday, September 30, 2024)
 
 **Purport:**<br>
 ...
+
+### WHITE, D.; *et al.* ###
+
+* White, David Gordon (ed.) & Lopez, Jr.; Donald S. (series ed.) (2000a). 'Tantra in Practice'. Princeton Readings in Religion series. Princeton, New Jersey, U.S.A.: Princeton University Press. ISBN 0691057788 (cloth: alk.paper). 
+
+**Purport:**<br>
+...
+
+
 
 ### WHITE, E. ###
 
