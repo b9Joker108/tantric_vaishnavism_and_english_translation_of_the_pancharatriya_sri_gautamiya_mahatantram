@@ -1949,6 +1949,13 @@ https://archive.org/details/ancient-sages-swami-satyamayananda (accessed: Wednes
 **Purport:**<br>
 These were first published in the English monthly 'Prabuddha Bharata' from August 1997 to June 2003. The story of sage Durvasa was included later.
 
+### SATYAMURTI ###
+
+* Satyamurti (2003). 'Is Salvation a Nonexistence in the Nyaya School?' (pp. 143-150) in the *Annals of the Bhandarkar Oriental Research Institute \[ABORI]*, Vol. LXXXIV \[84], 2003. Source: https://www.jstor.org/stable/41694754 (accessed: Friday, August 15, 2025)
+
+**Purport:**<br>
+...
+
 ### SCHAEFFER, K. ###
 
 * Schaeffer, Kurtis R. (2005). 'Dreaming the Great Brahmin: Tibetan Traditions of the  Buddhist Poet-Saint Saraha'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195173734. 
