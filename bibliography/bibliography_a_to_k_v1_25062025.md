@@ -871,6 +871,13 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 **Purport:**
 ...
 
+### JAGADEESAN, N. ###
+
+* Jagadeesan, N. (1989). '\[Chapter] 14: The Life and Mission of Karaikkal Ammaiyar' (pp. 149-161) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**
+...
+
 ### JAHAN, S.; *et al.* ###
 
 * Jahan, Shahnaj Husne (auth.) & Kanungo, Alok K. (ed.) (2019, 2006). 'Excavating Waves and Winds of (Ex)change: A Study of Maritime Trade in Early Bengal'. British Archaeological Reports \[BAR] International Series 1533. South Asian Archaeology Series: Vol. 5. With a 'Foreword' by Dr. Alok Kumar Kanungo. (NB: First published in 2006 by John and Erica Hedges, Oxford, England, U.K.). Oxford, England, U.K.: BAR Publishing. ISBN  9781407329895 (ebook). DOI: https://doi.org/10.30861/9781841717531 (accessed: Sunday, August 03, 2025)
