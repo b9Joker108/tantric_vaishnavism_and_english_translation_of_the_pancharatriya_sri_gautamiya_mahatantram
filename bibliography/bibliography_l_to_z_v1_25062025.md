@@ -1060,6 +1060,11 @@ This is an important and useful work that I am yet to secure.
 **Purport:**<br>
 ...
 
+* Padoux, Andre (2000). '\[Chapter] 1: The Tantric Guru' (pp. 41-51) in White, David Gordon (ed.) & Lopez, Jr.; Donald S. (series ed.) (2000a). *Tantra in Practice*. Princeton Readings in Religion series. Princeton, New Jersey, U.S.A.: Princeton University Press. ISBN 0691057788 (cloth: alk.paper). 
+
+**Purport:**<br>
+Note, Padoux (2000: p. 45) makes reference to Pancharatra in passing: "Some Tantric traditions, notably the dualist Saiva Siddhanta whose scriptures are the Sanskrit Agamas, insist on the absolute and total efficacy of ritual. Such is also the position of the Vaisnava tradition of the Pancaratra, despite the importance given there to devotion to the Lord."
+
 * Padoux, Andre (2011). 'Tantric Mantras: Studies on Mantrashastra'. Routledge Studies in Tantric Traditions series. With a Foreward by Gavin Flood. First edition. Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203814499 (ebook). Source: https://archive.org/details/padoux-andre-2011.-tantric-mantras-studies-on-mantrashastra_202408 (accessed: Thursday, July 18, 2024)
 
 **Purport:**<br>
