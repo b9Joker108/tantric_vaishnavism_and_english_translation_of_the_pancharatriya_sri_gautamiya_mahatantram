@@ -3405,6 +3405,82 @@ Citations:
 
 
 
+Does any domestic Indian University have a Tantra Department or are they Samkya-Yoga-Agama complexes in Indic languages and scripts? I note that Tantra was not an indigenous hermeneutical, soteriological, doxographical and doxological category as it is now in English and European languages, Colonial and post-Colonial amplification and construction of the titillation and exoticism of the 'Orientalist' Tantric category/genre. Many indigenous texts are now pubished with 'tantra' in the title, but that was not the primary and attested desigation in manuscripts. Indic publication houses adopted the terminology and thus a category was cemented.
+
+There are currently **no major domestic Indian universities with a standalone “Tantra Department”** as understood in the modern, postcolonial sense of Tantric Studies as a distinct global academic field. Instead, Tantra, when academically treated, is generally located within broader **Sanskrit, Indian philosophy, Samkhya–Yoga, Agama, or Dharma studies departments**, often as part of historical, philosophical, philological, or practice-based curricula[1][2][3][4]. Here are critical points and context based on your question and the current Indian academic landscape:
+
+***
+
+## **1. Academic Structure and Terminology**
+
+- Most Indian universities **do not have “Tantra” departments**. Instead, related subjects are typically incorporated into:
+  - **Samkhya-Yoga** departments or courses (e.g., at Kavikulaguru Kalidas Sanskrit University, Somaiya Institute, and the National Sanskrit University in Tirupati)[1][2][4].
+  - **Agama** studies, especially in South Indian institutions, often cover ritual, philosophy, and practice (not specifically branded as “Tantra” in the modern Western manner).
+  - **Departments within Ayurveda** such as *Shalya Tantra* or *Shalakya Tantra*, which refer to surgery and medical specialties, not esoteric philosophy or ritual (this is the indigenous classical medical sense of “tantra” as a treatise or system, not the post-Victorian sense)[5][6][7][8][9][10].
+
+- A select number of private, new-age, or alternative education institutions may market “Tantra Studies,” but these are not generally part of recognized mainstream Sanskrit or philosophy faculties[11].
+
+***
+
+## **2. The Semantic and Hermeneutical Problematics of 'Tantra'**
+
+- As you noted, the **term 'Tantra'** in manuscript tradition was historically used as a designation for a treatise, manual, or thread (from the root √tan, "to stretch, expand", thus "framework" or "system")[12][13][14][15][16].
+- **Tantra as a soteriological, doxographical, or doxological “category”** emerged primarily in colonial and post-colonial discourse, reflecting the titillation and exoticization attributed to Indian traditions (the “Orientalist Tantra” problem). In most indigenous Sanskrit manuscripts, works we now call “tantras” or “tantric” are titled as *agama*, *yoga*, *samgraha*, *sutra*, and only sometimes as *tantra*.
+- Many Indian-language publications and translation houses have adopted “Tantra” as a keyword in recent decades due to marketability, English-language academic habits and broader cultural branding, further cementing the category’s prominence in global discourse.
+- There is thorough scholarly consensus that “Tantric” as a catch-all – especially outside explicit Kaula, Shakta, Shaiva, or Vajrayana agama circles – is a Western construction, not an indigenous blanket category.
+
+***
+
+## **3. Indic Manuscript Evidence**
+
+- Manuscripts encoding what are now categorized as "tantric" practices, philosophies, or rituals are rarely labeled *tantra* in the title in Sanskrit or regional scripts. Instead, they bear titles like *Agama*, *Samhita*, *Sutra*, *Paddhati*, or *Mata*.
+- The modern Indian academic and publishing world has, for convenience and international dialogue, adopted “Tantra” as a part of titling or sub-discipline nomenclature, but this is a relatively recent phenomena.
+
+***
+
+## **4. Yoga–Samkhya–Agama Complexes**
+
+- At leading institutions, Samkhya–Yoga–Agama are taught together, often with optional specialization in ritual or textual traditions that in the West might be called "tantric"[1][2][4].
+- **Nalanda University’s religious studies program** and Somaiya Vidyavihar in Mumbai offer advanced degrees where Samkhya, Yoga, and Agama (sometimes with coverage of so-called tantric texts or phenomena in their original scripts and languages) are a focus, but still not as "Tantra Studies" per se[1][2][3].
+
+***
+
+## **5. Conclusion and Critical Perspective**
+
+- There is no robust or widely recognized “Tantra Department” as seen in some Western universities' religious studies areas. The handling of "Tantra" in Indian academic institutions remains either:
+  - Embedded within classical categories (Samkhya, Yoga, Agama, Dharma Studies, Ayurveda)
+  - Taught under indigenous disciplinary rubrics and original manuscript languages/scripts
+  - Or, in rare instances, special-topic courses within broader programs
+- Your critique about the constructed nature of “Tantra” as a category—through colonial, orientalist, and contemporary market imperatives—is reflected in both the lack of indigenous categorical precedent and the transition to “Tantra” in academic and popular publishing[12][11][17][14].
+
+***
+
+**In sum:** Academic and indigenous tradition in India privileges the original Sanskrit, Prakrit, and regional epistemic categories. “Tantra” as an independent academic department is an artifact of later scholarly construction and international discourse, not the indigenous classificatory practice or doxographical system.
+
+Citations:
+[1] Diploma in Samkhya-Yoga Systems of Indian Philosophy https://kjsids.somaiya.edu/en/programme/diploma-in-samkhya-yoga-systems-of-indian-philosophy/
+[2] K J Somaiya Institute of Dharma Studies - Somaiya Vidyavihar ... https://kjsids.somaiya.edu/en/
+[3] 2 Religious Studies degrees in India (2025) https://www.educations.com/religious-studies/india
+[4] Department of Samkhya yoga https://nsktu.ac.in/index.php/department-of-samkhya-yoga-2/
+[5] department of shalya tantra - NATIONAL INSTITUTE OF AYURVEDA https://www.nia.nic.in/11.html
+[6] Shalakya Tantra - NATIONAL INSTITUTE OF AYURVEDA https://nia.nic.in/10.html
+[7] Department of Shalakya Tantra - Amrita Vishwa Vidyapeetham https://www.amrita.edu/department/department-of-shalakya-tantra/
+[8] Department of Shalakya Tantra - Varanasi - Banaras Hindu University https://bhu.ac.in/Site/UnitHomeTemplate/1_29_822
+[9] Shalakya Tantra (Opthalmology & ENT) - Indian Medical System https://sgtuniversity.ac.in/ims/departments/shalakya-tantra-opthalmology-and-ent
+[10] Kaumarbhritya Tantra department of Ayurveda https://ayurved.dpu.edu.in/kaumarbhritya-tantra.aspx
+[11] Tantra University - Ananda Marga Gurukul https://gurukul.edu/about-amgk/philosophy/tantra/tantra-university/
+[12] Virtual e-Text Archive of Indic Texts - Indology https://indology.info/virtual-e-text-archive-of-indic-texts/
+[13] Tantra Manuscripts : Chakravarti, Chintaharan, Ed. - Internet Archive https://archive.org/details/in.ernet.dli.2015.345332
+[14] Tantra Manuscripts - AbeBooks https://www.abebooks.com/book-search/title/tantra-manuscripts/
+[15] Sanskrit Manuscripts in the South Asian Rare Books Collection https://blogs.loc.gov/international-collections/2018/01/sanskrit-manuscripts-in-the-south-asian-rare-books-collection/
+[16] Indic Buddhist Manuscripts in the People's Republic of China https://austriaca.at/0xc1aa5576%200x00314cb7.pdf
+[17] Buddhist tantric literature - Wikipedia https://en.wikipedia.org/wiki/Buddhist_tantric_literature
+[18] Sāṃkhya philosophy and Yoga practice - Dr Mikel Burley https://www.youtube.com/watch?v=wHKpvEmT21I
+[19] Basic Tenets of the Samkhya and Yoga Schools https://studybuddhism.com/en/advanced-studies/abhidharma-tenet-systems/non-buddhist-asian-traditions/basic-tenets-of-the-samkhya-and-yoga-schools
+[20] Vedanta & Samkhya Online Course https://ochsonline.org/course/vedanta-samkhya-philosophy/
+
+
+
 
 # The Earliest Attestations of the Deity Narasingha (Narasimha):  
 ## Oral Lore, Literary Texts, and the Plastic Record Before the Narasihagatha
