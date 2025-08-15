@@ -1458,6 +1458,13 @@ Refer in this volume: Sankaranarayanan, S. (1992). 'No. 11 -- Guntupalli Pillar 
 **Purport:**<br>
 ...
 
+### RAMOS, I. ###
+
+* Ramos, Imma (2020). 'Tantra: Enlightenment to Revolution. (NB: Publication to accompany the exhibition of the same name at the British Museum: April 23 - July 26, 2020.). London, England, U.K.: Thames & Hudson (on hehalf of The Trustees of the British Museum). ISBN 9780500480625.
+
+**Purport:**<br>
+Not yet secured.
+
 ### RANGACHAR, M. ###
 
 * Rangachar, M. E. (2000). 'The Philosophy of Vishishtadvaita: As Expounded by Sri Vedanta Deshika in the Nyaya-Siddha-Anjana'. With a Preface in English by Swami Harshananda dated 2000. With a Preamble in Sanskrit by N.S. Ramanujatatacharya and excerpts from this are rendered in an English Introduction. Ashoknagar, Bangalore, Karnataka, India: Sri Nityananda Printers. Source: https://archive.org/details/thephilosophyofvisistadvaitaasexpoundedbysrivedantadesikainnyayasiddhanjanadrmerangachar2000ocr (accessed: Tuesday, September 03, 2024)
