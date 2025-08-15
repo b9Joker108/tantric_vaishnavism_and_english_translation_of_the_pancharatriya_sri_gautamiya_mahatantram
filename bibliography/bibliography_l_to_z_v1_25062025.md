@@ -766,7 +766,7 @@ Without reservation, I determine this a watershed work in the literature. I lean
 
 ### MUMME, P. ###
 
-* Mumme, Patricia Y. (1988). ‘The Sri Vaishnava Theological Dispute: Manavalamamuni and Vedanta Deshika’. Madras, India: New Era Publications. Source: https://archive.org/details/svtd_pm (accessed: Sunday, June 16, 2024)
+* Mumme, Patricia Y. (1988). ‘The Sri-Vaishnava Theological Dispute: Manavalamamuni and Vedanta Deshika’. Madras, Tamil Nadu, India: New Era Publications (S. Srinivasan & N.S. Raghavan). Source: https://archive.org/details/svtd_pm (accessed: Sunday, June 16, 2024)
 
 **Purport:**<br>
 ...
