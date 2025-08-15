@@ -2271,6 +2271,11 @@ This is unsatisfactory filing practice. But, I have not yet resolved how to trea
 **Purport:**<br>
 This is quite useful as it is relatively recent and amongst other things, ventures a brief survey of the way English scholarship has endeavoured to progressively define 'tantra' and what it signifies and points to.
 
+* Urban, Hugh B. (2024). 'The Path of Desire: Living Tantra in Northeast India'. Chicago, Illinois, U.S.A.: University of Chicago Press. ISBN 9780226831107 (cloth). DOI: https://doi.org/10.7208/chicago/9780226831114.001.0001 (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+This recent work is a collection of discrete fieldwork and ethnographic studies on a suite of avowedly living tantric traditions in Northeast India. I contend the collected selection is not representative of the extant broadly tantric oriented traditions in the geographic designation, only the antinomian and extremist examples of living tantric forms of religio-cultural traditions in the given geographic region and thereby, perpetuates and reinforces the non-representive yet standardardized Tantric trope of the salacious and spurious as well as the Colonial and Postcolonial 'Orientalist' construction of Tantra, coloured and compelled with the clear impetus of the commercial, fiscal and worldly rewards and remuneration and coupled with the populist notoriety, rather than an unskewed, scholarly, balanced abd truly representative inquiry.
+
 ### URGYEN, T.; *et al* ###
 
 * Urgyen, Tulku (auth. & orrat.); Kunsang, Erik Pema \[a.k.a. Schmidt, Erik Hein] (trans.); Schmidt, Marcia Binder (comp.) & Tweed, Michael (ed.) (2001). 'Vajra Speech: Pith Instructions for the Dzogchen Yogi'. With a Preface by Erik and Marcia. (NB: Translated from an undated and unspecified Tibetan text or compendium of text excerpts from multiple sources and/or oral transcriptions.). First edition. Greenview Garden, Hong Kong: Rangjung Yeshe Publications. ISBN 9627341444 (pbk) 
