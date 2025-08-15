@@ -198,6 +198,13 @@ This work is useful for our purposes, but its aspiration to a scholarly and acad
 **Purport:**<br>
 In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jayakhya Samhita', edited by Krishnamachariar, in the Gaikawad's Series, edited by Bhattacharya, of the Oriental Institute, Baroda. So, there may be more of value on the Pancharatra, secreted in other issues of the Journal.
 
+### ALI, H. ###
+
+* Ali, Hafiz MD. \[Mohammad] Tahir (1989). '\[Chapter] 13: Influence of Islam and Sufism on Prannath’s Religious Movement' (pp. 136-148) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
 ### APTE, P. ###
 
 * Apte, Prabakar (1972). 'Claim of Pancharatra on Bhagavad-Gita' (pp. 200-203) in the *Annals of the Bhandakar Oriental Research Institite \[ABORI]*, Vol. 53, No. 1/4, 1972. Shiva Nagar, Pune, Maharashtra, India: Bhandarkar Oriental Research Institute \[BORI]. Source: http://www.jstor.org/stable/41688772 (accessed: Friday, July 25, 2025)
