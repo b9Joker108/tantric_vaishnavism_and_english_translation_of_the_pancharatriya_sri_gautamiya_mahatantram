@@ -431,3 +431,4 @@ Citations:
 # References #
 
 * Pathak, Suniti Kumar (1989). '\[Chapter] 16: The Dasa-Bhakti of the Alvars' (pp. 174-) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+* Satyamurti (2003). 'Is Salvation a Nonexistence in the Nyaya School?' (pp. 143-150) in the *Annals of the Bhandarkar Oriental Research Institute \[ABORI]*, Vol. LXXXIV \[84], 2003. Source: https://www.jstor.org/stable/41694754 (accessed: Friday, August 15, 2025)
