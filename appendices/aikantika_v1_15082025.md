@@ -1,6 +1,8 @@
 # Aikantika #
 
-Please provide a deep survey and inveatigation into the Aikantika cult with as much details as possible, from as many ontological domains as possible. A deep spatio-temporal and deep linguistic analysis, discourse analysis, literature review and critique of sources is key. Academic register. Prestige dialect. Ensure it is engaging. It is a scaffold for an entry in my book.
+Pathak (1989: p. 176) refers to an "...Aikāntika cult..." without definition, analysis, citation, orienting it in discourse or investigation. Pathak's poor citation and investigatory protocol and scholarly practice is confounding. I note, he was a tenured professor of Indo-Tibetan languages and appears to have specialised in Tibetan language and the medieval rendering into Tibetan of a specific class of Indian Bauddhadharma and vinaya and monastic literatures. I am unsure of all the languages in which he was literate, but not his employ of the Divya Prabandham in Hindi translation from the Tamil.
+
+Please provide a deep survey and inveatigation into the "Aikantika cult" with as much details as possible, from as many ontological domains as possible. A deep spatio-temporal and deep linguistic analysis, discourse analysis, literature review and critique of sources is key. Academic register. Prestige dialect. Ensure it is engaging. It is a scaffold for an entry in my book.
 
 Now I'll analyze all the gathered information to create a comprehensive academic report on the Aikantika cult. Based on my research, I can see that "Aikantika" was not a specific cult per se, but rather a fundamental concept within ancient Indian religious movements, particularly associated with the Bhagavata tradition and early Vaishnavism.
 
