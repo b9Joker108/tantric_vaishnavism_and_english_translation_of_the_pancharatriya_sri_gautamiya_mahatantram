@@ -492,12 +492,7 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 ...
 
-### CHHABRA, G. ###
 
-* Chhabra, G.S. (1989). '\[Chapter] 3: Guru Nanak's Concept of God' (pp.36-46) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
-
-**Purport:**<br>
-...
 
 ### CHAKRAVARTI, P. ###
 
@@ -512,6 +507,13 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 **Purport:**<br>
 As yet, not secured.
+
+### CHAMPAKALAKSHMI, R. ###
+
+* Champakalakshmi, R. (1989). '\[Chapter] 15: Religion and Social Change in Tamil Nadu (c. AD 600-1300)' (pp. 162-173) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
 
 ### CHAPPELLE, P. ###
 
@@ -537,6 +539,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 ### CHAUDHURY, P. ###
 
 * Chaudhury, Pravas Jivan (1965). 'The Theory of Rasa' (pp. 145-149) in Chaudhury, Pravas Jivan (ed.) (1965). *The Journal of Aesthetics and Art Criticism: Supplement to the Oriental Issue - 'The Aesthetic Attitude in Indian Aesthetics'*, Vol. 24, No. 1, Autumn, 1965. Hoboken, New Jersey, U.S.A.: Wiley (on behalf of The American Society for Aesthetics, Department of Philosophy, Temple University, Philadelphia, Pennsylvania, U.S.A.). Source: https://www.jstor.org/stable/428204 (accessed: Saturday, August 09, 2025) 
+
+**Purport:**<br>
+...
+
+### CHHABRA, G. ###
+
+* Chhabra, G.S. (1989). '\[Chapter] 3: Guru Nanak's Concept of God' (pp.36-46) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
 
 **Purport:**<br>
 ...
