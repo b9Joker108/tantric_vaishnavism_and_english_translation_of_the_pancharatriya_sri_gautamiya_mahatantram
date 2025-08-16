@@ -596,6 +596,13 @@ This is the best digitization of the volume I have been able to find. It had a m
 **Purport:**<br>
 ...
 
+### MISHRA, V. ###
+
+* Mishra, Vibhuti Bhushan (1969). 'An Historical Study of Religious Beliefs and Practices of North India during the Early Mediaeval Period'. Ph.D. dissertation in History. Department of History. Guwahati, Assam, India: Gauhati University. Source: http://hdl.handle.net/10603/67852 (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+...
+
 ### MITCHELL, G. ###
 
 * Michell, George (2003, 1995). ‘Architecture and Art of Southern India: Vijayanagara and the Successor States’. Reprint. (First published in 1995.). The New Cambridge History of India: Part 1, The Mughals and their Contemporaries, Vol. 6. Cambridge, England, U. K.: Cambridge University Press. ISBN 0521441102 (hardback). Source: https://archive.org/details/michell-george-2003-1995.-architecture-and-art-of-southern-india-vijayanagara-an (accessed: Saturday, August 10, 2024)
