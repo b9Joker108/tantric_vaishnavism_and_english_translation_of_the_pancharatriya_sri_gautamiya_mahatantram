@@ -846,35 +846,42 @@ This is a very important volume as it subsumes a more tham rudimentary literatur
 
 * Henrion-Dourcy, Isabelle (2017). 'Studying the Tibetan Performing Arts: A Bibliographic Introduction (1986 - 2017)' (pp. 5 - 54) in the *Revue d’Etudes Tibétaines*, No. 40, Juillet \[French; English: July], 2017. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### HESS, L. ###
 
 * Hess, Linda (1980). 'Studies in Kabir: Texts, Traditions, Styles and Skills'. Ph.D. dissertation in Comparative Literature. Berkeley, California, U.S.A.: University of California.
 
-**Purport:**
+**Purport:**<br>
 As yet, I have not been able to secure a copy.
 
 ### HILTEBEITEL, A. ###
 
 * Hiltebeitel, Alf (1973). 'Gods, Heroes, and Krsna: A Study of the Mahabharata in relation to Indian and Indo-European Symbolisms'. Ph.D. dissertation. University of Chicago Divinity School. Chicago, Illinois, U.S.A.: University of Chicago.
 
-**Purport:**
+**Purport:**<br>
 As yet, I have not been able to secure this. A copy may possibly be negotiated from here:  http://pi.lib.uchicago.edu/1001/cat/bib/4209680
+
+### HOENS, D. ###
+
+* Hoens, Dirk Jan (1979). 'Tantric Transmission' (pp. 71-89) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+...
 
 ### HOPKINS, S. ###
 
 * Hopkins, Steven Paul (2002). 'Singing the Body of God: The Hymns of Vedantadeshika in Their South Indian Tradition'. New York, N.Y., U.S.A.: Oxford University Press, Inc. ISBN 0195127358.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### HÜSKEN. U. ###
 
 * Hüsken, Ute (2001). 'Pure or Clean?' (pp. 85-96) in Das, Rahul Peter & Emmerick, Ronald Eric (eds.) (2001). *Traditional South Asian Medicine (formerly the 'Journal of the European Ayurvedic Society')*, Vol. 6, 2001. Weisbaden, Hesse, Germany: Dr. Ludwig Reichert Verlag. Source: https://www.academia.edu/5729200/Pure_or_Clean (accessed: Sunday, August 10, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # I #
@@ -889,68 +896,68 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 
 * Jackson, Roger R. (trans. & comm.) (2004). 'Tantric Treasures: Three Collections of Mystical Verse from Buddhist India'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 019516640X.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JACOBSEN, K.; *et al* ###
 
 * Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). 'Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 * Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2011). 'Brill’s Encyclopedia of Hinduism: Vol. III \[3] - Society, Religious Specialists, Religious Traditions, Philosophy'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178946. 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JAGADEESAN, N. ###
 
 * Jagadeesan, N. (1989). '\[Chapter] 14: The Life and Mission of Karaikkal Ammaiyar' (pp. 149-161) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JAHAN, S.; *et al.* ###
 
 * Jahan, Shahnaj Husne (auth.) & Kanungo, Alok K. (ed.) (2019, 2006). 'Excavating Waves and Winds of (Ex)change: A Study of Maritime Trade in Early Bengal'. British Archaeological Reports \[BAR] International Series 1533. South Asian Archaeology Series: Vol. 5. With a 'Foreword' by Dr. Alok Kumar Kanungo. (NB: First published in 2006 by John and Erica Hedges, Oxford, England, U.K.). Oxford, England, U.K.: BAR Publishing. ISBN  9781407329895 (ebook). DOI: https://doi.org/10.30861/9781841717531 (accessed: Sunday, August 03, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JAIN, J. ###
 
 * Jain, Jagdishchandra (1989). '\[Chapter] 6: The Medieval Bhakti Movement: Its Influence on Jainism ' (pp. 62-73) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JAISWAL, S.; *et al.* ###
 
 * Jaiswal, Shubham; Agrawal, Avlokita & Raman, Geethanjali (eds.) (2019). 'Genesis of Stupas' (pp. 205-213) in Agrawal, Avlokita & Gupta, Rajat (eds.) (2019). *Revisiting the Role of Architecture for 'Surviving' Development: 53ʳᵈ International Conference of the Architectural Science Association*. Melbourne, Victoria, Australia: Architectural Science Association (ANZAScA). 
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JARROW, E.; *et al.* ###
 
 * Jarrow, E. H. Rick (auth.) & Doniger, Wendy (ed.) (2003). 'Tales for the Dying: The Death Narrative of the Bhagavata-Purana'. SUNY Series in Hindu Studies. Albany, N.Y., U.S.A.: State University of New York Press. ISBN 0791456099 (alk.).
 
-**Purport:**
+**Purport:**<br>
 ...
 
 ### JASH, P. ###
 
 * Jash, Pranabananda (1982). 'History and Evolution of Vaishnavism in Eastern India'. Calcutta, West Bengal, India: Roy and Chowdhury.
 
-**Purport:**
+**Purport:**<br>
 As yet, not secured. 
 
 ### JENSEN, J. ###
 
 * Jensen, Jeppe Sinding (2011). 'Revisiting the Insider-Outsider Debate: Dismantling a Pseudo-problem in the Study of Religion' (pp. 29-47) in the *Method and Theory in the Study of Religion*, Vol. 23, Issue 1, 2011. Leiden, Netherlands: Brill. DOI: https://doi.org/10.1163/157006811X549689. (accessed: Thursday, July 31, 2025)
 
-**Purport:**
+**Purport:**<br>
 ...
 
 # K #
