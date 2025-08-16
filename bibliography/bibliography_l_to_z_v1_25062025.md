@@ -350,6 +350,13 @@ This work has an article/chapter which I would really like to secure: Narayanan,
 **Purport:**<br>
 ...
 
+### MALLIK. K. ###
+
+* Mallik, Smt. Kalyani (1954). 'Siddha-Siddhanta-Paddhati and Other Works of the Natha Yogis'. With a 'Foreword' in English by P.C. Divanji dated 1953. (NB: Includes a critical edition of the SSP in Devanagari with errata and critical apparatus.). First edition (impression). Poona \[Pune], Maharashtra, India: Poona Oriental Book House. Source: https://archive.org/details/Siddha.Siddhanta.Paddhati.and.Other.Works.of.the.Natha.Yogis (accessed: Sunday, August 17, 2025)
+
+**Purport:**<br>
+...
+
 ### MALLINSON, J. ###
 
 * Mallinson, James (2012). 'Yoga & Yogis' (Note: Photographs by Mallinson.) (pp. 2–27) in Moses, Meenakashi & Stern, Eddie (eds.) (2012). *Namarupa: Categories of Indian Thought*, Vol. 3, Issue 15, 2012. Dublin, New Hampshire, U. S. A.:Mallinson, James (2012). 'Yoga & Yogis'Namarupa, LLC (Robert Moses & Eddie Stern). Source: https://archive.org/details/mallinson-james-2012.-yoga-yogis (accessed: Monday, August 26, 2024)
