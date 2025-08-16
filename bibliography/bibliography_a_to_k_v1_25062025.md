@@ -767,6 +767,11 @@ This article lays the foundation for a series of line-items as lines-of-evidence
 **Purport:**<br>
 ...
 
+* Goudriaan, Teun (1979c). 'Chapter Two: The Place of Tantrism in Hindu Religious Speculation' (pp. 47-67) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies' \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+...
+
 ### GRIERSON, G. ###
 
 * Grierson, G. A. (1921, 1909). 'Bhakti Marga' (pp. 539?-531?) in Hastings, J. (ed.) (1921, 1909). *Encyclopedia of Religion and Ethics: Vol. II \[2]*. Edinburgh, Scotland, U.K.; T. T. Clark.
