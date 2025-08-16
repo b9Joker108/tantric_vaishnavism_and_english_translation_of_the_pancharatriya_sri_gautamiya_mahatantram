@@ -1010,6 +1010,11 @@ I could not locate either an ebook or a scanned PDF of this work and as it signi
 **Purport:**<br>
 ...
 
+* Olivelle, Patrick (2007). 'The Date and Provenance of the Vishnu Smriti: On the Intersection Between Text and Iconography' (pp. 149-163) in Piovano, Prof. Irma (ed.) (2007), *Indologica Taurinensia: The Online Journal of the International Association of Sanskrit Studies*, Vol. XXXIII \[33], 2007. Torino, Italy: Asia Institute Torino (AIT). Source: https://archive.org/details/indologicataurinensia_202204/volumes/vol33/07_Olivelle/ (accessed: Sunday, August 17, 2025)
+
+**Purport:**<br>
+...
+
 * Olivelle, Patrick (ed.) (2019). 'Grihasta: The Householder in Ancient Indian Religious Culture'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780190696177 (ebook). 
 
 **Purport:**<br>
