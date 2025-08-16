@@ -603,6 +603,11 @@ This is the best digitization of the volume I have been able to find. It had a m
 **Purport:**<br>
 ...
 
+* Mishra, Vibhuti Bushan (1973). 'Religious Beliefs and Practices of North India During the Early Mediaeval Period'. 'Handbook of Oriental Studies' \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Third Supplement \[German: Ergänzungsband III]: Religious Beliefs and Practices of North India During the Early Mediaeval Period. With a 'Preface' by V.B. Mishra dated 1968. With a 'Foreword' by Prof. A.L. Basham dated 1970. \[NB: the 'Preface' is identical with that of Mishra (1969). So, the book appears to not be the product of the reworking of the dissertation. In the 'Preface' Mishra does not reference or make mention to the source dissertation, which, b.t.w. is nearly illegible.]. Leiden, The Netherlands: E.J. Brill. ISBN 9789004493001.
+
+**Purport:**<br>
+...
+
 ### MITCHELL, G. ###
 
 * Michell, George (2003, 1995). ‘Architecture and Art of Southern India: Vijayanagara and the Successor States’. Reprint. (First published in 1995.). The New Cambridge History of India: Part 1, The Mughals and their Contemporaries, Vol. 6. Cambridge, England, U. K.: Cambridge University Press. ISBN 0521441102 (hardback). Source: https://archive.org/details/michell-george-2003-1995.-architecture-and-art-of-southern-india-vijayanagara-an (accessed: Saturday, August 10, 2024)
