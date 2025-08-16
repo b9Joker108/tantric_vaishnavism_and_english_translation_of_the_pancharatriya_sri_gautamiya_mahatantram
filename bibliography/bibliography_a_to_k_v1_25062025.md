@@ -757,10 +757,15 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 
 ### GOUDRIAAN, T. ###
 
-* Goudriaan, Teun (1979). 'Tantric Studies: Present Position' (pp. 3-12) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
+* Goudriaan, Teun (1979a). 'Tantric Studies: Present Position' (pp. 3-12) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
 
 **Purport:**<br>
 This article lays the foundation for a series of line-items as lines-of-evidence to determine if a phenomenon, artefact or exemplar may be defined as Tantric.
+
+* Goudriaan, Teun (1979b). 'Chapter One: Tantrism in History' (pp. 13-46) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
+
+**Purport:**<br>
+...
 
 ### GRIERSON, G. ###
 
