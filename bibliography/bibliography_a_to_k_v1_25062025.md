@@ -587,6 +587,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 **Purport:**<br>
 ...
 
+### DAVIDSON, R. ###
+
+* Davidson, Ronald M. (2002). 'Reframing Sahaja: Genre, Representation, Ritual and Lineage' (pp. pp. 45-83) in *Journal of Indian Philosophy*, Vol. 30, No. 1, February, 2002. Dordrecht, Netherlands: Kluwer Academic Publishers. Source: https://www.jstor.org/stable/23496923 (accessed: Tuesday, August 19, 2025)
+
+**Purport:**<br>
+Davidson (2002: p. 52-53) identifies the 'Bhagavad Gita' (18.48) as the first attestation of the term: "sahaja".
+
 ### DEHEJIA, V. 
 
 * Dehejia, Vidya (2022, 2002, 1988). 'Slaves of the Lord: The Path of the Tamil Saints'. (NB: First edition published in 1988 and there have been two re-printings or impressions: 2002 and 2022.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 978812500449.
