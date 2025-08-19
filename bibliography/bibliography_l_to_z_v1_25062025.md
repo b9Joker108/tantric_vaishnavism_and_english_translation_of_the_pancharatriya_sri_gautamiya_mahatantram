@@ -1419,6 +1419,13 @@ The *Sri Yoni Tantra* has been published in a critical edition, but I have not y
 **Purport:**<br>
 ...
 
+### RAM, T. ###
+
+* Ram, Dr. Tulsi (2013). 'Rig-Veda: With Original Sanskrit Text, Transliteration & Lucid English Translation in the Aarsh Tradition of Maharshi Yaska & Swami Dayananda'. First edition. (Note: In four volumes.). Delhi, India: Vijaykumar Govindram Hasanand. ISBN 9788170771550.
+
+**Purport:**<br>
+...
+
 ### RAMAN, S. ###
 
 * Raman, Srilata (2007). 'Self-Surrender (Prapatti) to God in Sri-Vaishnavism: Tamil Cats and Sanskrit Monkeys'. Taylor & Francis e-Library edition. With a Series Editor's Preface by Gavin Flood. (First edition published in 2007). Milton Park, Abingdon, Oxon, England, U.K.: Routledge Hindu Studies Series (in association with the Oxford Centre for Hindu Studies). Routledge (an imprint of the Taylor & Francis Group). ISBN 9780203967812 (ebook). Source: https://archive.org/details/raman-srilata-2007.-self-surrender-prapatti-to-god-in-sri-vaishnavism-tamil-cats-sanskrit-monkeys (accessed: Wednesday, August 07, 2024)
