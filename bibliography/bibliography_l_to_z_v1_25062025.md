@@ -2349,6 +2349,11 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 **Purport:**<br>
 ...
 
+* Varadachari, Dr. K.C. (1957). 'A little known Chapter in the Mystic Experience of the Alvars' (pp. 236-237) in Radhakrishnan, Dr. S.; *et al.* (eds.) (1957). *Felicitation Volume Presented to Prof. Sripad Krishna Belvalkar*. Banaras \[Varanasi], Uttar Pradesh, India: Motilal Banarasi Dass. Source:  https://ia802901.us.archive.org/35/items/in.ernet.dli.2015.463663/2015.463663.Felicitation-Volume_text.pdf  (accessed: Wednesday, August 20, 2025)
+
+**Purport:**<br>
+...
+
 ### VARADACHARI, V. ###
 
 * Varadachari, Dr. V. (1982). 'Agamas and South Indian Vaishnavism'. With a 'Foreword' by S.S. Raghavachar dated 1981, Mysore. With a 'Publisher's Note' by M.C. Krishnan dated 1982. First edition. Triplicane, Madras (Channai), Tamil Nadu, India: Prof. M. Rangacharya Memorial Trust. Source: https://archive.org/details/AgamaAndVaishnavism (accessed: Tuesday, August 12, 2025)
