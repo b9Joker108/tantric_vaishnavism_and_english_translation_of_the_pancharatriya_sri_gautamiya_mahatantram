@@ -1636,6 +1636,11 @@ I found this paper listed in articles about Vaikhanasa. I located it in a number
 **Purport:**<br>
 ...
 
+* Rastelli, Marion (2018, 2016). 'Considerations About Traditions Influential in the Ahirbudhnya-Samhita' (pp. 421-443) in Malinar, Angelika & Suter, Rafael (eds.) (2018, 2016). *Asian Research - Asian Studies: Journal of the Swiss Asia Society - Review of the Swiss Asia Society \[German/French: Asiatische Studien - Études Asiatiques: Zeitschrift der Schweizerischen Asiengesellschaft - Revue de la Société Suisse-Asie] (ASIA)*,  Vol. 72, Issue 2, 2018. (Note: Fiirst published in print in 2016 and online in 2018. A first version of this paper in German was read at a public lecture series held at the Centre for Tantric Studies of the University of Hamburg during the Winter term 2012-13 under the title "Die esoterische Tradition des Pancarātra: Einflüsse und Ziele".). Berlin, Germany: Walter de Gruyter GmbH. Source: https://doi.org/10.1515/asia-2016-0002 (accessed: Wednesday, August 20, 2025)
+
+**Purport:**<br>
+...
+
 * Rastelli, Marion (2018). 'REVIEW ~ Diwakar Archarya (2015). Early Tantric Vaishnavism: Three Newly Discovered Works of the Pancharatra. The Svayambhuvapancharatra, Devamritapancharatra and Ashtadashavidhana. Critically Edited from their 11th- and 12th-century Nepalese Palm-Leaf Manuscripts with an Introduction and Notes' (pp. 272–275) in the *Indo-Iranian Journal*, Vol. 61, №3, 2018. Leiden, The Netherlands: Brill. Source: https://archive.org/details/rastelli-marion-2018.-review-early-tantric-vaishnavism-three-newly-discovered-works-of-pancharatra (accessed: Friday, August 30, 2024)
 
 **Purport:**<br>
