@@ -2435,6 +2435,13 @@ This contains a useful professional and biographical survey of Srinivasan and li
 **Purport:**<br>
 When a scholar documents and does honour to a lauded, yet neglected, scholar of the past, as evidenced here, it is a work of devotion, vocation and vindication. Job well done.
 
+### WIJESEK\[H]ARA, O. ###
+
+* Wijesek\[h]ara, Dr. O.H. de A. (1957). 'Symbolism of the Wheel in the Chakravarti Conception' (pp. 262-267) in Radhakrishnan, Dr. S.; *et al.* (eds.) (1957). *Felicitation Volume Presented to Prof. Sripad Krishna Belvalkar*. Banaras \[Varanasi], Uttar Pradesh, India: Motilal Banarasi Dass. Source:  https://ia802901.us.archive.org/35/items/in.ernet.dli.2015.463663/2015.463663.Felicitation-Volume_text.pdf  (accessed: Wednesday, August 20, 2025)
+
+**Purport:**<br>
+...
+
 ### WILKE, A.; *et al.* ###
 
 * Wilke, Annette & Moebus, Oliver (2011). 'Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism'. Religion and Society: Vol. 41 edited by: Benavides, Gustavo; von Stuckrad, Kocku; & Sullivan, Winnifred Fallers. Berlin, Germany: De Gruyter (Walter de Gruyter GmbH & Co. KG, Berlin). ISBN 9783110181593. 
