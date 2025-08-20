@@ -1040,6 +1040,13 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 **Purport:**<br>
 This is a watershed work. I must dedicate time to it.
 
+### KRISHNAN, V. ###
+
+* Krishnan, V. Sivarama (1994). 'Indian Iconography in an Historical Perspective with Special Reference to Vishnu' (pp. 42-53) in Rao, Prof. I.V. Chalapat\[h]i (ed.) (1994). *Triveni: India's Literary and Cultural Quarterly*, Vol. 63, No. 4, Oct.-Dec, 1994. Barkatpura, Hyderabad, India: B.N. Murty (on behalf of The Triveni Foundation; and Chary & Company, Secunderabad). Source: https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc72123.html xxx Source: https://archive.org/details/eauk_triveni-vol-63-no-1-ed-by-i-v-chalapathi-rao-jan-1994-triveni-publishers-pvt-ltd (accessed: Thursday, August 21, 2025)
+
+**Purport:**<br>
+...
+
 ### KUIPER, K. ###
 
 * Kuiper, Kathleen (2010). 'The Culture of India: Understanding India'. New York, N.Y.: U.S.A.: Britannica Educational Publishing (a trademark of Encyclopeedia Britannica, Inc. & in Association with Rosen Educational Services, LLC.). ISBN 9781615302031.
