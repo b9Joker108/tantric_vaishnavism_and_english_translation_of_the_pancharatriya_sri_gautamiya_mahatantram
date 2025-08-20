@@ -1326,6 +1326,13 @@ A most valuable work for our purposes. It contains a useful terminological dicho
 **Purport:**<br>
 ...
 
+### RADHAKRISHNAN, S.; *et al.* ###
+
+* Radhakrishnan, Dr. S.; *et al.* (eds.) (1957). 'Felicitation Volume Presented to Prof. Sripad Krishna Belvalkar'. Banaras \[Varanasi], Uttar Pradesh, India: Motilal Banarasi Dass. Source:  https://ia802901.us.archive.org/35/items/in.ernet.dli.2015.463663/2015.463663.Felicitation-Volume_text.pdf  (accessed: Wednesday, August 20, 2025)
+
+**Purport:**<br>
+...
+
 ### RAGHAVAN, V. ###
 
 * Raghavan, Venkataraman (1955). 'The Vedas and Bhakti' (pp. 330–331) in *Vedanta Kesari*, №42, December, 1955. Chennai, Tamil Nadu, India: Sri Ramakrishna Math. Source: https://archive.org/details/raghavan-v.-1955.-the-vedas-and-bhakti (accessed: Tuesday, September 17, 2024)
