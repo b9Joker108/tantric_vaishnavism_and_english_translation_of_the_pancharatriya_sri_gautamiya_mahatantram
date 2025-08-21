@@ -734,6 +734,13 @@ Reviewed by H., E. J. (1928).
 **Purport:**<br>
 ...
 
+### MUIR, J. ###
+
+* Muir, John (comm., ed. & trans.) (1872). 'Original Sanskrit Texts on the Origin and History of the People of India, their Religion and Institutions; Vol. 5: Contributions to a Knowledge of the Cosmogony, Mythology, Religious Ideas, Life and Manners, of the Indians in the Vedic Age'. London, England, U.K.: Trübner & Co. Source: https://archive.org/details/originalsanskrit05muir_0 (accessed: Friday, August 22, 2025)
+
+**Purport:**<br>
+...
+
 ### MUKHARYA, P. ###
 
 * Mukharya, P.S. (1989). '\[Chapter] 11: Sant Prannath and the Pranami Sect' (pp. 113-126) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
