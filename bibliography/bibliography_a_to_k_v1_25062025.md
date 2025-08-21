@@ -1033,6 +1033,13 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 **Purport:**<br>
 ...
 
+### KREHL, L. ###
+
+* Krehl, Prof. Dr. Ludolf (ed.) (1968, 1868). 'Journal of the German Oriental Society \[German: Zeitschrift der Deutschen morgenländischen Gesellschaft] (ZDMG)', 'Vol. 22 \[German: Zwei und zwanzigster Band]'. (NB: First published in 1868 by Harrassowitz Verlag of Wiesbaden and Leipzig, Germany.). Imprint. Nendeln, Liechtenstein: Kraus Reprint Ltd. Source: http://dx.doi.org/10.25673/111032 (accessed: Friday, August 22, 2025)
+
+**Purport:**<br>
+...
+
 ### KRISHNA, D.; *et al.*
 
 * Krishna, Daya; Lath, Mukund & Krishna, Francine E. (eds.) (2000). 'Bhakti: A Contemporary Discussion - Philosophocal Explorations in the Bhakti Tradition'. Indian Council of Philosophical Research. Tughlabad Institutional Area, Vayusenabad, New Delhi, N.C.T., India: Indian Council of Philosophical Research. ISBN 8185636443. 
