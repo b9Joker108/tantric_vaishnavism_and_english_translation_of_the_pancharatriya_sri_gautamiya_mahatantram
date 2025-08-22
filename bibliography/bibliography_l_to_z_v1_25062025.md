@@ -1371,6 +1371,13 @@ Refer: https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_
 **Purport:**<br>
 ...
 
+### RAHURKAR, V. ###
+
+* Rahurkar, V.G. (1964). 'The Seers of the Rig-Veda'. (Note: This is a publication of the author's Ph.D. dissertation accepted in 1955 by the Department of Sanskrit and Prakrit Languages, University of Poona.). Poona, Maharashtra, India: University of Poona. Source: https://archive.org/details/eran_the-seers-of-the-rigveda-by-v.-g.-rahurkar-1964-university-of-poona (accessed: Saturday, August 23, 2025) 
+
+**Purport:**<br>
+...
+
 ### RAI, S. ###
 
 * Rai, S. C. refer Roy, Dr. Sunil Chandra
