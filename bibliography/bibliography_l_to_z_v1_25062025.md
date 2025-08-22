@@ -2419,6 +2419,13 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 **Purport:**<br>
 ...
 
+### WERNER, K. ###
+
+* Werner, Karel (1977). 'Yoga and the Rig Veda: An Interpretation of the Keshin Hymn (RV 10, 136)' (pp 289-302) in *Religious Studies*, Vol. 13, Issue 3, September, 1977. DOI: https://doi.org/10.1017/S0034412500010076 (accessed: Saturday, August 23, 2025) 
+
+**Purport:**<br>
+...
+
 ### WESSELS-MEVISSEN, C.; *et al.* ###
 
 * Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). 'Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research'. New Delhi, India: Aryan Books International. ISBN 9788173056321.
