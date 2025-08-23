@@ -1007,6 +1007,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### KEITH, A. ###
+
+* Keith, A. Berriedale (1953, 1920). 'A History of Sanskrit Literature'. (NB: First published in 1920 with imprints in 1941, 1948 and 1953.). London, England, U.K.: Oxford University Press (Geoffrey Cumberlege). Source: https://archive.org/details/in.ernet.dli.2015.23671 (accessed: Saturday, August 23, 2025)
+
+**Purport:**<br>
+...
+
 ### KISS, C. ###
 
 * Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
