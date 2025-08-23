@@ -1054,6 +1054,13 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 **Purport:**<br>
 This is a watershed work. I must dedicate time to it.
 
+### KRISHNAMACHARYA, V. ###
+
+* Krishnamacharya, Pt. V. (ed.) (1959). 'Lakshmi Tantra: A Pancharatra Agama \[Sanskrit: लक्ष्मी तन्त्रम् ; IAST: Lakṣmī-Tantram]'. The Adyar Library Series: Vol. 87. With a 'Preface' in English by Ann Kerr. (NB: Text is critically edited and in Sanskrit set in Devanagari and includes a Sanskrit gloss and 'Introduction'.). Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library and Research Centre. 
+
+**Purport:**<br>
+This is the second Pancharatra text published by the Adyar Library following the opening of the discourse with Schrader (1906). 
+
 ### KRISHNAN, V. ###
 
 * Krishnan, V. Sivarama (1994). 'Indian Iconography in an Historical Perspective with Special Reference to Vishnu' (pp. 42-53) in Rao, Prof. I.V. Chalapat\[h]i (ed.) (1994). *Triveni: India's Literary and Cultural Quarterly*, Vol. 63, No. 4, Oct.-Dec, 1994. Barkatpura, Hyderabad, India: B.N. Murty (on behalf of The Triveni Foundation; and Chary & Company, Secunderabad). Source: https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc72123.html (accessed: Thursday, August 21, 2025) Source: https://archive.org/details/eauk_triveni-vol-63-no-1-ed-by-i-v-chalapathi-rao-jan-1994-triveni-publishers-pvt-ltd (accessed: Thursday, August 21, 2025)
