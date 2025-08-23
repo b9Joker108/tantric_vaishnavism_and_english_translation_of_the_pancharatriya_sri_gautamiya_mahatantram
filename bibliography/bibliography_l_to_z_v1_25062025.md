@@ -229,6 +229,13 @@ This is an excellent volume to inform the Lexicon.
 
 # M #
 
+### MacDONELL, A. ###
+
+* MacDonell, Arthur S. (1900). 'A History of Sanskrit Literature'. With a 'Preface' by the author dated 1899. New York, N.Y., U.S.A.: D. Appleton & Company. Source: https://archive.org/details/historyofsanskri00macdrich (accessed: Saturday, August 23, 2025)
+
+**Purport:**<br>
+...
+
 ### MADHAVA, V. ###
 * Madhava, Vidyaranya (auth.); K. V., Subbaratnam (trans. & notes) & K. R., Venkataranan (intr.) (1972). 'Shrimad Shankara Digvijaya' (Sanskrit: श्रीमच्छङ्करदिग्विजयः ; IAST: Śrīmacchaṅkaradigvijayaḥ). With an Introduction in English by K. R. Venkataraman. A Translator's Note in English by K. V. Subbaratnam. With Sanskrit original in Devanagari and English translation. Publisher: Akhil Bharat Shankara Seva Samiti (Sanskrit: अखिलभारतशङ्कर सेवासमितिः; IAST: Akhilabhārataśaṅkara Sevāsamitiḥ; English: All India Shankara Service Committee). Source: https://archive.org/details/dli.ernet.383653 (accessed: Friday, July 04, 2025)
 
