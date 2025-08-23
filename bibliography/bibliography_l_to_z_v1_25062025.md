@@ -1753,7 +1753,14 @@ The Sri Vamadeva Samhita may or may not be technically Pancharatriya. Its status
 **Purport:**<br>
 ...
 
-### RAY, S. ###
+### RAY, Sug. ###
+
+* Ray, Sugata (2012). 'In the Name of Krishna: The Cultural Landscape of a North Indian Pilgrimage Town'. Ph.D. dissertation.  Faculty of the Graduate School. Minneapolis-Saint Paul, Minnesota: University of Minnesota. Source: https://hdl.handle.net/11299/181652 (accessed: Sunday, August 24, 2025)
+
+**Purport:**<br>
+...
+
+### RAY, Sun. ###
 
 * Ray (alt. Rai/Roy), Sunul Chandra (1970, 1957). 'Early History and Culture of Kashmir'. With a Foreward by Sardar K.M. Panikkar. Second revised edition. (Note: First edition published in 1957.). New Delhi, India: Munshiram Manoharlal. Source: https://archive.org/details/in.ernet.dli.2015.131574 (accessed: Friday, August 30, 2024)
 
