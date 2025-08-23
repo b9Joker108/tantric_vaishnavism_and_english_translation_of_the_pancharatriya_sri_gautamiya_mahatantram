@@ -1056,7 +1056,7 @@ This is a watershed work. I must dedicate time to it.
 
 ### KRISHNAMACHARYA, V. ###
 
-* Krishnamacharya, Pt. V. (ed.) (1959). 'Lakshmi Tantra: A Pancharatra Agama \[Sanskrit: लक्ष्मी तन्त्रम् ; IAST: Lakṣmī-Tantram]'. The Adyar Library Series: Vol. 87. With a 'Preface' in English by Ann Kerr. (NB: Text is critically edited and in Sanskrit set in Devanagari and includes a Sanskrit gloss and 'Introduction'.). Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library and Research Centre. 
+* Krishnamacharya, Pt. V. (ed.) (1959). 'Lakshmi Tantra: A Pancharatra Agama \[Sanskrit: लक्ष्मी तन्त्रम् ; IAST: lakṣmī-tantram]'. The Adyar Library Series: Vol. 87. With a 'Preface' in English by Ann Kerr. (NB: Text is critically edited and in Sanskrit set in Devanagari and includes a both a gloss and 'Introduction' in Sanskrit.). Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library and Research Centre. 
 
 **Purport:**<br>
 This is the second Pancharatra text published by the Adyar Library following the opening of the discourse with Schrader (1906). 
