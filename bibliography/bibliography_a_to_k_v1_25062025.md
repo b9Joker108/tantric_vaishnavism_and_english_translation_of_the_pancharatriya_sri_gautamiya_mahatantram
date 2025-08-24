@@ -847,6 +847,13 @@ This is a very important volume as it subsumes a more tham rudimentary literatur
 
 # H #
 
+### HABERMAN, D. ###
+
+* Haberman, David L. (1994). 'Journey through the Twelve Forests: An Encounter with Krishna'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195084788. 
+
+**Purport:**<br>
+...
+
 ### HADA, M.; *et al.* ###
 
 * Hada, Madhav & Trikha, Pradeep (2025). 'Lal Ded: A Living Tradition of Bhakti Poetry in Kashmir' (pp. 177-188) in *Indian Literature*, Jan.-Feb., Vol. 69, No. 1, 345, 2005. Sahitya Akademi. Source: https://www.jstor.org/stable/10.2307/27361730 (accessed: Wednesday, July 09, 2025)  
