@@ -388,6 +388,13 @@ This provides a principal factor in the exodus of the Pancharatra from Kashmir. 
 **Purport:**<br>
 I understand from Colas (2011: p. 589) that Bloch (1896) opened the critical discourse of the Vaikhanasa Tradition into the German and the European languages and I proffer as most educated European people in this period, were also literate in French and English, as well as Latin and Ancient Greek, it may be considered to open the discourse into the English language and theological discourse as well.
 
+### BOCK, A. ###
+
+* Bock, Andreas (1987). 'The Madhu-Kaitabha-Episode and its Treatment in the Anonymous Literature of the Pancharatra \[German: Die Madhu-Kaitabha-Episode und ihre Bearbeitung in der Anonymliteratur des Pañcarātra]' (pp. 78-109) in the *Journal of the German Oriental Society \[German: Zeitschrift der Deutschen Morgenländischen Gesellschaft (ZDMG)]*, Vol. 137, No. 1, 1987. Wiesbaden, Germany: Harrassowitz Verlag. Source: https://www.jstor.org/stable/43375003 (accessed: Tuesday, August 26, 2025)
+
+**Purport:**<br>
+...
+
 ### den BOER, L. ###
 
 * den Boer, Lucas (2020). 'Early Jaina Epistemology: A Study of the Philosophical Chapters of the Tattvarthadhigama; with an English Translation of the Tattvarthadhigamabhashya I, II.8-25, and V.'. Ph.D. dissertation. Leiden, Netherlands: Leiden University. Source: https://hdl.handle.net/1887/87415 (accessed: Thursday, July 24, 2025)
