@@ -862,6 +862,11 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 ...
 
+* Gupta, Sanjukta (1989). 'The Pancharatra Attitude to Mantra' (pp. 224-248) in Alper, Harvey P. (ed.) (1989). *Understanding Mantras*. SUNY Series in Religious Studies. Albany, New York, U.S.A.: State University of New York Press. ISBN 0887065988. Source: https://archive.org/details/alper-harvey-p.-ed.-1989.-understanding-mantras (accessed: Monday, September 30, 2024)
+
+**Purport:**<br>
+...
+
 ### GUPTA, S.; *et al.* ###
 
 * Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). 'Hindu Tantrism'. 'Handbook of Oriental Studies' \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
