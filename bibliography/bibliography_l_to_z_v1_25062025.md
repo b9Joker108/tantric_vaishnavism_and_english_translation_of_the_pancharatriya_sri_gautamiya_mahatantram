@@ -2157,6 +2157,16 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+**Purport:**<br>
+...
+
+### SINHA, K. ###
+
+* Sinha, Prof. Dr. K.P. \[Kali Prasad] (1991). 'Vedic Origin of the Tantric Practices' (pp. 195-204) in the *Annals of the Bhandarkar Oriental Research Institute*, Vol. LXXII \[72] & Vol. LXVIII \[73], No. 1/4, Amrtamahotsava (1917-1992) Volume (1991-1992). Pune, Maharashtra, India: Bhandarkar Oriental Research Institute. Source: https://www.jstor.org/stable/41694891 (accessed: Monday, August 25, 2025) 
+
+**Purport:**<br>
+...
+
 ### SIRCAR, D. ###
 
 * Sircar, D.C. (ed.) (1970). 'The Bhakti Cult and Ancient Indian Geography'. Centre of Advanced Study in Ancient Indian History and Culture, University of Calcutta, Lectures and Seminars No. IV-B (Seminars). (NB: Papers of the 'Proceedings of the Seminar' of February, 23rd and 24th, 1968.). First edition. Calcutta, West, Bengal, India: University of Calcutta (Sri Sibendranath Kanjilal). Source: https://archive.org/details/dli.calcutta.11084 (accessed: Friday, June 20, 2025)
