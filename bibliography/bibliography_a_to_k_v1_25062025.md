@@ -869,6 +869,11 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 ...
 
+* Gupta, Sanjukta (1983). 'The Changing Pattern of Pancharatra Initiation: A Case Study in the Reinterpretation of Ritual (pp. 69-91) in Kloppenborg, Ria (ed.) (1983). *Selected Studies on Ritual in the Indian Religions: Essays to D.J. Hoens*. Studies in the History of Religions: Supplement to Numen; Vol. XLV \[45], Selected Studies on Ritual in the Indian Religions edited by M. Heerma van Voss; E.J. Sharpe and R.J.Z. Werblowsky. Leiden, The Netherlands: E.J. Brill. ISBN 9004071296.
+
+**Purport:**<br>
+...
+
 * Gupta, Sanjukta (1989). 'The Pancharatra Attitude to Mantra' (pp. 224-248) in Alper, Harvey P. (ed.) (1989). *Understanding Mantras*. SUNY Series in Religious Studies. Albany, New York, U.S.A.: State University of New York Press. ISBN 0887065988. Source: https://archive.org/details/alper-harvey-p.-ed.-1989.-understanding-mantras (accessed: Monday, September 30, 2024)
 
 **Purport:**<br>
