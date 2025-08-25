@@ -622,6 +622,11 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+* Deussen, Paul (auth.); Bedekar, V.M. (trans.) & Palsule, G.B. (trans.) (1980). 'Sixty Upanishads of the Veda: Part One'. First English edition. (NB: Translation of the German: 'Sechzig Upaniṣad's des Veda', published in Leipzig, Germany in 1897, 1905 and 1921.). Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). Source: https://archive.org/details/in.ernet.dli.2015.191073 (accessed: Monday, August 25, 2025)
+
+**Purport:**<br>
+...
+
 ### DEVA, B. ###
 
 * Deva, B. Chaitanya (1973). 'An Introduction to Indian Music'. Patiala House, New Delhi, India: Publications Division (Ministry of Information & Broadcasting, Government of India).  
