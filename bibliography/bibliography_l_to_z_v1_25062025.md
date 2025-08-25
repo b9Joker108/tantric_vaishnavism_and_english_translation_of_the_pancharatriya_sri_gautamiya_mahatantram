@@ -173,6 +173,13 @@ This is a premier monograph on the *Sri Padma Samhita* of the Pancharatra tradit
 **Purport:**<br>
 ...
 
+### LINROTHE, R. ###
+
+* Linrothe, Rob (ed.) (2006). 'Holy Madness: Portraits of Tantric Siddhas'. New York, N.Y., U.S.A.: Rubin Museum of Art. ISBN 9781932476262.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### LITVINSKY, B. ###
 
 * Litvinsky, B. A.; Guang-da, Zhang & Samghabadi, R. Shabani (eds.) (1996). 'The History of Civilizations of Central Asia Vol. 3 - The Crossroads of Civilization: A.D. 250–750'. Multiple History Series. With s Preface by Federico Mayor. Paris, France: UNESCO Publishing (United Nations Educational, Scientific & Cultural Organization). ISBN 9231032119. Source: https://archive.org/details/HistoryOfCivilizationsOfCentralAsia (accessed: Monday, September 09, 2024)
