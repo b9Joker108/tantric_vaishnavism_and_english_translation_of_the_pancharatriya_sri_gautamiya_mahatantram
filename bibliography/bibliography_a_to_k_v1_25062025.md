@@ -1076,6 +1076,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### KLOPPENBORG, R. ###
+
+* Kloppenborg, Ria (ed.) (1983). 'Selected Studies on Ritual in the Indian Religions: Essays to D.J. Hoens'. Studies in the History of Religions: Supplement to Numen; Vol. XLV \[45], Selected Studies on Ritual in the Indian Religions edited by M. Heerma van Voss; E.J. Sharpe and R.J.Z. Werblowsky. Leiden, The Netherlands: E.J. Brill. ISBN 9004071296.
+
+**Purport:**<br>
+...
+
 ### KLUTZ, T.; *et al.* ###
 
 * Klutz, Todd (ed.) & Porter, Stanley E. (exec. ed.), *et al*. (2003). 'Magic in the Biblical World: From the Rod of Aaron to the Ring of Solomon'. Journal for the Study of the New, Testament Supplement Series No. 245. London, England, U.K.: T&T Clark International (a Continuum imprint). ISBN 0826466842 (hbk).
