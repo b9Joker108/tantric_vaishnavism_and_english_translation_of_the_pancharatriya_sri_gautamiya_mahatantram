@@ -608,6 +608,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DEUSSEN, P. ###
+
+* Deussen, Prof. Dr. Paul (1899). 'The Philosophy of the Upanishads: Vol. 1, Part 2 of General History of Philosophy with Special Reference to Religions \[German: Die Philosophie der Upanishads. Erster Band, zweite Abtheilung der Allgemeinen Geschichte der Philosophie mit besonderer Berücksichtigung der Religionen]'. (Note: In German.). Leipzig, Germany: F.A. Brockhaus. Source: https://archive.org/details/allgemeinegesch00deusgoog (accessed: Monday, August 25, 2025)
+
+**Purport:**<br>
+...
+
 ### DEUSSEN, P.; *et al.* ###
 
 * Deussen, Prof. Dr. Paul (auth.) & Geden, Rev. A.S. (trans.) (1906). 'The Philosophy of the Upanishads'. The Religion and Philosophy of India. With a 'Preface' by Rev. A.S. Geden dated 1905. With a 'Preface' by P. Deussen, undated. (NB: Translation from the German language: 'Die Philosophie der Upanishads', 'Vol. 1, Part 2  \[German: Erster Band, Zweite Abteilung]' of 'General History of Philosophy with Special Reference to Religions \[German: Allgemeine Geschichte der Philosophie mit Besonderer Berücksichtigung der Religionen]', published in 1899 by F.A. Brockhaus, Leipzig, Germany.). Edinburgh, Scotland, U.K.: T. & T. Clark. Source: https://archive.org/details/philosophyupani00deusgoog (accessed: Monday, August 25, 2025)
