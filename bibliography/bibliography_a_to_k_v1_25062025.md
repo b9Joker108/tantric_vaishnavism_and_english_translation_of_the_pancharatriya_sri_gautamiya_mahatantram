@@ -608,6 +608,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DEUSSEN, P.; *et al.* ###
+
+* Deussen, Prof. Dr. Paul (auth.) & Geden, Rev. A.S. (trans.) (1906). 'The Philosophy of the Upanishads'. The Religion and Philosophy of India. With a 'Preface' by Rev. A.S. Geden dated 1905. With a 'Preface' by P. Deussen, undated. (NB: Translation from the German language: 'Die Philosophie der Upanishads', 'Vol. 1, Part 2  \[German: Erster Band, Zweite Abteilung]' of 'General History of Philosophy with Special Reference to Religions \[German: Allgemeine Geschichte der Philosophie mit Besonderer Berücksichtigung der Religionen]', published in 1899 by F.A. Brockhaus, Leipzig, Germany.). Edinburgh, Scotland, U.K.: T. & T. Clark. Source: https://archive.org/details/philosophyupani00deusgoog (accessed: Monday, August 25, 2025)
+
+**Purport:**<br>
+...
+
 ### DEVA, B. ###
 
 * Deva, B. Chaitanya (1973). 'An Introduction to Indian Music'. Patiala House, New Delhi, India: Publications Division (Ministry of Information & Broadcasting, Government of India).  
