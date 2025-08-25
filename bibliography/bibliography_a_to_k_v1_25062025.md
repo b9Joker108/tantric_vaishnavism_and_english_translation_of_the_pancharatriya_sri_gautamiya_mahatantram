@@ -627,6 +627,11 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+* Deussen, Paul (auth.); Bedekar, V.M. (trans.) & Palsule, G.B. (trans.) (2010, 1980). 'Sixty Upanishads of the Veda: Part Two'. (NB: Translation of the German: 'Sechzig Upaniṣad's des Veda', published in Leipzig, Germany in 1897, 1905 and 1921. The second part was first published in 1980 with imprints in: 1987, 1990, 1995, 1997, 2004 and 2010.). Jawahar Nagar, Delhi, India: Motilal Banarsidass  (Narendra Prakash Jain). Source: https://archive.org/details/sixty-upanishads-of-the-veda-vol-2-paul-deussen (accessed: Monday, August 25, 2025)
+
+**Purport:**<br>
+...
+
 ### DEVA, B. ###
 
 * Deva, B. Chaitanya (1973). 'An Introduction to Indian Music'. Patiala House, New Delhi, India: Publications Division (Ministry of Information & Broadcasting, Government of India).  
