@@ -847,6 +847,13 @@ I envisaged the necessity of this work. I am overjoyed it has been conducted. Th
 **Purport:**<br>
 I got so excited when I first read of this work, as I know from elsewhere that Nagaswamy worked on the Pancharatra inscriptions in South India, in the 1960s. But, I have not been able to yet secure this work. I just note, as of Monday, July 7, 2025, that I have secured a copy of the work. Emaho!
 
+### NARAHARI, H.; *et al.* ###
+
+* Narahari, H.G. (auth.) & Murti, G. Srinivasa (ed.) (1944). 'Atman: In Pre-Upanishadic Vedic Literature'. The Adyar Library Series No. 47. With a 'Foreword' by C. Kunhan Raja.  M.A. thesis. University of Madras. Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library at the Vasanta Press (C. Subbarayudu). Source: https://archive.org/details/rkas.2012.atmaninpreupanis0000hgna (accessed: Tuesday, August 26, 2025)
+
+**Purport:**<br>
+...
+
 ### NARASIMHACHARY, M. ###
 
 * Narasimhachary, Mudumby N. \[Hindi: मुदुम्बी एन्॰ नरसिंहाचार्य ; IAST: Mudumbī En. Narasiṃhācārya] (1998, 1971). ‘Contribution of Yamuna-Acharya to Vishishta-Advaita’. With a Foreward by V. Raghavan. With an unattributed Publishers Note dated 1998. Second edition. (Note: First edition was published in 1971.). Addagutta, Kukatpally, Hyderabad, Andhra Pradesh, India: Sri Jayalakshmi Publications. Source: https://archive.org/details/narasimhachary-mudumby-n.-1998-1971.-contribution-of-yamuna-acharya-to-vishishta-advaita (accessed: Thursday, August 29, 2024)
