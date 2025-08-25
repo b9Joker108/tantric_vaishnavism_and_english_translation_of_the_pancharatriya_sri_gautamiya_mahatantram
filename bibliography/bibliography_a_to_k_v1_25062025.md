@@ -742,6 +742,11 @@ A respendent piece of work.
 
 # F #
 
+### FERREIRA, M. ###
+
+* Ferreira, Michael V. (2019). 'Proto-Soma and Tantra: An Iconographic Exploration into the Possibilities of the Vedic Soma's Prototype in the Indus Valley'. M.A. thesis. Long Beach, California, U.S.A.: California State University. 
+
+**Purport:**<br>
 ...
 
 ### FLOOD, G. ###
