@@ -205,6 +205,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 **Purport:**<br>
 ...
 
+### ALPER, H. ###
+
+* Alper, Harvey P. (ed.) (1989). 'Understanding Mantras'. SUNY Series in Religious Studies. Albany, New York, U.S.A.: State University of New York Press. ISBN 0887065988. Source: https://archive.org/details/alper-harvey-p.-ed.-1989.-understanding-mantras (accessed: Monday, September 30, 2024)
+
+**Purport:**<br>
+...
+
 ### APTE, P. ###
 
 * Apte, Prabakar (1972). 'Claim of Pancharatra on Bhagavad-Gita' (pp. 200-203) in the *Annals of the Bhandakar Oriental Research Institite \[ABORI]*, Vol. 53, No. 1/4, 1972. Shiva Nagar, Pune, Maharashtra, India: Bhandarkar Oriental Research Institute \[BORI]. Source: http://www.jstor.org/stable/41688772 (accessed: Friday, July 25, 2025)
