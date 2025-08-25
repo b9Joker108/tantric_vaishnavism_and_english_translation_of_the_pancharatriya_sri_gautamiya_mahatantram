@@ -717,6 +717,13 @@ A respendent piece of work.
 **Purport:**<br>
 ...
 
+### EINOO, S.; *et al.* ###
+
+* Einoo, Shingo & Takashima, Jun (eds.) (2005). 'From Material to Deity: Indian Rituals of Consecration'. Japanese Studies on South Asia No. 4. Daryaganj, New Delhi, India: Manohar (Ajay Kumar Jain). ISBN 8173046271.
+
+**Purport:**<br>
+...
+
 ### ESCHMANN, A.; *et al.* ###
 
 * Eschmann, Anncharlott; Kulke, Hermann & Teipathi, Gaya Charan (eds.) (1986, 1978). 'The Cult of Jagannath and the Regional Tradition of Orissa'. South Asian Studies No. VIII \[8]. South Asia Interdosciplinary Regional Research Programme: Orissa Research Project. (NB: First published in 1978 and an imprint in 1986.). With an 'In Memoriam: Anncharlott Eschmann (1941-1977)' by H. Kulke and G.C. Tripathi. Darya Ganj, New Delhi, India: Manohar Publications. Source: https://archive.org/details/thecultofjagannathandtheregionaltradionoforissaaeschmannhkulkegctripathi1986 (accessed: Friday, July 25, 2025)
