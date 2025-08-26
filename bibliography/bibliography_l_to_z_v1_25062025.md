@@ -2126,7 +2126,12 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 
 ### SHAH, P. ###
 
-* Shah, Dr. Priyabala (ed.) (1958). 'Vishnudharmottara-Purana - Third Khanda \[Sanskrit: विष्णुधर्मोत्तर पुराणे तृतीय खण्डः ; IAST: viṣṇudharmottara-purana tṛtīya khaṇḍaḥ]: Vol. 1: Text, Critical Notes, etc.'. Gaekwad's Oriental Series CXXX \[130]. With a 'Foreword' in English by B.J. Sandesara. (NB: Critical edition in Sanskrit set in Devanagari with frontmatter in English.). Baroda (Vadodara), Gujarat, India: Oriental Institute (The Maharaja Sayajirao University of Baroda). Source: https://ia801405.us.archive.org/12/items/in.ernet.dli.2015.408424/2015.408424.Visnudharmottara-Purana_text.pdf  (accessed: Tuesday, August 26, 2025)
+* Shah, Dr. Priyabala (ed.) (1958). 'Vishnudharmottara-Purana - Third Khanda \[Sanskrit: विष्णुधर्मोत्तर पुराणे तृतीय खण्डः ; IAST: viṣṇudharmottara-purana tṛtīya khaṇḍaḥ]: Vol. 1: Text, Critical Notes, etc.'. Gaekwad's Oriental Series No. CXXX \[130]. With a 'Foreword' in English by B.J. Sandesara. (NB: Critical edition in Sanskrit set in Devanagari with frontmatter in English.). Baroda (Vadodara), Gujarat, India: Oriental Institute (The Maharaja Sayajirao University of Baroda). Source: https://ia801405.us.archive.org/12/items/in.ernet.dli.2015.408424/2015.408424.Visnudharmottara-Purana_text.pdf  (accessed: Tuesday, August 26, 2025)
+
+**Purport:**<br>
+...
+
+* Shah, Dr. Priyabala (ed.) (1961). 'Vishnudharmottara-Purana - Third Khanda \[Sanskrit: विष्णुधर्मोत्तर पुराणे तृतीयखण्डस्य द्वितीयो भागः ; IAST: viṣṇudharmottara-purana tṛtīya khaṇḍaḥ dvitīyo bhāgaḥ]: Vol. 2: Introduction, Appendixes, Indexes, etc. - A Study on a Sanskrit Text of Ancient Indian Arts'. Gaekwad's Oriental Series No. 137. With a 'Foreword' in English by B.J. Sandesara. (NB: Critical edition study in English with backmatter in Sanskrit set in Devanagari.). Baroda (Vadodara), Gujarat, India: Oriental Institute (The Maharaja Sayajirao University of Baroda). Source: https://ia801405.us.archive.org/12/items/in.ernet.dli.2015.408424/2015.408424.Visnudharmottara-Purana_text.pdf (accessed: Tuesday, August 26, 2025)
 
 **Purport:**<br>
 ...
