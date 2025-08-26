@@ -2413,6 +2413,13 @@ This stands as an exceptionally valuable resource for the serious practitioner o
 **Purport:**<br>
 This work is INVALUABLE for our purposes. **TODO:** Investigate Varadachari.
 
+### VARMA, K. ###
+
+* Varma, K.M. \[Kalidindi Mohana] (1983). 'Myth of the So-Called Tribhanga as a Pose: Or the Nature and Number of Bhangas'. Shantiniketan, West Bengal, India: Proddu.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### VAUDEVILLE, C. ###
 
 * Vaudeville, Charlotte (1987). 'Sant Mat: Santism as the Universal Path to Sanctity' (pp. 21-40) in Schomer, Karine & McLeod, W. H. (eds.) (1987). *The Sants: Studies in a Devotional Tradition of India*. First edition. Berkeley, California, U.S.A.: Berkeley Religious Studies Series and Motilal Banarsidass. ISBN 0961220805. 
