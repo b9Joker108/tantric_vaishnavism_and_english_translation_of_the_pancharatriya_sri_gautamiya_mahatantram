@@ -320,6 +320,13 @@ This is a valuable work for our purposes and it has been well produced.
 **Purport:**<br>
 ...
 
+### BHANDARKAR, D.; *et al.* ###
+
+* Bhandarkar, D.R.; Barua, B.M. & Law, B.C. (eds.) (1939). 'Indian Culture: Journal of the Indian Research Institute', Vol. V \[5], Nos. 1-4, July, 1938 - April, 1939. Calcutta, West Bengal, India: The Indian Research Institute (Satis Chandra Seal). Source:  https://archive.org/details/in.ernet.dli.2015.33097 (accessed: Wednesday, August 27, 2025) Source: https://archive.org/details/in.ernet.dli.2015.277329 (accessed: Wednesday, August 27, 2025)
+
+**Purport:**<br>
+This has many valuable articles in it for our purposes, which points to the potential value of others in the series. 
+
 ### BHATIA, V. ###
 
 * Bhatia, Varuni (auth.) (2020). 'The Afterlife of an Avatar in Modern Times' (pp. 17 - 32) in Sardella, Ferdinando & Wong, Lucian (eds.) (2020). *The Legacy of Vaishnavism in Colonial Bengal*. Milton Park, Oxon, Engand, U.K: Routledge (an imprint of the Taylor & Francis Group). ISBN 9781138561793 (hbk). 
