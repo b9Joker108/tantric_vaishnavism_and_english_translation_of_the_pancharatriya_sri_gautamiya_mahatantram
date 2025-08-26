@@ -1119,6 +1119,13 @@ Why? The discourse of Tantra was mediated into the English and the languages of 
 **Purport:**<br>
 ...
 
+### KRAMRISCH, S. ###
+
+* Kramrisch, Stella (1928, 1912). 'The Vishnudharmottara (Part III): A Treatise on Indian Painting and Image-Making'. Second Revised and Enlarged Edition. (NB: First published in 1912 by Venkateswara Steam Press, Bombay, India.). Calcutta, West Bengal, India: Calcutta University Press (Bhupendralal Banerjee). Source: https://archive.org/details/dli.calcutta.10295 (accessed: Tuesday, August 26, 2025)
+
+**Purport:**<br>
+...
+
 ### KREHL, L. ###
 
 * Krehl, Prof. Dr. Ludolf (ed.) (1968, 1868). 'Journal of the German Oriental Society \[German: Zeitschrift der Deutschen morgenländischen Gesellschaft] (ZDMG)', 'Vol. 22 \[German: Zwei und zwanzigster Band]'. (NB: First published in 1868 by Harrassowitz Verlag of Wiesbaden and Leipzig, Germany.). Imprint. Nendeln, Liechtenstein: Kraus Reprint Ltd. Source: http://dx.doi.org/10.25673/111032 (accessed: Friday, August 22, 2025)
