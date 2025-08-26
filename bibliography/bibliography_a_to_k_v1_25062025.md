@@ -615,6 +615,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 **Purport:**<br>
 Davidson (2002: p. 52-53) identifies the 'Bhagavad Gita' (18.48) as the first attestation of the term: "sahaja".
 
+### DE, S. ###
+
+* De, S.K. \[Sushil Kumar] (1939). 'Gopala Bhatta' (pp. 57-71) in Bhandarkar, D.R.; Barua, B.M. & Law, B.C. (eds.) (1939). *Indian Culture: Journal of the Indian Research Institute*, Vol. V \[5], Nos. 1-4, July, 1938 - April, 1939. Calcutta, West Bengal, India: The Indian Research Institute (Satis Chandra Seal). Source:  https://archive.org/details/in.ernet.dli.2015.33097 (accessed: Wednesday, August 27, 2025) Source: https://archive.org/details/in.ernet.dli.2015.277329 (accessed: Wednesday, August 27, 2025)
+
+**Purport:**<br>
+https://en.wikipedia.org/wiki/Gopala_Bhatta_Goswami 
+
 ### DEHEJIA, V. 
 
 * Dehejia, Vidya (2022, 2002, 1988). 'Slaves of the Lord: The Path of the Tamil Saints'. (NB: First edition published in 1988 and there have been two re-printings or impressions: 2002 and 2022.). New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. ISBN 978812500449.
