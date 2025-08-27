@@ -511,9 +511,12 @@ It was in incidental reading herein and whilst preparing this citation in passin
 
 # C #
 
-...
+### CASE, M. ###
 
+* Case, Margaret H. (ed.) (1996). 'Govindadeva: A Dialogue in Stone'. First edition. New Delhi, India: Aryan Books International. ISBN 9788185503035.
 
+**Purport:**<br>
+Ordered a used hardcover edition on August 28, 2025.
 
 ### CHAKRAVARTI, P. ###
 
