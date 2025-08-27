@@ -1228,7 +1228,12 @@ It is an absolute Mystery to me, as well as a Revelation, that I have been worki
 
 ### PAUWELS, H. ###
 
-* Pauwels, Heidi R. M. (1996). 'Krishna's Round Rance Reconsidered: Hariram Vyas's Hindi Ras-Panchadhyayi'. Centre of South Asian Studies, School of Oriental and African Studies (SOAS), University of London: London Studies on South Asia, Vol. 12. (NB: First published in 1996 by Curzon Press, Richmond, Surrey, England, U.K.). Padstow, Cornwall, Great Britain (U.K.): TJ Press (Padstow) Ltd. ISBN 0700704264.
+* Pauwels, Heidi R.M. (1996). 'Krishna's Round Rance Reconsidered: Hariram Vyas's Hindi Ras-Panchadhyayi'. Centre of South Asian Studies, School of Oriental and African Studies (SOAS), University of London: London Studies on South Asia, Vol. 12. (NB: First published in 1996 by Curzon Press, Richmond, Surrey, England, U.K.). Padstow, Cornwall, Great Britain (U.K.): TJ Press (Padstow) Ltd. ISBN 0700704264.
+
+**Purport:**<br>
+...
+
+* Pauwels, Heidi R.M. (1996). 'The Great Goddess and Fulfilment in Love: Radha Seen Through a Sixteenth-Century Lens' (pp. 29-43) in the *Bulletin of the School of Oriental and African Studies*, Vol. 59, No. 1, 1996. Cambridge University Press (on behalf of SOAS, University of London). Source: https://www.jstor.org/stable/619389 (accessed: Thursday, August 28, 2025)
 
 **Purport:**<br>
 ...
