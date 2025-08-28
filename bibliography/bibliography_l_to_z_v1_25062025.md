@@ -2281,6 +2281,13 @@ Stewart spend circa twenty-five (25) years working on the English rendering of t
 **Purport:**<br>
 ...
 
+### STOKER, V. ###
+
+* Stoker, Valerie (ed.) (2016). 'Polemics and Patronage in the City of Victory: Vyasatirtha, Hindu Sectarianism, and the Sixteenth-Century Vijayanagara Court'. South Asia Across the Disciplines series edited by: Muzaffar Alam, Robert Goldman and Gauri Viswanathan. Oakland, California, U.S.A.: University of California Press. ISBN 9780520291836 (pbk.: alk. paper). DOI: http://doi.org/10.1525/luminos.18 (accessed: Thursday, August 28, 2025) 
+
+**Purport:**<br>
+...
+
 ### STRICKMANN, M. ###
 
 * Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
