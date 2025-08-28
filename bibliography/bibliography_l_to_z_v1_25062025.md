@@ -1912,6 +1912,13 @@ Roy cites verse references extensively from the [Rajatarangiti](https://en.wikip
 **Purport:**<br>
 ...
 
+### SAHAI, S. ###
+
+* Sahai, Sachchidanand (2012). 'The Hindu Temples in Southeast Asia: Their Role in Social, Economic and Political Formations'. Shimla, New Delhi, India: Aryan Books. ISBN 9788173054280.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### SAHAY, S. ###
 
 * Sahay, Srija (2021). 'Connected Worship: Locating Pancharatra Networks in West and Central India' (pp. 313–328) in the *Journal of Dharma Studies*, Vol. 4, Issue 3, 2021. Cham, Zug, Switzerland: Springer Nature Switzerland AG. Source: xxx
