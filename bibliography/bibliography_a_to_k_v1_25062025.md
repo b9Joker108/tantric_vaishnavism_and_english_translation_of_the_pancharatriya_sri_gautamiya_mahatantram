@@ -546,6 +546,11 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+* Champakalakshmi, R. (2010). 'General President's Address: The Making of a Religious Tradition: Perspectives from Pre-Colonial South India' (pp. 1-24) in Bandopadhyay, Arun (sec.), *et al.* (2010) *Proceedings of the Indian History Congress, 70th Session \[alt. Vol. 70], Delhi, 2009-2010*. Kolkata, West Bengal, India: Indian History Congress (Arun Bandopadhyay). Source: https://www.jstor.org/stable/44147652 (accessed: Friday, August 29, 2025) 
+
+**Purport:**<br>
+...
+
 ### CHAPPELLE, P. ###
 
 * Chappelle, Pamela Ann (2021). 'Sacred Sound: The Thread of Sound, Language and Reality in Hinduism'. Graduate Program in Liberal Studies. Graduate School-Camden. Camden, New Jersey, U.S.A.: Rutgers, The State University of New Jersey. Source: https://mals.camden.rutgers.edu/files/Chappelle-Capstone.pdf (accessed: Thursday, July 10, 2025)
