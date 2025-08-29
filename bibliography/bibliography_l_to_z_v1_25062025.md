@@ -687,6 +687,13 @@ Mitra (1874), Mitra (1875a), Mitra (1876a) and (1876b) are all appended and coll
 **Purport:**<br>
 ...
 
+### MOHANTY, M. ###
+
+* Mohanty, Muralidhar (2003). 'Origin and Development of Vishnu Cult'. Delhi, India: Pratibha Prakashan. ISBN 8177020633, ISBN 9788177020632
+
+**Purport:**<br>
+I placed an order for a print edition on Friday, August 29, 2025.
+
 ### MOHAPATRA, R.; *et al* ###
 
 * Mohapatra, Ramesh Prasad (auth.) & Donaldson, Thomas (ed.) (1998). ‘Ornaments of Orissa’. Ashok Vihar, Delhi, India: B. R. Publishing Corporation \[a division of BRPC (India) Ltd.]. ISBN 8176460311. Source: xxx
