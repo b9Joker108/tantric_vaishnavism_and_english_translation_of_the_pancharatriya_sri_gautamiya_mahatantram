@@ -2360,6 +2360,13 @@ This is a watershed and landmark study in the literature and is invaluable for o
 **Purport:**<br>
 ...
 
+### TRIPATHI, G. ###
+
+* Tripathi, G.C. \[Gaya Charan] (1976). 'Some Remarks on the Supposed Narada-Pancharatra' (pp. 1-15) in the *Indo-Iranian Journal*, Vol. 18, 1976. Dordrecht, The Netherlands: D. Reidel Publishing Company. Source: https://www.academia.edu/115260841/Some_remarks_on_the_supposed_Nārada_Pāñca_Rātra (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 ### TYAGANANDA, S. ###
 
 * Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17–20) in *Prabuddha Bharata or Awakened India: Perspectives on Vedanta*, Vol. 115, №1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha Bharata/Year 2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
