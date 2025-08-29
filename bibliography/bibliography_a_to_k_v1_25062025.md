@@ -198,6 +198,13 @@ This work is useful for our purposes, but its aspiration to a scholarly and acad
 **Purport:**<br>
 In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jayakhya Samhita', edited by Krishnamachariar, in the Gaikawad's Series, edited by Bhattacharya, of the Oriental Institute, Baroda. So, there may be more of value on the Pancharatra, secreted in other issues of the Journal.
 
+### AIYANGAR, S.; *et al.* ###
+
+* Aiyanar, S. Krishnaswami (1939). 'The Antiquity of the Pancharatra' (pp. 78-106) in Raychaudhuri, H.C.; Chakravorti, J. & Sarkar, S.C. (eds.) (1939). *Proceedings of the Indian History Congress*, Third Session \[Vol. 3], Calcutta, 1939. Calcutta, West Bengal, India: Calcutta University Press (on behalf of the Indian History Congress). Source: https://www.jstor.org/stable/44252359 (accessed: Saturday, August 30, 2025). Source: https://archive.org/details/in.ernet.dli.2015.22716 (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 ### ALI, H. ###
 
 * Ali, Hafiz MD. \[Mohammad] Tahir (1989). '\[Chapter] 13: Influence of Islam and Sufism on Prannath’s Religious Movement' (pp. 136-148) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
