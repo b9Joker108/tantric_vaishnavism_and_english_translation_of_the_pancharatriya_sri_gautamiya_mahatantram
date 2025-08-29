@@ -912,6 +912,13 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 ...
 
+### GUPTA, K. ###
+
+* Gupta, Miss Karunakana (1939). 'The Nagas and the Naga Cult in Ancient Indian History' (pp. 214-229) in Raychaudhuri, H.C.; Chakravorti, J. & Sarkar, S.C. (eds.) (1939). *Proceedings of the Indian History Congress*, Third Session \[Vol. 3], Calcutta, 1939. Calcutta, West Bengal, India: Calcutta University Press (on behalf of the Indian History Congress). Source: https://archive.org/details/in.ernet.dli.2015.22716 (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 ### GUPTA, S. ###
 
 * Gupta, Sanjukta (1971). 'Chaturvyuha and Vishakhayupa' (pp. 189-204) in the *Brahmavidya: Adyar Library Bulletin*, Vol. 35, 1971. Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library and Research Centre.
