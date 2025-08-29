@@ -605,6 +605,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 **Purport:**<br>
 ...
 
+### CUTLER, N.; *et al.* ###
+
+* Cutler, Norman (auth.); Berling, Judith (ed.) & Olivelle, Patrick (ed.) (1987). 'Songs of Experience: The Poetics of Tamil Devotion'. Religion in Asia and Africa series. Bloomington, Indiana, U.S.A.: Indiana University Press. ISBN 0253353343.
+
+**Purport:**<br>
+...
+
 # D #
 
 ...
