@@ -249,6 +249,13 @@ This project has many moving parts and a larger auspice. I have only documented 
 **Purport:**<br>
 ...
 
+### BANDOPADHYAY, A.; *et al.* ###
+
+* Bandopadhyay, Arun (sec.), *et al.* (2010) *Proceedings of the Indian History Congress, 70th Session \[alt. Vol. 70], Delhi, 2009-2010*. Kolkata, West Bengal, India: Indian History Congress (Arun Bandopadhyay). Source: https://www-jstor-org.ezproxy.slv.vic.gov.au/stable/i40173380 (accessed: Friday, August 29, 2025) 
+
+**Purport:**<br>
+...
+
 ### BANERJEA, J. ###
 
 * Banerjea, Jitendranath (1942). 'The Holy Pañcavīras of the Vṛṣṇis' (pp. 65-68) in the *Indian Society of Oriental Art \[Calcutta]*, Vol. X \[10], 1942.
