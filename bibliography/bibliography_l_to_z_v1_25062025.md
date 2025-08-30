@@ -2247,12 +2247,17 @@ This is a very important work for our purposes. It contains many useful papers.
 
 ### SRINIVASAN, D. ###
 
+* Srinivasan, Doris (1976). 'The So-Called Proto-Shiva Seal from Mohenjo-Daro: An Iconographical Assessment' (pp. 47-58) in the *Archives of Asian Art*, Vol. 29, 1975-1976. New York, N.Y., U.S.A.: Asia Society. Source: http://www.jstor.org/stable/20062578 (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 * Srinivasan, Doris (1979). 'Concept of Cow in the Rig-Veda'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0896840603.
 
 **Purport:**<br>
 ...
 
-Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Forms' (pp. 39-54) in the *Archives of Asian Art*, Vol. XXXII \[32], 1979. New York, N.Y., U.S.A.: The Asia Society, Inc. Source: https://www.jstor.org/stable/20111096 (accessed: Saturday, July 26, 2025)
+* Srinivasan, Doris (1979). 'Early Vaishnava Imagery: Chaturvyuha and Variant Forms' (pp. 39-54) in the *Archives of Asian Art*, Vol. XXXII \[32], 1979. New York, N.Y., U.S.A.: The Asia Society, Inc. Source: https://www.jstor.org/stable/20111096 (accessed: Saturday, July 26, 2025)
 
 **Purport:**<br>
 ...
