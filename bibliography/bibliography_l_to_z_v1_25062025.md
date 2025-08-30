@@ -227,6 +227,13 @@ The work has a brief survey of the literature, which may serve as a point of ent
 **Purport:**<br>
 This is an excellent volume to inform the Lexicon.
 
+### LORENZEN, D.; *et al.* ###
+
+* Lorenzen, David N. & Preciado-Solis, Benjamin (2003, 1996). 'Bondage and Liberation: The Religions of India \[Spanish: Atadura y liberación: las religiones de la India]'. First imprint. (NB: First edition published in 1996.). Mexico City, Mexico: 'The College of Mexico \[Spanish: El Colegio de México]'. ISBN 968120686X.
+
+**Purport:**<br>
+...
+
 ### LUBOTSKY, A. ###
 
 * Lubotsky, Alexander (2007, 2001, 1999). 'The Indo-Iranian Substratum' (pp. 301–317) in Carpelan, Christian; Parpola, Asko & Koskikallio, Petteri (eds.) (2007, 2001). 'Early Contacts between Uralic and Indo-European: Linguistic and Archaeological Considerations - Papers Presented at an International Symposium Held at the Tvärminne Research Station of the University of Helsinki, January 8–10, 1999'. 'Publications of the Finno-Ugrian Society \[Finnish: Suomalais-Ugrilaisen Seuran Toimituksia]'. 'Memoirs of the Finno-Ugrian Society Vol. 242 \[French: Mémoires de la Société Finno-Ougrienne 242]. Second edition. (Note: First edition published in 2001, Vammala). Helsinki, Finland: Suomalais-Ugrilainen Seura. ISBN 9525150593. Source: https://archive.org/details/carpelan-c.-parpola-a.-koskikallio-p.-eds.-2007-2001.-early-contacts-between-ura (accessed: Saturday, August 31, 2024)
