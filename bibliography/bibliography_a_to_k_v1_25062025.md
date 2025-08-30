@@ -548,6 +548,11 @@ As yet, not secured.
 
 ### CHAMPAKALAKSHMI, R. ###
 
+* Champakalakshmi, Radha (1967). 'Some Iconographic Concepts as Gleaned from Literature, Epigraphy and Sculptures in the Tamil Country from c.800 -- c.1000 AD'. Ph.D. dissertation. Department of Ancient History and Archaeology. Madras (Chennai), Tamil Nadu, India: University of Madras. Source: http://hdl.handle.net/10603/130734 (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 * Champakalakshmi, Radha (1981). 'Vaishnava Iconography in the Tamil Country'. (NB: Revised version of the author's Ph.D. dissertation submitted to the University of Madras in 1967.). New Delhi, India: Orient Longman (Sujit Mukherjee). ISBN 9780861312160. 
 
 **Purport:**<br>
