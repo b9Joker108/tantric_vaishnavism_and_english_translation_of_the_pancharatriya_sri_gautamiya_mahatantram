@@ -548,12 +548,17 @@ As yet, not secured.
 
 ### CHAMPAKALAKSHMI, R. ###
 
-* Champakalakshmi, R. (1989). '\[Chapter] 15: Religion and Social Change in Tamil Nadu (c. AD 600-1300)' (pp. 162-173) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+* Champakalakshmi, Radha (1981). 'Vaishnava Iconography in the Tamil Country'. (NB: Revised version of the author's Ph.D. dissertation submitted to the University of Madras in 1967.). New Delhi, India: Orient Longman (Sujit Mukherjee). ISBN 9780861312160. 
 
 **Purport:**<br>
 ...
 
-* Champakalakshmi, R. (2010). 'General President's Address: The Making of a Religious Tradition: Perspectives from Pre-Colonial South India' (pp. 1-24) in Bandopadhyay, Arun (sec.), *et al.* (2010) *Proceedings of the Indian History Congress, 70th Session \[alt. Vol. 70], Delhi, 2009-2010*. Kolkata, West Bengal, India: Indian History Congress (Arun Bandopadhyay). Source: https://www.jstor.org/stable/44147652 (accessed: Friday, August 29, 2025) 
+* Champakalakshmi, Radha (1989). '\[Chapter] 15: Religion and Social Change in Tamil Nadu (c. AD 600-1300)' (pp. 162-173) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
+
+**Purport:**<br>
+...
+
+* Champakalakshmi, Radha (2010). 'General President's Address: The Making of a Religious Tradition: Perspectives from Pre-Colonial South India' (pp. 1-24) in Bandopadhyay, Arun (sec.), *et al.* (2010) *Proceedings of the Indian History Congress, 70th Session \[alt. Vol. 70], Delhi, 2009-2010*. Kolkata, West Bengal, India: Indian History Congress (Arun Bandopadhyay). Source: https://www.jstor.org/stable/44147652 (accessed: Friday, August 29, 2025) 
 
 **Purport:**<br>
 ...
