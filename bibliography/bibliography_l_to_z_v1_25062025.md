@@ -227,6 +227,13 @@ The work has a brief survey of the literature, which may serve as a point of ent
 **Purport:**<br>
 This is an excellent volume to inform the Lexicon.
 
+### LORENZEN, D. ###
+
+* Lorenzen, David N. (1999). 'Who Invented Hinduism?' (pp. 630-659) in Trautmann, Thomas R. (ed.), *et al.* (1999). *Comparative Studies in Society and History: An International Quarterly*, Vol. 41, No. 4, October, 1999. New York, N.Y., U.S.A.: Cambridge University Press (on behalf of the Society for the Comparative Study of Society and History, University of Michigan). Source: https://www.jstor.org/stable/179421 (accessed: Saturday, August 30, 2025)
+
+**Purport:**<br>
+...
+
 ### LORENZEN, D.; *et al.* ###
 
 * Lorenzen, David N. & Preciado-Solis, Benjamin (2003, 1996). 'Bondage and Liberation: The Religions of India \[Spanish: Atadura y liberación: las religiones de la India]'. First imprint. (NB: First edition published in 1996.). Mexico City, Mexico: 'The College of Mexico \[Spanish: El Colegio de México]'. ISBN 968120686X.
