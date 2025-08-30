@@ -1320,6 +1320,13 @@ I just awoke from sleep and dream, Swapna Darshan. I fell asleep last night, wel
 **Purport:**<br>
 ...
 
+### PRECIADO-SOLIS, B. ###
+
+* Preciado-Solis, Benjamin (1984, 1979). 'The Krishna Cycle in the Puranas: Themes and Motifs in a Heroic Saga'. First edition. (The first edition of 1984 makes no mention that it is the publication of a 1979 Ph.D. dissertation presented to the Australian National University.). Delhi, India: Motilal Banarsidass (Narendra Prakash Jain). ISBN 0895812266.
+
+**Purport:**<br>
+...
+
 ### PREMA-dasa; *et al.* ###
 
 * Prema-dasa & Sundara-gopala-dasa (trans'.); & Madhava-priya-dasa & Sanatana-dasa (eds.) & et al. (2016). 'Vishuddha Chaitanyavani: An Anthology of Hari-Katha - Vol. 1'. First edition. (NB: With an Introduction by Bhakti-Vijnana-Bharati.). Delhi, Delhi, India: Vishuddha Chaitanya Vani Association (Sanatana-das). Source: xxx (accessed: Wednesday, June 25, 2025)
