@@ -759,7 +759,7 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 * Dutt, Manmatha Nath (1908). 'Vishnu Samhita: Original Text with a Literal Prose English Translation'. Calcutta, West Bengal, India: H.C. Das. Source: https://archive.org/details/in.ernet.dli.2015.203979 (accessed: Sunday, August 31, 2025)
 
 **Purport:**<br>
-...
+This is neither Pancharatriya nor Agamic. I am not sure on its technical category, but I feel it may be within the genre of Dharmashastra. Dutt also rendered a Parashara Samhita into English as well and that too, is neither Pancharatriya nor Agamic.
 
 # E #
 
