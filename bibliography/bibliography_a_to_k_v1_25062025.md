@@ -1236,6 +1236,11 @@ This is a watershed work. I must dedicate time to it.
 **Purport:**<br>
 This is the second Pancharatra text published by the Adyar Library following the opening of the discourse with Schrader (1906). 
 
+* Krishnamacharya, V. (ed.) (1975, 1959). ‘Lakshmi-Tantra: A Pancharatra Agama — Edited with Sanskrit Gloss and Introduction’. With a 'Preface' in English by Ann Kerr. Reprint. (Note: The first edition published in 1959. Though it does not expressly state, this edition approaches a critical edition, as it was founded on eight manuscripts. I am presently unsure if it includes variant readings and variations between manuscripts.). Adyar, Madras, India: The Adyar Library and Research Centre (The Theosophical Society). ISBN 0835672727. Source: https://archive.org/details/LakshmiTantra (accessed: Saturday, August 10, 2024)
+
+**Purport:**<br>
+...
+
 ### KRISHNAN, V. ###
 
 * Krishnan, V. Sivarama (1994). 'Indian Iconography in an Historical Perspective with Special Reference to Vishnu' (pp. 42-53) in Rao, Prof. I.V. Chalapat\[h]i (ed.) (1994). *Triveni: India's Literary and Cultural Quarterly*, Vol. 63, No. 4, Oct.-Dec, 1994. Barkatpura, Hyderabad, India: B.N. Murty (on behalf of The Triveni Foundation; and Chary & Company, Secunderabad). Source: https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc72123.html (accessed: Thursday, August 21, 2025) Source: https://archive.org/details/eauk_triveni-vol-63-no-1-ed-by-i-v-chalapathi-rao-jan-1994-triveni-publishers-pvt-ltd (accessed: Thursday, August 21, 2025)
