@@ -754,6 +754,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DUTT, M. ###
+
+* Dutt, Manmatha Nath (1908). 'Vishnu Samhita: Original Text with a Literal Prose English Translation'. Calcutta, West Bengal, India: H.C. Das. Source: https://archive.org/details/in.ernet.dli.2015.203979 (accessed: Sunday, August 31, 2025)
+
+**Purport:**<br>
+...
+
 # E #
 
 ### EDGLEY, R. ###
