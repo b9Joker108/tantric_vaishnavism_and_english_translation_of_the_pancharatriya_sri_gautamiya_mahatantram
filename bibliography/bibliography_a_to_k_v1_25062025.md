@@ -929,7 +929,7 @@ This record of the salient transcription is the principal forum, an evergreen/li
 **Purport:**<br>
 ...
 
-### GUPTA, S. ###
+### GUPTA, San. ###
 
 * Gupta, Sanjukta (1971). 'Chaturvyuha and Vishakhayupa' (pp. 189-204) in the *Brahmavidya: Adyar Library Bulletin*, Vol. 35, 1971. Adyar, Madras (Chennai), Tamil Nadu, India: Adyar Library and Research Centre.
 
@@ -956,7 +956,7 @@ As yet, not secured. On August 26, 2025, I wrote an emaail to the librarian of t
 **Purport:**<br>
 ...
 
-### GUPTA, S.; *et al.* ###
+### GUPTA, San.; *et al.* ###
 
 * Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). 'Hindu Tantrism'. 'Handbook of Oriental Studies' \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
 
@@ -966,6 +966,13 @@ This is a very important volume as it subsumes a more tham rudimentary literatur
 ### GUPTA, V. ###
 
 * Gupta, Vinay Kumar (2019). 'Chapter 4: Vrishnis in Ancient Art and Literature' (pp. 69-90) in Wessels-Mevissen, Corinna (ed.); Mevissen, Gerd J.R. (ed.); Banerji, Arundhati (assist. ed.) & Gupta, Vinay Kumar (assist. ed.) (2019). *Indology's Pulse: Arts in Context - Essays Presented to Doris Meth Srinivasan in Admiration of Her Scholarly Research*. New Delhi, India: Aryan Books International. ISBN 9788173056321. Source: https://www.researchgate.net/publication/336771184_Vrishnis_in_Ancient_Literature_and_Art (accessed: Saturday, July 26, 2025)
+
+**Purport:**<br>
+...
+
+### GUPTA, Sha. ###
+
+* Gupta, Shakti M. (1974). 'Vishnu and His Incarnations'. With a 'Foreword' by Krishna Deva dated 1971. With an undated 'Prologue' by B.P. Patel. Bombay, Maharashtra, India: Somaiya Publications Pvt. Ltd.
 
 **Purport:**<br>
 ...
