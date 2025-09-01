@@ -809,6 +809,13 @@ A respendent piece of work.
 **Purport:**<br>
 ...
 
+### FILION, C. ###
+
+* Filion, Charles A. \[Gaurapada-dasa] (trans., comm. & ed.) (2018). 'Shrimad Bhagavatam: A Symphony of Commentaries on the Tenth Canto - Vol. 2: Chapters 4-11'. Loi Bazar, Vrindavan, Uttar Pradesh, India: Rasbihari Lal & Sons. ISBN 9788184030532.
+
+**Purport:**<br>
+...
+
 ### FLOOD, G. ###
 
 * Flood, Gavin (2002). 'The Purification of the Body in Tantric Ritual Representation' (pp. 25-43) in the *Indo-Iranian Journal*, Vol. 45, No. 1, March, 2002. Dordrecht, Netherlands: Kluwer Academic Publishers (a division of Wolters Kluwer). Source: https://www.jstor.org/stable/24663914 (accessed: Tuesday, August 26, 2025)
