@@ -233,6 +233,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 **Purport:**<br>
 ...
 
+### AUSTIN, C. ###
+
+* Austin, Christopher (2012). 'The Mystery of the Syamantaka Jewel: The Intersection of Genealogy and Biography in the Harivamsha' (pp. 153-169) in Brodbeck, Simon & Hegarty, James (eds.) (2012). *Religions of South Asia: Genealogy and History in South Asia \[Special Issue]*, Vol. 5, No. 1 & 2, 2011 (Published 2012). Sheffield, England, U.K.: Equinox Publishing Ltd. DOI:10.1558/rosa.v5i1/2.153 (accessed: Monday, September 01, 2025). Source: https://www.academia.edu/95174304/The_Mystery_of_the_Syamantaka_Jewel_The_Intersection_of_Genealogy_and_Biography_in_the_Harivaṃśa (accessed: Monday, September 01, 2025)
+
+**Purport:**<br>
+...
+
 ### AYYAR, V.; *et al.* ###
 
 * Ayyar, V. Venkatasubba (auth.) & Krishnamacharlu, R.B.C.R. (ed.) (1943). 'South Indian Inscriptions Vol. XII \[12]: The Pallavas - With Introductory Notes in English'. Archaeological Survey of India. Madras (Chennai), Tamil Nadu, India: Government Press. Source: https://archive.org/details/in.gov.ignca.34752 (accessed: Monday, August 04, 2025)
