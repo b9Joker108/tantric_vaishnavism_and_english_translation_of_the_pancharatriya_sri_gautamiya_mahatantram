@@ -11,6 +11,8 @@ For my detractors, who critique my exansive catchment and survey of source and r
 
 Raychaudhuri and I live in times markedly different; but, I deem our methodology and purview are aligned.
 
+Without consciously or self-consciously organising this project undertaking; I, somewhat organically, have embarked on a literature review, the lifeblood of which is a working and extensive annotated bibliography upon which a topical index and survey of topics of salience in and of the undertaking is set. In hindsight, I appreciate this mechanistic and utilitarian process was the research and investigative paradigm, project foundation and organising principle of [Potter's](https://en.wikipedia.org/w/index.php?title=Karl_Harrington_Potter&oldid=1288211641) (1927-2022) ten volumes (which grew to 25 volumes in subsequent editions) of the 'Encyclopedia of Indian Philosophophies' (1970-2019). 
+
 # Introduction #
 
 As the left-hand cleanses the right,<br>
