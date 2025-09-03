@@ -16,7 +16,7 @@ Here is a structured Table of Contents for "Śrīpraśnasaṃhitā Part - 1", au
 
 ### **Table of Contents: Śrīpraśnasaṃhitā Part - 1 (Viṣayānukramaṇikā)**
 
-**Chapter 1.  Śāstrāvataraṇam (शास्त्र अवतरणम् - Descent of the Scripture)**
+Chapter 1.  **Śāstrāvataraṇam (शास्त्र अवतरणम् - Descent of the Scripture)**
     *   **Inquiry by Brahma-seeking Sages**: Questions from great sages (Brahmajijñāsurbhiḥ maharṣibhiḥ) regarding the attainment of Brahma-knowledge and the worship of Bhagavān (verses 1-10).
     *   **Guidance from Kahola Maharsi**: Kahola Maharsi sending sages to Ekatā Maharsi, Ekatā performing pūjā for the sages, and narrating his own history (verses 11-25).
     *   **Revelation of Śrīpraśnasaṁhitā**: Bhagavān, pleased with Ekatā's penance, instructing Bhagavatyā Śrī (Lakshmi) to teach the Pañcarātra śāstra known as Śrīpraśnasaṁhitā through Ekatā (verses 26-44).
