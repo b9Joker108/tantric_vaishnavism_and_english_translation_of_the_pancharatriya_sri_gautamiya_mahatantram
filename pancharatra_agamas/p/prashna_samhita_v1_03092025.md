@@ -404,7 +404,7 @@ Chapter 1: शास्त्रावतरणम्
 Proposed Translation  
 “Chapter 1 (Śāstrāvataraṇam).  
 Verses 1–10 pose the dual question—on śāstras that bestow knowledge of Brahman, and on the mode of worship of the Lord—by the mahārṣis keen on Brahmajijñāsā.  
-Verses 11–25 record Kāhoḷa mahārṣi’s single-headed (ekatākhya) directive to his companion-sages: their dispatch, the sages’ homage, and their own autobiographical account.  
+Verses 11–25 record Maharshi Kahoda's (IAST: kāhoḷamahārṣi) single-headed (ekatākhya) directive to his companion-sages: their dispatch, the sages’ homage, and their own autobiographical account.  
 Verses 26–44 give, at the Lord’s behest, the Pañcarātra teaching named Śrīpraśna—delivered by that same sage contented in austerity.  
 Verses 45–54 record the śāstra-upadeśa enacted by the ṛṣis themselves.”
 
