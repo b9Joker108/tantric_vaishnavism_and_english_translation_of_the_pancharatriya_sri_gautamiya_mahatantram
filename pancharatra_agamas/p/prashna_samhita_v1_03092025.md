@@ -16,13 +16,13 @@ Here is a structured Table of Contents for "Śrīpraśnasaṃhitā Part - 1", au
 
 ### **Table of Contents: Śrīpraśnasaṃhitā Part - 1 (Viṣayānukramaṇikā)**
 
-Chapter 1.  **Śāstrāvataraṇam (शास्त्र अवतरणम् - Descent of the Scripture)**
+1.  **Śāstrāvataraṇam (शास्त्र अवतरणम् - Descent of the Scripture)**
     *   **Inquiry by Brahma-seeking Sages**: Questions from great sages (Brahmajijñāsurbhiḥ maharṣibhiḥ) regarding the attainment of Brahma-knowledge and the worship of Bhagavān (verses 1-10).
     *   **Guidance from Kahola Maharsi**: Kahola Maharsi sending sages to Ekatā Maharsi, Ekatā performing pūjā for the sages, and narrating his own history (verses 11-25).
     *   **Revelation of Śrīpraśnasaṁhitā**: Bhagavān, pleased with Ekatā's penance, instructing Bhagavatyā Śrī (Lakshmi) to teach the Pañcarātra śāstra known as Śrīpraśnasaṁhitā through Ekatā (verses 26-44).
     *   **Ekatā's Instruction to Sages**: Ekatā Maharsi providing the teachings of this śāstra to the sages (verses 45-54).
 
-**Chapter 2.  Yogatattva Nirūpaṇam (योगतत्व निरूपणम् - Elucidation of Yoga Principles)**
+2.  **Yogatattva Nirūpaṇam (योगतत्व निरूपणम् - Elucidation of Yoga Principles)**
     *   **Śrī's Prayer for Liberation**: Śrī's prayer to Bhagavān for teachings on the scripture of liberation (muktiśāstra) (verses 1-12).
     *   **Creation Sequence and Scripture's Secrecy**: Bhagavān describing the sequence of creation and stating the scripture's utmost secrecy (sarvagopyatva) (verses 13-34).
     *   **Śrī's Plea for the Secret Teachings**: Śrī's humble request (anunayaḥ) to Bhagavān for the revelation of these secret teachings (verses 35-37).
@@ -172,3 +172,4 @@ Chapter 1.  **Śāstrāvataraṇam (शास्त्र अवतरणम् 
 
 ---
 The Table of Contents for "Śrīpraśnasaṃhitā Part - 1" concludes with Chapter 26, as explicitly stated in the source. The entries following this in source (e.g., Satvataamrutam, Vacanasaram) refer to other independent books or volumes published by Kriyasagaram, not additional chapters of this particular text.
+
