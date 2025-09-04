@@ -383,6 +383,13 @@ As yet, not secured.
 **Purport:**<br>
 A very significant Vaikhanasa agama on image worship attributed to Maharshi Atri.
 
+### BHATTACHARYYA, H. ###
+
+* Bhattacharyya, Haridas (ed.) (1956). ‘The Cultural Heritage of India: Vol. 4 - The Religions’. With a 'Publisher’s Note' by Swami Nityaswarupananda. With a 'Preface' by Suniti Kumar Chatterji. With an 'Introduction' by Bharataratna Bhagavan Das. (Note: First edition was of 3 volumes published in 1937. Second edition published in 1956 was of 5 volumes, revised and enlarged.). Calcutta, West Bengal, India: The Ramakrishna Mission Institute of Culture (Swami Nityaswarupananda). Source: https://archive.org/details/bhattacharyya-haridas-ed.-1956.-the-cultural-heritage-of-india-vol.-4-the-religions (accessed: Friday, August 16, 2024)
+
+**Purport:**<br>
+...
+
 ### BHATTACHARYYA, M. ###
 
 * Bhattacharyya, Manjula (1989). '\[Chapter] 9: Medieval Bhakti Movements in Gujarat' (pp. 97-105) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
