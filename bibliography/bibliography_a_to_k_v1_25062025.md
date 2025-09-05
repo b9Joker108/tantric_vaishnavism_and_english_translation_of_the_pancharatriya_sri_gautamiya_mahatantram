@@ -1177,6 +1177,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### KAUL, M. ###
+
+* Kaul, Mrinal (2016). 'Abhinavagupta’s Theory of Reflection: A Study, Critical Edition and Translation of the Pratibimbavada (Verses 1-65) in Chapter III of the Tantraloka with the Commentary of Jayaratha'. Ph.D. dissertation. Department of Religion. Montreal, Quebec, Canada: Concordia University. 
+
+**Purport:**<br>
+...
+
 ### KAUNTEYA-dasa ###
 
 * Kaunteya-dasa (2013). 'Did Shrila Prabhupada Want Women Diksha Gurus?'. Alachua, Florida, U.S.A.: The Bhaktivedanta Book Trust International (BBTi)(Eye of the Storm Press). Source: https://archive.org/details/did-srila-prabhupada-want-women-diksa-gurus-kaunteya-das (accessed: Wednesday, July 23, 2025)
