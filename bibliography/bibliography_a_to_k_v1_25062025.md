@@ -798,6 +798,13 @@ A respendent piece of work.
 **Purport:**<br>
 ...
 
+### ELTSCHINGER, V.; *et al.* ###
+
+* Eltschinger, Vincent; Kramer, Jowita; Patil, Parimal; & Yoshimizu, Chizuko (eds.) (2023). 'Burlesque of the Philosophers: Indian and Buddhist Studies in Memory of Helmut Krasser - Part II \[2]' edited by Steffen Döll and Michael Zimmermann. Hamburg Buddhist Studies Vol. 19: Part II \[2]. Numata Center for Buddhist Studies. Bochum, North Rhine-Westphalia, Germany: Projektverlag. ISBN 9783897335851 (printed version, Part I and Part II). Source: https://fiona.uni-hamburg.de/c37d9c0e/19-02.pdf (accessed: Friday, September 05, 2025) 
+
+**Purport:**<br>
+...
+
 ### EINOO, S.; *et al.* ###
 
 * Einoo, Shingo & Takashima, Jun (eds.) (2005). 'From Material to Deity: Indian Rituals of Consecration'. Japanese Studies on South Asia No. 4. Daryaganj, New Delhi, India: Manohar (Ajay Kumar Jain). ISBN 8173046271.
@@ -811,6 +818,8 @@ A respendent piece of work.
 
 **Purport:**<br>
 ...
+
+
 
 ...
 
