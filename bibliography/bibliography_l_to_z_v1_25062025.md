@@ -1753,6 +1753,11 @@ I found this paper listed in articles about Vaikhanasa. I located it in a number
 **Purport:**<br>
 ...
 
+* Rastelli, Marion (2023). '\[Chapter] 19: On the History of Branding (tapa) in the Tradition  of Pancharatra' (pp. 529-569) in Eltschinger, Vincent; Kramer, Jowita; Patil, Parimal; & Yoshimizu, Chizuko (eds.) (2023). *Burlesque of the Philosophers: Indian and Buddhist Studies in Memory of Helmut Krasser - Part II \[2]* edited by Steffen Döll and Michael Zimmermann. Hamburg Buddhist Studies Vol. 19: Part II \[2]. Numata Center for Buddhist Studies. Bochum, North Rhine-Westphalia, Germany: Projektverlag. ISBN 9783897335851 (printed version, Part I and Part II). Source: https://fiona.uni-hamburg.de/c37d9c0e/19-02.pdf (accessed: Friday, September 05, 2025)
+
+**Purport:**<br>
+...
+
 ### RASTOGI, N. ###
 
 * Rastogi, Navjivan (1975). 'Contribution of Kashmir to Philosophy, Thought and Culture' (pp. 27–43) in the *Annals of the Bhandarkar Oriental Research Institute \[ABORI]*, Vol. 56, №1 of 4, 1975. Pune, Maharashtra, India: Bhandarkar Oriental Research Institute (BORI). Source: https://archive.org/details/rastogi-navjivan-1975.-contribution-of-kashmir-to-philosophy-thought-and-culture (accessed: Thursday, September 19, 2024)
