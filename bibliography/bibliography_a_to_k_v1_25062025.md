@@ -654,6 +654,13 @@ According to the Narayana Swami Parampara devotee Pancharatra Catalogue, this Pa
 **Purport:**<br>
 ...
 
+### DANDEKAR, R. ###
+
+* Dandekar, R.N. (1972). 'Universe in Vedic Thought' (pp. 91-114) in Ensink, Jacob & Gaeffke, Peter (eds.) (1972). *India Maior: Congratulatory Volume Presented to J. Gonda*. Leiden, Netherlands: E.J. Brill. ISBN 9789004034457.
+
+**Purport:**<br>
+...
+
 ### DASGUPTA, S. ###
 
 * Dasgupta, Surendranath (1949). 'A History of Indian Philosophy: Vol. IV \[4] - Indian Pluralism'. First edition. London, England, U.K.: Cambridge at the University Press. Source: https://archive.org/details/in.ernet.dli.2015.135147 (accessed: Saturday, July 12, 2025)
