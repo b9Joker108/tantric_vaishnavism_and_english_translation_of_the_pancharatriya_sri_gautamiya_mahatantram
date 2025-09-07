@@ -916,6 +916,12 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 ...
 
+### GONDA, J. ###
+
+* Gonda, Prof. Dr. Jan (1954). 'Aspects of Early Vishnuism'. First edition. Utrecht, Netherlands: N.V. A. Oosthoek's Uitgevers MIJ. Source: https://archive.org/details/in.ernet.dli.2015.103137 (accessed: Sunday, September 07, 2025)
+
+**Purport:**<br>
+...
 
 ### GOSWAMI, K.; *et al.* ###
 
