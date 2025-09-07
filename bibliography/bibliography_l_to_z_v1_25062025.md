@@ -2610,6 +2610,13 @@ When a scholar documents and does honour to a lauded, yet neglected, scholar of 
 **Purport:**<br>
 This volume is wealth.
 
+WILLIAMS, G. ###
+
+* Williams, George M. (2003). 'Handbook of Hindu Mythology'. ABC-CLIO's Handbooks of World Mythology series. Santa Barbara, California, U.S.A.: ABC-CLIO, Inc. ISBN 1576071065 (hardcover: alk. paper).
+
+**Purport:**<br>
+...
+
 ### WILSON, H.; *et al.* ###
 
 * Wilson, H.H. \[Horace Hayman] (auth.) & Hall, Dr. F. \[Fitzedward] (ed.) (1979, 1972, 1961, 1888, 1840). 'The Vishnu Purana: A System of Hindu Mythology and Tradition -- Translated from the Original Sanskrit and Illustrated by Notes Derived Chiefly from other Puranas'. With a 'Publisher's Note' by Sankar Bhattacharya. With an 'Introduction' by Prof. Dr. R.C. Hazra dated Janmastami, 1961. Second imprint of the third edition. (NB: First edition, London, 1840. Second edition, London, 1888. Edited by Dr. F. Hall: Vols. VI, VII, VIII, IX, X Parts I and II of Works. Third edition, Calcutta, 1961. Reprinted 1972 and 1979.). Calcutta, West Bengal, India: Punthi Pustak. Source: https://archive.org/details/dli.ernet.238051 (accessed: Saturday, August 30, 2025)
