@@ -2281,6 +2281,11 @@ This is a very important work for our purposes. It contains many useful papers.
 **Purport:**<br>
 ...
 
+* Srinivasan, Doris (1981). 'Early Krishna Icons: The Case at Mathura' (pp. 127-137) in Williams, Joanna G. (ed.) (1981). *Kaladarshana: American Studies in the Art of India*. New Delhi, India: Oxford & IBH Publishing Co. (in collaboration with American Institute of Indian Studies). 
+
+**Purport:**<br>
+...
+
 ### SRINIVASAN, S. ###
 
 * Srinivasan, Shanta (2000). 'Diksha in Pancharatra: With Reference to Important Texts'. Ph.D. dissertation. Department of Sanskrit. Chennai, Tamil Nadu, India: University of Madras. Source: http://hdl.handle.net/10603/295819 (accessed: Monday, August 04, 2025)
