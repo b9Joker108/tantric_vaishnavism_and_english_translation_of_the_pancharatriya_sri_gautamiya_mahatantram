@@ -2610,9 +2610,16 @@ When a scholar documents and does honour to a lauded, yet neglected, scholar of 
 **Purport:**<br>
 This volume is wealth.
 
-WILLIAMS, G. ###
+### WILLIAMS, G. ###
 
 * Williams, George M. (2003). 'Handbook of Hindu Mythology'. ABC-CLIO's Handbooks of World Mythology series. Santa Barbara, California, U.S.A.: ABC-CLIO, Inc. ISBN 1576071065 (hardcover: alk. paper).
+
+**Purport:**<br>
+...
+
+### WILLIAMS, J. ###
+
+* Williams, Joanna G. (ed.) (1981). 'Kaladarshana: American Studies in the Art of India'. New Delhi, India: Oxford & IBH Publishing Co. (in collaboration with American Institute of Indian Studies). 
 
 **Purport:**<br>
 ...
