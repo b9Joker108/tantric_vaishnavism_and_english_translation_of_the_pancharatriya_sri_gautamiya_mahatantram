@@ -470,6 +470,13 @@ This work is most useful and valuable for its images.
 **Purport:**<br>
 ...
 
+### MATHOTHU, K. ###
+
+* Mathothu, Fr. Kurian (1974). 'The Development of the Concept of the Trimurti in Hinduism'. (NB: This published edition is an extract from the author's Ph.D. dissertation of the same name, presented in 1971 to the Pontifical Urbanian University in Rome, Italy.). Palai, Kerala, India: Sebastian Vayalil (Bishop of Palai). Source: https://archive.org/details/TheDevelopmentOfTheConceptOfTrimurtiInHinduismKurianMathothu (accessed: Sunday, September 07, 2025)
+
+**Purport:**<br>
+I have as yet not secured the dissertation proper.
+
 ### MATILAL, B.; *et al* ###
 
 * Matilal, Bimal Krishna (auth.) & Ganeri, Jonardon (ed.) (2005, 1971). 'Epistemology, Logic, and Grammar in Indian Philosophical Analysis'. New Edition (First published in 1971 by Mouton). New Delhi, India: Oxford University Press. ISBN 019566658 Source: https://archive.org/details/epistemologylogicandgrammarinindianphilosophicalanalysisbimalakrishnamatilal2005_202003_324_Y (accessed: Wednesday, June 12, 2024)
