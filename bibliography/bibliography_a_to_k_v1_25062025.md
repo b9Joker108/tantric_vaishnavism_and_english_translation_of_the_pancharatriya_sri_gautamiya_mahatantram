@@ -1312,6 +1312,13 @@ This is the second Pancharatra text published by the Adyar Library following the
 **Purport:**<br>
 ...
 
+### KURANDWAD, K. ###
+
+* Kurandwad, Kum. Geeta P. (2004). 'Vaishnava Myths in the Puranas: A Comparative Study'. Ph.D. dissertation. P.G. Dept. of Studies in Sanskrit. Dharwad, Karnataka, India: Karnatak University.
+
+**Purport:**<br>
+...
+
 ### KVAERNE, P. ###
 
 * Kvaerne, Per (1977). 'An Anthology of Buddhist Tantric Songs: A Study of the Caryagiti'. 'The Norwegian Academy of Science and Letters \[Norw.: Det Norske Videnskaps-Akademi]': 'Vol. 2, History-Phikosophy Class; New Series No. 14 \[Norw.: Vol. II (2). Hist.-Filos. Klass. Skrifter. Ny Serie No. 14]'. Blindern, Oslo, Norway: Universitetsforlaget. ISBN 8200016145.
