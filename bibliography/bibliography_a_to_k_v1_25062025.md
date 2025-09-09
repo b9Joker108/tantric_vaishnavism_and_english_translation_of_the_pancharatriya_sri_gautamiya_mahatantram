@@ -465,6 +465,18 @@ This is very useful. **TODO:** Harvest bibliography.
 **Purport:**<br>
 ...
 
+### BRYANT, E. ###
+
+* Bryant, Edwin F. (trans. & ed.) (2003). 'Krishna: The Beautiful Legend of God; Shrimad Bhagavata Purana Book X, with Chapters 1, 6 and 29–31 from Book XI '. Translated with an Introduction and Notes. First edition. London, England, U. K.: Penguin. ISBN 9780140447996. Source: xxx
+
+**Purport:**<br>
+...
+
+* Bryant, Edwin F. (2007). 'Krishna: A Sourcebook'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195148916. Source: https://archive.org/details/bryant-e.-krishna-a-sourcebook (accessed: Tuesday, June 18, 2024)
+
+**Purport:**<br>
+...
+
 ### BURCHETT, P. ###
 
 * Burchett, Patton E. (2019a). 'A Genealogy of Devotion: Bhakti, Tantra, Yoga, and Sufism in North India'. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231190329 (cloth: alk. paper)
