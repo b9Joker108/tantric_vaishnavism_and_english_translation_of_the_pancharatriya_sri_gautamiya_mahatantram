@@ -1136,6 +1136,13 @@ As yet, I have not been able to secure this. A copy may possibly be negotiated f
 **Purport:**<br>
 ...
 
+### HUDSON, D. ###
+
+* Hudson, D. Dennis (1995). 'The Srimad Bhagavata Purana in Stone: The Text as an Eighth-Century Temple and its Implications' (pp. 137-182) in the *Journal of Vaishnava Studies: \[Theme:] Vaishnava Temples*, Vol. 3, No. 3, Summer, 1995. Gainesville, Forida, U.S.A.: The Institute for Vaishnava Studies.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### HÜSKEN. U. ###
 
 * Hüsken, Ute (2001). 'Pure or Clean?' (pp. 85-96) in Das, Rahul Peter & Emmerick, Ronald Eric (eds.) (2001). *Traditional South Asian Medicine (formerly the 'Journal of the European Ayurvedic Society')*, Vol. 6, 2001. Weisbaden, Hesse, Germany: Dr. Ludwig Reichert Verlag. Source: https://www.academia.edu/5729200/Pure_or_Clean (accessed: Sunday, August 10, 2025)
