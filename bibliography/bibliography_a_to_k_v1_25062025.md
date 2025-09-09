@@ -467,6 +467,11 @@ This is very useful. **TODO:** Harvest bibliography.
 
 ### BRYANT, E. ###
 
+* Bryant, Edwin F. (2002). 'The Date and Provenance of the Bhagavata Purana and the Vaikuntha Perumal Temple' (pp. 51-80) in Hawley, John Stratton (ed.) (2002). *Journal of Vaishnava Studies*, Vol. 11, No. 1, September, 2002. Hampton, Virginia, U.S.A.: Deepak Heritage Books. Source: https://sites.rutgers.edu/edwin-bryant/wp-content/uploads/sites/169/2023/09/vaishnava_dpbp.pdf (accessed: Tuesday, September 09, 2025)
+
+**Purport:**<br>
+...
+
 * Bryant, Edwin F. (trans. & ed.) (2003). 'Krishna: The Beautiful Legend of God; Shrimad Bhagavata Purana Book X, with Chapters 1, 6 and 29–31 from Book XI '. Translated with an Introduction and Notes. First edition. London, England, U. K.: Penguin. ISBN 9780140447996. Source: xxx
 
 **Purport:**<br>
