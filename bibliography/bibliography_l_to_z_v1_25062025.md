@@ -2209,6 +2209,13 @@ This volume is a revision of Sengupta's Ph.D. dissertation: 'A Survey of Buddhis
 **Purport:**<br>
 ...
 
+### S\[H]ARMA, B. ###
+
+* S\[h]arma, B.N. Krishnamurti \[B.N.K.] (1933). 'The Date of the Bhagavata Purana' (pp. 182-218) in Bhandakar, D.R. & Gajendragadkar, A.B. (eds.). (1933). *Annals of the Bhandarkar Oriental Research Institute*, Vol. XIV \[14], Parts III-VI \[3-4], 1932-1933. Poona, Maharashtra, India: Bhandarkar Oriental Research Institute & Bhandakar Institute Press (Dr. V.S. Sukthankar & S.K. Belvalkar). Source: https://archive.org/details/in.ernet.dli.2015.501518 (accessed: Wednesday, September 10, 2025)
+
+**Purport:**<br>
+S\[h]arma (1933) article may be cued with Internet Archive electronic document p. 670 of ABORI, Vol. 13, Part 2, as ABORI, Vol. 14, Parts 3-4 is affixed to the latter portion of it, but is not declared on the Internet Archive. Also, Bryant (2002: p. 80) has confounded his citation for this article.
+
 ### SHARMA, S. ###
 
 * Sharma, Shital (2006). 'Restoring Ananda: Philosophy, Aesthetic Experience, and Ritual in Pushti-Marga Vaishnavism'. MA thesis. Faculty of Religious Studies. Montreal, Quebec, Canada: McGill University. ISBN 9780494325612. Source: https://escholarship.mcgill.ca/concern/theses/j098zb349 (accessed: Wednesday, July 23, 2025)
