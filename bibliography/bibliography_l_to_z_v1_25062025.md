@@ -2573,6 +2573,11 @@ I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya 
 **Purport:**<br>
 ...
 
+* Wedemeyer, Christian K. (2013). 'Making Sense of Tantric Buddhism: History, Semiology, & Transgression in the Indian Traditions'. South Asia Across the Disciplines series edited by Dipesh Chakrabarty, Sheldon Pollock and Sanjay Subrahmanyam. New York, N.Y., U.S.A.: Columbia University Press. ISBN 9780231162401 (cloth: alk. paper)
+
+**Purport:**<br>
+...
+
 ### WERNER, K. ###
 
 * Werner, Karel (1977). 'Yoga and the Rig Veda: An Interpretation of the Keshin Hymn (RV 10, 136)' (pp 289-302) in *Religious Studies*, Vol. 13, Issue 3, September, 1977. DOI: https://doi.org/10.1017/S0034412500010076 (accessed: Saturday, August 23, 2025) 
