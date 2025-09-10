@@ -343,6 +343,11 @@ This is a valuable work for our purposes and it has been well produced.
 
 ### BHANDARKAR, D.; *et al.* ###
 
+* Bhandakar, D.R. & Gajendragadkar, A.B. (eds.). (1933). 'Annals of the Bhandarkar Oriental Research Institute', Vol. XIV \[14], Parts III-VI \[3-4], 1932-1933. Poona, Maharashtra, India: Bhandarkar Oriental Research Institute & Bhandakar Institute Press (Dr. V.S. Sukthankar & S.K. Belvalkar). Source: https://archive.org/details/in.ernet.dli.2015.501518 (accessed: Wednesday, September 10, 2025)
+
+**Purport:**<br>
+...
+
 * Bhandarkar, D.R.; Barua, B.M. & Law, B.C. (eds.) (1939). 'Indian Culture: Journal of the Indian Research Institute', Vol. V \[5], Nos. 1-4, July, 1938 - April, 1939. Calcutta, West Bengal, India: The Indian Research Institute (Satis Chandra Seal). Source:  https://archive.org/details/in.ernet.dli.2015.33097 (accessed: Wednesday, August 27, 2025) Source: https://archive.org/details/in.ernet.dli.2015.277329 (accessed: Wednesday, August 27, 2025)
 
 **Purport:**<br>
