@@ -2361,6 +2361,13 @@ Stewart spend circa twenty-five (25) years working on the English rendering of t
 
 ### STRICKMANN, M. ###
 
+* Strickmann, Michel (1996). 'Mantras et Mandarins: Le bouddhisme tantrique en Chine \[French; English: Mantras and Mandarins: Tantric Buddhism in China]'. Bibliothèque des Sciences Humaines. (NB: In French.). Paris, France: Gallimard. ISBN 2070731804. 
+
+**Purport:**<br>
+...
+
+### STRICKMANN, M.; *et al.* ###
+
 * Strickmann, Michel (auth.) & Faure, Bernard (ed.) (2002). 'Chinese Magical Medicine'. Asian Religions & Cultures: Edited by Carl Bielefeldt & Bernard Faure. Stanford, California, U.S.A.: Stanford University Press. ISBN 0804739404 (pbk.: alk. paper).
 
 **Purport:**<br>
