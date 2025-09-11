@@ -249,6 +249,13 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 # B #
 
+### BAGCHI, S. ###
+
+Bagchi \[B̶a̶n̶e̶r̶j̶e̶e̶], \[M̶r̶s̶] Santi (1979). 'Studies in the Shatapatha Brahmana'. Ph.D. dissertation. Department of Sanskrit. Calcutta, West Bengal, India: University of Calcutta. Source: https://archive.org/details/shdgnga.studies-on-the-satapatha-brahmana (accessed: Friday, September 12, 2025)
+
+**Purport:**<br>
+...
+
 ### BALOGH, D.; *et al.* ###
 
 * Balogh, Daniel & Griffiths, Arlo (2019-2025). 'DHARMA Project (European Research Council - ERC: no. 809994): The Domestication of "Hindu" Asceticism and the Religious Making of South and Southeast Asia Project (Hyper Articles en Ligne: HAL ID: hal-03763 086, Version 1)', 'Task Force B (TFB) - Early Inscriptions of Andhradesha (EIAD): tfb-eiad-epigraphy, ID: DHARMA_INSEIAD00164. Version: 2025-06-21. DHARMA Project Database (online edition; refer: https://dharmalekha.info). Source: https://github.com/erc-dharma/tfb-eiad-epigraphy (accessed: Tuesday, August 12, 2025)
