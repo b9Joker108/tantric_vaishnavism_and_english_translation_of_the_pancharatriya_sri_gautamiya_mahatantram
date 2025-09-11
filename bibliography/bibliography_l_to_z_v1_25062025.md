@@ -2124,6 +2124,13 @@ These were first published in the English monthly 'Prabuddha Bharata' from Augus
 **Purport:**<br>
 ...
 
+### SAXENA, M. ###
+
+* Saxena, Monika (2019). 'Women and the Puranic Tradition in India'. With a 'Foreword' by Upinder Singh dated 2018. Milton Park, Abingdon, Oxon, England, U.K.: Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429448003 (ebook) 
+
+**Purport:**<br>
+...
+
 ### SCHAEFFER, K. ###
 
 * Schaeffer, Kurtis R. (2005). 'Dreaming the Great Brahmin: Tibetan Traditions of the  Buddhist Poet-Saint Saraha'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780195173734. 
