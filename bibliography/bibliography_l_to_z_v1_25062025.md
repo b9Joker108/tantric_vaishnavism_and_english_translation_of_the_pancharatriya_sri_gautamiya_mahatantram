@@ -1301,7 +1301,14 @@ Not one dedicated article on either the Pancharatra or Vaikhanasa, one on Vaishn
 **Purport:**<br>
 ...
 
-P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2018). ‘Tantric Rituals of Kerala Temples’. Tantra in Contemporary Researches №6. First edition. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely donote his family name.). Sudarshan Park, New Delhi, India: D. K. Printworld Pvt. Ltd. ISBN 9788124608999.
+* P.I., Ajithan \[Malayalam: അജിതൻ. പി. ഐ.; IAST: Ajitan, Pi. Ai.] (2018). ‘Tantric Rituals of Kerala Temples’. Tantra in Contemporary Researches №6. First edition. (Note: The name ‘Ajithan’ is a common male given-name in Kerala. The initials likely donote his family name.). Sudarshan Park, New Delhi, India: D. K. Printworld Pvt. Ltd. ISBN 9788124608999.
+
+**Purport:**<br>
+...
+
+### PODDAR, N. ###
+
+* Poddar, Neeraja (2014). 'Krishna in his Myriad Forms: Narration, Translation and Variation in Illustrated Manuscripts of the Latter Half of the Tenth Book of the Bhagavata Purana'. Ph.D. dissertation. Graduate School of Arts and Sciences. New York, N.Y., U.S.A.: Columbia University. Source: https://core.ac.uk/download/pdf/161446605.pdf (accessed: Thursday, September 11, 2025)
 
 **Purport:**<br>
 ...
