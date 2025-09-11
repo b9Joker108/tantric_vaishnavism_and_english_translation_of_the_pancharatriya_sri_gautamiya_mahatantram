@@ -820,6 +820,13 @@ This is neither Pancharatriya nor Agamic. I am not sure on its technical categor
 **Purport:**<br>
 A respendent piece of work.
 
+### EHNBOM, D. ###
+
+* Ehnbom, Daniel J. (1984). 'An Analysis and Reconstruction of the Dispersed Bhagavata Purana from the Chaurapanchashika Group'. Chicago, Illinois, U.S.A.: University of Chicago.
+
+**Purport:**<br>
+As yet, not secured.
+
 ### ELGOOD, H. ###
 
 * Elgood, Heather (auth.) & Hinnells, John (ed.) (2000, 1999). 'Hinduism and the Religious Arts'. Religion and The Arts Series. Paperback edition. (NB: First published in 1999.). London, England, U.K.: Cassell. ISBN 0304707392 (pbk).
