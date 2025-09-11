@@ -251,7 +251,7 @@ In this volume, within the 'Editorial', Aiyangar reviews the edition of the 'Jay
 
 ### BAGCHI, S. ###
 
-Bagchi \[B̶a̶n̶e̶r̶j̶e̶e̶], \[M̶r̶s̶] Santi (1979). 'Studies in the Shatapatha Brahmana'. Ph.D. dissertation. Department of Sanskrit. Calcutta, West Bengal, India: University of Calcutta. Source: https://archive.org/details/shdgnga.studies-on-the-satapatha-brahmana (accessed: Friday, September 12, 2025)
+* Bagchi \[B̶a̶n̶e̶r̶j̶e̶e̶], \[M̶r̶s̶] Santi (1979). 'Studies in the Shatapatha Brahmana'. Ph.D. dissertation. Department of Sanskrit. Calcutta, West Bengal, India: University of Calcutta. Source: https://archive.org/details/shdgnga.studies-on-the-satapatha-brahmana (accessed: Friday, September 12, 2025)
 
 **Purport:**<br>
 ...
