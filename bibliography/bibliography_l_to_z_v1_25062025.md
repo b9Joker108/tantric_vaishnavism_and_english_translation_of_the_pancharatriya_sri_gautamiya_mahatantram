@@ -229,6 +229,11 @@ This is an excellent volume to inform the Lexicon.
 
 ### LORENZEN, D. ###
 
+* Lorenzen, David N. (ed.) (1996, 1995). 'Bhakti Religion in North India: Community, Identity & Political Action'. (NB: First published in 1995 by State University of New York Press, Albany.). SUNY Series in Religious Studies series edited by Harold Coward. Daryaganj, New Delhi, India: Manohar Publishers & Distributors (Ajay Kumar Jain). ISBN 8173041717. 
+
+**Purport:**<br>
+...
+
 * Lorenzen, David N. (1999). 'Who Invented Hinduism?' (pp. 630-659) in Trautmann, Thomas R. (ed.), *et al.* (1999). *Comparative Studies in Society and History: An International Quarterly*, Vol. 41, No. 4, October, 1999. New York, N.Y., U.S.A.: Cambridge University Press (on behalf of the Society for the Comparative Study of Society and History, University of Michigan). Source: https://www.jstor.org/stable/179421 (accessed: Saturday, August 30, 2025)
 
 **Purport:**<br>
