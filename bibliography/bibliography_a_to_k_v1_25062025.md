@@ -465,7 +465,14 @@ This is very useful. **TODO:** Harvest bibliography.
 
 ### BRODBECK, S.; *et al.* ###
 
-* Brodbeck, Simon; Bowles, Adam & Hiltebeitel, Alf (eds.) (2018). 'The Churning of the Epics and Puranas: Proceedings of the Epics and Puranas Section at the 15th World Sanskrit Conference'. Darya Ganj, New Delhi, India: Dev Publishers & Distributors. ISBN 9789381406854.
+* Brodbeck, Simon; Bowles, Adam; & Hiltebeitel, Alf (eds.) (2018). 'The Churning of the Epics and Puranas: Proceedings of the Epics and Puranas Section at the 15th World Sanskrit Conference'. Darya Ganj, New Delhi, India: Dev Publishers & Distributors. ISBN 9789381406854.
+
+**Purport:**<br>
+...
+
+### BRONKHORST, J. ###
+
+* Bronkhorst, Johannes (2021). '\[Chapter] 2: The Rise of Classical Brahmanism' (pp. 49-56) in Jacobsen, Knut A. (ed.) (2021). *Routledge Handbook of South Asian Religions*. Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429054853 (ebook).
 
 **Purport:**<br>
 ...
