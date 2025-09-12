@@ -926,6 +926,13 @@ As yet, not secured.
 **Purport:**<br>
 Not yet secured. That said, a significant portion of the work is viewable on Google Books: https://books.google.com/books/about/Society_and_Religion.html (accessed: Thursday, July 24, 2025)
 
+### GANERI, J. ###
+
+* Ganeri, Jonardon (ed.) (2017). 'Oxford Handbook of Indian Philosophy'. New York, N.Y., U.S.A.: Oxford University Press. ISBN 9780199314621.
+
+**Purport:**<br>
+...
+
 ### GARBE, R. ###
 
 * Garbe, Richard (1905). 'The Bhagavad-Gita: Translated from Sanskrit - With an Introduction on its Original Form, its Teachings, and its Age \[English; German: Die Bhagavadgītā: Aus dem Sanskrit übersetzt - mit einer Einleitung über ihre ursprüngliche Gestalt, ihre Lehren und ihr Alter]'. (NB: In the German language.). Leipzig, Saxony, Germany: H. Hsessel Verlag. Source: https://archive.org/details/diebhagavadgt00garbgoog (accessed: Wednesday, July 23, 2025)
