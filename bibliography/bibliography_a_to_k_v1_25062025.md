@@ -1191,6 +1191,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### JACOBSEN, K. ###
+
+* Jacobsen, Knut A. (ed.) (2021). 'Routledge Handbook of South Asian Religions'. Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429054853 (ebook).
+
+**Purport:**<br>
+...
+
 ### JACOBSEN, K.; *et al* ###
 
 * Jacobsen, Knut A.; Basu, Helene; Malinar, Angelika; &  Narayanan, Vasudha (eds.) (2010). 'Brill’s Encyclopedia of Hinduism: Vol. II \[2] - Sacred Texts, Ritual Traditions, Arts, Concepts'. Handbook of Oriental Studies: Section 2; South Asia, Vol. 22. Leiden, Netherlands: Brill. ISBN 9789004178939.
