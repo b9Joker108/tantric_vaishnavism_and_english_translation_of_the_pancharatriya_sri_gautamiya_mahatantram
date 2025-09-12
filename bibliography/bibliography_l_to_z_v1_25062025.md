@@ -533,6 +533,13 @@ The iconography of Sri Vishvarupa Vishnu is inextricably related to the Vishvaru
 **Purport:**<br>
 I first encountered this work in circa 2004, in hardcopy, whilst deep-grazing and serendipitously communing in an inspired and intuitive spontaneity, as was my practice and fashion, a form of sadhana, within a library call-stack of books, stacked and categorised in isles and shelves, in the Dewey decimal system. This sadhana, has defined and informed my life. I first heard the term "call-stack" from the lips of a librarian more than thirty-five (35) years ago, long before its redefinition and inclusion as a denotation and technical term in Computer Science and other academic disciplines, knowledge areas and ontological domains. Anyway, I was profoundly drawn to this work, and borrowed it, and couldn't bring myself to part with it. I paid the library a pretty-penny for its replacement. I cannot commend, nor recommend, this great work enough. I hold McEvilley, in particular esteem, and embrace him as Guru, for this *magnum opus*.
 
+### McGOVERN, N. ###
+
+* McGovern, Nathan (2021). '\[Chapter] 3: Identity in Early Indian Religion' (pp. 57-71) in Jacobsen, Knut A. (ed.) (2021). *Routledge Handbook of South Asian Religions*. Routledge (an imprint of the Taylor & Francis Group). ISBN 9780429054853 (ebook).
+
+**Purport:**<br>
+...
+
 ### McGRATH, W. ###
 
 * McGrath, William A. (2017). 'Buddhism and Medicine in Tibet: Origins, Ethics, and Tradition'. Dissertation. Department of Religious Studies. Herndon, Virginia: University of Virginia. Source: xxx
