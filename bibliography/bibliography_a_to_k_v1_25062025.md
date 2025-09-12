@@ -768,6 +768,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 ...
 
+### DICKSTEIN, J. ###
+
+* Dickstein, Jonathan (2022). 'Animals in Hindu South Asia: From Cosmos to Slaughterhouse'. Ph.D. dissertation. Religious Studies. Santa Barbara, California, U.S.A.: University of California. 
+
+**Purport:**<br>
+Dickstein writes and edits what he writes uncommonly well. He also evinces a conversational and evocative style and yet maintains an academic and prestige register without lofty artifice, pretence and preciousness. The opening to this dissertation is a feat. His opening account of 'messiness' in religion, particulary the South Asian contwxt, and the wider Human Condition, in passing, sets into text a point that I wished to venture in the opening of this work, but couldn't grasp clear affordance upon tangibles to birth into text. The model of Dickstein provides a way forward.
+
 ### DIMOCK, Jr.; E. ###
 
 * Dimock, Jr.; Edward C. (1963). 'Doctrine and Practice among the Vaishnavas of Bengal' (pp. 106-127) in the *History of Religions*, Vol. 3, No. 1, Summer, 1963. Chicago, Illinois, U.S.A.: The University of Chicago Press. DOI: http://dx.doi.org/10.1086/462474 (accessed: Tuesday, August 05, 2025)
@@ -1265,6 +1272,13 @@ As yet, not secured.
 
 **Purport:**<br>
 ...
+
+### JONES, C. ###
+
+* Jones, Christopher V. (ed.) (2022). 'Buddhism and its Religious Others: Historical Encounters and Representations'. Vol. 243 of Proceedings of the British Academy. Oxford, England, U.K.: Oxford University Press. ISBN 9780197266991
+
+**Purport:**<br>
+As yet, not secured. This has material in it that would be most useful to inform the context of the emergence of Vishnuism, the cult of Vishnu, and by extension, the Vaikhanasa and Pancharatra traditions. By memory, it is the chapter of McGovern that would be most useful.
 
 # K #
 
