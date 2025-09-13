@@ -775,6 +775,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 Dickstein writes and edits what he writes uncommonly well. He also evinces a conversational and evocative style and yet maintains an academic and prestige register without lofty artifice, pretence and preciousness. The opening to this dissertation is a feat. His opening account of 'messiness' in religion, particulary the South Asian contwxt, and the wider Human Condition, in passing, sets into text a point that I wished to venture in the opening of this work, but couldn't grasp clear affordance upon tangibles to birth into text. The model of Dickstein provides a way forward.
 
+### DIKSHITULU, A. ###
+
+* Dikshitulu, A.V. Ramana (auth.) & Neelima, Kota (auth.) (2016). 'Tirumala: Sacred Foods of God'. New Delhi, India: Roli Books. ISBN 9789351941095
+
+**Purport:**<br>
+I purchased a copy with Books Wagon on Sunday, September 14, 2025.
+
 ### DIMOCK, Jr.; E. ###
 
 * Dimock, Jr.; Edward C. (1963). 'Doctrine and Practice among the Vaishnavas of Bengal' (pp. 106-127) in the *History of Religions*, Vol. 3, No. 1, Summer, 1963. Chicago, Illinois, U.S.A.: The University of Chicago Press. DOI: http://dx.doi.org/10.1086/462474 (accessed: Tuesday, August 05, 2025)
