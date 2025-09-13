@@ -987,6 +987,13 @@ Not yet secured. That said, a significant portion of the work is viewable on Goo
 **Purport:**<br>
 ...
 
+### GOSWAMY, B.; *et al.* ###
+
+* Goswamy, B.N. & Grewal, J.S. (1969). 'The Mughal and Sikh Rulers and the Vaishnavas of Pindori: A Historical Interpretation of 52 Persian Documents'. First edition. Simla, Himachal Pradesh, India: Indian Institute of Advanced Study. 
+
+**Purport:**<br>
+...
+
 ### GOUDRIAAN, T. ###
 
 * Goudriaan, Teun (1979a). 'Tantric Studies: Present Position' (pp. 3-12) in Gupta, Sanjukta; Hoens, Dirk Jan; & Goudriaan, Teun (eds.) (1979). *Hindu Tantrism*. 'Handbook of Oriental Studies \[German: Handbook der Orientalistik]' series edited by Bertold Spuler, *et al.*. 'Second Section: India \[German: Zweite Abteilung - Indien]' edited by Jan Gonda. 'Religion: Vol. 4 \[German: Vierter Band - Religionen]'. 'Second Section \[German: Zweiter Abschnitt]': Hindu Tantrism. Leiden, The Netherlands: E.J. Brill. ISBN 9004058222. Source: https://archive.org/details/HinduTantrismSanjuktaGuptaDirkJanJoensTeunGoudriaan (accessed: Saturday, August 16, 2025)
