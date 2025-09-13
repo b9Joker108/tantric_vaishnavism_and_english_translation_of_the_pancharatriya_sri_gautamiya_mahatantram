@@ -1238,6 +1238,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### JAGANNATHAN, S. ###
+
+* Jagannathan, Smt. Sarojini (1994). 'Impact of Sri Ramanujacharya on Temple Worship'. With a blessing in English by Sri Vibhudhisha Thirtha Swamiji dated 1992. With a 'Preface' by S.J. dated 1993. First edition. Jawahar Nagar, Delhi, India: Nag Publishers. ISBN 8170812887. Source: https://archive.org/details/impactofsriramanujacaryaontempleworshipsmtsarojinijagannathan1994 (accessed: Saturday, September 13, 2025)
+
+**Purport:**<br>
+...
+
 ### JAHAN, S.; *et al.* ###
 
 * Jahan, Shahnaj Husne (auth.) & Kanungo, Alok K. (ed.) (2019, 2006). 'Excavating Waves and Winds of (Ex)change: A Study of Maritime Trade in Early Bengal'. British Archaeological Reports \[BAR] International Series 1533. South Asian Archaeology Series: Vol. 5. With a 'Foreword' by Dr. Alok Kumar Kanungo. (NB: First published in 2006 by John and Erica Hedges, Oxford, England, U.K.). Oxford, England, U.K.: BAR Publishing. ISBN  9781407329895 (ebook). DOI: https://doi.org/10.30861/9781841717531 (accessed: Sunday, August 03, 2025)
