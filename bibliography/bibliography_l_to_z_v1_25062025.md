@@ -2188,6 +2188,13 @@ A very useful article and evidentiary for the iconographical development of Sri 
 **Purport:**<br>
 ...
 
+### SEASTRAND, A. ###
+
+* Seastrand, Anna Lise (2024). 'Body, History, Myth: Early Modern Murals in South India'. Princeton, New Jersey, U.S.A.: Princeton University Press. ISBN 9780691258485 (ebook)  
+
+**Purport:**<br>
+...
+
 ### SEBASTIAN, R. ###
 
 * Sebastian, Rodney (2019). 'Cultural Fusion in a Religious Dance Drama: Building the Sacred Body in the Manipuri Raslilas'. Ph.D. dissertation. Graduate School. Gainesville, Florida, U.S.A.: University of Florida. Source: https://www.proquest.com/docview/2464172212 (accessed: Monday, July 28, 2025)
