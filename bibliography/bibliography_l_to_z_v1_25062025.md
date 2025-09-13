@@ -2256,6 +2256,13 @@ S\[h]arma (1933) article may be cued with Internet Archive electronic document p
 **Purport:**<br>
 ...
 
+### SIDDHANTASHASTREE, R. ###
+
+* Siddhantashastree, Rabindra Kumar (1985). 'Vaishnavism Through the Ages'. New Delhi, India: Munshiram Manoharlal Publishers. ISBN 9788121500715
+
+**Purport:**<br>
+As yet, not secured.
+
 ### SINGER, M. ###
 
 * Singer, Milton (ed.) (1976, 1959). 'Traditional India: Structure and Change'. American Folklore Society Bibliographical and Special Series Vol. 10. Third impression/printing. (Note: First edition published in 1959.). Austin, Texas, U.S.A.: University of Texas Press. ISBN 0292735049. Source: https://archive.org/details/singer-milton-ed.-1976-1959.-TraditionalIndia-StructureandChange (accessed: Saturday, October 05, 2024)
