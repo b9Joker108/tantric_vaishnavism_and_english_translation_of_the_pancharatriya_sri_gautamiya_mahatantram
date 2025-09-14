@@ -1162,6 +1162,11 @@ Note, Padoux (2000: p. 45) makes reference to Pancharatra in passing: "Some Tant
 **Purport:**<br>
 ...
 
+* Padoux, André (2017). 'The Hindu Tantric World: An Overview'. (NB: An English reworking of Padoux's French language work: 'Comprendre le tantrisme: Les sources hindoues', Albin Michel, Paris, 2010.). Chicago, Illinois, U.S.A.: University of Chicago Press. ISBN 9780226424125 (ebook)
+
+**Purport:**<br>
+...
+
 ### PAL, B. ###
 
 * Pal, Bipin Chandra (1933). 'Bengal Vaishnavism'. Calcutta, West Bengal. With a 'Preface' by Hirendra Nath Datta.India: Modern Book Agency (Jnananjan Pal). Source: https://ia904600.us.archive.org/10/items/in.ernet.dli.2015.68182/2015.68182.Bengal-Vaishnavism.pdf (accessed: Monday, July 28, 2025)
