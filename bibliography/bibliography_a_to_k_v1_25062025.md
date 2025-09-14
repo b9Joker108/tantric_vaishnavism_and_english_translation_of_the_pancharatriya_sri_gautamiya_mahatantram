@@ -428,6 +428,13 @@ This volume is exceptional. Though, not ostensibly on tantra in either the Agami
 **Purport:**<br>
 This provides a principal factor in the exodus of the Pancharatra from Kashmir. But, it still does not furnish the nature or path of movement, or the places of principal relocation, being in South India. 
 
+### BJÖRKMAN, L.; *et al.* ###
+
+* Björkman, Lisa & Burchett, Patton (2021). 'The Value of Tantra: Markets, Modernity, and Mumbai’s Master of Mantra' (pp. 885-908 ) in the *Journal of the American Academy of Religion*, Vol. 89, No. 3, September, 2021. Source: https://doi.org/10.1093/jaarel/lfab072 (accessed: Sunday, September 14, 2025)
+
+**Purport:**<br>
+...
+
 ### BLOCH, T. ###
 
 * Bloch, Dr. E. Theodor (1896). 'Über das Gṛhya- und Dharmasūtra der Vaikhānasa [German; English: On the Grihya- and Dharmasutra of the Vaikhanasa'. Leipzig, Saxony, Germany: Otto Harrassowitz. (NB: A complete copy is freely available on the 'Google Play Books' Android application.).
