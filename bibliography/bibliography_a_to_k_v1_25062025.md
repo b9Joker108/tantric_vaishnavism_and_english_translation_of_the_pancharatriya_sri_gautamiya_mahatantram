@@ -1041,7 +1041,12 @@ This record of the salient transcription is the principal forum, an evergreen/li
 
 ### GUENTHER, H. ###
 
-* Guenther, Herbert (ed., trans. & annot.) (1996). 'Longchenpa's The Full-Fledged Khyung-Chen \[Garuda] Bird \[Tibetan: ཁྱུང་ཆེན་གཤོག་རྫོགས ; EWTS: khyung chen gshog rdzogs]: An Essay in Freedom as the Dynamics of Being'. Tokyo, Japan: The International Institute for Buddhist Studies of ICABS (The International College for Advanced Buddhist Studies). ISBN 4906267385.
+* Guenther, Herbert V. (1974, 1971, 1963). 'The Life and Teaching of Naropa: Translated from the Original Tibetan with Philosophical Commentary Based on the Oral Transmission'. Second imprint. (NB: First published by the Clarendon Press, Oxford, 1963. First issued as an Oxford University Press paperback in 1971.). Oxford, England, U.K.: Oxford University Press.
+
+**Purport:**<br>
+...
+
+* Guenther, Herbert V. (ed., trans. & annot.) (1996). 'Longchenpa's The Full-Fledged Khyung-Chen \[Garuda] Bird \[Tibetan: ཁྱུང་ཆེན་གཤོག་རྫོགས ; EWTS: khyung chen gshog rdzogs]: An Essay in Freedom as the Dynamics of Being'. Tokyo, Japan: The International Institute for Buddhist Studies of ICABS (The International College for Advanced Buddhist Studies). ISBN 4906267385.
 
 **Purport:**<br>
 ...
