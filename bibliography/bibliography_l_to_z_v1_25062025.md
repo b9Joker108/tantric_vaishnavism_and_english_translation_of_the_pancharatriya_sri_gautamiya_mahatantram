@@ -2609,6 +2609,13 @@ I am not sure exactly which work of Smith that this is a Tamil translation of. A
 **Purport:**<br>
 I will lean on this volume heavily in my poetical analysis of the Sri Gautamiya Mahatantram. So, I needsmust deeply engage the work, when timely.
 
+### VIDYARNAVA, R. ###
+
+* Vidyarnava, R.B. Srisa Chandra (1918). 'The Daily Practice of the Hindus: Containing the Morning and Midday Duties'. The Sacred Books of the Hindus series: Vol. XXI \[21] edited by Maj. D.B. Basu. Third edition, revised and enlarged. Bahadurganj, Allahabad (Prayagraaj), Uttar Pradesh, India: Bhuvaneshwari Ashrama. Source: https://archive.org/details/sacredbooksofthehindusvol00thedailypracticeofthehindus_202002 (accessed: Sunday, September 14, 2025)
+
+**Purport:**<br>
+This early work is notable for the style of its treatment of Tantra in the Sanatana Dharma (Hinduism).
+
 # W #
 
 ### WALTER, K. ###
