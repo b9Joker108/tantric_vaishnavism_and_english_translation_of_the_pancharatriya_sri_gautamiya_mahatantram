@@ -2452,6 +2452,13 @@ This is a watershed and landmark study in the literature and is invaluable for o
 **Purport:**<br>
 ...
 
+### TEMPLE, R. ###
+
+* Temple, Sir Richard Carnac (ed.) (1906). 'The Indian Antiquary: A Journal of Oriental Research - in Archaeology, Epigraphy, Ethnology, Geography, History, Folklore, Language, Literature, Numismatics, Philosophy, Religion, etc.', Vol. XXXV \[35], 1906. Byculla, Bombay (Mumbai), Maharashtra, India: Bombay Education Society's Press. Source: https://archive.org/details/in.ernet.dli.2015.206689 (accessed: Monday, September 15, 2025)
+
+**Purport:**<br>
+Shamasastry, R. \[Rudrapatna] (1906). 'The Origin of the Devanagari Alphabet' (pp. 253-267, 270-290, 311-324) has much useful early information on Tantra in English. Interestingly, the linguistics are of its time and it appears from the journal title that the discipline and nomenclature of 'Linguistics' had yet to be adopted and popularised.
+
 ### THOORAN, M.; *et al.* ###
 
 * Thooran, M.P. Periyasaamy \[Tamil: எம். பி. பெரியாசாமி தூரன் ; IAST: Eṃ. Pi. Periyāsāmi Tūran], *et al.* (eds.) (1954). 'The Tamil Encyclopedia' \[Tamil: தமிழ்க் கலைக்களஞ்சியம் ; IAST: tamiḻk kalaikkaḷañciyam]. (Note: Printed set of ten volumes initially published in 1954 onwards and published online digitally in 2018.). Chennai, India: 'Tamil Development Academy' \[Tamil: தமிழ் வளர்ச்சிக் கழகம் ; IAST: Tamiḻ Vaḷarccik Kaḻakam]'. Source: http://bit.ly/4eDmwIY (accessed: Tuesday, October 01, 2024)
