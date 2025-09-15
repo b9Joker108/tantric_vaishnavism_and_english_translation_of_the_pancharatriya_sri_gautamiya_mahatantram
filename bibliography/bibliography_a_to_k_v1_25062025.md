@@ -589,6 +589,13 @@ It was in incidental reading herein and whilst preparing this citation in passin
 **Purport:**<br>
 Ordered a used hardcover edition on August 28, 2025.
 
+### Chakravarti, C. ###
+
+* Chakravarti, Chintaharan (1963). 'The Tantras: Studies on their Religion and Literature'. First edition. Calcutta, West Bengal, India: Punthi Pustak (Sankar Bhattacharya). Source: https://archive.org/details/TheTantrasStudiesOnTheirReligionAndLiteratureChitaranjanChakravarti (accessed: Monday, September 15, 2025)
+
+**Purport:**<br>
+...
+
 ### CHAKRAVARTI, P. ###
 
 * Chakravarti, Pulinbihari (1952). 'Origin and Development of the Samkhya System of Thought'. Calcutta Sanskrit Series No. XXX \[30]. First edition. Calcutta, West Bengal, India: Metropolitan Printing & Publishing House Ltd.
