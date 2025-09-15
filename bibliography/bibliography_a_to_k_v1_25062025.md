@@ -596,6 +596,13 @@ Ordered a used hardcover edition on August 28, 2025.
 **Purport:**<br>
 ...
 
+### CHAKRAVARTI, R. ###
+
+* Chakravarti \[Chakrabarty], Dr. Ramakantha (1985). 'Vaishnavism in Bengal: 1486-1900'. First edition. (NB: This monograph is an abridged version of author's Ph.D. dissertation submitted to the University of Calcutta in 1980.). Calcutta, West Bengal, India: Sanskrit Pustak Bhandar (Shyamapada Bhattacharya). Source: https://archive.org/details/chakravarty-ramakanta-vaisnavism-in-bengal-1486-1900-sanskrit-pustak-bhandar (accessed: Monday, September 15, 2025)
+
+**Purport:**<br>
+...
+
 ### CHAITANYA, K. ###
 
 * Chaitanya, Krishna (alt. K.K. Nair) (1991). 'The Betrayal of Krishna: Vicissitudes of a Great Myth'. New Delhi, India: Clarion Books. ISBN 8185120390 / ISBN 9788185120393.
