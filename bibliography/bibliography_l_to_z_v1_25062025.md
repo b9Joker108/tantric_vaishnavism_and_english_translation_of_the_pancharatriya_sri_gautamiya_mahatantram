@@ -2085,6 +2085,12 @@ In essence, it's about moving from simply identifying direct textual matches to 
 **Purport:**<br>
 ...
 
+### SARASVATI, K.; *et al* ###
+
+* Sarasvati, Kavindracharya (auth.) & Sastry, R. Ananta Krishna (ed. & comm.) (1921). 'Kavindracharya List: Edited with Introduction \[Sanskrit: कवीन्द्राचार्यसूचिपत्रम् ; IAST: kavīndrācāryasūcipatram]'. Gaekwad's Oriental Series No. XVII \[17]. With a 'Foreword' by Dr. Ganganatha Jha. Baroda (Vadodara), Gujarat, India: Central Library. Source: https://archive.org/details/kavindracaryasuc00kaviuoft (accessed: Monday, September 15, 2025)
+
+**Purport:**<br>
+...
 
 ### SARBADHIKARY, S. ###
 
