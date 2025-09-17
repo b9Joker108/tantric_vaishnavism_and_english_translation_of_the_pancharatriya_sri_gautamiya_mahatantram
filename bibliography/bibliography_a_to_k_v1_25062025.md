@@ -1171,6 +1171,11 @@ This is a very important volume as it subsumes a more tham rudimentary literatur
 
 ### HAZRA, R. ###
 
+* Hazra, Dr. R.C. (1952). 'The Mahabhagavata-Purana: A Work of Bengal' (pp. 17-28) in Law, Narendra Nath (ed.) (1952). *The Indian Historical Quarterly*, Vol. XXVIII \[28], No. 1, March, 1952. Calcutta, West Bengal, India: Calcutta Oriental Press Ltd. Source: https://archive.org/details/in.ernet.dli.2015.99775/mode/2up (accessed: Wednesday, September 17, 2025)
+
+**Purport:**<br>
+This article of Hazra principally treats the 'Srimad Devi Bhagavata Mahapurana' and not the 'Srimad Bhagavatam'.
+
 * Hazra, Prof. Dr. R.C. \[Rajendra Chandra] (1979, 1972, 1961). 'Introduction' (pp. a - l) in Wilson, H.H. \[Horace Hayman] (auth.) & Hall, Dr. F. \[Fitzedward] (ed.) (1979, 1972, 1961, 1888, 1840). *The Vishnu Purana: A System of Hindu Mythology and Tradition -- Translated from the Original Sanskrit and Illustrated by Notes Derived Chiefly from other Puranas*. With a 'Publisher's Note' by Sankar Bhattacharya. With an 'Introduction' by Prof. Dr. R.C. Hazra dated Janmastami, 1961. Second imprint of the third edition. (NB: First edition, London, 1840. Second edition, London, 1888. Edited by Dr. F. Hall: Vols. VI, VII, VIII, IX, X Parts I and II of Works. Third edition, Calcutta, 1961. Reprinted 1972 and 1979.). Calcutta, West Bengal, India: Punthi Pustak. Source: https://archive.org/details/dli.ernet.238051 (accessed: Saturday, August 30, 2025)
 
 **Purport:**<br>
