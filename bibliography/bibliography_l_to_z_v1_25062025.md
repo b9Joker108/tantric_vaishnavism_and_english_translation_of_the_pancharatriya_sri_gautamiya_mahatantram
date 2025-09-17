@@ -61,6 +61,13 @@ I need to invest time in this work and the '[Sri Adhyatma Ramayana](https://en.w
 **Purport:**<br>
 …
 
+### LAW, N. ###
+
+* Law, Narendra Nath (ed.) (1952). 'The Indian Historical Quarterly', Vol. XXVIII \[28], No. 1, March, 1952. Calcutta, West Bengal, India: Calcutta Oriental Press Ltd. Source: https://archive.org/details/in.ernet.dli.2015.99775/mode/2up (accessed: Wednesday, September 17, 2025)
+
+**Purport:**<br>
+…
+
 ### LAWRENCE, D. ###
 
 * Lawrence, David Peter (1992). 'Argument and the Recognition of Shiva: The Philosophical Theology of Utpaladeva and Abhinavagupta'. Dissertation. The Faculty of the Divinity School. Chicago, Illinois, U. S. A.: The University of Chicago. Source: https://archive.org/details/argumentrecognitionofsivaphilosophicaltheologyofutpaladevaandabhinavaguptadavidpeterlawrencethe_540_H (accessed: Friday, July 12, 2024)
