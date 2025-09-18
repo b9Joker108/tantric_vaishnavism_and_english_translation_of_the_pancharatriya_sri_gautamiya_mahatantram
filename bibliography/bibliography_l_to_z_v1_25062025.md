@@ -2341,6 +2341,13 @@ This is a very important work for our purposes. It contains many useful papers.
 **Purport:**<br>
 ...
 
+### SONTHEIMER, G.; *et al.* ###
+
+* Sontheimer, Günther-Deitz (auth.) & Feldhaus, Anne (trans.) (1989, 1976). 'Pastoral Deities in Western India \[German: Birobā, Mhaskobā und Khaṇḍobā]'. (NB: First published in German with the title: 'Birobā, Mhaskobā und Khaṇḍobā: Ursprung, Geschichte und Umwelt von pastoralen Gottheiten in Mahārāṣṭra' in 1976 by Franz Steiner Verlag, Wiesbaden, Germany.). New York, N.Y., U.S.A.: Oxford University Press. ISBN 0195055004.
+
+**Purport:**<br>
+...
+
 ### SRINIVASAN, D. ###
 
 * Srinivasan, Doris (1976). 'The So-Called Proto-Shiva Seal from Mohenjo-Daro: An Iconographical Assessment' (pp. 47-58) in the *Archives of Asian Art*, Vol. 29, 1975-1976. New York, N.Y., U.S.A.: Asia Society. Source: http://www.jstor.org/stable/20062578 (accessed: Saturday, August 30, 2025)
