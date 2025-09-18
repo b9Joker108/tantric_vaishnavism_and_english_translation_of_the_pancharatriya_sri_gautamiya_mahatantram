@@ -1376,6 +1376,13 @@ As yet, not secured. This has material in it that would be most useful to inform
 **Purport:**<br>
 ...
 
+### KINSLEY, D.; *et al.* ###
+
+* Kinsley, David R. (auth) & Bolle, Kees W., *et al.* (eds.) (1975). 'The Sword and the Flute: Kali and Krishna, Dark Visions of the Terrible and the Sublime in Hindu Mythology'. Hermeneutics: Studies in the History of Religions series: Vol. 3. First edition. Berkeley, California, U.S.A.: University of California Press. ISBN 0520026756
+
+**Purport:**<br>
+...
+
 ### KISS, C. ###
 
 * Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
