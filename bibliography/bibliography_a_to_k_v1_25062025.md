@@ -1369,6 +1369,13 @@ As yet, not secured. This has material in it that would be most useful to inform
 **Purport:**<br>
 ...
 
+### KINSLEY, D. ###
+
+* Kinsley, David R. (1979). 'The Divine Player: A Study of Krishna Lila'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass. ISBN 0896840190.
+
+**Purport:**<br>
+...
+
 ### KISS, C. ###
 
 * Kiss, Csaba (2014). 'On Yantras in Early Shaiva Tantras' (pp. 203-233) in *Cracow Indological Studies: Tantric Traditions in Theory and Practice*, Vol. XVI (16), December, 2014. DOI: https://doi.org/10.12797/CIS.16.2014.16.09. Source: https://journals.akademicka.pl/cis/article/view/1535 (accessed: Thursday, July 10, 2025) 
