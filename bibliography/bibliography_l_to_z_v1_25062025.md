@@ -2676,6 +2676,11 @@ This early work is notable for the style of its treatment of Tantra in the Sanat
 **Purport:**<br>
 ...
 
+* Walters, Holly (2022). 'Cornerstones: Shaligrams as Kin' (pp. 93-119) in *The Journal of Religion*, Vol. 102, No. 1, January, 2022. Chicago, Illinois, U.S.A.: The University of Chicago Press. DOI: https://doi.org/10.1086/717110. Source: https://www.researchgate.net/publication/360054590_Cornerstones_Shaligrams_as_Kin (accessed: Monday, September 22, 2025)
+
+**Purport:**<br>
+...
+
 ### WEDEMEYER, C. ###
 
 * Wedemeyer, Christian K. (2012, 2008). 'Locating Tantric Antinomianism: An Essay Toward an Intellectual History of the ‘Practices/Practice Observance’ (Caryā/Caryāvrata)' (NB: ‘Terms of Art’ in Indian Esoteric Buddhism Contributions to a Panel at the XVth (15th) Congress of the International Association of Buddhist Studies, Atlanta, 23-28 June, 2008.). (pp. 349-420) in Kellner, Birgit & Krasser, Helmut (eds.); *et al.* (2012). *JIABS: Journal of the International Association of Buddhist Studies*, Vol. 34, No. 1-2, 2011 (2012). Madison, Wisconsin, U.S.A.: International Association of Buddhist Studies. Source: https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/10607 (accessed: Tuesday, July 15, 2025) 
