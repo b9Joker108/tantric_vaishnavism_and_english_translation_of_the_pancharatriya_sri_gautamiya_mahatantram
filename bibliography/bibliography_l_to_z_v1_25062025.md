@@ -2016,6 +2016,13 @@ As yet, not secured.
 **Purport:**<br>
 ...
 
+### SAMBIDANANDA-das ###
+
+* Sambidananda-das, Dr. (2007, 2005, 1991, 1935). 'The History & Literature of the Gaudiya Vaishnavas and their Relation to Other Medieval Vaishnava Schools'. With a 'Preface' by Parameswar Brahmachari. Full Revised Edition. (NB: Originally titled: 'Gaudiya Vaishnava Movement and its Relation' and presented as a Ph.D. dissertation to the University of London in 1934 or 1935 - most likely the later date, as the author arrived in London in 1934 to commence doctorate. The first edition of 1991, published posthumously by Sri Gaudiya Math, Chennai, was partial, the first few chapters published as 'Part 1' and funded by his surviving wife, Smt. Mira. It appears publication of the subsequent part(s) were never realised. The second edition was published in 2005 and it was a reprint of the partial first edition. Though the 2007 edition is stated to be a "Full Revised Edition", it appears it has not been revised, but is actually a complete version of the original 1935 dissertation, which I have been, as yet, unable to source.). Chennai (Madras), Tamil Nadu, India: Sri Gaudiya Math (Parameswar Brahmachari). Source: https://archive.org/details/KTbE_the-history-and-literature-of-the-gaudiya-vaishanavas-and-their-relations-to-oth (accessed: Monday, September 22, 2025)
+
+**Purport:**<br>
+...
+
 ### SANDERSON, A. ###
 
 * Sanderson, Alexis (1986). 'Mandala and Agamic Identity in the Trika of Kashmir' (pp. 169–214) in Padoux, Andre (ed.) (1986). *Mantras et Diagrammes Rituels dans L'Hindouisme*. Centre National de la Recherche Scientifique: Equipe de Recherche №249, "L'Hindouisme - Texts, Doctrines, Pratiques". Table Ronde: Mantras et Diagrammes Rituels dans L'Hindouisme, Paris, 22–22 Juin, 1984. Paris, France: Editions du Centre National de la Recherche Scientifique. ISBN 2222038499. Source: https://archive.org/details/MantraEtDiagrammesRituelsDansLHindouismeTableRonde (accessed: Wednesday, August 14, 2024)
