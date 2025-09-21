@@ -2515,6 +2515,11 @@ Shamasastry, R. \[Rudrapatna] (1906). 'The Origin of the Devanagari Alphabet' (p
 **Purport:**<br>
 ...
 
+* Tripathi, Radhavallabh (ed.) (2012). 'Sixty Years of Sanskrit Studies: 1950-2010; Vol. 2: Countries Other than India \[Sanskrit: षष्ट्यब्दसंस्कृतम् ; IAST: ṣaṣṭy-abda-saṃskṛtam; English: 'sixty-year Sanskrit']'. Janakpuri, New Delhi, India: Rashtriya Sanskrit Sansthan. ISBN 9788124606308 (Vol. 2). Source: https://www.sanskrit.nic.in/DigitalBook/S/sixty yearsvol2.pdf (accessed: Monday, September 22, 2025)
+
+**Purport:**<br>
+...
+
 ### TYAGANANDA, S. ###
 
 * Tyagananda, Swami (2010). 'Looking Deeply at the Elements' (pp. 17–20) in *Prabuddha Bharata or Awakened India: Perspectives on Vedanta*, Vol. 115, №1, January, 2010. Kolkata, India: Advaita Ashrama. Source: https://ia601205.us.archive.org/29/items/PrabuddhaBharata/Prabuddha Bharata/Year 2010/01PB-Jan2010.pdf (accessed: Tuesday, June 24, 2025)
