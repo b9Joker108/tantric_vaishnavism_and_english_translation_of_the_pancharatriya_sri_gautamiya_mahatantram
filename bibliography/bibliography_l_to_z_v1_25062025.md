@@ -2657,6 +2657,13 @@ This early work is notable for the style of its treatment of Tantra in the Sanat
 **Purport:**<br>
 ...
 
+### WALTERS, H. ###
+
+* Walters, Holly (c.2019). 'Krishna Has Many Lovers: Towards a Concept of the Queerly Divine in India'. Unpublished draft. Waltham, Massachusetts, U.S.A.: Brandeis University. Source: https://www.academia.edu/38502203/Krishna_Has_Many_Lovers_Towards_a_Concept_of_the_Queerly_Divine_in_India (accessed: Monday, September 22, 2025)
+
+**Purport:**<br>
+...
+
 ### WEDEMEYER, C. ###
 
 * Wedemeyer, Christian K. (2012, 2008). 'Locating Tantric Antinomianism: An Essay Toward an Intellectual History of the ‘Practices/Practice Observance’ (Caryā/Caryāvrata)' (NB: ‘Terms of Art’ in Indian Esoteric Buddhism Contributions to a Panel at the XVth (15th) Congress of the International Association of Buddhist Studies, Atlanta, 23-28 June, 2008.). (pp. 349-420) in Kellner, Birgit & Krasser, Helmut (eds.); *et al.* (2012). *JIABS: Journal of the International Association of Buddhist Studies*, Vol. 34, No. 1-2, 2011 (2012). Madison, Wisconsin, U.S.A.: International Association of Buddhist Studies. Source: https://journals.ub.uni-heidelberg.de/index.php/jiabs/article/view/10607 (accessed: Tuesday, July 15, 2025) 
