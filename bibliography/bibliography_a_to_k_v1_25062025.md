@@ -796,12 +796,12 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 **Purport:**<br>
 Dickstein writes and edits what he writes uncommonly well. He also evinces a conversational and evocative style and yet maintains an academic and prestige register without lofty artifice, pretence and preciousness. The opening to this dissertation is a feat. His opening account of 'messiness' in religion, particulary the South Asian contwxt, and the wider Human Condition, in passing, sets into text a point that I wished to venture in the opening of this work, but couldn't grasp clear affordance upon tangibles to birth into text. The model of Dickstein provides a way forward.
 
-### DIKSHITULU, A. ###
+### DIKSHITULU, A.; *et al.* ###
 
-* Dikshitulu, A.V. Ramana (auth.) & Neelima, Kota (auth.) (2016). 'Tirumala: Sacred Foods of God'. New Delhi, India: Roli Books. ISBN 9789351941095
+* Dikshitulu, Dr. A.V. Ramana (auth.); Neelima, Kota (auth.) & Chopra, Aditi (ed.) (2016). 'Tirumala: Sacred Food of God'. New Delhi, India: Lustre Press & Roli Books. ISBN 9789351941095.
 
 **Purport:**<br>
-I purchased a copy with Books Wagon on Sunday, September 14, 2025.
+I purchased a copy with Books Wagon on Sunday, September 14, 2025. Hardcopy secured.
 
 ### DIMOCK, Jr.; E. ###
 
