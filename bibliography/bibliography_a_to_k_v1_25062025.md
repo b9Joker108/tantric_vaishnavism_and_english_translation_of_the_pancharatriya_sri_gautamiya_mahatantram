@@ -917,6 +917,13 @@ As yet, not secured.
 
 # F #
 
+### FARQUHAR, J. ###
+
+* Farquhar, J.N. \[John Nicol] (auth) (1920). 'An Outline of the Religious Literature of India'. 'The Religious Quest of India' series edited by J.N. Farquhar and H.D. Griswold. With a 'Foreword' by Farquhar dated 1919. London, England, U.K.: Humphrey Milford & Oxford University Press. Source: https://archive.org/details/outlineofreligio00farqrich (accessed: Monday, October 20, 2025)
+
+**Purport:**<br>
+...
+
 ### FERREIRA, M. ###
 
 * Ferreira, Michael V. (2019). 'Proto-Soma and Tantra: An Iconographic Exploration into the Possibilities of the Vedic Soma's Prototype in the Indus Valley'. M.A. thesis. Long Beach, California, U.S.A.: California State University. 
