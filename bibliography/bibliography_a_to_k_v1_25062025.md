@@ -154,7 +154,7 @@ As yet, I have not been able to secure a copy.
 
 ### AHMAD, K. ###
 
-* Ahmad, Khalid Bashir (2017). 'Kashmir: Exposing the Myth Behind the Narrative'. New Delhi, India: SAGE Publications India Pvt. Ltd. ISBN 9789386062802 (paperback). Source: https://archive.org/details/khalid-bashir-book-dr-ashraf (accessed: Tuesday, September 10, 2024)
+* Ahmad, Khalid Bashir (2017). 'Kashmir: Exposing the Myth Behind the Narrative'. New Delhi, India: SAGE Publications India Pvt. Ltd. ISBN 9789386062802 (paperback). Source: https://archive.org/details/khalid-bashir-book-dr-ashraf (accessed: Tuesday, September 10, 2024)
 
 **Purport:**<br>
 This work is useful for our purposes, but its aspiration to a scholarly and academic register suffers from being the product of a non-native English speaker and has not been edited by a native English speaker, privy to an appropriate academic and scholarly register and the conventions of academic publishing in English. I also note an inherent and insidious bias in the presentation and framing of matters related to Hindu culture and religion.
