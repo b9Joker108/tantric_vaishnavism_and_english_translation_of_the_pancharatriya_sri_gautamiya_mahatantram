@@ -303,7 +303,7 @@ Contains a useful survey-in-brief of the life and work of Banerjea. This work is
 
 ### BANERJI, J. ###
 
-Banerji, Jitendranath (1941). 'Besnagar: One of the Earliest Seats of the Pancharatra Cult' (pp. 147-152) in Sherwani, H.K. (sec.). *Proceedings of the Indian History Congress*, Fifth Session, Hyderabad, 1941. India: Thompson & Co., Ltd. Source: https://www.jstor.org/stable/44304707 (accessed: Saturday, July 26, 2025)
+* Banerji, Jitendranath (1941). 'Besnagar: One of the Earliest Seats of the Pancharatra Cult' (pp. 147-152) in Sherwani, H.K. (sec.). *Proceedings of the Indian History Congress*, Fifth Session, Hyderabad, 1941. India: Thompson & Co., Ltd. Source: https://www.jstor.org/stable/44304707 (accessed: Saturday, July 26, 2025)
 
 **Purport:**<br>
 ...
