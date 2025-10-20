@@ -128,7 +128,7 @@ Not yet secured.
 
 ### AGRAWALA, R. ###
 
-* Agrawala, Sri R.C. (1954). 'A Unique Image of Yoga-Narayana from Rajaputana' (pp. 235-237) in *Artibus Asiae*, Vol. 17, No. 3/4, 1954. Museum Rietberg, Zurich, Switzerland: Artibus Asiae Publishers.  
+* Agrawala, Sri R.C. (1954). 'A Unique Image of Yoga-Narayana from Rajaputana' (pp. 235-237) in *Artibus Asiae*, Vol. 17, No. 3/4, 1954. Museum Rietberg, Zurich, Switzerland: Artibus Asiae Publishers.  
 
 **Purport:**<br>
 ...
