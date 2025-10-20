@@ -78,7 +78,7 @@ Ostensibly, this article has nothing to do with tantra. That said, it has both a
 **Purport:**<br>
 ...
 
-* Acri, Andrea (2020). 'REVIEW: Nina Mirnig, Marion Rastelli & Vincent Eltschinger (eds.) (2019). Tantric Communities in Context, Vienne, Austrian Academy of Sciences Press' (pp. 504–510) in the *Bulletin de l'Ecole francaise d'Extreme-Orient* (BEFEO), Vol. 106, 2020. Paris, France: Ecole francaise d'Extreme-Orient. Source: https://archive.org/details/acri-andrea-2020.-review-nina-mirnig-marion-rastelli-vincent-eltschinger-eds.-20 (accessed: Thursday, August 29, 2024)
+* Acri, Andrea (2020). 'REVIEW: Nina Mirnig, Marion Rastelli & Vincent Eltschinger (eds.) (2019). Tantric Communities in Context, Vienne, Austrian Academy of Sciences Press' (pp. 504–510) in the *Bulletin de l'Ecole francaise d'Extreme-Orient* (BEFEO), Vol. 106, 2020. Paris, France: Ecole francaise d'Extreme-Orient. Source: https://archive.org/details/acri-andrea-2020.-review-nina-mirnig-marion-rastelli-vincent-eltschinger-eds.-20 (accessed: Thursday, August 29, 2024)
 
 **Purport:**<br>
 ...
