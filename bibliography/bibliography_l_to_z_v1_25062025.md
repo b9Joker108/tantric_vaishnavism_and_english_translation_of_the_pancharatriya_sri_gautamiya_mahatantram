@@ -2466,6 +2466,13 @@ This is a watershed and landmark study in the literature and is invaluable for o
 
 # T #
 
+### TAYLOR, P.; *et al.* ###
+
+* Taylor, Patrick (ed.); Case, Frederick I. (ed.); Meighoo, Sean (assoc. ed.); & Leung, Joyce (ed. coord.) (2013). 'The Encyclopedia of Caribbean Religions'. (NB: Two volumes published in one: Vol. 1, A-L; Vol. 2, M-Z.). Chicago, Illinois, U.S.A.: University of Illinois Press. ISBN 9780252037238 (set).
+
+**Purport:**<br>
+...
+
 ### TAYLOR, S. ###
 
 * Taylor, Sarah Pierce (2016). 'Aesthetics of Sovereignty: The Poetic and Material Worlds of Medieval Jainism'. Ph.D. dissertation. South Asia Regional Studies. Pennsylvania, Philadelphia, U.S.A.: University of Pennsylvania. Source: https://core.ac.uk/download/pdf/76395582.pdf (accessed: Sunday, August 10, 2025)
