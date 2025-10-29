@@ -589,7 +589,14 @@ It was in incidental reading herein and whilst preparing this citation in passin
 **Purport:**<br>
 Ordered a used hardcover edition on August 28, 2025.
 
-### Chakravarti, C. ###
+### CHAGME, K.; *et al.* ###
+
+* Chagme, Karma (auth.); Sherab, Rigdzin Kunzang (auth.); Tsewang, Khenpo Sonam (trans.); & Amtzis, Judith (trans.) (2022). 'Sky Dharma: The Foundations of the Namchö Treasure Teachings - The Life of Tertön Migyur Dorje and the Great Commentary to the Preliminary Practices'. With a 'Foreword' by Khenchen Pema Sherab Rinpoche. First edition. Boulder, Colorado, U.S.A.: Snow Lion (an imprint of Shambhala Publications, Inc. and published on behalf of Palyul Ling International). ISBN 9780834844520 (ebook).
+
+**Purport:**<br>
+...
+
+### CHAKRAVARTI, C. ###
 
 * Chakravarti, Chintaharan (1963). 'The Tantras: Studies on their Religion and Literature'. First edition. Calcutta, West Bengal, India: Punthi Pustak (Sankar Bhattacharya). Source: https://archive.org/details/TheTantrasStudiesOnTheirReligionAndLiteratureChitaranjanChakravarti (accessed: Monday, September 15, 2025)
 
