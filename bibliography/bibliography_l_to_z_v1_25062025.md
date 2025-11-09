@@ -2300,6 +2300,13 @@ S\[h]arma (1933) article may be cued with Internet Archive electronic document p
 **Purport:**<br>
 As yet, not secured.
 
+### de SIMINI, F.; *et al.* ###
+
+* de Simini, Florinda & Sferra, Francesco (2016). 'On the Fence Between Two Wor(l)ds: Theory and Practice in Translating Indian and Indo-Tibetan Texts' (pp. 159-192) in Wangchuk, Dorji (ed.) (2016). *Cross-Cultural Transmission of Buddhist Texts: Theories and Practices of Translation*. Ind-Tib Hamburg: Indian and Tibetan Studies 5. Alsterterrasse, Hamburg, Germany: Department of Indian and Tibetan Studies (Asien-Afrika-Institut, Universität Hamburg). ISBN 9783945151044. 
+
+**Purport:**<br>
+Provides a most useful introduction and survey of the known history of the emergent discipline of 'Translation Studies'.
+
 ### SINGER, M. ###
 
 * Singer, Milton (ed.) (1976, 1959). 'Traditional India: Structure and Change'. American Folklore Society Bibliographical and Special Series Vol. 10. Third impression/printing. (Note: First edition published in 1959.). Austin, Texas, U.S.A.: University of Texas Press. ISBN 0292735049. Source: https://archive.org/details/singer-milton-ed.-1976-1959.-TraditionalIndia-StructureandChange (accessed: Saturday, October 05, 2024)
