@@ -755,6 +755,13 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 
 ### DESHPANDE, N. ###
 
+Deshpande, Dr. N.A. (1966) 'Boons and Curses in the Ramayana' (pp. 212-216) in Neog, Prof. Dr. Maheswar; Sharma & Dr. Mukunda Madhava (eds.) (1966). *Professor Birinchi Kumar Barua Commemoration Volume*. Gauhati, Assam, India: All India Oriental Conference (Local Committee, XXII Session; Dr. A.K. Borkakoy, Local Secretary). Source: http://www.panjabdigilib.org/webuser/searches/displayPageContent.jsp?ID=5472&page=312&CategoryID=1&pagetype=1&Searched=W3GX (accessed: Monday, November 10, 2025) 
+
+**Purport:**<br>
+This volume affirms that Deshpande was already a doctor by 1966 and that his professional base of operations was Malad, Bombay. This is curious, as I can attest to no general university or Sanskrit research institute with a campus in Malad in 1966.
+
+### DESHPANDE, N.; *et al.* ###
+
 * Deshpande, Dr. N.A. \[?] (trans. & annot.) & Bhatt, Dr. G.P. \[Govardhan Prasad] (ed.) (2004, 1988). 'The Padma-Purana: Part 1'. Ancient Indian Tradition and Mythology Series: Vol. 39. With a 'Preface' by Dr. G.P. Bhatt. Reprint. (NB: First edition published in Delhi in 1988.). Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 8120804791. Source: https://archive.org/details/the-padma-purana-part-1-ancient-indian-tradition-and-mythology (accessed: Monday, November 10, 2025)
 
 **Purport:**<br>
