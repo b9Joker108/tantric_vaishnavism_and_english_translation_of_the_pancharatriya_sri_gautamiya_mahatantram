@@ -1409,6 +1409,13 @@ As yet, not secured. This has material in it that would be most useful to inform
 **Purport:**<br>
 ...
 
+### KHAN, T.; *et al.* ###
+
+* Khan, Tariq; Panda, Aditya, Kumar; Geethakumary, V.; & Halim, Abdul (eds.) (2017). 'History of Translation in India'. With a 'Foreword' by D.G. Rao. First edition. Mysuru (Mysore), Karnataka, India: National Translation Mission (Central Institute of Indian Languages, Mysuru). ISBN 9788173431890. Source: https://www.ntm.org.in/download/htbook/History-of-Translation-in-India.pdf (accessed: Tuesday, November 11, 2025)
+
+**Purport:**<br>
+...
+
 ### KINSLEY, D. ###
 
 * Kinsley, David R. (1979). 'The Divine Player: A Study of Krishna Lila'. First edition. Jawahar Nagar, Delhi, India: Motilal Banarsidass. ISBN 0896840190.
