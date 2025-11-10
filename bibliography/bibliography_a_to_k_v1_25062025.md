@@ -753,6 +753,13 @@ https://en.wikipedia.org/wiki/Gopala_Bhatta_Goswami
 **Purport:**<br>
 Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be dispensed with and could not locate a facsimile or digital edition.
 
+### DESHPANDE, N. ###
+
+* Deshpande, Dr. N.A. \[?] (trans. & annot.) & Bhatt, Dr. G.P. \[?] (ed.) (2004, 1988). 'The Padma-Purana: Part 1'. Ancient Indian Tradition and Mythology Series: Vol. 39. With a 'Preface' by Dr. G.P. Bhatt. Reprint. (NB: First edition published in Delhi in 1988.). Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 8120804791. Source: https://archive.org/details/the-padma-purana-part-1-ancient-indian-tradition-and-mythology (accessed: Monday, November 10, 2025)
+
+**Purport:**<br>
+...
+
 ### DESHPANDE, U. ###
 
 * Deshpande, Uma S. (1989). '\[Chapter] 10: Narasimha Mehta: Saint-Poet from Gujarat' (pp. 106-112) in Bhattacharyya, Narendra Nath (ed.) (1989a). *Medieval Bhakti Movements in India: Sri Chaitanya Quincentenary Commemoration Volume*. First edition. New Delhi, India: Munshiram Manoharlal Publishers Pvt. Ltd. (Published on behalf of Sri Chaitanya Quincentenary Commemoration Committee, Chinsurah). ISBN 8121504591.
