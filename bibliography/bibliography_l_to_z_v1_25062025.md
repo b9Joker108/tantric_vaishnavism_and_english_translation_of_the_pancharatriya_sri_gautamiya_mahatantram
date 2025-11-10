@@ -2286,6 +2286,18 @@ S\[h]arma (1933) article may be cued with Internet Archive electronic document p
 **Purport:**<br>
 ...
 
+### SHAW, R. ###
+
+* Shaw, Richard Neil (1999). 'Iconography of Siddhas on South Indian Temples: Vol. 1'. Ph.D. Dissertation. Department of Religious Studies. Lancaster, England, U.K.: Lancaster University. 
+
+**Purport:**<br>
+As yet, not secured. British Library still down from cyber attack and Lancaster University theological repository currently down as well. Presently, I can find no other source bar these. Somehow, I downloaded the title page and TOC, but I cannot find the linkage that gave me access.
+
+* Shaw, Richard Neil (2020). 'Immortal Siddhas: Iconography of Siddhas on South Indian Temples'. Rushden, Northamptonshire, U.K.: Papaya Books. ISBN 099357291X, ISBN 9780993572913.
+
+**Purport:**<br>
+As yet, not secured. It appears Papaya Books in the U.K. are defunct. There are still copies available, but not sure for how long.
+
 ### SHIRALI, V. ###
 
 * Shirali, Vishnudass (1977). 'Sargam: An Introduction to Indian Music'. Hauz Khas, New Delhi, India: Abhinav Publications (Shakti Malik).
