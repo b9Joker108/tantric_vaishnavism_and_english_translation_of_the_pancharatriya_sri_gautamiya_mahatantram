@@ -755,7 +755,7 @@ Hardcover edition Secured on Friday, July 25, 2025 as I resolved it could not be
 
 ### DESHPANDE, N. ###
 
-* Deshpande, Dr. N.A. \[?] (trans. & annot.) & Bhatt, Dr. G.P. \[?] (ed.) (2004, 1988). 'The Padma-Purana: Part 1'. Ancient Indian Tradition and Mythology Series: Vol. 39. With a 'Preface' by Dr. G.P. Bhatt. Reprint. (NB: First edition published in Delhi in 1988.). Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 8120804791. Source: https://archive.org/details/the-padma-purana-part-1-ancient-indian-tradition-and-mythology (accessed: Monday, November 10, 2025)
+* Deshpande, Dr. N.A. \[?] (trans. & annot.) & Bhatt, Dr. G.P. \[Govardhan Prasad] (ed.) (2004, 1988). 'The Padma-Purana: Part 1'. Ancient Indian Tradition and Mythology Series: Vol. 39. With a 'Preface' by Dr. G.P. Bhatt. Reprint. (NB: First edition published in Delhi in 1988.). Jawahar Nagar, Delhi, India: Motilal Banarsidass Publishers Pvt. Ltd. ISBN 8120804791. Source: https://archive.org/details/the-padma-purana-part-1-ancient-indian-tradition-and-mythology (accessed: Monday, November 10, 2025)
 
 **Purport:**<br>
 ...
