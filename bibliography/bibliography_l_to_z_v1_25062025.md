@@ -2513,6 +2513,13 @@ Shamasastry, R. \[Rudrapatna] (1906). 'The Origin of the Devanagari Alphabet' (p
 **Purport:**<br>
 ...
 
+### THAKUR, A. ###
+
+* Thakur, Anil (2017). 'Machine Translation in India' (pp. 445-461) in Khan, Tariq; Panda, Aditya Kumar; Geethakumary, V.; & Halim, Abdul (eds.) (2017). *History of Translation in India*. With a 'Foreword' by D.G. Rao. First edition. Mysuru (Mysore), Karnataka, India: National Translation Mission (Central Institute of Indian Languages, Mysuru). ISBN 9788173431890. Source: https://www.ntm.org.in/download/htbook/History-of-Translation-in-India.pdf (accessed: Tuesday, November 11, 2025)
+
+**Purport:**<br>
+...
+
 ### THOORAN, M.; *et al.* ###
 
 * Thooran, M.P. Periyasaamy \[Tamil: எம். பி. பெரியாசாமி தூரன் ; IAST: Eṃ. Pi. Periyāsāmi Tūran], *et al.* (eds.) (1954). 'The Tamil Encyclopedia' \[Tamil: தமிழ்க் கலைக்களஞ்சியம் ; IAST: tamiḻk kalaikkaḷañciyam]. (Note: Printed set of ten volumes initially published in 1954 onwards and published online digitally in 2018.). Chennai, India: 'Tamil Development Academy' \[Tamil: தமிழ் வளர்ச்சிக் கழகம் ; IAST: Tamiḻ Vaḷarccik Kaḻakam]'. Source: http://bit.ly/4eDmwIY (accessed: Tuesday, October 01, 2024)
