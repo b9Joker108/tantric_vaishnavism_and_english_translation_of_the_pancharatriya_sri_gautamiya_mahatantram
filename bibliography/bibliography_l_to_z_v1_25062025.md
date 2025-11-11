@@ -674,6 +674,13 @@ This is the best digitization of the volume I have been able to find. It had a m
 **Purport:**<br>
 ...
 
+### MITCHELL, D.; *et al.* ###
+
+* Mitchell, Damo (auth.); *et al.* (2017). 'Daoist Reflections from Scholar Sage'. London, England, U.K.: Singing Dragon (an imprint of Jessica Kingsley Publishers). ISBN 9781848193215 (alk. paper).
+
+**Purport:**<br>
+I came upon this volume looking for a no longer extant webpage article of 'Scholar Sage \[online]' that isn't archived by the the Internet Archive's Wayback Machine: Damo, Mitchell. (2014). 'Fu Dog Statues'. Scholarsage. Source: http://www.scholarsage.com/fu-dog-statues/ (accessed: no date specified). The article I sought is in the volume.
+
 ### MITCHELL, G. ###
 
 * Michell, George (2003, 1995). ‘Architecture and Art of Southern India: Vijayanagara and the Successor States’. Reprint. (First published in 1995.). The New Cambridge History of India: Part 1, The Mughals and their Contemporaries, Vol. 6. Cambridge, England, U. K.: Cambridge University Press. ISBN 0521441102 (hardback). Source: https://archive.org/details/michell-george-2003-1995.-architecture-and-art-of-southern-india-vijayanagara-an (accessed: Saturday, August 10, 2024)
