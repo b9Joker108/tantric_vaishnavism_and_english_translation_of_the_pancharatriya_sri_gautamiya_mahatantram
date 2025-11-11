@@ -1411,7 +1411,7 @@ As yet, not secured. This has material in it that would be most useful to inform
 
 ### KHAN, T.; *et al.* ###
 
-* Khan, Tariq; Panda, Aditya, Kumar; Geethakumary, V.; & Halim, Abdul (eds.) (2017). 'History of Translation in India'. With a 'Foreword' by D.G. Rao. First edition. Mysuru (Mysore), Karnataka, India: National Translation Mission (Central Institute of Indian Languages, Mysuru). ISBN 9788173431890. Source: https://www.ntm.org.in/download/htbook/History-of-Translation-in-India.pdf (accessed: Tuesday, November 11, 2025)
+* Khan, Tariq; Panda, Aditya Kumar; Geethakumary, V.; & Halim, Abdul (eds.) (2017). 'History of Translation in India'. With a 'Foreword' by D.G. Rao. First edition. Mysuru (Mysore), Karnataka, India: National Translation Mission (Central Institute of Indian Languages, Mysuru). ISBN 9788173431890. Source: https://www.ntm.org.in/download/htbook/History-of-Translation-in-India.pdf (accessed: Tuesday, November 11, 2025)
 
 **Purport:**<br>
 ...
