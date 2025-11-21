@@ -5,12 +5,4 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 
 # Intertextuality #
 
-Centered clickable YouTube thumbnail (pure GFM, uses YouTube static image)
-
-Use this single-cell Markdown table — no HTML, centers reliably on GitHub, and pulls the static thumbnail directly from YouTube:
-
-|  |
-|:--:|
-| ![Showcase video — click to watch](https://youtu.be/FV-EzYfcyYI) |
-
-
+[![Showcase video — click to watch](https://img.youtube.com/vi/FV-EzYfcyYI/maxresdefault.jpg)](https://youtu.be/FV-EzYfcyYI)
