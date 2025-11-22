@@ -7,3 +7,5 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 ## ~ 'GoPsi'; 'Goψ'; 'Go\\|/'; 'ᛉgoᛉ'; 'ᛉb9g[☸](https://en.wikipedia.org/w/index.php?title=Sudarshana_Chakra&oldid=1317981720)[\\|/](https://en.wikipedia.org/w/index.php?title=Algiz&oldid=1317636699)108ᛉ'
 
 [![Showcase video — click to watch](https://img.youtube.com/vi/FV-EzYfcyYI/maxresdefault.jpg)](https://youtu.be/FV-EzYfcyYI)
+
+Sri Nagahari-dasa ᛉb9g[☸](https://en.wikipedia.org/w/index.php?title=Sudarshana_Chakra&oldid=1317981720)[\\|/](https://en.wikipedia.org/w/index.php?title=Algiz&oldid=1317636699)108ᛉ Avadhutaka Matrin
