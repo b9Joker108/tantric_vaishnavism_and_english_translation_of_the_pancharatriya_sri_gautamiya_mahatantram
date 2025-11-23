@@ -12,6 +12,12 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 
 ## Substandard Iconog\~\[Ra\[d]Fae](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)~ology Postgrad Unit 108 ##
 
+## Substandard Iconog~Ra\[d]Fae](
+
+## Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog\~Ra[d]Fæ~ology ##
+
+https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470
+
 **Deixes:**
 * https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/weblog/2025/november_v1_23112025.md
 * https://github.com/b9Joker108/b9_typst_spin_108_mpf-
