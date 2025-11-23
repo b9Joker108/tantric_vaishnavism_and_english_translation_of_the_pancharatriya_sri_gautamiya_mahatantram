@@ -1,4 +1,4 @@
-File: ...
+File: https://github.com/b9Joker108/tantric_vaishnavism_and_english_translation_of_the_pancharatriya_sri_gautamiya_mahatantram/blob/main/lexical_encyclopaedia/sanskrit/m/maharaja_et_al._v1_24112025.md
 
 # Maharaja and Traditional Gender Bejewelling: An Introduction #
 
