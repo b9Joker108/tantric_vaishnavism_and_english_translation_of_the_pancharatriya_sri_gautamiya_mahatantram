@@ -20,6 +20,12 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 
 ## Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog\~[Ra\[d]Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)\~ology Institute of the Lustral, Illustrious & Illuminatory Arts ##
 
+## Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog\~[Ra\[d\]Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)\~ology Institute of the Lustral, Illustrious & Illuminatory Arts ##
+
+## Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog&#126;[Ra&#91;d&#93;Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)&#126;ology Institute of the Lustral, Illustrious & Illuminatory Arts ##
+
+<h2>Sub<a href="https://en.wikipedia.org/wiki/Roman_military_standards">Standard</a> Iconog~Ra[d]Fæ<a href="https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470"></a>~ology Institute of the Lustral, Illustrious & Illuminatory Arts ##</h2>
+
 https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470
 
 **Deixes:**
