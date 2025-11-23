@@ -21,5 +21,5 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 
 **Legend\[arium]**
 
-† = The repetition is left *in situ* for my present edification. It will be revised and culled inndue course.
+† = The repetition is left *in situ* for my present edification. It will be revised and culled in due course.
 
