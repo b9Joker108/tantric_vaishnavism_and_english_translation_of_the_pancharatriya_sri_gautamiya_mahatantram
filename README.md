@@ -13,7 +13,7 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 
 ### Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog\~[Ra\[d\]Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)\~ology Institute of the Lustral, Illustrious & Illuminatory Arts ###
 
-### Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog&#126;[Ra&#91;d&#93;Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)&#126;ology Institute of the Lustral, Illustrious & Illuminatory Arts ### †
+### Sub[Standard](https://en.wikipedia.org/wiki/Roman_military_standards) Iconog&#126;[Ra&#91;d&#93;Fæ](https://en.wikipedia.org/w/index.php?title=Radical_Faeries&oldid=1323445470)&#126;ology Institute of the Lustral, Illustrious & Illuminatory Arts †
 
 **Deixes:**
 * https://github.com/b9Joker108/b9_dj_vj_goPsi_spin_108_svaha_a/blob/main/weblog/2025/november_v1_23112025.md
