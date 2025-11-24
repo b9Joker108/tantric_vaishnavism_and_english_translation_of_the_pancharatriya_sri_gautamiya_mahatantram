@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/tantric_vaishnavism_and_english_translation_of_the_pancharatriya_sri_gautamiya_mahatantram/blob/main/lexical_encyclopaedia/sanskrit/k/kaya_siddhi_v1_24112025.md
 
 # Kaya Siddhi: An Introduction #
 
