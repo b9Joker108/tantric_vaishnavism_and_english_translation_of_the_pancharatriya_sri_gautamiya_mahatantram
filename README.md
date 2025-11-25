@@ -17,6 +17,7 @@ This is the alternative catchment of all my diverse and somewhat delightfully u
 * https://github.com/b9Joker108/b9_typst_spin_108_mpf-
 * https://medium.com/@beaufordantonstenberg/like-hell-or-high-water-the-edification-of-dreaming-0dfa5f768c0e (accessed: Wednesday, November 26, 2025) @ 3:23 aM|R
 * https://medium.com/@beaufordantonstenberg/a-pancharatriya-treasury-listing-of-extant-agama-pancharatra-samhitas-and-associated-tantric-0865689c0399 (accessed: Wednesday, November 26, 2025) @ 3:26 aM|R
+* https://medium.com/@beaufordantonstenberg/towards-a-history-of-vaishnavism-elders-of-indic-discourse-in-the-english-language-189c8672e371 (accessed: Wednesday, November 26, 2025) @ 3:28 aM|R
 
 **Legend\[arium]**
 
