@@ -3,6 +3,11 @@
 
 This is the alternative catchment of all my diverse and somewhat delightfully unkempt assorted work from Medium.com (published on Medium.com as living or evergreen documents, along with many draft articles on Medium.com that are so far unpublished) on the Pancharatra tradition and preparatory work for an English rendering of the Pancharatriya *Sri Gautamiya Mahatantram*, with extensive Frontmatter and Introduction, original Sanskrit text, critical apparatus, interlinear annotations, commentary and other incidentals. I will endeavour to manually update both sites in due course. This project auspice contains manifold subprojects, not least of which is a cascade and swarm of intelligent AI agents and coded system to assist in corpus management and Generative AI assistance in working with said corpus.
 
+REVERSE CHRONOLOGICAL ORDER IS BEST, START WITH WINDOW SIMULACRUM PHANTASMAGORIA:
+* https://www.instagram.com/b9jokerswild/
+
+**Note:** Read all of it and contemplate & \\|/ĀKT\\|/ with ||Rapidity||!!!
+
 # Intertextuality: 'Gosai' glossed & styled: 
 ## [~](https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/lexicon/english/r/rave_culture_v1_23112025.md) 'GoPsi'; 'Goψ'; 'Go\\|/'; 'ᛉgoᛉ'; 'ᛉb9g[☸](https://en.wikipedia.org/w/index.php?title=Sudarshana_Chakra&oldid=1317981720)[\\|/](https://en.wikipedia.org/w/index.php?title=Algiz&oldid=1317636699)108ᛉ'
 
