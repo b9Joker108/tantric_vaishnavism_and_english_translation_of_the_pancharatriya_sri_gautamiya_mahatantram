@@ -1198,6 +1198,11 @@ This is a very important volume as it subsumes a more tham rudimentary literatur
 
 ### HAWLEY, J. ###
 
+* Hawley, John Stratton & Wulff, Donna Marie (eds.) (1986, 1982). 'The Divine Consort: Radha and the Goddesses of India'. (NB: First published in 1982 by Berkeley Religious Studies Series in co-operation with Motilal Banarsidass Publishers Copyright © 1982 by the Graduate Theological Union, Berkeley, California First published by Beacon Press in 1986 by arrangement with the Graduate Theological Union Printed in the United States of America). Boston, Massachusetts, U.S.A.: Beacon Press (published under the auspices of the Unitarian Universalist Association of Congregations in North America). ISBN 080701303X.
+
+**Purport:**<br>
+...
+
 * Hawley, John Stratton (ed.) (2002). 'Journal of Vaishnava Studies', Vol. 11, No. 1, September, 2002. Hampton, Virginia, U.S.A.: Deepak Heritage Books. Source: https://sites.rutgers.edu/edwin-bryant/wp-content/uploads/sites/169/2023/09/vaishnava_dpbp.pdf (accessed: Tuesday, September 09, 2025)
 
 **Purport:**<br>
