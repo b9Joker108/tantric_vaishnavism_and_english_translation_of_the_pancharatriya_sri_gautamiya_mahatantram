@@ -267,9 +267,9 @@ Citations:
 
 ---
 
-Do we have clarity on which personage Bharata is in context?**
+**Do we have clarity on which personage Bharata is in context?**
 
-**Yes: the *Brāhmaṇa* context is quite clear that this is not a generic “Bharata people” but a specific royal figure, **Bharata Dauhṣanti**. [1][2]
+Yes: the *Brāhmaṇa* context is quite clear that this is not a generic “Bharata people” but a specific royal figure, **Bharata Dauhṣanti**. [1][2]
 
 ## Aitareya Brāhmaṇa context
 
