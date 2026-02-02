@@ -214,3 +214,52 @@ No, the patronymic form "Sātvata" (single "t") is the historically accurate ren
 
 In conclusion, historical evidence overwhelmingly supports "Sātvata" as the original patronymic, evolving seamlessly from Vedic "sātvant" to classical usage without doubling. "Sattvata" is a modern variant, not reflective of ancient texts.
 
+Please ground "Satvant" in specific manuscripts and verses in Vedic Sanskritam?
+
+“Satvant” is attested in Vedic Sanskrit as an ethnonym (name of a people), not as a common adjective like *satvan* “strong, living.” The key occurrences are in the *Brāhmaṇa* layer, especially Aitareya and Śatapatha. [1][2][3]
+
+## Lexical profile
+
+- The form is **satvant** (sometimes analyzed as *satv-ant* or as a frozen tribal name), distinct from **satvan** “living, powerful, warrior.” [1]
+- Vedic lexical tradition glosses **Satvant** as “the name of a people who are stated in the *Aitareya Brāhmaṇa* to belong to the south; in the *Śatapatha Brāhmaṇa* they are mentioned in connection with a defeat by Bharata.” [3]
+
+## Aitareya Brāhmaṇa
+
+- **Textual layer:** Prose *Brāhmaṇa* of the Ṛgvedic tradition, belonging to the “Saṃhitā prose / Brāhmaṇa prose” stratum of Vedic Sanskrit. [2]
+- **Content:** In a geographical-ethnographic list of peoples, the **Satvants / Satvants** are named as a **southern** group (*dakṣiṇā diś*), alongside other tribal entities; the notice is brief and descriptive, marking them as a distinct people rather than giving a semantic gloss (“truthful,” etc.). [3][2]
+
+(Without a reliable open copy of the *Aitareya Brāhmaṇa* text online here, I can only report this in paraphrase; your critical print edition will give the exact adhyāya and khaṇḍa.) [3]
+
+## Śatapatha Brāhmaṇa
+
+- **Textual layer:** Yajurvedic *Brāhmaṇa* prose, likewise late Vedic but still pre-Classical Sanskrit. [2]
+- **Content:** The **Satvants / Satvants** are again cited as a **tribal polity** in a narrative where Bharata defeats various peoples; the lexicographical note that “in the Śatapatha Brāhmaṇa the defeat by Bharata of the Satvants is mentioned” is summarizing such a passage. [3][2]
+
+This again confirms that **Satvant** is functioning as a proper ethnonym, grounded in ritual-historical narrative, not as an abstract theological adjective. [3]
+
+## Distinguishing Satvant from Satvan and later forms
+
+- **Vedic adjective *satvan*:** In the Saṃhitā layer (*Ṛgveda*, *Atharvaveda*, *Vājasaneyī Saṃhitā*), *satvan* (from *sat*) is glossed as “living, strong, powerful,” and as a common noun “warrior; followers, vassals” in the plural. [1]
+- **Brāhmaṇa ethnonym *Satvant*:** The tribal name in Aitareya and Śatapatha is treated as a specific people; the standard dictionaries do not derive it semantically (e.g. “those possessing truth”), but simply record it as a proper name. [3]
+- **Much later on:** Forms like *Sātvant* in Purāṇic Sanskrit (e.g. a Yādava) and modern Sikh/Punjabi “Satvant” (“true, faithful”) are post-Vedic developments and should not be projected backward into the Vedic occurrences. [4][5][6]
+
+## Minimal grounding summary
+
+Within **Vedic Sanskrit**, “Satvant” is securely grounded as:  
+
+- A named **people of the south** in the *Aitareya Brāhmaṇa* (Ṛgvedic tradition). [3][2]
+- A people **defeated by Bharata** in the *Śatapatha Brāhmaṇa* (Yajurvedic tradition). [3][2]
+
+For precise pāṭha (Devanāgarī and accented Śāradā/IAST) you will need to consult a critical edition or electronic corpus of Aitareya and Śatapatha; the online lexical summary fixes the manuscripts and verses only at the level of work-identification, not exact adhyāya/kaṇḍikā. [3][7]
+
+Citations:
+[1] Satvan: 4 definitions https://www.wisdomlib.org/definition/satvan
+[2] Vedic Sanskrit https://en.wikipedia.org/wiki/Vedic_Sanskrit
+[3] Sanskritdictionary.com: Definition of satvant https://sanskritdictionary.com/satvant/3436/6
+[4] Satvant, Sātvant: 2 definitions https://www.wisdomlib.org/definition/satvant
+[5] Satvant Name Meaning, Origin, Rashi, Numerology and more https://houseofzelena.com/blogs/baby-name/satvant
+[6] Satnam - Wikipedia https://en.wikipedia.org/wiki/Satnam
+[7] Rigveda https://vedicheritage.gov.in/en/samhitas/rigveda/
+[8] Rigveda Mantras https://www.mynachiketa.com/post/rigveda-mantras
+[9] Ṛgveda (Rigveda) - Maṇḍala 1 First Aṣṭaka Hymns 1-6 https://www.sanskrit-trikashaivism.com/en/rigveda-mandala-1-first-astaka-hymns-1-6/647
+[10] Overview of Vedic Sanskrit Language | PDF https://www.scribd.com/document/524077077/Vedic-Sanskrit
