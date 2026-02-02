@@ -263,3 +263,67 @@ Citations:
 [8] Rigveda Mantras https://www.mynachiketa.com/post/rigveda-mantras
 [9] Ṛgveda (Rigveda) - Maṇḍala 1 First Aṣṭaka Hymns 1-6 https://www.sanskrit-trikashaivism.com/en/rigveda-mandala-1-first-astaka-hymns-1-6/647
 [10] Overview of Vedic Sanskrit Language | PDF https://www.scribd.com/document/524077077/Vedic-Sanskrit
+
+
+---
+
+Do we have clarity on which personage Bharata is in context?**
+
+**Yes: the *Brāhmaṇa* context is quite clear that this is not a generic “Bharata people” but a specific royal figure, **Bharata Dauhṣanti**. [1][2]
+
+## Aitareya Brāhmaṇa context
+
+Aitareya Brāhmaṇa 8.21 describes a sequence of royal *abhiṣeka* traditions (“great anointing of Indra”) and explicitly names **Bharata Dauhṣanti** as one of the paradigmatic kings. [1]
+There he is presented as a historical-kṣatriya personage who “went around the earth completely, conquering on every side, and offered the horse in sacrifice,” clearly distinguishing him as an individual rather than an eponymous ancestor. [1]
+
+## Śatapatha Brāhmaṇa and Satvants
+
+Later historical syntheses drawing on Śatapatha Brāhmaṇa identify this same **Bharata Dauhṣanti** as the king who “defeated the king of the Satvants and won victories on the Ganges and Jumna.” [2]
+In other words, when the Śatapatha tradition remembers a **Bharata** defeating the Satvants, standard scholarly reading takes this Bharata to be **Bharata Dauhṣanti**, the royal descendant of Duḥṣanta and Śakuntalā, not an anonymous tribal Bharata or the mythic Bharata of later Purāṇic cosmology. [2][3]
+
+## Relation to the Bharata tribe
+
+Philological and historical work on the **Bharatas** (e.g. Witzel on the evolution from Bharata chiefdom to Kuru realm) treats Bharata Dauhṣanti as a later, semi-historical scion of the wider Bharata lineage. [3][2]
+But in the specific Satvant passages, the referent is **this** king—Bharata Dauhṣanti—situated in a chain of royal exemplars and horse-sacrificers, not an undifferentiated ethnonym. [1][2]
+
+Citations:
+[1] Aitareya Brahmana https://en.wikiquote.org/wiki/Aitareya_Brahmana
+[2] the history of ancient india https://www.cristoraul.org/ENGLISH/readinghall/THIRDMILLENNIUMLIBRARY/ANCIENT-INDIA/5_history-of-India_THE-PERIOD-OF-THE-LATER-SAMHITAS_BRAMAHNAS-THE-UNPANISHADS.html
+[3] Early Sanskritization. Origins and Development of the Kuru ... http://michaelwitzel.org/wp-content/uploads/2014/06/ejvs0104article.pdf
+[4] Sanskrit Dictionary https://www.sanskritdictionary.com/?q=sat&iencoding=&lang=en
+[5] Sarvadamana also known as Bharata was the son of which ... https://www.facebook.com/groups/134370374659651/posts/185258766237478/
+[6] The Satapatha Brahmana https://mahavidya.ca/2015/03/04/the-satapatha-brahmana/
+[7] Shatapatha Brahmana https://en.dharmapedia.net/wiki/Shatapatha_Brahmana
+[8] Dasarajna: Battle of the Ten Kings from Rig Veda | Sanskriti https://www.sanskritimagazine.com/dasarajna-battle-ten-kings-rig-veda/
+[9] A few legends of Satapathabrahmana: Socio-cultural ... https://www.anantaajournal.com/archives/2019/vol5issue2/PartA/10-5-16-653.pdf
+[10] Shatapatha Brahmana https://en.wikipedia.org/wiki/Shatapatha_Brahmana
+
+
+Is there a Wikipedia page on them?
+
+There is no dedicated Wikipedia page for **Bharata Dauhṣanti** himself; he appears only indirectly under more general entries. [3][4]
+
+## What does exist on Wikipedia
+
+- The **legendary emperor Bharata**, son of Duṣyanta and Śakuntalā, has an article: “Bharata (Mahabharata).” [3]
+- The **Bharatas (Vedic tribe)** also have an article summarizing them as an early Vedic clan on the Sarasvatī and in the northwest. [4]
+- The **king Duṣyanta** has his own article, which notes that he is father of Bharata, but does not detail the *Brāhmaṇa*-style epithet “Dauhṣanti” or the Satvant episode. [1][3]
+
+So for the *Brāhmaṇa* personage you are tracking, you have to triangulate from:  
+- “Bharata (Mahabharata)” for the broader legendary profile. [3]
+- “Bharatas (Vedic tribe)” and secondary scholarship for the Vedic-historical layer. [4]
+
+None of these, at present, isolate **Bharata Dauhṣanti** as a separate prosopographical entry.
+
+Citations:
+[1] Dushyanta https://en.wikipedia.org/wiki/Dushyanta
+[2] Bharata (Ramayana) https://en.wikipedia.org/wiki/Bharata_(Ramayana)
+[3] Bharata (Mahabharata) https://en.wikipedia.org/wiki/Bharata_(Mahabharata)
+[4] Bharatas (Vedic tribe) https://en.wikipedia.org/wiki/Bharatas_(Vedic_tribe)
+[5] Bharatayuddha https://en.wikipedia.org/wiki/Bharatayuddha
+[6] Mahabharata https://en.wikipedia.org/wiki/Mahabharata
+[7] The Bharata clan/ tribe got their name from Agni, whose ... https://www.facebook.com/LostTemple7/posts/-how-did-the-bharata-clan-of-rigveda-get-that-specific-name-bharata-the-bharata-/315024584516323/
+[8] The word Bharata as given in the Rig Veda | ... https://www.facebook.com/LostTemple7/posts/-bharata-vs-india-the-word-bharata-as-given-in-the-rig-veda-the-word-bharata-can/314416874577094/
+[9] India History https://www.facebook.com/IndiaHistory/posts/bharat-m%C4%81ta-and-bh%C4%81rat-rashtra-the-name-bh%C4%81rat-has-many-layers-to-it-in-the-19th/1181327700679635/
+[10] Battle of the Ten Kings https://en.wikipedia.org/wiki/Battle_of_the_Ten_Kings
+
