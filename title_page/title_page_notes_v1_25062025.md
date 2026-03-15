@@ -86,6 +86,45 @@ If you want, I can also give you:
 - the classical vs. modern pronunciation differences  
 - or the semantic/ritual usage of gug‑rtags in manuscripts.
 
+Yes — “Guktak Yon” is very close, but there are two small refinements that make it match the actual Tibetan phonetics more precisely.
+
+---
+
+🗣️ The closest natural rendering in English letters
+Guk‑tak Yön
+
+This captures:
+
+- gug → guk (final ‑g pronounced as unreleased ‑k)
+- rtags → tak (r‑ silent, ‑gs → ‑k)
+- gyon → yön (g‑ silent, vowel is front‑rounded ö, final ‑n lightly nasal)
+
+So the smoothest, most accurate English-style rendering is:
+
+Guk‑tak Yön
+
+---
+
+🔍 Why not “Guktak Yon”?
+Two reasons:
+
+- “Yon” suggests an English yo as in “yonder,” but Tibetan yön uses the rounded vowel ö, like German schön or French peu.
+- Writing “Yön” signals that rounded vowel clearly.
+
+If you prefer a version without diacritics, the next‑best approximation is:
+
+Guk‑tak Yon (rounded vowel)
+…but it loses the precision of ö.
+
+---
+
+🎧 IPA (for exactness)
+/kuk̚ tak̚ jø̃/
+
+---
+
+If you want, I can also give you the THL Lhasa phonetic spelling or a literal syllable-by-syllable teaching pronunciation to internalize the sound.
+
 ༻	U+0F3B, &#3899; Tibetan Mark gug rtags gyas a closing punctuation mark (of a pair.
 
 The characters you’ve quoted are a standard Tibetan paired bracket set in Unicode:
