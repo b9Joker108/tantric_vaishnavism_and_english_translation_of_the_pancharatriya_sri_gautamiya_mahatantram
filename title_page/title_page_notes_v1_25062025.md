@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/tantric_vaishnavism_and_english_translation_
 
 <div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
 
-The Tibetan Uchen script punctuation marks [༺](https://en.wiktionary.org/w/index.php?title=%E0%BC%BA&oldid=84223064) > and < [༻](https://en.wiktionary.org/w/index.php?title=%E0%BC%BB&oldid=82786125) >.
+The Tibetan Uchen script punctuation marks < [༺](https://en.wiktionary.org/w/index.php?title=%E0%BC%BA&oldid=84223064) > and < [༻](https://en.wiktionary.org/w/index.php?title=%E0%BC%BB&oldid=82786125) >.
 
 ༺ left bracket (, used with the right bracket ༻. 	U+0F3A, &#3898;
 Tibetan Mark gug rtags gyon. 
