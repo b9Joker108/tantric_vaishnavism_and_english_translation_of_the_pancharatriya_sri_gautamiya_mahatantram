@@ -17,6 +17,75 @@ If you want it in Wylie → Uchen for other terms, or if you want the semantic g
 ༺ left bracket (, used with the right bracket ༻. 	U+0F3A, &#3898;
 Tibetan Mark gug rtags gyon. 
 
+The pronounced orthography of  
+gug rtags gyon (གུག་རྟགས་གཡོན།) means:  
+“How this is actually pronounced when read aloud in Tibetan, not the Wylie spelling.”
+
+Below is the full, layered rendering.
+
+---
+
+🕊️ 1. The actual spoken form (pronounced orthography)
+
+Tibetan spelling preserves many silent consonants. The pronounced form of:
+
+གུག་རྟགས་གཡོན།  
+(gug rtags gyon)
+
+is:
+
+/guk tak yö(n)/
+
+Where:
+
+- gug → guk  
+  Final -g is pronounced as a unreleased -k.
+
+- rtags → tak  
+  - The r‑ prefix is silent.  
+  - The -gs ending is pronounced -k.  
+  → So the whole syllable is tak.
+
+- gyon → yö(n)  
+  - The g‑ is a silent prefix.  
+  - The vowel is yö (like German schön without the sh).  
+  - Final -n is lightly nasal, often barely audible.
+
+So the whole phrase is:
+
+guk tak yö(n)
+(very light final nasal)
+
+---
+
+📚 2. IPA (International Phonetic Alphabet)
+
+For precision:
+
+/kuk̚ tak̚ jø̃/
+
+- k̚ = unreleased k stop  
+- ø = front rounded vowel  
+- ̃ = nasalization
+
+---
+
+🧭 3. Meaning and function
+
+- gug‑rtags = “hook sign” (a grammatical/orthographic term)  
+- gyon = “left”  
+→ “left hook mark”
+
+Used in Tibetan paleography and grammar.
+
+---
+
+If you want, I can also give you:
+
+- the Lhasa dialect phonetic spelling (THL system)  
+- the classical vs. modern pronunciation differences  
+- or the semantic/ritual usage of gug‑rtags in manuscripts.
+
 ༻	U+0F3B, &#3899; Tibetan Mark gug rtags gyas a closing punctuation mark (of a pair.
 
 The characters you’ve quoted are a standard Tibetan paired bracket set in Unicode:
